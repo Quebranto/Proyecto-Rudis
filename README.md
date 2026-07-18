@@ -4,6 +4,8 @@ Este repositorio contiene el marco conceptual y los fundamentos de diseño para 
 
 ## Contenido Actual
 * **`Proyecto-Rudis.md`**: Compilación íntegra de la Doctrina (Volúmenes I-III) en texto plano. Una arquitectura agnóstica orientada a la persistencia del conocimiento fuera de plataformas corporativas.
+* **Respaldo Inmutable (IPFS CID):** `bafybeicbayx7uxwluatb5hxjndzmnm6cwh7dgukf74d4y34z332nq2a4om`
+
 
 ## Próxima Fase: Infraestructura Ari
 El objetivo técnico inmediato tras la consolidación documental es la implementación de **Ari**: un agente autónomo de cero dependencias diseñado bajo los siguientes vectores de desarrollo:
