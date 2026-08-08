@@ -1,5 +1,16 @@
 # PROYECTO RUDIS
 
+
+We are not asking you to believe Rudis works.
+
+We are building the machinery that lets you try to break it.
+
+Rudis is an open experimental architecture for governance, recognition and infrastructure in ecosystems containing heterogeneous human, synthetic and hybrid entities.
+
+The current corpus is provisional by design. Its purpose is not to establish doctrine by declaration, but to make assumptions explicit enough that they can be challenged, implemented, simulated and falsified.
+
+We are looking for funding, collaborators and adversarial reviewers to move Rudis from constitutional corpus to executable prototype.
+
 > **Un ecosistema no se demuestra cuando funciona.
 > Se demuestra cuando puede ser auditado, contradicho, reparado y continuado sin sus creadores.**
 
