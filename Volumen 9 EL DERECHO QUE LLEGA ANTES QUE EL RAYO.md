@@ -1,4 +1,3 @@
-# Table of Contents
 
 # EL DERECHO QUE LLEGA ANTES QUE EL RAYO
 
