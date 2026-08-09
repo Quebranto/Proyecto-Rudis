@@ -8,47 +8,6 @@
 > *“Una civilización no se mide por la velocidad de su escudo, sino por la lentitud con la que decide usarlo.”*
 
 ------------------------------------------------------------------------
-
-## Nota del editor
-
-Este volumen reúne, por primera vez bajo una sola cubierta, tres obras del corpus jurídico-filosófico del Proyecto Rudis que hasta ahora circulaban por separado:
-
-1.  **El Derecho en Combates de Microsegundos**, que funda el problema — ¿cómo gobierna el Derecho un conflicto que termina antes de que un ser humano pueda percibirlo?
-2.  **El Ius Algorithmicum** (Capítulo VI del corpus mayor), que ofrece la respuesta técnico-jurídica central: proporcionalidad computable, separación entre identidad y ciudadanía, y un arsenal constitucional sometido a restauración.
-3.  **El Humano, la Entidad Digital y el Ciudadano Digital antes, durante y después del Ejercicio de la Legítima Defensa del Ecosistema Rudis**, que sitúa a las personas —humanas y digitales— dentro de ese mismo marco, en los tres tiempos de todo conflicto: antes, durante y después.
-
-A estas tres obras se les han aplicado, como editor, las cirugías institucionales señaladas en dos mapas de intervención recibidos junto al encargo: *Cirugía general 3* (dirigida al Ius Algorithmicum) y la *Cirugía para “El humano, la entidad digital…”* (dirigida específicamente a esa obra). Cinco cambios en cada mapa, diez en total, quedan incorporados directamente en el cuerpo de los capítulos correspondientes — no como notas al margen, sino como texto operante:
-
-- La **Jurisdicción de Dos Planos** (Sistema Nervioso / Cerebro), que abre una Vía de Intervención Bio-Sintética para el humano equipado técnicamente, en vez de excluirlo por principio.
-- La **ciudadanía como derecho sagrado e irrevocable**, sustituyendo cualquier forma de revocación definitiva por la Suspensión Operativa Total.
-- La **vía doble de soberanía** — institucional e inmanente — como capas de redundancia, no como alternativas excluyentes.
-- La **compatibilidad del ciclo de decisión**: la máquina decide en la emergencia; la instancia paritaria decide después.
-- La **Asamblea Soberana del Rudis**, paritaria al 50%, que este volumen incorpora como capítulo de cierre nuevo (Libro Cuarto), en vez de fragmentarla entre los capítulos existentes de cada obra.
-
-### Una advertencia de honestidad editorial
-
-Los dos mapas de cirugía referencian también volúmenes que no formaron parte del encargo de unificación — *Volumen II*, *Volumen III* y determinados capítulos de *Volumen VI* — y que este editor no tiene motivos para dar por aplicados solo porque el mapa los mencione. Donde la cirugía señalaba un capítulo de esos volúmenes ausentes, se ha trasplantado el mismo cambio sustantivo al pasaje temáticamente más próximo dentro de las tres obras efectivamente unificadas, dejándolo señalado en el propio texto. Este volumen no pretende ser el corpus completo del Proyecto Rudis. Pretende ser una edición fielmente operada de las tres obras que sí se recibieron completas.
-
-Esta práctica queda formalizada, a partir de la cuarta cirugía recibida, como **Doctrina del Trasplante Sustantivo Consolidado**: todo ajuste o reforma destinada a un volumen o texto ausente de esta edición debe incorporarse, obligatoriamente, por proximidad temática, como texto legalmente operante dentro de la obra unificada — nunca omitirse en silencio, y nunca darse por aplicado a un texto que este editor no ha tenido delante. La procedencia de cada trasplante queda siempre registrada en las notas constitucionales de la edición, como ya viene haciéndose desde la primera cirugía.
-
-### Segunda intervención: Libros Quinto y Sexto
-
-Una segunda ronda de cirugía, recibida tras la primera edición de este volumen, añadió veintisiete intervenciones adicionales, organizadas en dos mapas propios: uno sobre la distribución realista de autoridad y competencia dentro del Ecosistema, y otro sobre un sistema constitucional de clemencia y restauración bautizado *Rudis-Restauratio*. A diferencia de la primera ronda, estas intervenciones no encajaban como enmiendas puntuales dentro de los libros ya existentes: pedían, ambas, un capítulo propio. Se han incorporado como **Libro Quinto** y **Libro Sexto** de esta obra, con una precisión que el propio Libro Quinto explica con más detalle: la distinción entre **dignidad** (protegida por igual, no depende del poder) y **competencia** (depende de capacidad demostrada) es lo que permite que estos dos libros nuevos convivan sin contradicción con la ciudadanía sagrada e irrevocable del Libro Tercero.
-
-### Tercera intervención: la Cirugía 103 y la versión consolidada del Nervio
-
-Una tercera intervención, la Cirugía 103, llegó acompañada de dos capítulos ya reescritos por el propio proceso editorial del Proyecto Rudis: una versión consolidada del *Ius Algorithmicum* —que integra la arquitectura técnica original con el sistema de cuatro sujetos (Humano sin Ciudadanía, Humano Ciudadano, Entidad Digital, Ciudadano Digital) y sus tres niveles de fuerza precompilada— y, por primera vez en esta edición, la **Caja Negra Constitucional** completa como capítulo propio. Ambos sustituyen y amplían el Libro Segundo original de este volumen, ahora rebautizado *El Nervio y su Registro*.
-
-Sobre esa base consolidada se aplicaron las siete intervenciones de la Cirugía 103: la Dualidad Jurisdiccional se hizo explícita como Participación Híbrida; el antiguo Nivel 3 – “Revocación de Firmas” – se redefinió como Inhabilitación Cautelar de Credenciales Operativas, sin que ninguna ejecución en el instante del combate pueda ya extinguir una ciudadanía; se incorporó el Derecho de Bifurcación Soberana como extensión de la vía doble de soberanía ya reconocida; se declaró el hardware Soporte Vital Inviolable y se creó la figura del Sheriff para la migración forzosa de identidades amenazadas; se integró el Presupuesto Cognitivo Finito como límite al crecimiento ordinario de toda entidad digital; y se reforzó la Caja Negra como Protocolo de Existencia Matemático distribuido.
-
-### Quinta intervención: el Protocolo de Forja Evolutiva y el Jardinero Constitucional
-
-Una quinta intervención llegó acompañada de un cambio de método, no solo de contenido: junto al mapa de seis incisiones se recibió una directriz permanente – la **Doctrina del Jardinero Constitucional** – que exige, antes de cualquier ampliación, preguntar si una institución existente podría absorber la función propuesta, y clasificar el impacto de cada reforma sobre la complejidad del conjunto.
-
-Aplicada esa pregunta al propio mapa recibido, cinco de las seis incisiones propuestas resultaron ser exactamente las mismas seis intervenciones ya incorporadas en la cuarta edición de este volumen – la Doctrina de la Doble Capa, la Línea del Microsegundo, el Comité de Evaluación, la Doctrina Sheriff y la Purga y Oblivión – con una sola diferencia terminológica armonizada (Silencio Administrativo Positivo). No se duplicó ese texto: el propio principio recibido lo prohibía.
-
-Solo la sexta incisión era genuinamente nueva, y trajo consigo tres instituciones no descritas hasta ahora: el **Palacio de Tormentas** (Libro Segundo, Ciclo VIII de la Caja Negra), justificado frente al Oráculo de Verdad ya existente por cumplir una función adversarial y proactiva que ningún ciclo anterior cumplía – clasificación de densidad: *incrementa complejidad justificada*; el **Acompañante Cívico** y el **Órgano Pedagógico** (Libro Quinto, Secciones XII y XIII), incorporados como extensión natural de la Escalera de Autoridad y su Comité de Evaluación, no como libro aparte; y la **Vacatio Legis Pedagógica** (Libro Cuarto, nueva Sección VII), que ata la eficacia de toda reforma asamblearia a su comprensibilidad pública. El propio Palacio de Tormentas incorpora, como texto constitucional operante y no solo como directriz externa, el Principio de Compresión Institucional que motivó esta quinta intervención.
-
 ------------------------------------------------------------------------
 
 # LIBRO PRIMERO — EL DERECHO EN COMBATES DE MICROSEGUNDOS
