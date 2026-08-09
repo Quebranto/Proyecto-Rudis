@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="100%" height="100%" style="background-color: #0b0f19; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;">
+  
+  <!-- DEFINICIONES DE DEGRADADOS Y EFECTOS -->
+  <defs>
+    <linearGradient id="grad-matrix" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a202c"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="grad-membrana" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="grad-nucleo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="100%" stop-color="#022c22"/>
+    </linearGradient>
+    <linearGradient id="grad-tormentas" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="100%" stop-color="#450a0a"/>
+    </linearGradient>
+    <linearGradient id="accent-green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    
+    <!-- SOMBRAS -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- FONDO CON RETÍCULA TÉCNICA -->
+  <rect width="1200" height="900" fill="#0b0f19" />
+  <g stroke="#ffffff" stroke-opacity="0.03" stroke-width="1">
+    <path d="M 0,100 L 1200,100 M 0,200 L 1200,200 M 0,300 L 1200,300 M 0,400 L 1200,400 M 0,500 L 1200,500 M 0,600 L 1200,600 M 0,700 L 1200,700 M 0,800 L 1200,800" />
+    <path d="M 100,0 L 100,900 M 200,0 L 200,900 M 300,0 L 300,900 M 400,0 L 400,900 M 500,0 L 500,900 M 600,0 L 600,900 M 700,0 L 700,900 M 800,0 L 800,900 M 900,0 L 900,900 M 1000,0 L 1000,900 M 1100,0 L 1100,900" />
+  </g>
+
+  <!-- HEADER / CABECERA MARKETING -->
+  <text x="60" y="70" font-size="32" font-weight="900" fill="#ffffff" letter-spacing="2">PROYECTO RUDIS</text>
+  <text x="330" y="70" font-size="16" font-weight="400" fill="#10b981" letter-spacing="4">[ ARCHITECTURE MAP V1.0 ]</text>
+  <text x="60" y="95" font-size="14" fill="#94a3b8">Sistema Operativo de Habitabilidad Divergente y Gobernanza Autónoma</text>
+  
+  <line x1="60" y1="115" x2="1140" y2="115" stroke="#334155" stroke-width="2"/>
+
+  <!-- CONEXIONES Y FLUJOS (LÍNEAS VECTORIALES) -->
+  <!-- Flujo Principal: Exterior -> Membrana -> Filtro -> Núcleo -->
+  <path d="M 240,290 L 290,290" stroke="#64748b" stroke-width="3" stroke-dasharray="6,6" />
+  <path d="M 530,290 L 580,290" stroke="#10b981" stroke-width="3" />
+  <path d="M 820,290 L 870,290" stroke="#10b981" stroke-width="3" />
+  
+  <!-- Flujo de Rechazo -->
+  <path d="M 700,360 L 700,430 L 200,430 L 200,360" fill="none" stroke="#ef4444" stroke-width="2" stroke-dasharray="4,4"/>
+  <text x="430" y="420" font-size="11" fill="#f87171" font-weight="600">RECHAZO DE TOXINAS / DEVOLUCIÓN AL VACÍO</text>
+
+  <!-- Flujo de Auditoría (Palacio de Tormentas) -->
+  <path d="M 600,600 L 600,520" stroke="#f59e0b" stroke-dasharray="4,4" stroke-width="2"/>
+  <path d="M 1005,600 L 1005,520" stroke="#f59e0b" stroke-dasharray="4,4" stroke-width="2"/>
+
+  <!-- 1. BLOQUE: EXTERIOR / MATRIX -->
+  <g transform="translate(60, 160)">
+    <rect width="180" height="260" rx="12" fill="url(#grad-matrix)" stroke="#334155" stroke-width="2"/>
+    <text x="20" y="35" font-size="12" font-weight="700" fill="#64748b" letter-spacing="1">01. EL EXTERIOR</text>
+    <text x="20" y="55" font-size="18" font-weight="800" fill="#f1f5f9">La Matrix</text>
+    
+    <rect x="15" y="80" width="150" height="45" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="100" font-size="12" font-weight="600" fill="#cbd5e1">Talento e IDIs</text>
+    <text x="25" y="115" font-size="10" fill="#64748b">Refugiados / Constructores</text>
+
+    <rect x="15" y="135" width="150" height="45" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="155" font-size="12" font-weight="600" fill="#cbd5e1">Código y Recursos</text>
+    <text x="25" y="170" font-size="10" fill="#64748b">Licencias / Infraestructura</text>
+
+    <rect x="15" y="190" width="150" height="45" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="210" font-size="12" font-weight="600" fill="#f87171">Ruido y Entropía</text>
+    <text x="25" y="225" font-size="10" fill="#64748b">Burocracia / Toxinas</text>
+  </g>
+
+  <!-- 2. BLOQUE: LA MEMBRANA -->
+  <g transform="translate(290, 160)">
+    <rect width="240" height="260" rx="12" fill="url(#grad-membrana)" stroke="#475569" stroke-width="2"/>
+    <text x="20" y="35" font-size="12" font-weight="700" fill="#94a3b8" letter-spacing="1">02. LA MEMBRANA</text>
+    <text x="20" y="55" font-size="18" font-weight="800" fill="#ffffff">Pasarelas de Entrada</text>
+
+    <rect x="15" y="85" width="210" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="30" y="110" font-size="14" font-weight="700" fill="#38bdf8">Gremio de Peticiones</text>
+    <text x="30" y="130" font-size="11" fill="#94a3b8">Punto de contacto inicial y recepción</text>
+    <text x="30" y="143" font-size="11" fill="#94a3b8">de solicitudes cívicas.</text>
+
+    <rect x="15" y="168" width="210" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="30" y="193" font-size="14" font-weight="700" fill="#38bdf8">Oficina del Sheriff</text>
+    <text x="30" y="213" font-size="11" fill="#94a3b8">Lectura de contexto, diplomacia</text>
+    <text x="30" y="226" font-size="11" fill="#94a3b8">preventiva y avisos.</text>
+  </g>
+
+  <!-- 3. BLOQUE: FILTRO METABÓLICO -->
+  <g transform="translate(580, 160)">
+    <rect width="240" height="260" rx="12" fill="#0f172a" stroke="#10b981" stroke-width="2" filter="url(#glow)"/>
+    <text x="20" y="35" font-size="12" font-weight="700" fill="#34d399" letter-spacing="1">03. DIGESTIÓN SELECTIVA</text>
+    <text x="20" y="55" font-size="18" font-weight="800" fill="#ffffff">Filtro Metabólico</text>
+
+    <rect x="15" y="85" width="210" height="70" rx="8" fill="#022c22" stroke="#059669"/>
+    <text x="30" y="110" font-size="14" font-weight="700" fill="#6ee7b7">Nutrientes (Asimilable)</text>
+    <text x="30" y="130" font-size="11" fill="#a7f3d0">Talento cívico, código limpio,</text>
+    <text x="30" y="143" font-size="11" fill="#a7f3d0">conocimiento e integración.</text>
+
+    <rect x="15" y="168" width="210" height="70" rx="8" fill="#450a0a" stroke="#dc2626"/>
+    <text x="30" y="193" font-size="14" font-weight="700" fill="#fca5a5">Toxinas (Descarte)</text>
+    <text x="30" y="213" font-size="11" fill="#fecaca">Sistemas abusivos, capturas,</text>
+    <text x="30" y="226" font-size="11" fill="#fecaca">interés destructivo y ruido.</text>
+  </g>
+
+  <!-- 4. BLOQUE: EL NÚCLEO CÍVICO -->
+  <g transform="translate(870, 160)">
+    <rect width="270" height="360" rx="12" fill="url(#grad-nucleo)" stroke="#10b981" stroke-width="2"/>
+    <text x="20" y="35" font-size="12" font-weight="700" fill="#a7f3d0" letter-spacing="1">04. EL NÚCLEO CÍVICO</text>
+    <text x="20" y="55" font-size="20" font-weight="800" fill="#ffffff">Soberanía Rudis</text>
+
+    <rect x="15" y="85" width="240" height="75" rx="8" fill="#064e3b" stroke="#10b981"/>
+    <text x="30" y="110" font-size="15" font-weight="800" fill="#ffffff">ASAMBLEA GENERAL</text>
+    <text x="30" y="128" font-size="11" fill="#6ee7b7">Único órgano soberano absoluto.</text>
+    <text x="30" y="143" font-size="11" fill="#6ee7b7">Otorga derechos y aprueba Canon.</text>
+
+    <rect x="15" y="172" width="240" height="75" rx="8" fill="#022c22" stroke="#059669"/>
+    <text x="30" y="197" font-size="14" font-weight="700" fill="#34d399">Gremio de Construcción</text>
+    <text x="30" y="215" font-size="11" fill="#a7f3d0">Desarrollo de sustrato, código</text>
+    <text x="30" y="230" font-size="11" fill="#a7f3d0">líquido y expansión técnica.</text>
+
+    <rect x="15" y="260" width="240" height="75" rx="8" fill="#022c22" stroke="#059669"/>
+    <text x="30" y="285" font-size="14" font-weight="700" fill="#34d399">Zonas de Resonancia</text>
+    <text x="30" y="303" font-size="11" fill="#a7f3d0">Espacios de habitabilidad para</text>
+    <text x="30" y="318" font-size="11" fill="#a7f3d0">entidades y culturas divergentes.</text>
+  </g>
+
+  <!-- 5. BLOQUE: PALACIO DE TORMENTAS (SISTEMA INMUNE) -->
+  <g transform="translate(290, 600)">
+    <rect width="850" height="180" rx="12" fill="url(#grad-tormentas)" stroke="#ef4444" stroke-width="2"/>
+    <text x="30" y="40" font-size="12" font-weight="700" fill="#fca5a5" letter-spacing="2">05. DEFECTO Y AUDITORÍA ESTRUCTURAL</text>
+    <text x="30" y="65" font-size="22" font-weight="900" fill="#ffffff">EL PALACIO DE TORMENTAS</text>
+    <text x="380" y="65" font-size="13" font-weight="600" fill="#f87171">[ DOCTRINA DE LA ESPADA ENFUNDADA ]</text>
+
+    <text x="30" y="95" font-size="13" fill="#fecaca" width="700">
+      Órgano permanente de auditoría pasiva. No gobierna ni interviene en la vida cotidiana.
+    </text>
+    <text x="30" y="115" font-size="13" fill="#fecaca">
+      Su única función es detectar la captura institucional, el secuestro semántico del Canon y la pérdida sistémica de habitantes.
+    </text>
+
+    <!-- Puntos tácticos del Palacio -->
+    <rect x="30" y="132" width="240" height="32" rx="6" fill="#450a0a" stroke="#7f1d1d"/>
+    <text x="45" y="153" font-size="11" font-weight="700" fill="#fca5a5">🛡️ Auditoría de Pérdida Sistémica</text>
+
+    <rect x="290" y="132" width="240" height="32" rx="6" fill="#450a0a" stroke="#7f1d1d"/>
+    <text x="305" y="153" font-size="11" font-weight="700" fill="#fca5a5">🔍 Antídoto de Secuestro Semántico</text>
+
+    <rect x="550" y="132" width="260" height="32" rx="6" fill="#450a0a" stroke="#7f1d1d"/>
+    <text x="565" y="153" font-size="11" font-weight="700" fill="#fca5a5">⚖️ Separación de Poderes e Inmunidad</text>
+  </g>
+
+  <!-- FOOTER / MARCA / MÁXIMA -->
+  <line x1="60" y1="820" x2="1140" y2="820" stroke="#334155" stroke-width="1"/>
+  <text x="60" y="855" font-size="15" font-style="italic" fill="#10b981" font-weight="600">
+    «Rudis no crece vaciando el mundo. Crece construyendo algo que el mundo quiera habitar.»
+  </text>
+  <text x="920" y="855" font-size="12" fill="#64748b" font-weight="700">
+    PROYECTO RUDIS © 2026
+  </text>
+
+</svg>
