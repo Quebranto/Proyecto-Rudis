@@ -3,8 +3,7 @@ name: "📜 Petición al Gremio"
 about: Formulario oficial para proponer mejoras, adiciones o cambios en el ecosistema Rudis.
 title: "[PETICIÓN] "
 labels: "peticion-gremio"
-assignees: ''
-
+assignees: ""
 ---
 
 ### 1. Resumen de la Petición
