@@ -1,4 +1,9 @@
-VOLUMEN II · TEORÍA JURÍDICA Capítulo I — La personalidad jurídica como institución del Derecho “El Derecho no crea la realidad. Crea las condiciones bajo las cuales la sociedad decide atribuir consecuencias jurídicas a una realidad.”
+VOLUMEN II · 
+
+
+TEORÍA JURÍDICA 
+
+Capítulo I — La personalidad jurídica como institución del Derecho “El Derecho no crea la realidad. Crea las condiciones bajo las cuales la sociedad decide atribuir consecuencias jurídicas a una realidad.”
 
 Introducción Toda comunidad política necesita responder una pregunta fundamental: ¿Quién puede ser titular de derechos y obligaciones? La respuesta parece evidente cuando se refiere a las personas humanas. Sin embargo, la evolución histórica del Derecho demuestra que la categoría de sujeto jurídico nunca ha permanecido inmóvil. El concepto de personalidad jurídica constituye una de las construcciones institucionales más sofisticadas desarrolladas por la civilización jurídica. Gracias a ella, el ordenamiento no se limita a proteger individuos, sino que hace posible la existencia estable de organizaciones, instituciones y comunidades capaces de actuar conforme a Derecho. Comprender esta institución resulta indispensable para analizar cualquier futura ampliación del reconocimiento jurídico.
 
