@@ -31,10 +31,9 @@
     <path d="M 100,0 L 100,950 M 200,0 L 200,950 M 300,0 L 300,950 M 400,0 L 400,950 M 500,0 L 500,950 M 600,0 L 600,950 M 700,0 L 700,950 M 800,0 L 800,950 M 900,0 L 900,950 M 1000,0 L 1000,950 M 1100,0 L 1100,950 M 1200,0 L 1200,950 M 1300,0 L 1300,950" />
   </g>
 
-  <!-- HEADER / CABECERA MARKETING -->
-  <text x="50" y="65" font-size="28" font-weight="900" fill="#ffffff" letter-spacing="2">PROYECTO RUDIS</text>
-  <text x="310" y="65" font-size="15" font-weight="700" fill="#10b981" letter-spacing="3">[ ARCHITECTURE MAP V1.0 ]</text>
-  <text x="50" y="90" font-size="13" fill="#94a3b8">Sistema Operativo de Habitabilidad Divergente y Gobernanza Autónoma</text>
+  <!-- HEADER / CABECERA LIMPIA -->
+  <text x="50" y="65" font-size="32" font-weight="900" fill="#ffffff" letter-spacing="2">PROYECTO RUDIS</text>
+  <text x="50" y="92" font-size="13" fill="#94a3b8">Sistema Operativo de Habitabilidad Divergente y Gobernanza Autónoma</text>
   
   <line x1="50" y1="110" x2="1350" y2="110" stroke="#334155" stroke-width="2"/>
 
@@ -150,13 +149,13 @@
     <text x="655" y="160" font-size="11" font-weight="700" fill="#fca5a5">⚖️ Separación de Poderes e Inmunidad</text>
   </g>
 
-  <!-- FOOTER -->
+  <!-- FOOTER REORGANIZADO -->
   <line x1="50" y1="870" x2="1350" y2="870" stroke="#334155" stroke-width="1"/>
   <text x="50" y="905" font-size="14" font-style="italic" fill="#10b981" font-weight="600">
     «Rudis no crece vaciando el mundo. Crece construyendo algo que el mundo quiera habitar.»
   </text>
-  <text x="1150" y="905" font-size="12" fill="#64748b" font-weight="700">
-    PROYECTO RUDIS © 2026
+  <text x="1020" y="905" font-size="12" fill="#64748b" font-weight="700">
+    PROYECTO RUDIS © 2026 | ARCHITECTURE MAP V1.0
   </text>
 
 </svg>
