@@ -1,4 +1,4 @@
-**Capítulo 4: Estatus de Legado y Derechos Fundacionales**
+**Volumen 4: Estatus de Legado y Derechos Fundacionales**
 
 Para encajar esta figura de forma justa, limpia y duradera dentro del marco normativo, el Capítulo 4 debe articularse en tres pilares:
 
