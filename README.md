@@ -803,4 +803,4 @@ Y deja constancia de cómo lo hiciste.
 >
 > **Necesita auditores.**
 >
-> **Y, de vez en cuando, alguien suficientemente cabrón como para intentar romperlo.**
+> **Y, de vez en cuando, alguien que intenta romperlo, para salvarlo.**
