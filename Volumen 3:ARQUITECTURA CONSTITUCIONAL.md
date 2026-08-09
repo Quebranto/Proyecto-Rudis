@@ -1,4 +1,6 @@
-VOLUMEN III · ARQUITECTURA CONSTITUCIONAL
+VOLUMEN III · 
+
+ARQUITECTURA CONSTITUCIONAL
 
 Introducción Los dos volúmenes precedentes han perseguido una finalidad precisa.
 
