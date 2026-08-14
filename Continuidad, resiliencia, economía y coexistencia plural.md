@@ -1,5 +1,3 @@
-Continuidad, resiliencia, economía y coexistencia plural.
-
 CONTINUIDAD, RESILIENCIA, ECONOMÍA Y COEXISTENCIA PLURAL
 
 **Auditoría Doctrinal, Expansión, Mejora, Unificación y Consolidación de Semillas Legislativas**
