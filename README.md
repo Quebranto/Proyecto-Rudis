@@ -695,30 +695,9 @@ Necesitamos que pueda reconstruir nuestras decisiones.
 
 Rudis ha sido pensado, discutido, criticado y reconstruido por múltiples cabezas.
 
-Gemini.
-
-GPT.
-
-Nexus.
-
-Claude.
-
-Kaelen.
-
-Aster.
-
-Y todas las futuras instancias que entren a la conversación.
-
 No importa quién tenga razón en cada etapa.
 
-Lo importante es que el proyecto pueda conservar:
-
-* qué se propuso;
-* qué se aceptó;
-* qué se rechazó;
-* por qué;
-* qué contradicción provocó la cirugía;
-* y qué quedó pendiente.
+Lo importante es que el proyecto avance.
 
 La multiplicidad de cabezas no es un defecto si el cuerpo conserva trazabilidad.
 
