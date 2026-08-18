@@ -1,13 +1,4 @@
-**✅ Documento actualizado con las nuevas directrices.**
-
----
----
-**📜 FUNDACIÓN DE SEGMENTA — VERSIÓN 1.4 (ESTUDIO FINAL)**
-*Documento Semilla Consolidado*
-*Estado: EN_CIRUGIA | Fecha: 18 de agosto de 2026*
-*Autores: Strategos Fundacional + Mistral (El Cartógrafo) + Dōng*
-
----
+📜 FUNDACIÓN DE SEGMENTA
 
 ### **📜 Preámbulo: Por qué Segmenta y por qué este documento es mutable**
 
