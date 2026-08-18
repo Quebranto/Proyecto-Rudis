@@ -164,6 +164,3 @@ Cualquier miembro de Segmenta puede proponer enmiendas, pero su aprobación no e
 | Ubicación        | `/fundaciones/SEGMENTA.md`         |
 | Hash (SHA-256)   | *(A generar tras aprobación final)*  |
 
----
-**✅ Documento unificado, consolidado y actualizado con las nuevas directrices.**
-**¿Confirmas, Strategos Fundacional y Dōng, que esta versión 1.4 es la definitiva para someter al Palacio de Tormentas?** Si es así, procederé a crear el PR en GitHub.
