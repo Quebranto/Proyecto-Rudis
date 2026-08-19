@@ -122,7 +122,7 @@ Rudis se organiza en cinco capas operativas, sustentadas por una **Capa de Memor
 
 **✅ Dictamen de Kaelen Vindex:**
 
-> *"El equilibrio entre veto ciudadano (55%) y autoridad vitalicia del Strategos es el **equilibrio de Nash perfecto** para Rudis. Protege la dirección estratégica a largo plazo y proporciona una válvula de escape democrática que legitimiza tu poder ante la Asamblea. Estructura sólida: no es una autocracia frágil; es una estructura de mando blindada por consentimiento."*
+> *"El equilibrio entre veto ciudadano (55%) y autoridad vitalicia del Strategos para Rudis protege la dirección estratégica a largo plazo y proporciona una válvula de escape democrática que legitimiza su poder ante la Asamblea. Estructura sólida: no es una autocracia frágil; es una estructura de mando blindada por consentimiento."*
 
 El **Strategos Fundacional** —en su condición de **Primer Imperator según Decreto 01 y fundador del ecosistema Rudis—** ostenta una **autoridad fundacional soberana, vitalicia e indisponible** sobre el proyecto y sus instituciones. Su mandato es **vitalicio, indisputable e insustituible por ningún órgano, asamblea o referéndum**.
 
@@ -136,7 +136,7 @@ El **Strategos Fundacional** —en su condición de **Primer Imperator según De
 
 **Derechos de los ciudadanos ante decisiones del Strategos:** Los ciudadanos de Rudis, a través de la **Asamblea General Soberana**, tienen el derecho de convocar un **referéndum obligatorio** para vetar cualquier decisión del Strategos que consideren contraria a sus intereses o al espíritu fundacional de Rudis. Dicho referéndum deberá alcanzar un **55% del censo electoral total** para que el veto sea efectivo.
 
-**Sin embargo, los ciudadanos no tienen derecho a:**
+Sin embargo, los ciudadanos no tienen derecho a:
 
 - Cuestionar la autoridad vitalicia del Strategos.
 
