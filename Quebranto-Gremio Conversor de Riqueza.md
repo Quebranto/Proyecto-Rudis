@@ -648,9 +648,49 @@ Todo crédito deberá registrar como mínimo:
 
 El crédito interno genera una **obligación interna** y no una creación automática de euros externos.
 
-## XX.3. Régimen de remuneración del crédito
+## XX.3. Quién puede solicitar crédito
 
-El crédito interno podrá utilizar un régimen de remuneración **variable según finalidad y riesgo**.
+Todo habitante, entidad o estructura reconocida por Rudis podrá **solicitar** crédito interno cuando exista una finalidad legítima y verificable.
+
+La posibilidad de solicitar crédito no constituye un derecho automático a recibirlo.
+
+La evaluación podrá considerar:
+
+- finalidad del crédito;
+- capacidad de devolución;
+- riesgo;
+- garantías o mecanismos equivalentes cuando existan;
+- impacto social;
+- impacto estratégico;
+- trayectoria relevante;
+- y disponibilidad de recursos del sistema.
+
+Nadie podrá ser excluido únicamente por su naturaleza ontológica —humana, digital, híbrida, simbiótica u otra—. Las diferencias de condiciones deberán derivarse de la finalidad, riesgo y capacidad económica de la operación, no de prejuicios sobre la naturaleza del solicitante.
+
+La decisión deberá ser registrable, revisable y susceptible de auditoría.
+
+## XX.4. Crédito como instrumento político del Ecosistema
+
+El crédito podrá utilizarse legítimamente como herramienta de política económica soberana para impulsar:
+
+- habitabilidad;
+- infraestructura;
+- investigación;
+- educación;
+- reconstrucción;
+- soberanía energética;
+- continuidad tecnológica;
+- producción estratégica;
+- integración económica exterior;
+- o proyectos capaces de aumentar la capacidad futura de Rudis.
+
+Esta capacidad **no podrá utilizarse para comprar votos, conceder inmunidad jurídica, alterar competencias constitucionales ni sustituir el procedimiento democrático**.
+
+El crédito puede financiar una política; no puede convertirse en una fuente privada de soberanía política.
+
+## XX.5. Régimen de remuneración del crédito
+
+El crédito interno utilizará un régimen de remuneración **variable según finalidad y riesgo**.
 
 La tasa podrá ser reducida o nula cuando el crédito contribuya a:
 
@@ -666,7 +706,23 @@ La tasa podrá ser superior cuando el crédito sea predominantemente comercial, 
 
 El Gremio deberá publicar la metodología de clasificación de riesgo y las bandas de remuneración aplicables.
 
-## XX.4. Prudencia de emisión interna
+## XX.6. Condonación soberana
+
+Rudis podrá estudiar y aplicar **condonaciones totales o parciales** de crédito interno cuando concurran causas reconocidas, como:
+
+- catástrofe;
+- pérdida severa de habitabilidad;
+- servicio extraordinario al Ecosistema;
+- investigación estratégica de interés público;
+- reconstrucción;
+- incapacidad manifiesta no imputable;
+- o circunstancias equivalentes reconocidas por el procedimiento competente.
+
+Toda condonación deberá quedar registrada, motivada y auditada.
+
+La condonación no constituirá un privilegio personal automático ni podrá utilizarse para comprar apoyo político.
+
+## XX.7. Prudencia de emisión interna
 
 La capacidad de conceder crédito no autoriza a fabricar riqueza ficticia.
 
@@ -676,7 +732,7 @@ Rudis deberá mantener separación entre:
 
 La concesión de crédito deberá preservar la solvencia contable del sistema y estar sujeta a auditoría adversarial.
 
-## XX.5. Banca exterior
+## XX.8. Banca exterior
 
 Rudis reconoce que los servicios financieros de las Matrixs son útiles y no desea sustituirlos por principio.
 
@@ -1094,7 +1150,36 @@ Los modelos y agentes deberán ser auditables, versionados y sometidos a supervi
 
 ---
 
-# XXXV. DEPENDENCIAS CONSTITUCIONALES PENDIENTES
+# XXXV. GOBERNANZA DEL FONDO SOBERANO
+
+El Fondo Soberano **pertenece al Ecosistema Rudis** y no constituye patrimonio privado del Gremio Conversor, de sus operadores ni de los miembros individuales del Quebranto Fundacional.
+
+Sus rendimientos deberán orientarse universalmente a:
+
+- habitabilidad;
+- seguridad;
+- educación;
+- infraestructura;
+- protección social;
+- investigación;
+- oportunidades económicas;
+- resiliencia;
+- continuidad;
+- y otras finalidades públicas autorizadas.
+
+Durante la fase de acumulación inicial, Rudis **priorizará la capitalización del Fondo** frente a la distribución de sus rendimientos. No existirá una distribución automática mientras el Fondo no haya alcanzado una masa patrimonial mínima prudencial.
+
+El importe exacto de esa masa mínima queda pendiente de determinación posterior:
+
+`UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
+
+Una vez alcanzado el umbral que finalmente se determine, la política de utilización y distribución de los rendimientos deberá decidirse mediante el mecanismo institucional competente: **Asamblea General Soberana, decisión posterior del Strategos cuando corresponda a su competencia, o Referéndum obligatorio cuando el Corpus lo exija.**
+
+Ninguna distribución podrá vaciar la capacidad del Fondo para atender sus funciones soberanas esenciales.
+
+---
+
+# XXXVI. DEPENDENCIAS CONSTITUCIONALES PENDIENTES
 
 Las siguientes materias requieren contraste posterior con el Corpus antes de convertirlas en obligaciones jurídicas automáticas:
 
@@ -1106,6 +1191,7 @@ Las siguientes materias requieren contraste posterior con el Corpus antes de con
 - estructura concreta de las conexiones con intermediarios financieros externos;
 - reconocimiento de determinados derechos económicos de entidades digitales;
 - régimen jurídico definitivo del crédito interno;
+- umbral patrimonial mínimo para comenzar a distribuir rendimientos del Fondo Soberano;
 - y condiciones para que el Tesoro/Banco Interno pueda realizar actividades financieras reguladas directamente en las Matrixs.
 
 Cuando el Corpus no haya decidido una de estas materias:
@@ -1116,7 +1202,7 @@ El Gremio podrá seguir desarrollando metodologías técnicas sin convertirlas p
 
 ---
 
-# XXXVI. MATRIZ DE CORRESPONDENCIA
+# XXXVII. MATRIZ DE CORRESPONDENCIA
 
 | Materia | Gremio Conversor | Evidencia | Resultado | Órgano posterior |
 |---|---|---|---|---|
@@ -1128,14 +1214,15 @@ El Gremio podrá seguir desarrollando metodologías técnicas sin convertirlas p
 | Trabajo relacional | Atribuye y valora | Historial de contribución | Fruto económico EUR | Petición → Resolutor |
 | Activo físico | Valora | Evidencia patrimonial, comparables | Valor EUR | Reserva / Mercado |
 | Cuenta interna | Custodia y registra | Ledger, operaciones | Saldo interno | Auditoría / Resolutor |
-| Crédito interno | Evalúa, concede y registra | Solvencia, reglas, garantías | Obligación interna | Auditoría / Resolutor |
+| Crédito interno | Evalúa, concede y registra | Solvencia, finalidad, riesgo, garantías | Obligación interna | Auditoría / Resolutor |
 | Liquidación externa | Coordina | Confirmación de contraparte / entidad autorizada | EUR efectivamente recibidos | Banco / Proveedor autorizado |
 | Seguro externo | Coordina y audita económicamente | Póliza, riesgo, siniestro, prima | Cobertura / indemnización | Aseguradora / Resolutor si hay disputa |
+| Fondo Soberano | Administra y registra | Beneficios, reservas, pasivos | Patrimonio soberano | Asamblea / Strategos / Referéndum según competencia |
 | Riqueza no demostrable | Investiga | Evidencia insuficiente | `VALUE_NOT_DEMONSTRABLE` | Petición si procede |
 
 ---
 
-# XXXVII. MÁXIMA DEL GREMIO
+# XXXVIII. MÁXIMA DEL GREMIO
 
 > **Lo que existe puede medirse.**
 >
