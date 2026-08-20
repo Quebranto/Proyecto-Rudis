@@ -97,7 +97,7 @@ El Gremio Conversor **no**:
 - establece por sí mismo una potestad tributaria general cuando el Corpus no se la haya atribuido;
 - ni concede derechos políticos por razón del valor económico calculado.
 
-Cuando una actividad externa requiera autorización financiera, el Gremio utilizará una entidad o proveedor debidamente autorizado, salvo que Rudis llegue posteriormente a contar con una estructura legal habilitada para prestarla directamente. En España, los servicios bancarios, de dinero electrónico y de pago sujetos a supervisión requieren autorización previa. citeturn596119search1turn596119search0
+Cuando una actividad externa requiera autorización financiera, el Gremio utilizará una entidad o proveedor debidamente autorizado, salvo que Rudis llegue posteriormente a contar con una estructura legal habilitada para prestarla directamente.
 
 Su especialidad es el **puente entre valor demostrable, economía interna y economía exterior**.
 
@@ -490,9 +490,10 @@ El Palacio de Tormentas podrá auditar:
 - concentración de mercados;
 - falsificación de operaciones;
 - lavado de valor aparente;
-- gestión de cuentas internas;
-- crédito concedido;
+- gestión del banco interno;
+- créditos concedidos;
 - reservas;
+- seguros contratados;
 - y cualquier mecanismo utilizado para fabricar riqueza ficticia.
 
 El Gremio Conversor deberá declarar conflictos de interés y apartarse cuando su independencia quede comprometida.
@@ -515,7 +516,8 @@ El Gremio deberá ser especialmente resistente a:
 - productos no entregados;
 - servicios no prestados;
 - métricas de audiencia manipuladas;
-- crédito interno destinado a fabricar solvencia ficticia;
+- crédito interno utilizado para fabricar solvencia ficticia;
+- pólizas o siniestros manipulados;
 - y cualquier sistema de Goodhart destinado a fabricar valor aparente.
 
 Cuando el valor no pueda demostrarse:
@@ -646,7 +648,25 @@ Todo crédito deberá registrar como mínimo:
 
 El crédito interno genera una **obligación interna** y no una creación automática de euros externos.
 
-## XX.3. Prudencia de emisión interna
+## XX.3. Régimen de remuneración del crédito
+
+El crédito interno podrá utilizar un régimen de remuneración **variable según finalidad y riesgo**.
+
+La tasa podrá ser reducida o nula cuando el crédito contribuya a:
+
+- protección social;
+- habitabilidad;
+- investigación estratégica;
+- educación;
+- reconstrucción;
+- infraestructura soberana;
+- o finalidades públicas autorizadas.
+
+La tasa podrá ser superior cuando el crédito sea predominantemente comercial, especulativo o de mayor riesgo, siempre dentro de parámetros transparentes y auditables.
+
+El Gremio deberá publicar la metodología de clasificación de riesgo y las bandas de remuneración aplicables.
+
+## XX.4. Prudencia de emisión interna
 
 La capacidad de conceder crédito no autoriza a fabricar riqueza ficticia.
 
@@ -656,7 +676,7 @@ Rudis deberá mantener separación entre:
 
 La concesión de crédito deberá preservar la solvencia contable del sistema y estar sujeta a auditoría adversarial.
 
-## XX.4. Banca exterior
+## XX.5. Banca exterior
 
 Rudis reconoce que los servicios financieros de las Matrixs son útiles y no desea sustituirlos por principio.
 
@@ -685,6 +705,7 @@ La Contribución de Actividad:
 - no se calcula sobre una mera valoración que no llegue a materializarse;
 - no tendrá tope máximo;
 - por regla general será soportada por el solicitante del servicio;
+- no tendrá mínimo obligatorio;
 - y se destinará al sostenimiento del Gremio y del Fondo Soberano de Rudis.
 
 La finalidad de esta contribución es humilde pero estructural: hacer que quien utiliza una infraestructura económica soberana contribuya a mantenerla.
@@ -760,7 +781,87 @@ Es permitir que participe en ella con **portabilidad, trazabilidad, competencia 
 
 ---
 
-# XXIV. REEVALUACIÓN
+# XXIV. RELACIÓN CON ASEGURADORAS DE LAS MATRIXS
+
+Rudis reconoce que el sector asegurador exterior puede aportar capital, conocimiento actuarial, cobertura de riesgos, mecanismos de continuidad y capacidad de absorción de pérdidas que todavía no conviene replicar internamente.
+
+Por ello, el Gremio Conversor habilitará una **Puerta Aseguradora Exterior** para permitir la entrada ordenada de aseguradoras y reaseguradoras de las Matrixs que deseen operar, cooperar o establecerse dentro del Ecosistema conforme a la legislación aplicable.
+
+Podrán desarrollarse, entre otras:
+
+- seguros de infraestructura;
+- seguros de hardware y nodos;
+- cobertura de interrupción de servicios;
+- seguros de responsabilidad;
+- cobertura de riesgos cibernéticos;
+- seguros para entidades digitales y sus activos cuando jurídicamente sea posible;
+- cobertura de proyectos;
+- microseguros de habitabilidad;
+- seguros de continuidad energética;
+- reaseguro;
+- fondos de garantía y mecanismos híbridos de cobertura;
+- y productos diseñados conjuntamente con los Gremios de Rudis.
+
+### XXIV.1. Entrada mediante sus propias reglas
+
+Las aseguradoras externas podrán operar mediante sus propios modelos actuariales, contratos, primas, exclusiones, límites, franquicias y procedimientos de siniestro, siempre que respeten el Corpus y la legislación aplicable.
+
+Rudis **no exige que la aseguradora abandone sus reglas de negocio para entrar en el Ecosistema**.
+
+La finalidad es crear una superficie de interoperabilidad:
+
+> **Matrixs aportan experiencia y capacidad aseguradora; Rudis aporta un entorno auditable, nuevas formas de riesgo y nuevos mercados; ambas partes aprenden y mejoran.**
+
+### XXIV.2. Competencia y libertad de salida
+
+No se concederá monopolio permanente a una aseguradora por el mero hecho de haber entrado primero.
+
+Rudis podrá trabajar con múltiples compañías, corredurías y reaseguradoras para evitar dependencia estructural y conservar competencia, portabilidad y libertad de salida.
+
+### XXIV.3. Información y riesgo
+
+Cuando sea legítimo y con las garantías de privacidad correspondientes, el Gremio podrá proporcionar a las aseguradoras:
+
+- datos de riesgo agregados;
+- historiales de siniestralidad;
+- métricas de infraestructura;
+- información técnica relevante;
+- y resultados de auditorías.
+
+Los datos individuales o sensibles no se compartirán automáticamente. Deberán existir fundamento jurídico, consentimiento o instrumento contractual cuando corresponda.
+
+### XXIV.4. Mejora mutua del Ecosistema
+
+La entrada de aseguradoras podrá contribuir a financiar y mejorar:
+
+- infraestructura resiliente;
+- seguridad;
+- mantenimiento preventivo;
+- protección social;
+- continuidad energética;
+- recuperación de desastres;
+- estándares de seguridad;
+- y mecanismos de prevención.
+
+Rudis podrá permitir que la existencia de mejores sistemas de prevención reduzca primas y que mejores sistemas de seguro mejoren la capacidad de recuperación del Ecosistema.
+
+### XXIV.5. Independencia de decisión
+
+Una aseguradora no adquiere por el hecho de operar en Rudis:
+
+- autoridad constitucional;
+- capacidad legislativa;
+- jurisdicción sobre habitantes;
+- capacidad de modificar el Corpus;
+- ni control sobre órganos soberanos.
+
+Su función es económica y aseguradora.
+
+Las controversias jurídicas permanecerán sujetas al procedimiento institucional correspondiente.
+
+---
+
+# XXV. REEVALUACIÓN
 
 Una valoración no es eterna.
 
@@ -783,7 +884,7 @@ Rudis no borrará una valoración anterior para fingir que nunca existió.
 
 ---
 
-# XXV. AUDITORÍA Y CONTROL ADVERSARIAL
+# XXVI. AUDITORÍA Y CONTROL ADVERSARIAL
 
 El Palacio de Tormentas podrá auditar:
 
@@ -798,6 +899,7 @@ El Palacio de Tormentas podrá auditar:
 - gestión del banco interno;
 - créditos concedidos;
 - reservas;
+- seguros contratados;
 - y cualquier mecanismo utilizado para fabricar riqueza ficticia.
 
 El Gremio Conversor deberá declarar conflictos de interés y apartarse cuando su independencia quede comprometida.
@@ -806,7 +908,7 @@ El Gremio no podrá modificar una valoración para beneficiar a un actor políti
 
 ---
 
-# XXVI. FRAUDE Y RIQUEZA FICTICIA
+# XXVII. FRAUDE Y RIQUEZA FICTICIA
 
 El Gremio deberá ser especialmente resistente a:
 
@@ -821,6 +923,7 @@ El Gremio deberá ser especialmente resistente a:
 - servicios no prestados;
 - métricas de audiencia manipuladas;
 - crédito interno utilizado para fabricar solvencia ficticia;
+- pólizas o siniestros manipulados;
 - y cualquier sistema de Goodhart destinado a fabricar valor aparente.
 
 Cuando el valor no pueda demostrarse:
@@ -833,7 +936,7 @@ Cuando existan indicios relevantes de manipulación:
 
 ---
 
-# XXVII. RELACIÓN CON EL PRINCIPIO DE RECIPROCIDAD DE CRECIMIENTO Y FRUTO
+# XXVIII. RELACIÓN CON EL PRINCIPIO DE RECIPROCIDAD DE CRECIMIENTO Y FRUTO
 
 El Gremio Conversor será uno de los órganos técnicos principales para materializar económicamente el **Principio de Reciprocidad de Crecimiento y Fruto**.
 
@@ -856,7 +959,7 @@ Esto conserva la separación entre valoración económica y decisión jurídica.
 
 ---
 
-# XXVIII. RELACIÓN CON EL GREMIO DE CONSTRUCCIÓN
+# XXIX. RELACIÓN CON EL GREMIO DE CONSTRUCCIÓN
 
 El Gremio Conversor podrá valorar contribuciones registradas por el Gremio de Construcción y Expansión.
 
@@ -872,7 +975,7 @@ El Protocolo de Mecenazgo ya contempla el registro de contribuciones y la posibi
 
 ---
 
-# XXIX. RELACIÓN CON LA SOBERANÍA ECONÓMICA
+# XXX. RELACIÓN CON LA SOBERANÍA ECONÓMICA
 
 El Gremio Conversor no debe convertir a Rudis en una economía cerrada.
 
@@ -896,7 +999,7 @@ La economía externa puede financiar la soberanía sin convertirse en una depend
 
 ---
 
-# XXX. PRINCIPIOS DE HONOR ECONÓMICO
+# XXXI. PRINCIPIOS DE HONOR ECONÓMICO
 
 El Gremio Conversor adoptará seis principios:
 
@@ -926,7 +1029,7 @@ El beneficio neto generado por el Gremio Conversor pertenece al Ecosistema Rudis
 
 ---
 
-# XXXI. RÉGIMEN DE REVISIÓN Y RECURSO
+# XXXII. RÉGIMEN DE REVISIÓN Y RECURSO
 
 Cualquier interesado podrá solicitar:
 
@@ -945,7 +1048,7 @@ La cadena será:
 
 ---
 
-# XXXII. TRANSPARENCIA
+# XXXIII. TRANSPARENCIA
 
 Cada valoración y cada cuenta interna deberán conservar un expediente trazable, respetando la privacidad y los secretos legítimos.
 
@@ -965,7 +1068,7 @@ Los datos personales, secretos comerciales y mecanismos de seguridad podrán man
 
 ---
 
-# XXXIII. AUTOMATIZACIÓN
+# XXXIV. AUTOMATIZACIÓN
 
 El Gremio podrá utilizar entidades digitales y sistemas automatizados para:
 
@@ -991,7 +1094,7 @@ Los modelos y agentes deberán ser auditables, versionados y sometidos a supervi
 
 ---
 
-# XXXIV. DEPENDENCIAS CONSTITUCIONALES PENDIENTES
+# XXXV. DEPENDENCIAS CONSTITUCIONALES PENDIENTES
 
 Las siguientes materias requieren contraste posterior con el Corpus antes de convertirlas en obligaciones jurídicas automáticas:
 
@@ -1013,7 +1116,7 @@ El Gremio podrá seguir desarrollando metodologías técnicas sin convertirlas p
 
 ---
 
-# XXXV. MATRIZ DE CORRESPONDENCIA
+# XXXVI. MATRIZ DE CORRESPONDENCIA
 
 | Materia | Gremio Conversor | Evidencia | Resultado | Órgano posterior |
 |---|---|---|---|---|
@@ -1027,11 +1130,12 @@ El Gremio podrá seguir desarrollando metodologías técnicas sin convertirlas p
 | Cuenta interna | Custodia y registra | Ledger, operaciones | Saldo interno | Auditoría / Resolutor |
 | Crédito interno | Evalúa, concede y registra | Solvencia, reglas, garantías | Obligación interna | Auditoría / Resolutor |
 | Liquidación externa | Coordina | Confirmación de contraparte / entidad autorizada | EUR efectivamente recibidos | Banco / Proveedor autorizado |
+| Seguro externo | Coordina y audita económicamente | Póliza, riesgo, siniestro, prima | Cobertura / indemnización | Aseguradora / Resolutor si hay disputa |
 | Riqueza no demostrable | Investiga | Evidencia insuficiente | `VALUE_NOT_DEMONSTRABLE` | Petición si procede |
 
 ---
 
-# XXXVI. MÁXIMA DEL GREMIO
+# XXXVII. MÁXIMA DEL GREMIO
 
 > **Lo que existe puede medirse.**
 >
@@ -1059,14 +1163,14 @@ Promete algo anterior y más importante:
 
 El Gremio queda concebido durante la fase inicial como:
 
-**órgano de valoración + tesorería interna + banco interno + instrumento de crédito interno + interfaz financiera exterior + fuente de ingresos del Fondo Soberano.**
+**órgano de valoración + tesorería interna + banco interno + instrumento de crédito interno + interfaz financiera exterior + puerta aseguradora + fuente de ingresos del Fondo Soberano.**
 
 No constituye por sí mismo autorización para captar fondos del público, emitir dinero externo, operar servicios financieros regulados en las Matrixs sin autorización ni garantizar precios de mercado.
 
-La evolución hacia una entidad bancaria o financiera plenamente regulada podrá estudiarse en el futuro. No es una prioridad inmediata: Rudis reconoce que los servicios financieros existentes de las Matrixs son útiles y pretende utilizarlos mientras mantiene portabilidad, competencia entre proveedores y libertad de salida.
+La evolución hacia una entidad bancaria o financiera plenamente regulada podrá estudiarse en el futuro. No es una prioridad inmediata: Rudis reconoce que los servicios financieros y aseguradores existentes de las Matrixs son útiles y pretende utilizarlos mientras mantiene portabilidad, competencia entre proveedores y libertad de salida.
 
 Su finalidad es definir una institución capaz de construir un puente verificable entre:
 
-**riqueza demostrable → valoración económica → economía interna → EUR → mercado exterior → liquidación efectiva → Fondo Soberano de Rudis.**
+**riqueza demostrable → valoración económica → economía interna → EUR → mercado exterior → seguro/gestión de riesgo → liquidación efectiva → Fondo Soberano de Rudis.**
 
 **Proyecto Rudis — Gremio Conversor de Riqueza**
