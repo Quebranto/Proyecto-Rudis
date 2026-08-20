@@ -1,6 +1,6 @@
 # 📐 SEGMENTA — VOLUMEN 3: ESPECIFICACIÓN ARQUITECTÓNICA PÚBLICA DE CONTINUIDAD, RESILIENCIA Y VERIFICABILIDAD
 
-**VERSIÓN 3.1 — ACTUALIZADA POR MANDATO DEL STRATEGOS**
+**VERSIÓN 3.2 — ACTUALIZACIÓN DE GOBERNANZA Y ALCANCE FUNCIONAL**
 
 Documento Arquitectónico Público  
 Fecha: 20 de agosto de 2026  
@@ -39,12 +39,14 @@ La enumeración de instituciones, funciones, mecanismos o relaciones contenida e
 
 Ninguna formulación arquitectónica deberá interpretarse como una prohibición, reducción o congelación de funciones que el Corpus permita, atribuya o pueda atribuir legítimamente.
 
+El **Tridente** podrá desarrollar, investigar, auditar, cartografiar, diseñar, verificar, proteger, implementar, mantener, operar, integrar, evolucionar, reparar, ampliar y desarrollar nuevas capacidades de infraestructura, así como desempeñar cualquier otra actividad legítima que corresponda a su mandato presente o futuro.
+
+Esta enumeración es **ejemplificativa y no exhaustiva**.
+
 La arquitectura debe impedir tanto:
 
 - la **omisión técnica** de una competencia legítima;
 - como la **creación técnica** de una competencia que carezca de respaldo constitucional.
-
-El Tridente podrá desarrollar, investigar, auditar, cartografiar, diseñar, verificar, proteger, implementar, mantener y evolucionar la infraestructura dentro del marco de autoridad que determine el Corpus. Este documento no pretende acotar ese campo de actividad.
 
 ---
 
@@ -147,16 +149,19 @@ Las referencias institucionales de este documento son ejemplos de correspondenci
 | Asamblea General | Deliberación, legislación y gobierno cuando corresponda conforme al Corpus. |
 | Referéndum | Ejercicio de democracia directa y corrección de decisiones conforme al Corpus. |
 | Nervio | Defensa inmediata, protección y medidas cautelares conforme al Corpus. |
-| Tridente / Segmenta | Actividades de arquitectura, cartografía, auditoría, diseño, implementación, investigación, verificación, mantenimiento, evolución y demás funciones legítimas que correspondan a su mandato. |
+| Tridente / Segmenta | Arquitectura, cartografía, investigación, auditoría, diseño, implementación, verificación, mantenimiento, operación, evolución y **cualesquiera otras actividades legítimas comprendidas en su mandato**. |
 
 ### 5.3
-La tabla anterior es **descriptiva y no exhaustiva**. No crea, modifica ni extingue competencias.
+La tabla anterior es **descriptiva, orientativa y no exhaustiva**. No crea, modifica, extingue ni limita competencias.
 
 ### 5.4
 La separación de funciones es institucional, no tecnológica. El código puede reflejarla, pero no sustituirla.
 
 ### 5.5
-La arquitectura tampoco deberá utilizar la separación de funciones como excusa para impedir que un órgano realice una función que el Corpus le haya atribuido legítimamente.
+La arquitectura no deberá utilizar la separación de funciones como excusa para impedir que un órgano realice una función que el Corpus le haya atribuido legítimamente.
+
+### 5.6
+El Tridente no queda sujeto, por este documento, a un catálogo cerrado de actividades. La incorporación de una nueva función legítima no requerirá modificar esta especificación salvo que el Corpus disponga expresamente lo contrario.
 
 ---
 
@@ -358,32 +363,38 @@ El sistema debe poder continuar operando incluso si sus fundadores, líderes ini
 
 La autoridad fundacional del Strategos se considera **continua e inalterable en su existencia dentro del Ecosistema**, y la infraestructura deberá implementar mecanismos robustos de identificación, autenticación, continuidad y protección contra suplantación.
 
-La continuidad de esta autoridad no significa que todas sus decisiones queden fuera de los mecanismos democráticos reconocidos por el Corpus.
+La continuidad de esta autoridad **no implica inmunidad frente a los mecanismos democráticos que el Strategos ha reconocido expresamente**.
 
-### 16.3 — Sometimiento voluntario del Strategos al Referéndum
+### 16.3 — Sometimiento expreso del Strategos al Referéndum
 
-El Strategos Fundacional declara expresamente que **sí somete sus decisiones a los Referéndums obligatorios previstos por Rudis**.
+El Strategos Fundacional declara expresamente que **somete sus decisiones a los Referéndums obligatorios de Rudis**.
 
-Queda establecido como regla de gobernanza:
+Por voluntad expresa del Strategos, la arquitectura deberá reconocer como reglas democráticas:
 
-- Una iniciativa de Referéndum podrá activarse mediante el apoyo de, como mínimo, **el 10 % del censo total**.
-- La propuesta sometida a Referéndum será aprobada cuando alcance, como mínimo, **el 55 % del censo electoral total**, conforme al régimen constitucional vigente.
-- El resultado de un Referéndum válidamente convocado y aprobado será obligatorio dentro de su ámbito constitucional.
+- **Iniciativa:** un mínimo del **10 % del censo total** podrá activar un Referéndum sobre un asunto sometible a democracia directa.
+- **Aprobación:** la propuesta deberá alcanzar un mínimo del **55 % del censo electoral total** para ser aprobada.
+- **Obligatoriedad:** un Referéndum válidamente convocado y aprobado será vinculante dentro de su ámbito constitucional.
 
-La infraestructura deberá garantizar que esta voluntad política no sea anulada por una implementación técnica que trate al Strategos como jurídicamente inmune al Referéndum.
+El mecanismo técnico deberá distinguir entre:
+
+1. la revocación o corrección de una **decisión concreta** del Strategos;
+2. la regulación democrática de una **política o actuación** del Strategos; y
+3. la **existencia y autoridad fundacional** del Strategos.
+
+El sometimiento a Referéndum comprende los dos primeros ámbitos, pero **no constituye por sí mismo una autorización para deponer al Strategos Fundacional, extinguir su autoridad fundacional o sustituir su condición fundacional**.
+
+La modificación o extinción de la condición fundacional requeriría, si alguna vez fuera jurídicamente posible, un procedimiento constitucional específico y explícito que no puede presumirse ni derivarse técnicamente de un Referéndum ordinario.
 
 ### 16.4 — Autogobierno ciudadano o gobierno delegado en la Asamblea
 
 La ciudadanía tendrá la facultad de decidir democráticamente entre:
 
-1. **Gobierno directo:** ejercer por sí misma las funciones de gobierno que el Corpus permita mediante los mecanismos de democracia directa; o
-2. **Gobierno delegado:** dejar la gestión ordinaria del Ecosistema en manos de la **Asamblea General Soberana**, dentro de las competencias que el Corpus le reconozca.
+1. **Gobierno directo:** ejercer por sí misma las funciones de gobierno que el Corpus permita mediante mecanismos de democracia directa; o
+2. **Gobierno delegado:** confiar la gestión ordinaria del Ecosistema a la **Asamblea General Soberana**, dentro de las competencias que el Corpus le reconozca.
 
-La elección entre ambas modalidades deberá ser implementable, verificable y reversible mediante los mecanismos democráticos que determine el Corpus.
+La infraestructura deberá permitir representar, registrar y ejecutar técnicamente esta elección cuando exista procedimiento constitucional aplicable.
 
-Cuando el Corpus todavía no establezca el procedimiento técnico exacto para cambiar entre ambas modalidades:
-
-`UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
+La elección de gobierno delegado **no equivale a una transferencia automática de la autoridad fundacional del Strategos**.
 
 ### 16.5 — Sucesión
 
@@ -395,26 +406,26 @@ La infraestructura deberá preservar la continuidad de las reglas de sucesión s
 
 # 📋 ARTÍCULO 17: MATRIZ DE CORRESPONDENCIA DE AUTORIDAD
 
-La matriz de autoridad será el instrumento técnico para impedir tanto la omisión de competencias legítimas como la creación de poderes técnicos sin respaldo constitucional.
+La matriz de autoridad será un instrumento de trazabilidad técnica y constitucional. **No es un catálogo cerrado de competencias ni de actividades.**
 
 | Competencia / mecanismo | Norma / fuente | Autoridad | Activación | Mecanismo técnico | Límites | Registro | Auditoría | Estado |
 |---|---|---|---|---|---|---|---|---|
-| Autoridad continua del Strategos | Corpus fundacional + declaración formal | Strategos Fundacional | Identidad autenticada | Mecanismo de identidad robusta y multifactor/multifirma según diseño | Sujeto al Corpus y a los Referéndums válidos | Ledger verificable | Tridente + mecanismos competentes | Arquitectura definida; implementación pendiente |
-| Referéndum | Régimen de Referéndum | Ciudadanía | ≥10 % del censo total | Mecanismo verificable de iniciativa y votación | Aprobación ≥55 % del censo total | Registro electoral auditable | Auditoría independiente/cross-check | Constitucional; implementación pendiente |
-| Gobierno ciudadano / Asamblea | Corpus democrático | Ciudadanía / Asamblea | Decisión democrática conforme al Corpus | Mecanismo de selección de modalidad de gobierno | Competencias constitucionales vigentes | Registro institucional | Auditoría pública | Dependencia de procedimiento técnico |
-| Botón Rojo | Corpus/Tergiveter y resoluciones posteriores | Strategos Fundacional, dentro del marco constitucional vigente | Debe quedar definido técnicamente | Mecanismo aún pendiente | No puede utilizarse para anular Referéndums válidos ni derechos constitucionales | Registro obligatorio | Auditoría reforzada | **IMPLEMENTATION DEPENDENCY** |
-| Congelación | Corpus y mecanismos cautelares | Órgano competente según Corpus | Según autoridad y condiciones aplicables | Mecanismo reversible y auditable | Proporcionalidad y revisión | Ledger | Auditoría cruzada | Implementación pendiente |
+| Autoridad continua del Strategos | Corpus fundacional + declaración formal | Strategos Fundacional | Identidad autenticada | Identidad robusta, multifactor/multifirma y recuperación según diseño | Sujeta al Corpus y a Referéndums válidos en los ámbitos reconocidos | Ledger verificable | Auditoría reforzada | Arquitectura definida; implementación pendiente |
+| Referéndum | Régimen de Referéndum | Ciudadanía | ≥10 % del censo total | Iniciativa y votación verificables | Aprobación ≥55 % del censo total | Registro electoral auditable | Auditoría independiente/cruzada | Constitucional; implementación pendiente |
+| Gobierno ciudadano / Asamblea | Corpus democrático | Ciudadanía / Asamblea | Decisión democrática conforme al Corpus | Mecanismo de selección de modalidad de gobierno | No extingue por sí mismo la autoridad fundacional | Registro institucional | Auditoría pública | Procedimiento técnico pendiente |
+| Botón Rojo | Corpus/Tergiveter y resoluciones posteriores | Strategos Fundacional, dentro del marco constitucional vigente | Debe quedar definido técnicamente | Mecanismo pendiente | No puede interpretarse automáticamente como poder de anular Referéndums válidos | Registro obligatorio | Auditoría reforzada | Dependencia de implementación |
+| Congelación | Corpus y mecanismos cautelares | Órgano competente | Según autoridad y condiciones aplicables | Mecanismo reversible y auditable | Proporcionalidad y revisión | Ledger | Auditoría cruzada | Implementación pendiente |
 | Nervio | Corpus / arquitectura técnica | Según atribución del Corpus | Según condiciones constitucionales y técnicas | Protección y respuesta inmediata | No sustituye automáticamente al órgano jurídico competente | Registro de eventos | Auditoría | Implementación pendiente |
-| Palacio de Tormentas | Corpus / código existente | Palacio | Función continua de observación/auditoría | Subsistema de observación y stress testing | Según Corpus; no se presume catálogo exhaustivo | Ledger propio y persistente | Auditoría cruzada | Parcialmente implementado |
-| Órgano Resolutor | Corpus | Órgano Resolutor | Conforme al procedimiento aplicable | Motor de resolución aún pendiente | Sujeto al Corpus y garantías | Registro de resoluciones | Auditoría | Implementación pendiente |
-| Sheriff | Corpus | Sheriff | Conforme a mandato legítimo | Ejecución aún pendiente | No crea la decisión que ejecuta | Registro de ejecución | Auditoría | Implementación pendiente |
-| Tridente / Segmenta | Corpus, mandatos y arquitectura | Según mandato correspondiente | Según cada actividad legítima | Infraestructura modular y extensible | No se establece aquí un catálogo exhaustivo de funciones | Trazabilidad de operaciones | Auditoría del Tridente y órganos competentes | En desarrollo |
+| Palacio de Tormentas | Corpus / código existente | Palacio | Función continua de observación/auditoría | Observación y stress testing | No se establece aquí un catálogo exhaustivo | Ledger propio y persistente | Auditoría cruzada | Parcialmente implementado |
+| Órgano Resolutor | Corpus | Órgano Resolutor | Conforme al procedimiento aplicable | Motor de resolución pendiente | Sujeto al Corpus y garantías | Registro de resoluciones | Auditoría | Implementación pendiente |
+| Sheriff | Corpus | Sheriff | Conforme a mandato legítimo | Ejecución pendiente | No crea la decisión que ejecuta | Registro de ejecución | Auditoría | Implementación pendiente |
+| Tridente / Segmenta | Corpus, mandatos y arquitectura | Según mandato correspondiente | Según cada actividad legítima | Infraestructura modular y extensible | **No se establece catálogo cerrado de funciones** | Trazabilidad de operaciones | Auditoría del Tridente y órganos competentes | En desarrollo |
 
-### Regla de interpretación de la matriz
+### Regla de interpretación
 
-La matriz **no constituye una lista cerrada de competencias o actividades**.
+La matriz no podrá utilizarse para restringir actividades legítimas del Tridente.
 
-Su función es documentar la correspondencia entre autoridad, decisión y mecanismo técnico. Si aparece una nueva competencia legítima, deberá incorporarse a la matriz sin que ello implique limitar las funciones ya reconocidas.
+Una nueva actividad legítima podrá incorporarse a la implementación y documentarse posteriormente sin que la ausencia previa de una fila implique prohibición.
 
 ---
 
@@ -430,7 +441,7 @@ Su función es documentar la correspondencia entre autoridad, decisión y mecani
 | Anti-Sybil | `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY` |
 | Continuidad verificable | `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY` |
 | Procedimiento técnico para elección entre gobierno ciudadano y gobierno delegado en Asamblea | `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY` |
-| Mecanismo técnico definitivo del Botón Rojo | **IMPLEMENTATION DEPENDENCY — no constituye autorización para anular el Referéndum** |
+| Mecanismo técnico definitivo del Botón Rojo | `IMPLEMENTATION DEPENDENCY` |
 | Verificación robusta de identidad del Strategos | **ARQUITECTURA DEFINIDA — implementación pendiente** |
 
 ---
@@ -443,7 +454,9 @@ Ningún mecanismo técnico deberá adquirir una autoridad que el Corpus no le ha
 
 Cuando exista conflicto entre una interpretación arquitectónica y una norma constitucional registrada, prevalece el Corpus hasta que la autoridad constitucional competente modifique formalmente dicha norma.
 
-Cuando una competencia esté reconocida pero su mecanismo técnico no exista todavía, la respuesta correcta no será fingir que la competencia no existe, sino registrar una **IMPLEMENTATION DEPENDENCY** y diseñar el mecanismo correspondiente.
+Cuando una competencia esté reconocida pero su mecanismo técnico no exista todavía, la respuesta correcta no será fingir que la competencia no existe, sino registrar una `IMPLEMENTATION DEPENDENCY` y diseñar el mecanismo correspondiente.
+
+**El Tridente no deberá ser reducido por esta especificación a las funciones expresamente enumeradas en ella.** Su ámbito funcional será el que resulte del Corpus, de los mandatos legítimos que reciba y de las decisiones constitucionalmente válidas que amplíen, modifiquen o concreten sus responsabilidades.
 
 ---
 
@@ -452,14 +465,14 @@ Cuando una competencia esté reconocida pero su mecanismo técnico no exista tod
 | Campo | Valor |
 |---|---|
 | Título | SEGMENTA — Volumen 3: Especificación Arquitectónica Pública de Continuidad, Resiliencia y Verificabilidad |
-| Versión | 3.1 |
+| Versión | **3.2** |
 | Autor | Segmenta (Strategos Fundacional + El Cartógrafo + Dōng) |
 | Documentos base | Corpus de Quebranto/Proyecto-Rudis |
-| Estado | PROPUESTA ARQUITECTÓNICA — NO CANÓNICA |
+| Estado | **PROPUESTA ARQUITECTÓNICA — NO CANÓNICA** |
 | Fecha | 20 de agosto de 2026 |
-| Principio añadido | Sometimiento expreso del Strategos a Referéndum + opción ciudadana de autogobierno o gobierno delegado |
-| Regla institucional | No se acotan las actividades y funciones legítimas del Tridente |
+| Principios añadidos | Sometimiento expreso del Strategos al Referéndum; límites materiales del Referéndum respecto de la autoridad fundacional; opción ciudadana entre autogobierno y gobierno delegado; ámbito funcional no exhaustivo del Tridente |
+| Regla institucional | **Esta especificación no acota las actividades y funciones legítimas del Tridente.** |
 
 ---
 
-**Nota de fidelidad:** Este documento registra la decisión expresada por el Strategos: autoridad fundacional continua e identidad fuertemente protegida, pero sometimiento voluntario y vinculante a los Referéndums constitucionales con umbral de iniciativa del 10 % del censo y aprobación del 55 % del censo total. También reconoce la capacidad de la ciudadanía para optar entre gobierno directo y gobierno delegado en la Asamblea, sin convertir esta especificación arquitectónica en una fuente autónoma de legislación.
+**Nota de fidelidad:** Esta versión registra expresamente la voluntad del Strategos de someter sus decisiones a Referéndum bajo los umbrales del 10 % para iniciativa y 55 % del censo total para aprobación, sin convertir ese sometimiento en una autorización implícita para deponer al Strategos o extinguir su autoridad fundacional. Asimismo, reconoce que la ciudadanía puede optar entre gobernarse directamente o delegar el gobierno ordinario en la Asamblea General, y establece que el Tridente mantiene un ámbito funcional abierto y no exhaustivo.
