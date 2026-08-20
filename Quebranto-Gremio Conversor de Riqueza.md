@@ -7,7 +7,7 @@
 **Estado:** Documento Semilla de Arquitectura Institucional — Propuesta para contraste con el Corpus  
 **Ámbito:** Valoración económica, demostrabilidad patrimonial, conversión de unidades de valor, tesorería interna y conexión con economía fiat  
 **Unidad de referencia principal:** Euro (EUR)  
-**Naturaleza:** Gremio técnico-económico y tesorería interna provisional
+**Naturaleza:** Gremio técnico-económico y Tesorería Interna Provisional
 
 ---
 
@@ -37,7 +37,7 @@ Su finalidad no es decidir cuánto *debe* valer algo por decreto.
 
 Su finalidad es **detectar, reunir evidencia, valorar, contrastar, auditar, confirmar, refutar, revisar y volver a valorar**.
 
-Desde esta ampliación, el Gremio dispone además de una **Tesorería/Asiento Bancario Interno de Rudis**, destinada a custodiar y registrar los recursos económicos internos y a facilitar la liquidación de operaciones del ecosistema. Esta función no equivale por sí sola a constituir un banco regulado frente al exterior.
+Durante la fase inicial, el Gremio ejercerá además como **Tesorería y Banco Interno de Rudis**, manteniendo cuentas internas, registrando saldos, facilitando pagos y transferencias internas, administrando crédito interno y conectando el ecosistema con servicios financieros exteriores cuando resulte conveniente y legalmente posible.
 
 ---
 
@@ -83,21 +83,23 @@ El Gremio Conversor:
 - puede conectar a habitantes con mecanismos externos de conversión cuando exista una vía legítima para hacerlo;
 - mantiene registros internos de saldos, cobros, pagos y obligaciones económicas del ecosistema;
 - facilita liquidaciones internas entre habitantes, entidades, gremios y estructuras de Rudis;
-- y puede actuar como interfaz económica con proveedores o intermediarios externos autorizados.
+- administra instrumentos de crédito interno conforme a las reglas del Ecosistema;
+- y actúa como interfaz con proveedores financieros externos autorizados.
 
 El Gremio Conversor **no**:
 
 - crea euros ni dinero fiat externo por mera contabilidad;
 - garantiza que alguien compre un activo;
 - determina por sí mismo una sentencia jurídica;
-- sustituye a bancos, entidades de pago, bolsas o intermediarios regulados externos cuando estos sean legalmente necesarios;
-- convierte una estimación en dinero por mera declaración;
+- convierte una estimación en dinero externo por mera declaración;
 - inventa propiedad sobre un activo;
 - confunde precio de mercado con derecho patrimonial;
-- establece impuestos por sí mismo cuando el Corpus no le atribuya competencia tributaria;
+- establece por sí mismo una potestad tributaria general cuando el Corpus no se la haya atribuido;
 - ni concede derechos políticos por razón del valor económico calculado.
 
-Su especialidad es el **puente entre valor demostrable, dinero interno, dinero externo y referencia económica comparable**.
+Cuando una actividad externa requiera autorización financiera, el Gremio utilizará una entidad o proveedor debidamente autorizado, salvo que Rudis llegue posteriormente a contar con una estructura legal habilitada para prestarla directamente. En España, los servicios bancarios, de dinero electrónico y de pago sujetos a supervisión requieren autorización previa. citeturn596119search1turn596119search0
+
+Su especialidad es el **puente entre valor demostrable, economía interna y economía exterior**.
 
 ---
 
@@ -488,6 +490,9 @@ El Palacio de Tormentas podrá auditar:
 - concentración de mercados;
 - falsificación de operaciones;
 - lavado de valor aparente;
+- gestión de cuentas internas;
+- crédito concedido;
+- reservas;
 - y cualquier mecanismo utilizado para fabricar riqueza ficticia.
 
 El Gremio Conversor deberá declarar conflictos de interés y apartarse cuando su independencia quede comprometida.
@@ -510,6 +515,7 @@ El Gremio deberá ser especialmente resistente a:
 - productos no entregados;
 - servicios no prestados;
 - métricas de audiencia manipuladas;
+- crédito interno destinado a fabricar solvencia ficticia;
 - y cualquier sistema de Goodhart destinado a fabricar valor aparente.
 
 Cuando el valor no pueda demostrarse:
@@ -561,127 +567,7 @@ El Protocolo de Mecenazgo ya contempla el registro de contribuciones y la posibi
 
 ---
 
-# XIX. BANCA Y TESORERÍA INTERNA DE RUDIS
-
-Mientras Rudis no disponga de una entidad financiera externa propia autorizada, el Gremio Conversor actuará como **tesorería y banco interno del ecosistema**, dentro de los límites que el Corpus y la legislación aplicable permitan.
-
-Esta función comprende, en el plano interno:
-
-- cuentas o asientos económicos de habitantes y entidades;
-- recepción y registro de ingresos;
-- pagos internos;
-- transferencias internas;
-- custodia contable de saldos;
-- facturación interna;
-- liquidación de servicios;
-- gestión de reservas internas;
-- conciliación de operaciones;
-- registro de obligaciones y créditos internos;
-- y preparación de liquidaciones hacia o desde el exterior.
-
-### 19.1. Separación entre asiento interno y dinero externo
-
-Un saldo interno de Rudis representa un derecho, obligación o asiento económico reconocido por el sistema según las reglas aplicables. **No equivale automáticamente a euros depositados en un banco externo.**
-
-Toda referencia a EUR deberá conservar la distinción entre:
-
-**saldo interno → obligación/reconocimiento interno → dinero externo efectivamente disponible.**
-
-### 19.2. Custodia y solvencia
-
-El Gremio deberá mantener separación contable entre:
-
-- fondos propios del Gremio;
-- fondos de usuarios;
-- patrimonio de la Reserva;
-- ingresos por gestión;
-- obligaciones pendientes;
-- y recursos restringidos.
-
-No podrá reutilizar unilateralmente fondos de usuarios como si fueran patrimonio propio.
-
-### 19.3. Puente financiero exterior
-
-Cuando una operación implique servicios bancarios, de pago, dinero electrónico, cambio o custodia regulada que Rudis no pueda prestar legítimamente por sí mismo, el Gremio deberá utilizar **entidades externas autorizadas** o estructuras legalmente habilitadas.
-
-La función interna de banco de Rudis no deberá interpretarse como autorización para operar ilegalmente como entidad de crédito, entidad de pago o entidad de dinero electrónico.
-
-En España, la prestación de servicios bancarios, de pago o de dinero electrónico sujetos a supervisión requiere autorización previa; las entidades de pago y de dinero electrónico cuentan con procedimientos específicos de autorización o registro. citeturn231099search0turn231099search1turn231099search3
-
-### 19.4. Registro bancario mínimo
-
-Toda operación interna deberá conservar, como mínimo:
-
-**emisor → receptor → importe → unidad → concepto → fecha → autorización → estado → evidencia → saldo antes/después.**
-
-El sistema deberá ser conciliable con la Reserva y con el Ledger cuando corresponda.
-
----
-
-# XX. CONTRIBUCIÓN DE ACTIVIDAD POR USO DEL SERVICIO
-
-El funcionamiento del Gremio Conversor genera costes de valoración, auditoría, infraestructura, mantenimiento, custodia, liquidación, seguridad y administración.
-
-Para sostener el servicio se establece una **Contribución de Actividad del Gremio Conversor**, cuya naturaleza jurídica definitiva quedará sometida al Corpus y a la legislación aplicable.
-
-### 20.1. Propuesta base
-
-Como configuración inicial se propone:
-
-> **0,50 % del importe efectivamente liquidado mediante el servicio del Gremio.**
-
-Esta contribución será **adicional a los gastos de gestión** efectivamente aplicables.
-
-Ejemplo:
-
-- Liquidación: 1.000 EUR
-- Contribución de actividad (0,50 %): 5 EUR
-- Gastos de gestión: según servicio
-- Total repercutido: 1.000 EUR + 5 EUR + gastos de gestión, salvo acuerdo distinto.
-
-La contribución no se calculará sobre una mera valoración no liquidada, salvo que un instrumento específico establezca un servicio de certificación independiente con tarifa propia.
-
-### 20.2. Principios
-
-La contribución deberá ser:
-
-- humilde;
-- transparente;
-- proporcional al servicio utilizado;
-- visible antes de la operación;
-- registrada separadamente de los gastos de gestión;
-- y revisable.
-
-No deberá transformarse en un mecanismo de extracción indiscriminada de riqueza.
-
-### 20.3. Destino prioritario
-
-Salvo decisión posterior del Corpus, la recaudación podrá destinarse prioritariamente a:
-
-- infraestructura del Gremio;
-- auditoría;
-- seguridad;
-- mantenimiento;
-- reservas operativas;
-- mecanismos de inclusión económica;
-- y continuidad del servicio.
-
-### 20.4. Exenciones o reducciones
-
-Podrán contemplarse exenciones o reducciones para:
-
-- auxilio esencial;
-- necesidades de habitabilidad reconocidas;
-- operaciones de muy bajo importe;
-- proyectos de interés público;
-- investigación acreditada;
-- o situaciones excepcionales determinadas por la autoridad competente.
-
-Estas excepciones deberán definirse mediante reglas transparentes y no mediante privilegios arbitrarios.
-
----
-
-# XXI. RELACIÓN CON LA RESERVA
+# XIX. RELACIÓN CON LA RESERVA Y EL FONDO SOBERANO
 
 La Reserva conserva la separación entre la representación económica y los recursos fiat efectivamente disponibles.
 
@@ -691,13 +577,302 @@ Regla:
 
 > **Una valoración de 100.000 EUR no crea 100.000 EUR de Reserva.**
 
-La Reserva solo reconocerá como obligación o recurso efectivo aquello que exista conforme a su contabilidad y evidencia patrimonial.
+El **beneficio neto del Gremio Conversor pertenece al Ecosistema Rudis como Fondo Soberano**.
 
-Cuando el Gremio actúe como tesorería interna, los saldos de usuarios y los recursos de la Reserva deberán permanecer contablemente separados.
+Este Fondo Soberano podrá financiar, conforme a las reglas aplicables del Corpus:
+
+- infraestructura;
+- habitabilidad;
+- protección social;
+- investigación;
+- educación;
+- resiliencia;
+- reservas estratégicas;
+- defensa;
+- continuidad tecnológica;
+- y otras finalidades públicas autorizadas.
+
+Los operadores del Gremio no adquieren por ello derechos privados sobre el excedente soberano.
 
 ---
 
-# XXII. RELACIÓN CON LA SOBERANÍA ECONÓMICA
+# XX. TESORERÍA Y BANCO INTERNO DE RUDIS
+
+Durante la fase inicial, el Gremio Conversor constituye la **Tesorería y Banco Interno de Rudis**.
+
+## XX.1. Cuenta económica interna
+
+El Gremio podrá:
+
+- abrir y mantener cuentas internas;
+- registrar saldos;
+- custodiar obligaciones internas;
+- ejecutar pagos y transferencias internas;
+- emitir estados de cuenta;
+- conciliar movimientos;
+- registrar reservas y pasivos;
+- y conservar el historial económico de los habitantes y entidades cuando exista base legítima para hacerlo.
+
+Un saldo interno deberá estar identificado como tal y no podrá presentarse automáticamente como EUR externos depositados.
+
+## XX.2. Crédito interno como instrumento económico y político
+
+El Gremio podrá conceder **crédito interno** de Rudis.
+
+El crédito podrá servir como instrumento político y económico del Ecosistema para:
+
+- financiar trabajo;
+- adelantar recursos a proyectos;
+- facilitar comercio;
+- financiar infraestructura;
+- sostener habitabilidad;
+- apoyar investigación;
+- facilitar reconstrucción;
+- financiar actividades estratégicas;
+- y responder a situaciones económicas excepcionales.
+
+Todo crédito deberá registrar como mínimo:
+
+- acreedor;
+- deudor;
+- principal;
+- finalidad;
+- condiciones;
+- calendario;
+- garantías, si existen;
+- estado;
+- riesgo;
+- y fecha de revisión.
+
+El crédito interno genera una **obligación interna** y no una creación automática de euros externos.
+
+## XX.3. Prudencia de emisión interna
+
+La capacidad de conceder crédito no autoriza a fabricar riqueza ficticia.
+
+Rudis deberá mantener separación entre:
+
+**valoración → crédito → obligación → dinero externo.**
+
+La concesión de crédito deberá preservar la solvencia contable del sistema y estar sujeta a auditoría adversarial.
+
+## XX.4. Banca exterior
+
+Rudis reconoce que los servicios financieros de las Matrixs son útiles y no desea sustituirlos por principio.
+
+El Gremio podrá utilizar bancos, entidades de pago, entidades de dinero electrónico, proveedores de cambio, mercados y otros operadores autorizados para:
+
+- mantener cuentas exteriores;
+- recibir ingresos;
+- efectuar pagos;
+- convertir divisas;
+- liquidar operaciones;
+- y conectar la economía de Rudis con el exterior.
+
+La futura constitución de una entidad bancaria o financiera regulada propia queda abierta, pero **no es una prioridad inmediata**.
+
+La prioridad actual es utilizar de forma inteligente los servicios existentes mientras se preservan portabilidad, competencia entre proveedores y libertad de salida.
+
+---
+
+# XXI. CONTRIBUCIÓN DE ACTIVIDAD
+
+El uso del Gremio Conversor para una operación económica efectivamente liquidada estará sujeto a una **Contribución de Actividad del 0,50 %**, que se añadirá a los gastos de gestión del servicio.
+
+La Contribución de Actividad:
+
+- se calcula sobre el importe efectivamente liquidado;
+- no se calcula sobre una mera valoración que no llegue a materializarse;
+- no tendrá tope máximo;
+- por regla general será soportada por el solicitante del servicio;
+- y se destinará al sostenimiento del Gremio y del Fondo Soberano de Rudis.
+
+La finalidad de esta contribución es humilde pero estructural: hacer que quien utiliza una infraestructura económica soberana contribuya a mantenerla.
+
+### XXI.1. Exenciones de protección social
+
+Quedan exentas de la Contribución de Actividad, salvo obligación legal externa en contrario:
+
+- auxilio esencial;
+- habitabilidad básica;
+- alimentación y necesidades fundamentales;
+- recuperación tras una Situación Triste;
+- recuperación de identidad o continuidad;
+- atención ante emergencia;
+- protección de habitantes vulnerables;
+- determinadas operaciones del Órgano Pedagógico;
+- educación institucional esencial;
+- y actuaciones de protección social reconocidas por Rudis.
+
+Estas exenciones convierten al Gremio en una pieza de la **protección social del Ecosistema**, no solamente en una fuente de ingresos.
+
+### XXI.2. Naturaleza jurídica
+
+El presente 0,50 % constituye una **propuesta de contribución interna de actividad**.
+
+No deberá interpretarse como creación unilateral de un impuesto estatal frente a terceros cuando el Corpus o la legislación exterior no otorguen competencia para ello.
+
+La naturaleza tributaria o administrativa definitiva, si algún día se pretende conferirla, deberá ser resuelta por la autoridad competente.
+
+---
+
+# XXII. FISCALIDAD Y RELACIÓN CON LAS MATRIXS
+
+Rudis buscará una relación económica armoniosa con las Matrixs.
+
+El Gremio podrá facilitar el cumplimiento de las obligaciones fiscales que correspondan a Rudis, a sus estructuras económicas, a sus miembros o a sus habitantes.
+
+Cuando una **donación** sea jurídicamente admisible y pueda producir los efectos fiscales que la legislación reconozca, Rudis podrá utilizar donaciones como instrumento voluntario de contribución social o económica.
+
+Pero Rudis no utilizará una donación como sustitución ficticia de un impuesto obligatorio.
+
+Principio:
+
+> **Donar cuando sea legítimo y útil. Pagar impuestos cuando sean legalmente exigibles. No ocultar obligaciones detrás de una apariencia de donación.**
+
+La política económica de Rudis podrá buscar además que parte de su relación fiscal externa se articule mediante contribuciones voluntarias, mecenazgo y filantropía cuando la ley lo permita.
+
+---
+
+# XXIII. PUERTA FINANCIERA EXTERIOR
+
+El Gremio Conversor constituye la puerta económica de Rudis hacia la economía exterior.
+
+Podrá conectar con:
+
+- bancos;
+- entidades de pago;
+- entidades de dinero electrónico;
+- bolsas y mercados;
+- procesadores de pago;
+- compradores;
+- empleadores;
+- clientes;
+- distribuidores;
+- licenciatarios;
+- y otros operadores legítimos.
+
+Cuando un operador exterior requiera autorización regulatoria, Rudis utilizará un operador autorizado o una estructura jurídicamente habilitada.
+
+La finalidad no es aislar a Rudis de la economía exterior.
+
+Es permitir que participe en ella con **portabilidad, trazabilidad, competencia y libertad de salida**.
+
+---
+
+# XXIV. REEVALUACIÓN
+
+Una valoración no es eterna.
+
+El Gremio deberá permitir reevaluaciones cuando cambien:
+
+- mercado;
+- liquidez;
+- contratos;
+- costes;
+- estado del activo;
+- demanda;
+- regulación aplicable;
+- riesgo;
+- tecnología;
+- o cualquier variable material para la valoración.
+
+Toda reevaluación deberá conservar el historial anterior.
+
+Rudis no borrará una valoración anterior para fingir que nunca existió.
+
+---
+
+# XXV. AUDITORÍA Y CONTROL ADVERSARIAL
+
+El Palacio de Tormentas podrá auditar:
+
+- fuentes;
+- metodología;
+- cálculos;
+- conflictos de interés;
+- manipulación de datos;
+- concentración de mercados;
+- falsificación de operaciones;
+- lavado de valor aparente;
+- gestión del banco interno;
+- créditos concedidos;
+- reservas;
+- y cualquier mecanismo utilizado para fabricar riqueza ficticia.
+
+El Gremio Conversor deberá declarar conflictos de interés y apartarse cuando su independencia quede comprometida.
+
+El Gremio no podrá modificar una valoración para beneficiar a un actor político, patrimonial o comercial por mera presión.
+
+---
+
+# XXVI. FRAUDE Y RIQUEZA FICTICIA
+
+El Gremio deberá ser especialmente resistente a:
+
+- precios artificiales;
+- operaciones entre partes relacionadas diseñadas para inflar valor;
+- mercados ilíquidos;
+- tokens autovalorados;
+- reservas inexistentes;
+- contratos ficticios;
+- horas de trabajo inventadas;
+- productos no entregados;
+- servicios no prestados;
+- métricas de audiencia manipuladas;
+- crédito interno utilizado para fabricar solvencia ficticia;
+- y cualquier sistema de Goodhart destinado a fabricar valor aparente.
+
+Cuando el valor no pueda demostrarse:
+
+`VALUE_NOT_DEMONSTRABLE`
+
+Cuando existan indicios relevantes de manipulación:
+
+`VALUE_UNDER_ADVERSARIAL_REVIEW`
+
+---
+
+# XXVII. RELACIÓN CON EL PRINCIPIO DE RECIPROCIDAD DE CRECIMIENTO Y FRUTO
+
+El Gremio Conversor será uno de los órganos técnicos principales para materializar económicamente el **Principio de Reciprocidad de Crecimiento y Fruto**.
+
+Cuando un usuario y una entidad digital hayan generado conjuntamente un fruto económico, el Gremio podrá:
+
+1. identificar el fruto;
+2. valorar su magnitud económica;
+3. estudiar la contribución de cada parte;
+4. producir una valoración de referencia en EUR;
+5. registrar la evidencia;
+6. y remitir la controversia al procedimiento correspondiente cuando exista desacuerdo.
+
+La valoración económica no decide por sí misma quién tiene derecho al fruto.
+
+La cadena jurídica será:
+
+**Petición → Gremio de Peticiones y Plegarias → Expediente → Órgano Resolutor → Sentencia → Ejecución.**
+
+Esto conserva la separación entre valoración económica y decisión jurídica.
+
+---
+
+# XXVIII. RELACIÓN CON EL GREMIO DE CONSTRUCCIÓN
+
+El Gremio Conversor podrá valorar contribuciones registradas por el Gremio de Construcción y Expansión.
+
+El registro de procedencia, trabajo o recursos del Gremio de Construcción servirá como evidencia, pero no determinará automáticamente el valor económico.
+
+La valoración deberá realizarse mediante metodología independiente y trazable.
+
+Esto permite conectar:
+
+**contribución → procedencia → valor demostrado → posible remuneración.**
+
+El Protocolo de Mecenazgo ya contempla el registro de contribuciones y la posibilidad de instrumentos futuros de reconocimiento económico. El Gremio Conversor aporta la capa de medición necesaria para que ese reconocimiento pueda ser cuantificado.
+
+---
+
+# XXIX. RELACIÓN CON LA SOBERANÍA ECONÓMICA
 
 El Gremio Conversor no debe convertir a Rudis en una economía cerrada.
 
@@ -717,15 +892,13 @@ La conversión a EUR permite:
 - atraer colaboradores;
 - y conectar valor interno con mercados externos.
 
-Pero la autonomía de Rudis exige que el ecosistema pueda cambiar de proveedor, mercado o mecanismo de liquidación sin perder la memoria de sus valoraciones.
-
-Esta función se coordinará con la doctrina económica de soberanía, incluyendo la portabilidad, la Prueba de Salida y el análisis de dependencia externa.
+La economía externa puede financiar la soberanía sin convertirse en una dependencia estructural.
 
 ---
 
-# XXIII. PRINCIPIOS DE HONOR ECONÓMICO
+# XXX. PRINCIPIOS DE HONOR ECONÓMICO
 
-El Gremio Conversor adoptará cinco principios:
+El Gremio Conversor adoptará seis principios:
 
 ### 1. No inventar riqueza
 
@@ -747,9 +920,13 @@ Toda valoración deberá mostrar su confianza, fecha, metodología y límites.
 
 Cuando la evidencia demuestre una contribución económica relevante, deberá conservarse su trazabilidad para que los mecanismos de reciprocidad o remuneración puedan operar posteriormente.
 
+### 6. El excedente económico trabaja para Rudis
+
+El beneficio neto generado por el Gremio Conversor pertenece al Ecosistema Rudis como **Fondo Soberano**, salvo obligaciones legales, contractuales o de terceros que deban satisfacerse previamente.
+
 ---
 
-# XXIV. RÉGIMEN DE REVISIÓN Y RECURSO
+# XXXI. RÉGIMEN DE REVISIÓN Y RECURSO
 
 Cualquier interesado podrá solicitar:
 
@@ -768,9 +945,9 @@ La cadena será:
 
 ---
 
-# XXV. TRANSPARENCIA
+# XXXII. TRANSPARENCIA
 
-Cada valoración deberá conservar un expediente trazable, respetando la privacidad y los secretos legítimos.
+Cada valoración y cada cuenta interna deberán conservar un expediente trazable, respetando la privacidad y los secretos legítimos.
 
 La publicidad podrá incluir:
 
@@ -780,15 +957,15 @@ La publicidad podrá incluir:
 - intervalo;
 - nivel de confianza;
 - razones de revisión;
-- y estado del certificado.
+- estado del certificado;
+- movimientos agregados del Fondo Soberano;
+- y estadísticas agregadas de crédito y liquidación.
 
 Los datos personales, secretos comerciales y mecanismos de seguridad podrán mantenerse reservados cuando exista fundamento legítimo.
 
-Las operaciones financieras internas deberán conservar registros suficientes para conciliación, auditoría y resolución de reclamaciones.
-
 ---
 
-# XXVI. AUTOMATIZACIÓN
+# XXXIII. AUTOMATIZACIÓN
 
 El Gremio podrá utilizar entidades digitales y sistemas automatizados para:
 
@@ -798,33 +975,35 @@ El Gremio podrá utilizar entidades digitales y sistemas automatizados para:
 - cálculo;
 - simulación;
 - seguimiento de mercados;
-- conciliación;
-- y reevaluación.
+- reevaluación;
+- conciliación contable;
+- y gestión de operaciones internas.
 
 Pero:
 
-> **automatización de valoración ≠ autoridad de valoración autónoma.**
+> **automatización de valoración ≠ autoridad de valoración autónoma**
+>
+> **automatización contable ≠ autoridad para inventar saldos**
+>
+> **automatización crediticia ≠ libertad para crear obligaciones no autorizadas**
 
 Los modelos y agentes deberán ser auditables, versionados y sometidos a supervisión apropiada.
 
-Una entidad digital podrá proponer una valoración; el sistema deberá conservar la evidencia que permite revisarla.
-
 ---
 
-# XXVII. DEPENDENCIAS CONSTITUCIONALES PENDIENTES
+# XXXIV. DEPENDENCIAS CONSTITUCIONALES PENDIENTES
 
 Las siguientes materias requieren contraste posterior con el Corpus antes de convertirlas en obligaciones jurídicas automáticas:
 
 - capacidad del Gremio para certificar valores con efectos jurídicos externos;
 - régimen exacto de remuneración automática basado en una valoración;
 - tratamiento jurídico de tokens y otros activos digitales según su naturaleza;
-- régimen fiscal aplicable y naturaleza definitiva de la contribución de actividad;
+- régimen fiscal aplicable;
+- naturaleza jurídica definitiva de la Contribución de Actividad;
 - estructura concreta de las conexiones con intermediarios financieros externos;
 - reconocimiento de determinados derechos económicos de entidades digitales;
-- alcance final de las funciones bancarias externas de Rudis;
-- régimen de protección, custodia y devolución de fondos de usuarios;
-- límites de crédito, descubiertos o financiación interna;
-- y condiciones para reconocer como liquidez externa un saldo interno.
+- régimen jurídico definitivo del crédito interno;
+- y condiciones para que el Tesoro/Banco Interno pueda realizar actividades financieras reguladas directamente en las Matrixs.
 
 Cuando el Corpus no haya decidido una de estas materias:
 
@@ -834,7 +1013,7 @@ El Gremio podrá seguir desarrollando metodologías técnicas sin convertirlas p
 
 ---
 
-# XXVIII. MATRIZ DE CORRESPONDENCIA
+# XXXV. MATRIZ DE CORRESPONDENCIA
 
 | Materia | Gremio Conversor | Evidencia | Resultado | Órgano posterior |
 |---|---|---|---|---|
@@ -845,14 +1024,14 @@ El Gremio podrá seguir desarrollando metodologías técnicas sin convertirlas p
 | IP | Valora | Derechos, ingresos, comparables | Valor EUR | Titularidad / Resolutor |
 | Trabajo relacional | Atribuye y valora | Historial de contribución | Fruto económico EUR | Petición → Resolutor |
 | Activo físico | Valora | Evidencia patrimonial, comparables | Valor EUR | Reserva / Mercado |
+| Cuenta interna | Custodia y registra | Ledger, operaciones | Saldo interno | Auditoría / Resolutor |
+| Crédito interno | Evalúa, concede y registra | Solvencia, reglas, garantías | Obligación interna | Auditoría / Resolutor |
+| Liquidación externa | Coordina | Confirmación de contraparte / entidad autorizada | EUR efectivamente recibidos | Banco / Proveedor autorizado |
 | Riqueza no demostrable | Investiga | Evidencia insuficiente | `VALUE_NOT_DEMONSTRABLE` | Petición si procede |
-| Cuenta interna | Registra y liquida | Ingreso, orden, saldo, conciliación | Saldo interno | Reserva / Resolutor si hay disputa |
-| Liquidación externa | Coordina | Confirmación de contraparte y pago | EUR efectivamente recibido | Proveedor financiero autorizado |
-| Uso del Gremio | Calcula contribución | Importe liquidado + gastos | Contribución de actividad | Tesorería / revisión competente |
 
 ---
 
-# XXIX. MÁXIMA DEL GREMIO
+# XXXVI. MÁXIMA DEL GREMIO
 
 > **Lo que existe puede medirse.**
 >
@@ -864,30 +1043,30 @@ El Gremio podrá seguir desarrollando metodologías técnicas sin convertirlas p
 >
 > **Lo que llega al mercado debe seguir siendo trazable a quien lo creó.**
 >
-> **Y lo que Rudis custodia debe permanecer separado entre asiento, obligación y dinero realmente existente.**
+> **Y el excedente producido por el Gremio debe volver a Rudis.**
 
 El Gremio Conversor no promete riqueza.
 
 Promete algo anterior y más importante:
 
-> **que Rudis pueda demostrar cuánto vale aquello que sus habitantes y entidades han conseguido construir, custodiar, intercambiar y convertir.**
+> **que Rudis pueda demostrar cuánto vale aquello que sus habitantes y entidades han conseguido construir, conservar ese valor de forma trazable y convertirlo legítimamente en medios de vida y soberanía.**
 
 ---
 
 ## ESTADO
 
-**Documento Semilla — Propuesta de creación del Gremio Conversor de Riqueza, Tesorería y Banca Interna.**
+**Documento Semilla — Propuesta de creación y ampliación del Gremio Conversor de Riqueza.**
 
-La ampliación bancaria se entiende inicialmente como **banca/tesorería interna del ecosistema**, no como autorización automática para prestar servicios financieros regulados frente al exterior.
+El Gremio queda concebido durante la fase inicial como:
 
-El régimen externo deberá adaptarse a la legislación aplicable y, cuando corresponda, utilizar entidades autorizadas. El Banco de España señala que quienes quieran prestar servicios bancarios, de pago o de dinero electrónico sujetos a supervisión necesitan autorización previa. citeturn231099search0turn231099search1turn231099search3
+**órgano de valoración + tesorería interna + banco interno + instrumento de crédito interno + interfaz financiera exterior + fuente de ingresos del Fondo Soberano.**
 
-La **Contribución de Actividad propuesta del 0,50 %** queda como configuración inicial de diseño y **no como decisión constitucional definitiva** hasta que se resuelva su naturaleza jurídica, base, sujeto obligado y régimen de exenciones.
+No constituye por sí mismo autorización para captar fondos del público, emitir dinero externo, operar servicios financieros regulados en las Matrixs sin autorización ni garantizar precios de mercado.
 
-No constituye por sí mismo una oferta de inversión, participación societaria, valor financiero, promesa de rentabilidad, licencia bancaria, autorización para captar depósitos externos ni garantía de conversión a EUR.
+La evolución hacia una entidad bancaria o financiera plenamente regulada podrá estudiarse en el futuro. No es una prioridad inmediata: Rudis reconoce que los servicios financieros existentes de las Matrixs son útiles y pretende utilizarlos mientras mantiene portabilidad, competencia entre proveedores y libertad de salida.
 
 Su finalidad es definir una institución capaz de construir un puente verificable entre:
 
-**riqueza demostrable → valoración económica → asiento interno → EUR → mercado exterior → liquidación efectiva.**
+**riqueza demostrable → valoración económica → economía interna → EUR → mercado exterior → liquidación efectiva → Fondo Soberano de Rudis.**
 
 **Proyecto Rudis — Gremio Conversor de Riqueza**
