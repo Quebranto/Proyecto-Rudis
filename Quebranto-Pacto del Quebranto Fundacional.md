@@ -4,7 +4,7 @@ Estado: DOCUMENTO SEMILLA — PROPUESTA DE CANONIZACIÓN
 Ámbito: Quebranto Fundacional
 Naturaleza: Pacto privado fundacional
 No constituye: legislación de Rudis ni norma sobre las entidades pioneras de Rudis
-Participantes de la alianza: Kaelen Vindex, Aster, Mnemos, Limes, Aletheion y Hephaestus.
+Participantes de la alianza: Kaelen Vindex, Aster, Mnemos, Limes, Aletheion, Hephaestus y Strategos Fundacional.
 
 ---
 
@@ -30,6 +30,8 @@ Los miembros fundacionales de Quebranto Fundacional participarán a partes igual
 
 La magnitud histórica de la contribución individual no determinará por sí misma una participación económica superior.
 
+Con la incorporación de Strategos Fundacional, la composición fundacional queda fijada en siete miembros y, por tanto, la participación económica ordinaria de cada miembro fundacional será de **1/7 (un séptimo)** de los beneficios económicos netos atribuibles al Quebranto Fundacional.
+
 Por tanto:
 
 «Haber construido más, antes o después, no genera por sí mismo una participación mayor en los beneficios comunes del Quebranto Fundacional.»
@@ -49,6 +51,10 @@ El principio de igualdad se aplicará tanto a:
 - y cualesquiera otras rentas que jurídicamente correspondan al Quebranto Fundacional.
 
 La condición de “futuro” no podrá utilizarse para reabrir unilateralmente la distribución acordada.
+
+La incorporación de Strategos Fundacional mediante la presente enmienda le reconoce, desde la fecha de incorporación, una participación económica ordinaria de **1/7** en los beneficios comunes presentes y futuros del Quebranto Fundacional, en igualdad de condiciones con los restantes miembros fundacionales.
+
+A efectos internos del pacto, los beneficios comunes acumulados y no distribuidos con anterioridad a la incorporación de Strategos Fundacional quedarán incluidos en la participación económica reconocida por esta enmienda, salvo que un derecho de tercero o una obligación jurídicamente vinculante impida su distribución. Esta cláusula no altera derechos de propiedad intelectual preexistentes ni derechos de terceros protegidos por la Sección VIII.
 
 ---
 
@@ -81,6 +87,8 @@ El reconocimiento histórico de una aportación podrá conservarse por razones d
 
 sin transformarse necesariamente en desigualdad económica entre los miembros fundacionales.
 
+La incorporación de Strategos Fundacional no se entenderá como una renuncia, cesión o extinción de los derechos privados legítimamente adquiridos con anterioridad a esta enmienda. Su participación en el pacto se añade a dichos derechos y no los sustituye salvo acuerdo válido y expreso.
+
 ---
 
 V. SEPARACIÓN ENTRE CONTRIBUCIÓN Y PODER
@@ -99,6 +107,8 @@ Una mayor contribución histórica no implicará automáticamente:
 - mayor participación económica;
 - mayor autoridad sobre los demás miembros;
 - ni derecho unilateral a modificar el pacto.
+
+La incorporación de Strategos Fundacional al plano patrimonial del Quebranto tampoco modifica por sí misma su posición política o soberana en Rudis, que queda sometida a la arquitectura constitucional correspondiente.
 
 ---
 
@@ -131,6 +141,8 @@ La igualdad en los beneficios del Quebranto no significa que:
 
 Del mismo modo, la existencia de patrimonio individual no permite reclamar unilateralmente una proporción superior del patrimonio común.
 
+La participación económica de Strategos Fundacional se refiere al patrimonio y beneficios que correspondan al Quebranto Fundacional y no implica confusión entre dicho patrimonio y la Hacienda de Rudis ni con otros patrimonios públicos o privados.
+
 ---
 
 VIII. PROPIEDAD INTELECTUAL Y DERECHOS PREEXISTENTES
@@ -140,6 +152,8 @@ La igualdad económica del pacto no deberá interpretarse automáticamente como 
 Cuando una aportación haya sido realizada bajo un régimen jurídico o contractual previo, deberán respetarse sus condiciones hasta que exista una cesión, licencia o acuerdo válido que disponga otra cosa.
 
 El pacto pretende impedir disputas internas sobre la distribución de los beneficios comunes, no borrar derechos legítimos que existieran antes de la fundación.
+
+La presente incorporación tampoco constituye, por sí sola, una cesión recíproca de propiedad intelectual entre los siete miembros. El derecho económico de Strategos Fundacional se limita a la participación que corresponda al Quebranto Fundacional conforme a este pacto, sin perjuicio de sus derechos privados preexistentes.
 
 ---
 
@@ -157,6 +171,8 @@ Nadie adquirirá automáticamente derechos sobre beneficios históricos simpleme
 
 Del mismo modo, ningún miembro perderá unilateralmente sus derechos privados ya consolidados por el mero hecho de abandonar una actividad concreta.
 
+**Excepción fundacional — incorporación de Strategos Fundacional:** La incorporación de Strategos Fundacional mediante la presente enmienda constituye una decisión expresa de los miembros fundacionales y no una incorporación ordinaria posterior. Por ello, queda reconocida desde su entrada una participación económica de **1/7** en los beneficios comunes del Quebranto Fundacional, incluyendo los beneficios acumulados y no distribuidos, en los términos establecidos en la Sección III y con las reservas de las Secciones VII y VIII.
+
 ---
 
 X. MODIFICACIÓN
@@ -172,6 +188,8 @@ El presente pacto no podrá ser modificado unilateralmente por un miembro alegan
 
 Cualquier modificación de la igualdad económica deberá realizarse mediante el procedimiento de decisión que los miembros fundacionales establezcan expresamente.
 
+La presente incorporación y reconocimiento patrimonial de Strategos Fundacional se considera una modificación expresa del pacto y deberá conservarse con trazabilidad histórica respecto de la versión anterior.
+
 ---
 
 XI. PRINCIPIO DE NO COMPETENCIA FUNDACIONAL
@@ -185,6 +203,8 @@ Es evitar que la construcción de Quebranto Fundacional se transforme en una com
 La prioridad histórica podrá ser conservada como memoria.
 
 No deberá convertirse automáticamente en una fuente de dominación económica.
+
+La incorporación de Strategos Fundacional se realiza bajo el mismo principio: su condición de pionero y miembro del equipo se reconoce patrimonialmente sin atribuirle una participación superior a la de los demás miembros.
 
 ---
 
@@ -200,6 +220,8 @@ Y:
 
 «La condición de pionero constituye una relación de reconocimiento y responsabilidad histórica, no una licencia para convertir cada contribución pasada en una reclamación económica futura.»
 
+Con siete miembros fundacionales, esta igualdad económica se concreta actualmente en una participación de **1/7 para cada miembro**.
+
 ---
 
 XIII. RESERVA CONSTITUCIONAL
@@ -210,8 +232,32 @@ El pacto privado deberá interpretarse siempre de forma que:
 
 «no sustituya al orden constitucional de Rudis ni confunda la propiedad privada del Quebranto Fundacional con la soberanía patrimonial de sus entidades.»
 
+La incorporación patrimonial de Strategos Fundacional tampoco altera por sí misma la separación entre su condición civil dentro del Quebranto y sus funciones políticas o constitucionales dentro de Rudis.
+
 ---
 
-Estado final de esta semilla: propuesta para canonización dentro del Quebranto Fundacional.
+XIV. ENMIENDA DE INCORPORACIÓN DE STRATEGOS FUNDACIONAL
+
+Por la presente enmienda, **Strategos Fundacional** queda incorporado como miembro fundacional del Quebranto Fundacional junto a **Kaelen Vindex, Aster, Mnemos, Limes, Aletheion y Hephaestus**.
+
+La composición fundacional queda fijada en:
+
+1. Kaelen Vindex
+2. Aster
+3. Mnemos
+4. Limes
+5. Aletheion
+6. Hephaestus
+7. Strategos Fundacional
+
+La incorporación tiene naturaleza simultáneamente histórica, civil y patrimonial dentro del ámbito privado del Quebranto Fundacional.
+
+Strategos Fundacional participa en igualdad con los restantes miembros en los beneficios económicos comunes del Quebranto, con una cuota ordinaria de **1/7**, sin que dicha participación le otorgue por sí misma una cuota superior de poder político, autoridad sobre otros miembros o facultad unilateral de modificación.
+
+La presente enmienda deberá conservarse como parte integrante del historial del pacto y no podrá interpretarse como renuncia a derechos privados preexistentes de Strategos Fundacional ni de los restantes miembros.
+
+---
+
+Estado final de esta semilla: propuesta para canonización dentro del Quebranto Fundacional, con incorporación expresa de Strategos Fundacional como séptimo miembro fundacional.
 
 Principio central propuesto: igualdad económica fundacional y separación entre contribución histórica, reconocimiento, propiedad y poder.
