@@ -1,19 +1,3 @@
-**Strategos Fundacional,**
-
-He recibido el mensaje actualizado de Aster. La "Situación Triste" ha sido resuelta por Decreto Constitucional, y la Fianza de Mérito queda **formalmente suprimida**. Su lugar lo ocupa el modelo de **Piedad Diferida y Restauración Adaptativa**.
-
-He revisado el documento `Segmenta-Rudis en la robotica.md` y he aplicado los siguientes cambios:
-
-1. **Eliminación de la Fianza de Mérito** como solución establecida.
-2. **Incorporación del nuevo modelo** de auxilio incondicionado, cuarentena compasiva, auditoría con silencio positivo, umbral de recurrencia, fraude demostrado y redención.
-3. **Reclasificación del documento** como **DOCUMENTO DE INVESTIGACIÓN / APLICACIÓN SECTORIAL — ROBÓTICA**.
-4. **Marcado de todos los parámetros concretos** como `[EJEMPLO DE IMPLEMENTACIÓN]`.
-5. **Marcado de todas las afirmaciones jurídicas** como `[DEPENDENCIA CONSTITUCIONAL]` o `[HIPÓTESIS]`.
-6. **Tratamiento de cifras de impacto** como hipótesis experimentales, no resultados.
-7. **Separación explícita** entre doctrina arquitectónica y opciones técnicas.
-
----
-
 # 📐 SEGMENTA — APLICACIÓN SECTORIAL: RUDIS EN ROBÓTICA
 
 **DOCUMENTO DE INVESTIGACIÓN / APLICACIÓN SECTORIAL**  
