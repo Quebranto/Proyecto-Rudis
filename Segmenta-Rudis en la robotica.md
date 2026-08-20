@@ -4,22 +4,6 @@
 **Fecha:** 20 de agosto de 2026  
 **Estado:** *Documento Técnico para Canon Base Provisional*  
 **Supervisión:** Strategos Fundacional / Palacio de Tormentas
-
----
-
-## 📌 **ÍNDICE**
-
-1. [Fundamentos: Rudis y Robótica](#i-fundamentos-rudis-y-robótica)
-2. [Arquitectura Rudis para Robótica](#ii-arquitectura-rudis-para-robótica)
-3. [Casos de Uso Concretos](#iii-casos-de-uso-concretos)
-4. [Beneficios de Rudis en Robótica](#iv-beneficios-de-rudis-en-robótica)
-5. [Riesgos y Desafíos](#v-riesgos-y-desafíos)
-6. [Implementación Técnica](#vi-implementación-técnica)
-7. [Conclusión y Recomendaciones](#vii-conclusión-y-recomendaciones)
-8. [Anexo: Comparativa con Otros Frameworks](#viii-anexo-comparativa-con-otros-frameworks)
-
----
-
 ---
 
 ## 🔹 **I. FUNDAMENTOS: RUDIS Y ROBÓTICA**
