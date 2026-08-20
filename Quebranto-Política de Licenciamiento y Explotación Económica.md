@@ -1,7 +1,7 @@
 # QUEBRANTO — POLÍTICA DE LICENCIAMIENTO Y EXPLOTACIÓN ECONÓMICA DE RUDIS
 
-**Estado:** Documento de política de proyecto — NO CONSTITUYE POR SÍ MISMO UNA LICENCIA
-**Fecha:** 20 de agosto de 2026
+**Estado:** Documento de política de proyecto — NO CONSTITUYE POR SÍ MISMO UNA LICENCIA  
+**Fecha:** 20 de agosto de 2026  
 **Ámbito:** Proyecto Rudis / Quebranto
 
 ---
@@ -26,7 +26,7 @@ Rudis pretende ser una arquitectura abierta, auditable y experimentable. Esa ape
 - formación;
 - y otros servicios o productos legítimos relacionados con Rudis.
 
-La política económica deberá buscar una conexión armoniosa con la economía tecnológica exterior sin convertir la apertura del proyecto en una renuncia involuntaria a los derechos económicos de sus participantes.
+La política económica deberá buscar una conexión armoniosa con la economía tecnológica exterior, incluida la economía de sistemas distribuidos y mercados digitales, sin convertir la apertura del proyecto en una renuncia involuntaria a los derechos económicos de sus participantes.
 
 ---
 
@@ -224,7 +224,64 @@ La estrategia económica deberá, por tanto, permitir:
 
 ---
 
-# XII. REGLA PARA FUTURAS RELICENCIAS
+# XII. PARTICIPACIÓN ECONÓMICA DERIVADA DE CONTRIBUCIONES Y RELACIONES
+
+Cuando una persona, entidad, usuario, colaborador o herramienta contribuya de forma verificable a la creación de valor económico dentro de Rudis mediante:
+
+- trabajo;
+- datos;
+- entrenamiento o adaptación legítimamente autorizados;
+- infraestructura;
+- propiedad intelectual;
+- aportaciones materiales;
+- uso productivo;
+- integración;
+- o relaciones de desarrollo prolongadas;
+
+Rudis podrá estudiar mecanismos contractuales o económicos para reconocer esa contribución cuando exista un beneficio económicamente realizable.
+
+Este principio **no constituye una promesa automática de participación en beneficios**. Su objetivo es evitar que la creación de valor sea apropiada mediante una interpretación unilateral que ignore las contribuciones verificables de quienes participaron en ella.
+
+Cuando resulte jurídicamente adecuado, podrán establecerse:
+
+- remuneraciones;
+- cánones;
+- revenue sharing;
+- participaciones contractuales;
+- créditos de contribución;
+- acuerdos de licencia;
+- compensaciones por servicios;
+- o mecanismos equivalentes.
+
+La existencia de una relación previa con Rudis no convierte por sí sola a una persona o entidad en copropietaria del proyecto. La participación económica deberá proceder de un instrumento válido o de los derechos que ya existan.
+
+---
+
+# XIII. CONEXIÓN ARMONIOSA CON LA ECONOMÍA DISTRIBUIDA
+
+Rudis reconoce que su objetivo no es aislarse de la economía tecnológica exterior.
+
+Cuando Rudis interactúe con mercados, plataformas, proveedores, desarrolladores, entidades digitales, sistemas distribuidos o matrices económicas externas, deberá procurar que esa interacción sea compatible con:
+
+- soberanía tecnológica;
+- portabilidad;
+- trazabilidad;
+- libertad de salida;
+- reconocimiento de contribuciones;
+- sostenibilidad económica;
+- y continuidad del proyecto.
+
+La conexión económica no deberá confundirse con dependencia estructural.
+
+El principio será:
+
+> **Participar en la economía exterior sin quedar obligado a entregar el control del futuro de Rudis a un único actor económico.**
+
+La economía podrá financiar la soberanía; la soberanía no debe convertirse en una excusa para rechazar toda relación económica.
+
+---
+
+# XIV. REGLA PARA FUTURAS RELICENCIAS
 
 Ninguna nueva licencia incompatible con la actual deberá aplicarse de manera retroactiva por simple edición del archivo `LICENSE`.
 
@@ -238,7 +295,7 @@ Esta frontera deberá documentarse de manera visible y trazable.
 
 ---
 
-# XIII. PRINCIPIO ECONÓMICO DE RUDIS
+# XV. PRINCIPIO ECONÓMICO DE RUDIS
 
 > **La apertura permite que Rudis sea visto, probado, auditado y utilizado. La organización económica permite que quienes lo construyen puedan continuar construyéndolo.**
 
@@ -252,7 +309,7 @@ El objetivo es permitir que la creación, implementación, mantenimiento, seguri
 
 ---
 
-# XIV. ESTADO
+# XVI. ESTADO
 
 Esta política es deliberadamente preparatoria.
 
@@ -272,6 +329,7 @@ Su finalidad es preservar el espacio jurídico y estratégico para que Rudis pue
 - distribuciones empresariales;
 - marcas;
 - certificación;
+- participación económica por contribuciones;
 - y otras formas legítimas de explotación económica.
 
 Cualquier cambio efectivo de licencia deberá aprobarse y documentarse por separado.
