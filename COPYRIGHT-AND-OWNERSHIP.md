@@ -14,6 +14,8 @@ Salvo indicación expresa, el material original creado para Proyecto Rudis por s
 
 La publicación de un material en GitHub no implica por sí sola la cesión de su titularidad.
 
+El régimen de documentación por defecto se desarrolla en `DOCUMENTATION-LICENSE.md`.
+
 ## 3. Código bajo AGPL-3.0
 
 El código que se encuentre expresamente cubierto por `LICENSE` se distribuye bajo GNU Affero General Public License v3.0.
@@ -56,10 +58,23 @@ La capacidad de explotar económicamente el proyecto se organizará mediante los
 
 El objetivo es mantener una vía abierta para que Proyecto Rudis pueda recibir ingresos por servicios, soporte, integración, infraestructura, certificación, consultoría, formación, productos y otras actividades lícitas, sin confundir esos ingresos con los derechos concedidos por la AGPL-3.0.
 
-## 9. Cambio futuro de estructura
+## 9. Ideas, principios y documentación
+
+El proyecto no afirma que el copyright del corpus otorgue un monopolio sobre ideas, métodos o principios abstractos. La protección efectiva de cada elemento depende de su naturaleza jurídica y de la legislación aplicable.
+
+La estrategia patrimonial de Rudis distingue, por tanto, entre:
+
+- derechos sobre expresiones documentales concretas;
+- derechos sobre código cubierto por AGPL;
+- signos distintivos e identidad institucional;
+- secretos empresariales cuando concurran sus requisitos;
+- contratos y activos económicos;
+- y otras categorías de derechos independientes.
+
+## 10. Cambio futuro de estructura
 
 Si el proyecto pasa a una sociedad, fundación, asociación u otra estructura jurídica, la titularidad de los activos deberá transferirse o licenciarse mediante instrumentos jurídicamente válidos. Este documento no efectúa por sí mismo ninguna transferencia futura.
 
-## 10. Aviso
+## 11. Aviso
 
 Este documento es una declaración de gobernanza patrimonial del proyecto y no constituye asesoramiento jurídico. Las operaciones de cesión, licencia comercial, inversión, contratación o explotación regulada deberán formalizarse conforme a la legislación aplicable.
