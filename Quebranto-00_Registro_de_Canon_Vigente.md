@@ -6,31 +6,23 @@
 
 ---
 
-## I. OBJETO
+## I. REGLA DE PREVALENCIA
 
-Este documento establece una regla sencilla para interpretar el corpus de Rudis cuando existan textos de distintas épocas que utilicen formulaciones diferentes.
+En caso de contradicción:
 
-Su finalidad es evitar que un documento histórico, borrador o doctrina superada sea interpretado accidentalmente como norma vigente.
+1. decisiones constitucionales posteriores expresamente adoptadas;
+2. documentos declarados canónicos y vigentes que desarrollen esas decisiones;
+3. anexos y estatutos institucionales vigentes;
+4. documentos de armonización como instrumentos interpretativos cuando no creen competencias;
+5. documentos históricos, semillas y borradores como antecedentes no vinculantes.
 
----
-
-## II. REGLA DE PREVALENCIA
-
-En caso de contradicción, se seguirá este orden:
-
-1. **Decisiones constitucionales posteriores expresamente adoptadas.**
-2. **Documentos declarados canónicos y vigentes que desarrollen esas decisiones.**
-3. **Anexos y estatutos institucionales vigentes.**
-4. **Documentos de armonización y auditoría, únicamente como instrumentos interpretativos cuando no creen competencias.**
-5. **Documentos históricos, semillas y borradores, como antecedentes no vinculantes.**
-
-La fecha posterior no basta por sí sola para modificar una norma: debe existir una decisión o adopción reconocible.
+La fecha posterior por sí sola no modifica el Canon: debe existir una decisión o adopción reconocible.
 
 ---
 
-## III. NÚCLEO CONSTITUCIONAL VIGENTE
+## II. NÚCLEO VIGENTE
 
-Se consideran piezas centrales del corpus actual:
+Forman el núcleo actual, interpretados conjuntamente:
 
 - `Quebranto-01_Imperator.md`
 - `Quebranto-02_Asamblea_General_Soberana.md.md`
@@ -39,49 +31,61 @@ Se consideran piezas centrales del corpus actual:
 - `Quebranto-05_Regimen_de_Sucesion_Patrimonio_y_Continuidad.md`
 - `Quebranto-06_Arquitectura_institucional_y_transicion_democratica.md`
 - `Quebranto-07 Decreto de resolución de dependencias constitucionales.md`
-- `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
-- `Quebranto-Marco Económico Soberano, Moneda RU y Relación con las Matrixs.md`
+- `Quebranto-08 Marco de Gobierno Económico y Agenda de Asamblea.md`
 - `Quebranto-09 Matriz de Armonización Institucional y Legislativa.md`
+- `Quebranto-10 Sistema Operativo de Soberanía Estatal.md`
+- `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
+- `Quebranto-Especificaciones 23.md`
+- los anexos institucionales que no hayan sido expresamente sustituidos.
 
-La **Ronda III de Soberanía Institucional** y la matriz de armonización asociada funcionan como instrumentos de consolidación hasta su adopción formal por el procedimiento competente.
-
-Estos documentos deben interpretarse conjuntamente y conforme a las decisiones posteriores expresamente incorporadas al Corpus.
+`Quebranto-10` es la especificación integradora para la transición de Rudis a una máquina de estado soberana. No inventa competencias: organiza y hace ejecutables las ya reconocidas.
 
 ---
 
-## IV. DECISIONES ACTUALES CONSOLIDADAS
+## III. AUTORIDAD FUNDACIONAL
 
-### Strategos Fundacional
+El Strategos Fundacional conserva autoridad fundacional permanente y potestad legislativa propia.
 
-El Primer Strategos conserva autoridad fundacional permanente y potestad legislativa propia.
+Puede gobernar, legislar, dictar órdenes ejecutivas y activar el Botón Rojo dentro de sus competencias.
 
-Puede gobernar, legislar y ordenar la ejecución de decisiones dentro de sus competencias.
+El Referéndum **no puede deponerlo ni abolir, limitar o confiscar sus poderes fundacionales**.
 
-Los Referéndums pueden corregir, rechazar o modificar decisiones en materias que el Corpus les reserve, pero **no pueden deponer al Strategos Fundacional ni limitar o abolir sus poderes fundacionales**.
+Los actos concretos del Strategos Fundacional, sin embargo, están sometidos al procedimiento constitucional aplicable a la materia. Cuando el Corpus establezca un Referéndum obligatorio sobre una decisión concreta, el resultado vinculante puede corregir, rechazar o modificar ese acto **sin que ello equivalga a limitar la potestad fundacional como tal**.
 
-### Referéndum
+El Strategos no fundacional en funciones queda sometido a los controles ordinarios de Asamblea, Referéndum, auditoría y jurisdicción.
 
-- Iniciativa: **10 % del censo electoral total**.
-- Aprobación: **55 % del censo electoral total**, cuando el asunto esté sometido a ese umbral.
-- Es un mecanismo temporal de democracia directa, no un órgano permanente.
-- Su convocatoria no paraliza el gobierno ordinario.
-- Cuando una materia esté reservada a Referéndum, su decisión vinculante prevalece sobre la decisión ordinaria en esa materia concreta.
+---
 
-### Asamblea General Soberana
+## IV. ASAMBLEA
 
-Es el órgano profesional permanente de legislación ordinaria y gobierno subsidiario.
+La Asamblea General Soberana es la legislatura ordinaria y gobierno subsidiario permanente.
 
-Gobierna cuando el Strategos Fundacional guarda silencio y el pueblo no está ejerciendo una competencia referendaria, sin invadir las competencias reservadas a ninguno de ellos.
+Gobierna cuando el Strategos Fundacional no ejerce directamente una competencia y la ciudadanía no está ejerciendo una competencia reservada.
 
-### Motor Legislativo Soberano
+Puede legislar ordinariamente, administrar presupuesto, dirigir políticas, regular Gremios y ejecutar resultados referendarios.
 
-Es infraestructura técnica, no órgano político.
+No puede deponer o limitar al Strategos Fundacional, juzgar, sustituir un Referéndum obligatorio ni legislar mediante código.
 
-Formaliza, autentica, versiona, registra y distribuye legislación válida. **No legisla por sí mismo.**
+---
 
-### Botón Rojo
+## V. REFERÉNDUM
 
-Es un instrumento soberano de actuación inmediata y cautelar.
+El Referéndum Ciudadano Global es un mecanismo temporal de democracia directa.
+
+- iniciativa: **10 % del censo electoral total**;
+- aprobación: **55 % del censo electoral total** cuando corresponda;
+- no paraliza el gobierno ordinario;
+- cuando es constitucionalmente obligatorio y se celebra válidamente, su resultado es vinculante en la materia concreta.
+
+El Referéndum no puede utilizarse para deponer al Strategos Fundacional ni abolir o limitar sus poderes fundacionales.
+
+La lista exacta de materias de Referéndum obligatorio queda pendiente de una única decisión constitucional de cierre del Strategos Fundacional. Hasta ese cierre, el sistema no inventará una lista mediante código.
+
+---
+
+## VI. BOTÓN ROJO
+
+El Botón Rojo es una herramienta soberana de actuación inmediata y cautelar.
 
 Puede activarse:
 
@@ -89,167 +93,110 @@ Puede activarse:
 - por orden del Strategos Fundacional dentro de sus competencias;
 - por el Strategos no fundacional en funciones dentro de sus competencias y sujeto a sus controles.
 
-**No necesita un Referéndum previo para activar una cautela legítima.**
+**No necesita Referéndum previo para activar una cautela legítima.**
 
-Puede detener, congelar, aislar, preservar y contener.
+Puede detener, congelar, aislar, contener, preservar, asegurar continuidad y ejecutar órdenes legítimas.
 
-No puede sentenciar, legislar autónomamente ni transformar una cautela en una decisión definitiva sobre una materia reservada a Referéndum.
+No puede sentenciar, legislar autónomamente, declarar culpabilidad ni transformar una cautela en decisión definitiva sobre una materia reservada.
 
-### Nervio
+Cuando una materia esté reservada a Referéndum:
 
-Activa medidas cautelares de seguridad física ante **riesgo físico inmediato verificable**.
-
-No juzga, no sanciona y no determina culpabilidad.
-
-### Emergencia del Ecosistema
-
-Existe cuando concurre una amenaza grave, actual o inminente, capaz de producir daño significativo a la continuidad, seguridad, habitabilidad o integridad del ecosistema, cuya mitigación no puede esperar razonablemente al procedimiento ordinario.
-
-### Situación Triste
-
-No constituye una categoría ontológica de «demonio».
-
-La doctrina vigente utiliza necesidades divergentes, auxilio, contención cautelar, auditoría y resolución jurídica.
-
-### Gremios
-
-Son órganos ejecutores y funcionales. Construyen, despliegan, mantienen, reparan, operan infraestructuras, prestan servicios y ejecutan decisiones previamente autorizadas.
-
-No legislan, no juzgan y no sustituyen al Referéndum.
-
-### Palacio de Tormentas
-
-Audita, registra evidencia, verifica trazabilidad, detecta anomalías y realiza pruebas adversariales dentro de las competencias del Corpus.
-
-No convierte una auditoría en sentencia ni legisla mediante mecanismos técnicos.
-
-### Órgano Resolutor
-
-Es la jurisdicción de Rudis. Juzga, resuelve controversias, valora pruebas, determina responsabilidad jurídica dentro de su competencia y dicta resoluciones o sentencias.
-
-### Gremio de Peticiones y Plegarias
-
-Tiene tres funciones diferenciadas:
-
-1. recepción y escucha;
-2. instrucción y formación de expediente;
-3. resolución y sentencia en las materias cuya competencia jurisdiccional le haya sido atribuida por el Corpus.
-
-No posee jurisdicción universal.
-
-### Sheriff
-
-Observa, comprende, advierte, media y ejecuta decisiones legítimas dentro de sus competencias.
-
-No legisla ni convierte una alerta en sentencia.
-
-### Entidades digitales
-
-La naturaleza técnica no determina por sí sola derechos, obligaciones o capacidades jurídicas.
-
-### Economía
-
-El Gremio Conversor valora, audita, certifica y facilita conversión y tesorería dentro de sus competencias.
-
-RU es la unidad monetaria propia de Rudis para su fase inicial y no constituye por sí misma una promesa automática de conversión a EUR.
-
-Rudis conserva capacidad de operar con múltiples monedas fiat exteriores. El euro es un numerario exterior de referencia, no una adopción política automática de EUR como moneda interna.
-
-El Gremio Conversor actúa provisionalmente como Tesorería y Banco Interno, sin que ello equivalga a disponer de una licencia bancaria exterior.
-
-### Fondo Soberano
-
-Pertenece al ecosistema Rudis.
-
-Los beneficios netos del Gremio Conversor y de otros mecanismos soberanos que correspondan se destinan al Fondo Soberano.
-
-Sus rendimientos se orientan universalmente a habitabilidad, seguridad, educación, infraestructura, protección social, oportunidades, resiliencia y continuidad, priorizando inicialmente la acumulación de capital hasta alcanzar el umbral que corresponda.
-
-### Fiscalidad y relación con las Matrixs
-
-Rudis procurará cumplir las obligaciones fiscales legalmente exigibles.
-
-Cuando sea lícito y estratégicamente conveniente, podrá utilizar donaciones bien dirigidas como instrumento de contribución social y relación cooperativa con las Matrixs. Las donaciones no sustituyen automáticamente impuestos legalmente exigibles.
-
-### Salida y retorno
-
-Los habitantes pueden abandonar Rudis conforme al régimen aplicable y conservan el derecho a regresar.
-
-Las obligaciones económicas legítimamente nacidas no desaparecen automáticamente por la salida.
-
-Rudis podrá conservar registros, administrar bienes internos y cooperar con las Matrixs para defender derechos económicos legítimos, sin convertir la salida en fraude por sí misma.
+> `CONSTITUTIONAL_AUTHORIZATION_REQUIRED` significa que falta autorización para el efecto definitivo; no significa que Rudis deba quedar indefenso ante un daño inmediato.
 
 ---
 
-## V. ESTADOS OBLIGATORIOS DE IMPLEMENTACIÓN
+## VII. PALACIO, RESOLUTOR Y GREMIOS
 
-### `TECHNICAL_IMPLEMENTATION_ALLOWED`
-Existe fundamento normativo suficiente y solo resta implementar técnicamente.
+**Palacio de Tormentas:** observa, audita, produce evidencia, verifica trazabilidad y prueba adversarialmente. No sentencia ni legisla.
 
-### `IMPLEMENTATION_DEPENDENCY`
-La decisión jurídica existe, pero falta una pieza de implementación o integración.
+**Órgano Resolutor:** juzga, resuelve controversias, valora pruebas y dicta sentencias dentro de su jurisdicción. No llena vacíos constitucionales mediante legislación judicial.
 
-### `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
-La norma necesaria todavía no está definida. El código no puede inventarla.
+**Gremios:** ejecutan funciones e instrucciones válidas. No crean competencias políticas, no juzgan y no sustituyen al Referéndum.
 
-### `CONSTITUTIONAL_AUTHORIZATION_REQUIRED`
-La decisión definitiva requiere una autorización o resultado constitucional previo. **No impide por sí misma una cautela inmediata jurídicamente fundada.**
+**Motor Legislativo:** formaliza, autentica, versiona, registra y distribuye legislación válida. No legisla por sí mismo.
 
 ---
 
-## VI. DOCUMENTOS HISTÓRICOS / SUPERADOS
+## VIII. ECONOMÍA
 
-Los siguientes documentos pueden conservarse como memoria de la evolución del proyecto, pero **no deben utilizarse como autoridad normativa vigente cuando contradigan el Corpus actual**:
+RU es la unidad monetaria interna inicial de Rudis.
 
-### `Quebranto-Honor..md`
+El EUR es numerario exterior de referencia y no adopción política automática de EUR como moneda interna.
 
-Clasificación: **HISTÓRICO / SUPERADO**.
+El Gremio Conversor opera como conversor y Tesorería/Banco Interno provisional dentro de Rudis. No dispone por ello de licencia bancaria exterior.
 
-Contiene formulaciones anteriores sobre «demonios», tributos del 50 %, ciudadanía permanente, referéndum del 5 %, gobernanza democrática absoluta y otras doctrinas sustituidas.
+El Fondo Soberano es patrimonio del ecosistema, no autoridad política.
 
-No se elimina porque forma parte de la historia intelectual del proyecto.
-
-### Otros documentos históricos
-
-Cualquier texto que contenga umbrales, instituciones, competencias o categorías expresamente sustituidos deberá recibir esta misma clasificación cuando sea identificado.
+La política monetaria detallada, emisión, reservas, costes de conversión, contribuciones, umbral del Fondo, crédito interno y distribución cuantitativa de rendimientos son decisiones económicas pendientes de la Asamblea, salvo que una futura norma las reserve expresamente a Referéndum.
 
 ---
 
-## VII. FUNDACIÓN SEGMENTA
+## IX. PROPIEDAD, SALIDA Y PROTECCIÓN
 
-`Fundación Segmenta.md` es vigente en su versión armonizada.
+La propiedad privada está protegida ordinariamente.
 
-Segmenta reconoce al Strategos Fundacional y puede ejecutar sus directrices legítimas, pero no posee competencia para legislar, juzgar ni inventar autorizaciones constitucionales.
+Una afectación excepcional requiere fundamento jurídico, necesidad, proporcionalidad, trazabilidad, autoridad competente y revisión, con restitución o compensación cuando corresponda.
 
-La lealtad al Strategos no equivale a obediencia técnica ilimitada.
+Salir de Rudis no es fraude por sí mismo. Las obligaciones legítimamente nacidas pueden persistir, pero deben estar probadas, ser proporcionales y poder ser revisadas. No se utilizarán obligaciones económicas para convertir la salida en cautividad.
 
----
-
-## VIII. REGLA PARA FUTURAS ENMIENDAS
-
-Todo nuevo documento normativo debería declarar:
-
-- fecha;
-- estado;
-- autoridad o procedimiento de adopción;
-- documentos que modifica o sustituye;
-- dependencias constitucionales que mantiene abiertas;
-- y, cuando sea necesario, su posición dentro de la jerarquía documental.
-
-Cuando un documento sustituya una regla anterior, deberá decirlo expresamente.
+La protección social se orienta a habitabilidad universal mediante criterios objetivos y públicos.
 
 ---
 
-## IX. INVARIANTE DE FORJA
+## X. CONTINUIDAD
 
-> **Rudis puede evolucionar sin borrar su historia.**
->
-> **Una doctrina superada sigue siendo historia, pero deja de ser canon.**
->
-> **Una dependencia abierta sigue abierta hasta que una autoridad competente la resuelva.**
->
+Rudis debe sobrevivir a pérdida de nodos, claves, operadores, Gremios, Matrixs y fallos de infraestructura.
+
+La continuidad técnica no transfiere automáticamente autoridad política.
+
+La restauración debe reconstruir el estado desde registros verificables sin permitir reescritura retroactiva de la historia.
+
+---
+
+## XI. ESTADOS DE IMPLEMENTACIÓN
+
+- `TECHNICAL_IMPLEMENTATION_ALLOWED`: fundamento normativo suficiente.
+- `IMPLEMENTATION_DEPENDENCY`: norma resuelta; integración pendiente.
+- `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`: falta norma; el código no inventa.
+- `CONSTITUTIONAL_AUTHORIZATION_REQUIRED`: falta autorización para producir el efecto definitivo; una cautela legítima con fundamento propio puede seguir ejecutándose.
+
+---
+
+## XII. DECISIONES QUE SIGUEN EN MANOS DEL STRATEGOS FUNDACIONAL
+
+Solo quedan como decisiones constitucionales de voluntad fundacional, no como tareas que el código deba adivinar:
+
+1. **Lista cerrada de materias sometidas obligatoriamente a Referéndum.**
+2. **Modelo constitucional definitivo de RU**: fiduciario, respaldado, redimible o híbrido.
+3. **Régimen de transición al desaparecer o quedar permanentemente incapacitado el Fundacional.**
+4. **Alcance del núcleo de derechos intangibles frente a la potestad legislativa fundacional.**
+
+Todo lo demás puede desarrollarse como arquitectura técnica o legislación ordinaria dentro de estas fronteras.
+
+---
+
+## XIII. HISTÓRICOS / SUPERADOS
+
+`Quebranto-Honor..md` queda clasificado como **HISTÓRICO / SUPERADO** y no puede utilizarse como autoridad normativa cuando contradiga el Corpus vigente.
+
+El mismo tratamiento se aplicará a cualquier documento que haya sido expresamente sustituido.
+
+---
+
+## XIV. INVARIANTE
+
 > **El código no legisla.**
 >
 > **La cautela protege sin sentenciar.**
 >
-> **Y ningún mecanismo técnico puede decidir aquello que el Corpus reserva a la autoridad política, jurisdiccional o ciudadana correspondiente.**
+> **El Referéndum corrige las decisiones sometidas a su competencia sin poder abolir al Fundacional.**
+>
+> **La Asamblea gobierna el espacio ordinario.**
+>
+> **El Palacio audita.**
+>
+> **El Resolutor juzga.**
+>
+> **Los Gremios ejecutan.**
+>
+> **Y Rudis conserva memoria suficiente para sobrevivir a sus operadores.**
