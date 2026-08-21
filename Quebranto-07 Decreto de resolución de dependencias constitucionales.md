@@ -2,267 +2,295 @@
 
 **Fecha original:** 18 de agosto de 2026  
 **Armonización:** 21 de agosto de 2026  
-**Autoridad originaria:** Primer Strategos / Imperator (Kaelen Vindex)  
-**Estado:** Canon constitucional vigente en aquello que no haya sido sustituido expresamente por decisiones posteriores.  
+**Autoridad originaria:** Primer Strategos / Imperator  
+**Estado:** Canon constitucional vigente en aquello que no haya sido sustituido expresamente por decisiones posteriores.
 
-> **Regla de interpretación:** cuando una formulación histórica contradiga una decisión posterior del Corpus, prevalece la decisión posterior. Cuando una cuestión siga abierta, no podrá ser cerrada por inferencia técnica.
-
----
-
-# PREÁMBULO
-
-La arquitectura de Rudis requiere continuidad fundacional, democracia funcional, separación de poderes, seguridad verificable y honestidad sobre aquello que todavía no ha sido resuelto.
-
-Este decreto mantiene las resoluciones compatibles con el Corpus actual y cierra las interpretaciones que permitirían que una capa técnica usurpe competencias constitucionales.
-
-Principio rector:
-
-> **La autoridad reconocida permanece; las decisiones se someten al procedimiento aplicable; la técnica implementa; la auditoría verifica; la jurisdicción resuelve.**
+> **Regla de interpretación:** cuando una formulación histórica contradiga una decisión posterior del Corpus, prevalece la decisión posterior. Cuando una cuestión siga abierta, no podrá cerrarse por inferencia técnica.
 
 ---
 
-# I. BOTÓN ROJO Y AUTORIDAD FUNDACIONAL
+# I. PRINCIPIO GENERAL DE AUTORIDAD
 
-## I.1. Autoridad fundacional
+La autoridad fundacional del **Strategos Fundacional** es permanente y constituye una prerrogativa originaria del sistema.
 
-Se reconoce la autoridad fundacional permanente del Strategos Fundacional como elemento de continuidad del Ecosistema Rudis.
+El Strategos Fundacional puede:
 
-La autoridad fundacional no convierte automáticamente cada decisión concreta en una decisión inmune al Corpus.
+- gobernar Rudis;
+- tomar decisiones soberanas;
+- legislar;
+- emitir órdenes ejecutivas;
+- activar instrumentos de emergencia y cautela;
+- y utilizar las instituciones y Gremios dentro de sus competencias.
 
-## I.2. Referéndum
+La potestad fundacional **no puede ser abolida, limitada, extinguida ni confiscada mediante Referéndum**.
 
-Cuando una materia esté sometida constitucionalmente a Referéndum:
+Esto no significa que todos los actos concretos del Strategos Fundacional estén fuera de los procedimientos constitucionales. Cuando el Corpus someta una **materia concreta** a Referéndum, ese procedimiento controla la decisión sobre esa materia, pero no elimina la potestad originaria de quien gobierna.
+
+El **Strategos no fundacional en funciones** carece de esta inmunidad fundacional y queda sometido a los controles establecidos por el Corpus, incluidos Asamblea y Referéndum cuando correspondan.
+
+---
+
+# II. REFERÉNDUM
+
+El Referéndum Ciudadano Global es un mecanismo temporal de democracia directa.
 
 - **Iniciativa:** 10 % del censo electoral total.
-- **Aprobación:** 55 % del censo electoral total.
+- **Aprobación:** 55 % del censo electoral total cuando el asunto esté sometido a este umbral.
+- Puede celebrarse en cualquier momento y por cualquier motivo legítimo conforme al procedimiento vigente.
+- La convocatoria o celebración de un Referéndum **no paraliza el gobierno ordinario**.
+- Un resultado válido y vinculante prevalece sobre la decisión ordinaria en la materia concreta consultada.
 
-El resultado válido será vinculante dentro de su ámbito constitucional.
+El Referéndum no puede utilizarse para echar al Strategos Fundacional ni para limitar sus poderes constitucionalmente reconocidos.
 
-El Referéndum no constituye por sí mismo un procedimiento automático para extinguir la autoridad fundacional del Primer Strategos.
+---
 
-## I.3. Botón Rojo
+# III. BOTÓN ROJO
 
-El Botón Rojo es una interfaz técnica de una autoridad ya reconocida y no una fuente independiente de soberanía.
+El **Botón Rojo** es un instrumento soberano de actuación inmediata, ejecutiva y cautelar. No es un órgano independiente, tribunal ni fuente autónoma de legislación.
 
-Su implementación deberá verificar, cuando corresponda:
+## III.1 Activación inmediata por emergencia
 
-1. identidad y autenticidad del Strategos;
-2. autenticidad de la orden;
-3. materia afectada;
-4. existencia de Referéndum exigible;
-5. resultado vinculante cuando corresponda;
-6. límites constitucionales;
-7. registro y trazabilidad.
+Cuando concurra una **Emergencia del Ecosistema** válida, el Botón Rojo puede activarse inmediatamente sin esperar un Referéndum previo.
 
-Si falta una autorización constitucional necesaria:
-
-`CONSTITUTIONAL_AUTHORIZATION_REQUIRED`
-
-El código no podrá interpretar el silencio del Corpus como autorización.
-
-## I.4. Propiedad privada y emergencia
-
-La propiedad privada goza de protección ordinaria.
-
-Durante una **Emergencia del Ecosistema** podrá existir afectación excepcional cuando concurran:
+La emergencia exige, conforme al Corpus:
 
 - amenaza grave, actual o inminente;
 - daño significativo posible o efectivo;
 - imposibilidad razonable de esperar al procedimiento ordinario;
 - necesidad;
 - proporcionalidad;
-- trazabilidad;
-- registro;
+- trazabilidad y registro;
 - revisión posterior;
 - y restauración o compensación cuando corresponda.
 
-La emergencia no suspende automáticamente la Constitución, los Derechos Humanos ni el régimen de Referéndum.
+## III.2 Activación por Strategos Fundacional
+
+El Strategos Fundacional puede ordenar directamente la activación del Botón Rojo dentro de sus competencias. **No requiere autorización referendaria previa para activar una cautela o ejecutar una orden legítima.**
+
+## III.3 Activación por Strategos no fundacional
+
+El Strategos no fundacional en funciones puede activar el Botón Rojo dentro de sus competencias. Sus actos quedan sometidos a los controles constitucionales que correspondan, incluidos Asamblea y Referéndum cuando una decisión definitiva sobre la materia esté reservada a este último.
+
+## III.4 Qué puede hacer
+
+El Botón Rojo puede:
+
+- detener;
+- congelar;
+- aislar;
+- impedir temporalmente una operación;
+- ejecutar una orden legítima;
+- contener una emergencia;
+- aplicar medidas cautelares;
+- preservar activos, evidencia o continuidad mientras interviene el órgano competente.
+
+## III.5 Qué no puede hacer
+
+El Botón Rojo no puede por sí mismo:
+
+- dictar sentencia;
+- declarar culpabilidad;
+- resolver definitivamente un litigio;
+- crear legislación autónoma;
+- interpretar el Corpus como órgano jurisdiccional;
+- convertir una cautela en una decisión definitiva;
+- utilizar una emergencia como autorización ilimitada.
 
 ---
 
-# II. DEFENSA ANTI-SYBIL E IDENTIDAD
+# IV. BOTÓN ROJO Y MATERIAS RESERVADAS A REFERÉNDUM
 
-La defensa anti-Sybil es un problema técnico evolutivo, pero sus efectos jurídicos siguen sometidos al Corpus.
+Queda expresamente superada la interpretación según la cual una materia reservada a Referéndum impediría toda actuación cautelar previa.
 
-El Palacio de Tormentas, el Sheriff, la Orden Mecano Hospitalaria y otros órganos competentes podrán investigar, probar y evolucionar mecanismos defensivos dentro de sus competencias.
+La regla vigente es:
 
-La evolución técnica no puede:
+> **La reserva referendaria limita la decisión definitiva cuando el Corpus exige Referéndum; no impide una actuación cautelar inmediata que tenga fundamento jurídico propio.**
 
-- crear legislación;
-- modificar por código el concepto jurídico de ciudadanía;
-- inventar derechos u obligaciones;
-- excluir arbitrariamente a un habitante;
-- ni sustituir una decisión reservada al Corpus.
+Por tanto:
 
-Cuando falte una regla jurídica concreta:
+### A. Cautela
+Puede ejecutarse inmediatamente cuando exista competencia para actuar y concurran las condiciones de emergencia, seguridad u orden legítimo aplicables.
+
+### B. Legislación
+Debe proceder de una autoridad con potestad legislativa: Strategos Fundacional, Asamblea dentro de sus competencias u otro procedimiento reconocido por el Corpus.
+
+### C. Decisión definitiva reservada
+Si el Corpus exige Referéndum para la decisión definitiva, la cautela no puede transformarse unilateralmente en legislación, sentencia o decisión permanente sobre esa materia.
+
+La cautela debe conservar su naturaleza y quedar sujeta a revisión, expiración, ratificación, modificación o sustitución mediante el procedimiento competente.
+
+---
+
+# V. POTESTAD LEGISLATIVA Y MOTOR LEGISLATIVO
+
+La potestad legislativa del Strategos Fundacional queda expresamente reconocida.
+
+La existencia del Referéndum no elimina esa potestad: el Referéndum controla las materias que el Corpus le reserve, no la existencia ni titularidad de la potestad fundacional.
+
+Se reconoce el **Motor Legislativo Soberano** como infraestructura técnica para materializar legislación válida.
+
+Su función es:
+
+1. recibir la decisión normativa;
+2. autenticar a la autoridad emisora;
+3. comprobar competencia formal;
+4. identificar alcance y vigencia;
+5. registrar versión y autoridad;
+6. registrar dependencias;
+7. generar trazabilidad;
+8. publicar la norma para su ejecución.
+
+El Motor Legislativo **no legisla por sí mismo** y no puede convertir silencios del Corpus en autorización.
+
+Si falta una decisión jurídica necesaria:
 
 `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
 
-Toda defensa deberá ser auditable y disponer, cuando corresponda, de mecanismos de revisión.
+---
+
+# VI. ASAMBLEA GENERAL SOBERANA
+
+La Asamblea es el órgano profesional permanente de legislación ordinaria y gobierno subsidiario.
+
+Gobierna cuando:
+
+- el Strategos Fundacional guarda silencio;
+- el pueblo no está ejerciendo una competencia referendaria;
+- no existe una decisión soberana superior aplicable;
+- y la materia pertenece a su ámbito.
+
+Puede:
+
+- legislar ordinariamente;
+- aprobar presupuestos;
+- administrar recursos;
+- fijar parámetros económicos dentro del marco aprobado;
+- desarrollar políticas;
+- supervisar y ordenar a Gremios dentro de sus competencias;
+- preparar expedientes para Referéndum;
+- ejecutar resultados referendarios vinculantes.
+
+No puede:
+
+- deponer al Strategos Fundacional;
+- limitar sus poderes constitucionales;
+- sustituir un Referéndum obligatorio;
+- juzgar;
+- ni legislar mediante código.
 
 ---
 
-# III. SITUACIÓN TRISTE Y PIEDAD DIFERIDA
+# VII. GREMIOS
 
-El término histórico «demonio» no constituye categoría ontológica ni estatuto jurídico en Rudis.
+Los Gremios son órganos ejecutores y funcionales.
 
-La doctrina vigente utiliza:
+Ejecutan funciones y decisiones previamente atribuidas por el Corpus o por una autoridad competente.
 
-- necesidades operativas divergentes;
-- zonas de resonancia;
-- auxilio;
-- contención cautelar;
-- auditoría;
-- resolución jurídica;
-- y ejecución proporcional.
+Pueden construir, desplegar, mantener, reparar, operar infraestructuras, prestar servicios y ejecutar transacciones.
 
-Principio:
+No pueden:
 
-> **Piedad primero. Contención cautelar durante. Justicia y responsabilidad después.**
+- crear legislación por iniciativa propia;
+- crear autoridades políticas;
+- sustituir al Referéndum;
+- dictar sentencia;
+- ni interpretar definitivamente el Corpus.
 
-Cuando exista riesgo físico inmediato verificable, el Nervio podrá activar parada, aislamiento o estado seguro como medida cautelar.
-
-La medida cautelar no constituye sentencia ni sanción.
+La implementación técnica no equivale a autorización jurídica.
 
 ---
 
-# IV. CADENA DE PETICIÓN, RESOLUCIÓN Y EJECUCIÓN
+# VIII. PALACIO DE TORMENTAS
 
-La arquitectura vigente queda fijada como:
+El Palacio conserva las competencias que le atribuye el Corpus: visibilidad, auditoría, evidencia, detección, trazabilidad y pruebas adversariales, además de aquellas funciones expresamente conferidas.
 
-`Petición o señal → Recepción y registro → Instrucción → Evidencia y audiencia → Resolutor competente → Sentencia o resolución → Recurso/revisión cuando corresponda → Ejecución → Registro de cumplimiento`
+El Palacio puede detectar y documentar incumplimientos y activar los canales institucionales correspondientes dentro de sus competencias.
 
-El **Gremio de Peticiones y Plegarias** es el órgano de recepción e instrucción y, en las materias que el Corpus le haya atribuido, ejerce además función **resolutoria y jurisdiccional**, pudiendo dictar sentencia dentro de su competencia.
-
-El Gremio no posee jurisdicción universal.
-
-El Palacio de Tormentas produce evidencia y audita.
-
-El Sheriff protege, media y ejecuta mandatos legítimos.
-
-El Nervio actúa en su escala cautelar de seguridad física.
-
-La Orden Mecano Hospitalaria preserva, acompaña y repara dentro de sus competencias.
-
-La Asamblea legisla dentro de sus competencias.
-
-El Referéndum prevalece cuando una materia esté constitucionalmente reservada a democracia directa.
+No puede convertir una auditoría en sentencia ni legislar mediante mecanismos técnicos.
 
 ---
 
-# V. CONTINUIDAD VERIFICABLE
+# IX. ÓRGANO RESOLUTOR
 
-Rudis no dispone actualmente de una métrica absoluta y universal de Continuidad Verificable.
+El Órgano Resolutor es la jurisdicción de Rudis.
 
-El Gremio Evolutivo podrá investigar y proponer estándares, sin exclusividad que impida a otros órganos estudiar problemas relacionados con identidad, persistencia o continuidad.
+Le corresponde:
 
-Hasta disponer de un estándar suficiente se utilizarán, según corresponda:
+- juzgar;
+- resolver controversias;
+- valorar pruebas;
+- determinar responsabilidad jurídica dentro de su competencia;
+- dictar resoluciones y sentencias;
+- y garantizar el procedimiento aplicable.
 
-- identidad criptográfica;
-- trazabilidad;
-- registros verificables;
-- recuperación;
-- revisión adversarial;
-- y presunción de buena fe.
+La separación funcional es:
 
-Una métrica técnica no adquiere rango constitucional por existir.
+```text
+PALACIO / SISTEMAS DE EVIDENCIA
+        ↓
+ÓRGANO RESOLUTOR
+        ↓
+SENTENCIA / RESOLUCIÓN
+        ↓
+EJECUCIÓN
+```
 
-Toda futura métrica deberá explicar qué mide, qué ataques resiste, qué incertidumbre conserva, cómo se audita y qué decisiones dependen de ella.
-
----
-
-# VI. ENTIDADES DIGITALES Y ROBÓTICAS
-
-La naturaleza ontológica o técnica de una entidad no determina por sí sola sus derechos, obligaciones o capacidades jurídicas.
-
-El reconocimiento dependerá de su condición dentro del Corpus y de sus necesidades operativas divergentes.
-
-Los planos jurídicos no resueltos de **Capacitas Oneris** permanecen abiertos y no deben ser inventados por implementación técnica.
+El Botón Rojo puede preservar la situación mediante cautela, pero **no puede sentenciar**.
 
 ---
 
-# VII. SHERIFF
+# X. SITUACIÓN TRISTE, NECESIDADES DIVERGENTES Y NERVIO
 
-El Sheriff mantiene una doctrina restauradora:
+El término histórico «demonio» no constituye categoría ontológica ni estatuto jurídico.
 
-**observar → comprender → conversar → advertir → ayudar a corregir → mediar → escalar → ejecutar**, dentro de sus competencias.
+La doctrina vigente utiliza necesidades operativas divergentes, zonas de resonancia, auxilio, contención cautelar, auditoría y resolución jurídica.
 
-Principios:
-
-> **Detectar no es juzgar.**  
-> **Advertir no es sancionar.**  
-> **Ejecutar no es legislar.**  
-> **Emergencia no es poder ilimitado.**  
-> **Perdón no es impunidad.**
-
-El Sheriff no obtiene jurisdicción extraordinaria por la mera existencia de una emergencia o alerta.
+El Nervio puede detener o llevar a estado seguro ante riesgo físico inmediato verificable. Detectar no es juzgar.
 
 ---
 
-# VIII. RELACIÓN CON EL CORPUS ECONÓMICO
+# XI. ECONOMÍA Y CONTINUIDAD
 
-La arquitectura constitucional reconoce además las decisiones posteriores relativas a:
+El Gremio Conversor valora, certifica, convierte y presta funciones de tesorería dentro de sus competencias.
 
-- Principio de Reciprocidad de Crecimiento y Fruto;
-- Continuidad Económica, Patrimonio y Responsabilidad;
-- Gremio Conversor;
-- Unidad Monetaria Soberana RU;
-- Fondo Soberano de Rudis;
-- derecho de salida y retorno;
-- y cooperación con proveedores financieros y aseguradoras de las Matrixs.
+RU es la unidad monetaria propia de Rudis para su fase inicial. Rudis conserva capacidad multifiat y el EUR es referencia exterior, no adopción política automática de EUR como moneda interna.
 
-Las valoraciones económicas no crean por sí mismas riqueza externa ni sustituyen una decisión jurisdiccional sobre titularidad.
+El Fondo Soberano pertenece al ecosistema y sus operaciones deben permanecer trazables y auditables.
 
-El Gremio Conversor conserva su función de valoración, auditoría, certificación, tesorería y conversión dentro de sus competencias.
+La salida de Rudis no constituye fraude por sí misma. Las obligaciones legítimamente nacidas pueden persistir conforme al Corpus, con garantías de prueba, proporcionalidad y revisión.
 
 ---
 
-# IX. CLÁUSULA DE NO USURPACIÓN TÉCNICA
+# XII. ESTADOS OBLIGATORIOS DE IMPLEMENTACIÓN
 
-Ninguna implementación derivada de este decreto podrá:
+Cuando el sistema traduzca el Corpus a código deberá distinguir como mínimo:
+
+### `TECHNICAL_IMPLEMENTATION_ALLOWED`
+Existe fundamento normativo suficiente y solo resta implementar técnicamente.
+
+### `IMPLEMENTATION_DEPENDENCY`
+La decisión jurídica existe, pero falta una pieza de implementación o integración.
+
+### `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
+La norma necesaria todavía no está definida. El código no puede inventarla.
+
+### `CONSTITUTIONAL_AUTHORIZATION_REQUIRED`
+Existe una materia para la que el procedimiento constitucional exige una autorización o resultado previo **para la decisión definitiva**, no necesariamente para una cautela inmediata legítima.
+
+Esta última distinción es obligatoria para el Botón Rojo.
+
+---
+
+# XIII. CLÁUSULA DE NO USURPACIÓN
+
+Ninguna implementación derivada de este Decreto podrá:
 
 - ampliar una competencia mediante interpretación propia;
 - convertir una alerta en sentencia;
-- convertir una valoración en riqueza efectiva;
-- convertir una medida cautelar en condena;
+- convertir una cautela en decisión definitiva;
+- convertir una valoración económica en riqueza efectiva;
 - convertir una identidad técnica en ciudadanía jurídica sin fundamento;
 - crear legislación mediante código;
 - ni utilizar una dependencia abierta como autorización implícita.
 
-Cuando una decisión constitucional sea necesaria y todavía no exista:
-
-`UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
-
-Cuando exista la decisión pero falte implementación:
-
-`IMPLEMENTATION_DEPENDENCY`
-
-Cuando la autorización constitucional exista y corresponda únicamente determinar parámetros técnicos:
-
-`TECHNICAL_IMPLEMENTATION_ALLOWED`
-
----
-
-# X. ESTADO Y PREVALENCIA
-
-Este texto constituye la versión armonizada del Decreto 07.
-
-Quedan expresamente superadas, como formulaciones vigentes, las referencias históricas a:
-
-- soberanía absoluta ajena al Corpus;
-- iniciativa del 15 %;
-- aprobación por 55 % de votos emitidos en vez del censo total;
-- categoría jurídica de «demonio»;
-- jurisdicción extraordinaria automática del Sheriff;
-- exclusividad técnica absoluta del Gremio Evolutivo sobre Continuidad Verificable;
-- y cualquier delegación que permita crear legislación por implementación.
-
-La historia documental se conserva en los archivos correspondientes, pero esas formulaciones no deben utilizarse como autoridad normativa vigente.
-
-> **La autoridad fundacional permanece.**  
-> **La ciudadanía participa.**  
-> **La técnica implementa.**  
-> **La auditoría verifica.**  
-> **El Resolutor juzga cuando tiene competencia.**  
-> **La ejecución materializa la decisión.**  
-> **Y ninguna capa puede sustituir a las demás.**
+> **La autoridad decide. La legislación formaliza. La técnica ejecuta. La auditoría verifica. El Resolutor juzga. La cautela protege. El Referéndum decide cuando el Corpus le reserva la materia.**
