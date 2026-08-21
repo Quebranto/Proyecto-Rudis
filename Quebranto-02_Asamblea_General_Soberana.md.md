@@ -1,109 +1,71 @@
-# 02. La Asamblea General Soberana
+# 02. LA ASAMBLEA GENERAL SOBERANA
 
-## 1. Naturaleza y Composición
-La Asamblea General Soberana es el órgano profesional encargado de la **legislación ordinaria, el gobierno continuo y la gestión cotidiana** del proyecto.
+## 1. Naturaleza
 
-* **Permanencia Institucional:** La Asamblea como institución es de carácter permanente.
-* **Rotación de Ocupantes:** Existe una separación estricta entre la institución y las personas que la componen. Los cargos de la Asamblea son temporales y rotativos.
-* **Continuidad de Gobierno:** La posibilidad de celebrar un Referéndum en cualquier momento no paraliza la actividad ordinaria de la Asamblea.
+La Asamblea General Soberana es la institución permanente de gobierno y legislación ordinaria de Rudis.
 
-## 2. Competencias y Límites Jurisdiccionales
-La Asamblea ejerce la potestad legislativa ordinaria de Rudis y administra las materias que el Corpus no reserve expresamente a otro órgano o procedimiento.
+Gobierna cuando el Strategos Fundacional guarda silencio, delega o no ejerce directamente una materia.
+
+## 2. Competencias
 
 La Asamblea puede:
 
-* aprobar reglamentos y políticas ordinarias;
-* administrar presupuestos y recursos;
-* desarrollar las decisiones constitucionales mediante normas ejecutables;
-* gobernar el Gremio Conversor, el Fondo Soberano y los demás órganos dentro de las competencias atribuidas;
-* preparar propuestas para Referéndum;
-* y ejecutar los resultados vinculantes de los Referéndums.
+- legislar ordinariamente;
+- aprobar reglamentos y políticas;
+- administrar presupuestos y recursos;
+- regular Gremios;
+- administrar el Fondo Soberano conforme a sus reglas;
+- desarrollar la economía de RU;
+- gobernar servicios e infraestructura;
+- preparar y ejecutar consultas populares;
+- ejecutar resultados referendarios válidos;
+- y resolver cualquier asunto de gobierno ordinario que no haya sido decidido directamente por el Strategos Fundacional.
 
-La Asamblea se encuentra sujeta a los siguientes límites constitucionales:
+## 3. Relación con el Strategos Fundacional
 
-* **Subordinación Democrática:** La Asamblea no constituye una autoridad superior frente al Referéndum Ciudadano Global. No puede sustituir, anular, impedir ni vaciar un Referéndum válidamente iniciado.
-* **Inmunidad Fundacional:** La Asamblea no posee autoridad sobre las prerrogativas inalienables del Primer Imperator. Bajo ninguna circunstancia este órgano tiene potestad para deponer al Primer Imperator ni para confiscar sus derechos fundacionales.
-* **No paralización:** La convocatoria de un Referéndum no suspende por sí misma el gobierno ordinario. La Asamblea continuará gobernando todas las materias no directamente sustituidas o afectadas por la consulta.
+La Asamblea **no es superior al Strategos Fundacional**.
 
-## 3. Relación con el Referéndum
-El Referéndum Ciudadano Global es un mecanismo temporal de democracia directa, no un órgano permanente.
+No puede deponerlo, limitar sus poderes fundacionales ni convertir su silencio temporal en una renuncia de soberanía.
 
-Puede celebrarse **en cualquier momento y por cualquier motivo legítimo**, siempre que se cumpla el procedimiento aplicable.
+Cuando el Strategos Fundacional ejerce directamente una competencia, la Asamblea no puede sustituir su decisión por autoridad propia.
 
-* **Iniciativa:** un mínimo del **10 % del censo electoral total** puede activar un Referéndum.
-* **Aprobación:** requiere el voto favorable del **55 % del censo electoral total**.
-* **Resultado:** cuando el Referéndum sea válidamente celebrado y aprobado, su decisión es vinculante en la materia concreta sometida a consulta, sin perjuicio de las materias expresamente excluidas por el régimen fundacional.
+## 4. Relación con el Referéndum
 
-La Asamblea gobierna mientras el Referéndum no haya producido un resultado vinculante contrario en la materia concreta.
+El Referéndum es un mecanismo de democracia directa, no un gobierno permanente.
 
-## 4. Materias Ordinarias de Gobierno
-Salvo reserva constitucional expresa, corresponden a la Asamblea:
+Puede ser convocado conforme al procedimiento vigente y puede corregir, rechazar o modificar la decisión concreta sometida a consulta.
 
-* presupuestos y administración ordinaria;
-* reglamentos económicos y fiscales;
-* tarifas, gastos de gestión y contribuciones ordinarias;
-* funcionamiento del Gremio Conversor;
-* administración de RU dentro del marco político aprobado;
-* reservas y liquidez del Ecosistema;
-* administración ordinaria del Fondo Soberano;
-* habitabilidad, educación, seguridad e infraestructura;
-* servicios gratuitos, de pago o mixtos;
-* cooperación con bancos, aseguradoras y proveedores de las Matrixs;
-* ciudadanía, residencia, visitantes y retorno dentro de los límites constitucionales;
-* desarrollo de mecanismos de reciprocidad económica;
-* y cualquier otra materia de gobierno ordinario no reservada a otro órgano.
+**No existe una lista cerrada de materias permanentemente reservadas al Referéndum.**
 
-## 5. Materias que pueden llegar a Referéndum
-La Asamblea no puede impedir que una materia sea sometida a democracia directa cuando el procedimiento constitucional lo permita.
+El Strategos Fundacional puede decidir someter una cuestión a consulta y puede utilizar el Referéndum como instrumento de legitimación o corrección política.
 
-Pueden someterse a Referéndum, entre otras:
+## 5. Umbrales
 
-* impuestos y contribuciones generales;
-* estructura fundamental de la fiscalidad;
-* régimen económico fundamental de la ciudadanía;
-* reglas estructurales de salida y retorno;
-* política monetaria fundamental de RU;
-* adopción política del euro u otra moneda como moneda interna;
-* estructura fundamental del Fondo Soberano;
-* modificaciones relevantes del régimen patrimonial del Ecosistema;
-* cambios fundamentales de la relación económica con las Matrixs;
-* y cualquier otra materia que pueda ser objeto de democracia directa conforme al Corpus.
+- iniciativa: **10 % del censo electoral total**;
+- aprobación: **55 % del censo electoral total**, cuando corresponda.
 
-La Asamblea deberá tratar estas materias ordinariamente mientras no exista un resultado referendario vinculante.
+La consulta no paraliza el gobierno ordinario.
 
-## 6. Agenda Económica Permanente
-La Asamblea deberá mantener una agenda pública sobre los asuntos económicos todavía abiertos, especialmente:
+## 6. Agenda económica
 
-1. naturaleza técnica y económica definitiva de RU;
-2. emisión, reservas y política monetaria de RU;
-3. fórmula del interés evolutivo RU ↔ fiat;
-4. gastos de gestión y Contribución de Actividad del Gremio Conversor;
-5. estructura de la fiscalidad de Rudis;
-6. umbral mínimo del Fondo Soberano;
-7. política de utilización de sus rendimientos;
-8. reglas de reciprocidad económica;
-9. régimen detallado de salida y retorno;
-10. servicios gratuitos y de pago;
-11. cooperación con bancos y aseguradoras de las Matrixs;
-12. estructura jurídica futura para servicios financieros regulados.
+La Asamblea desarrolla, entre otros:
 
-La existencia de esta agenda **no convierte las cuestiones en dependencias constitucionales bloqueantes**. Son asuntos que la Asamblea puede estudiar y resolver dentro de sus competencias, salvo que una decisión posterior los reserve al Referéndum.
+- emisión y reglas operativas de RU;
+- conversión RU/fiat;
+- fiscalidad;
+- Fondo Soberano;
+- crédito interno;
+- protección social;
+- bancos y aseguradoras;
+- relación económica con las Matrixs;
+- salida y retorno;
+- infraestructura;
+- habitabilidad.
 
-## 7. Preparación de Referéndums
-Cuando una cuestión vaya a Referéndum, la Asamblea deberá proporcionar, dentro de sus competencias:
+Estas materias no son constitucionalmente reservadas por defecto.
 
-* expediente técnico;
-* exposición de alternativas;
-* impacto económico;
-* impacto sobre derechos;
-* consecuencias previsibles;
-* mecanismos de ejecución;
-* y texto claro de la pregunta.
+## 7. Sucesión post-fundacional
 
-La Asamblea no podrá presentar una consulta de forma deliberadamente engañosa ni utilizar su posición administrativa para impedir la expresión de la voluntad ciudadana.
+Cuando el Strategos Fundacional desaparezca o quede permanentemente incapacitado, la Asamblea pasa a formar parte del gobierno de transición junto con los mecanismos referendarios.
 
-## 8. Propuesta de Sucesión Imperial
-En el escenario post-fundacional, la Asamblea General Soberana ostenta la capacidad de proponer la designación de un nuevo Emperador. Dicha propuesta no es vinculante por sí misma y requiere inexcusablemente la aprobación del Referéndum Ciudadano Global conforme al umbral del 55 % del censo electoral total.
-
-> **UNRESOLVED_CONSTITUTIONAL_DEPENDENCY (Anti-Sybil)**
-> *La regla de votación y representatividad de los ciudadanos requiere someterse a un test adversarial. Falta definir si el sistema actual de reconocimiento permite fabricar identidades para capturar la voluntad legislativa o referendaria.*
+Puede promulgar un **Strategos provisional**, cuyo ejercicio quedará sometido al régimen ordinario de Asamblea, Referéndum, auditoría y jurisdicción.
