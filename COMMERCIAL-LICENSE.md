@@ -1,6 +1,6 @@
 # Rudis — Régimen de Licenciamiento Comercial
 
-**Estado:** Documento marco del proyecto · sujeto al Corpus y a los derechos de sus titulares.
+**Estado:** Documento marco del proyecto · sujeto a la legislación aplicable, al Corpus y a los derechos de sus titulares.
 
 **Titular declarado del material original de Proyecto Rudis:** José Ángel Moreno Cabezas, sin perjuicio de derechos de terceros y de contribuciones con titularidad independiente.
 
@@ -12,7 +12,9 @@ La AGPL regula los derechos sobre el software que efectivamente se encuentre cub
 
 ## 2. Vía comercial
 
-Rudis podrá ofrecer, cuando proceda y mediante acuerdo separado, licencias, servicios, soporte, integración, certificación, alojamiento, infraestructura, consultoría u otras prestaciones comerciales.
+Rudis podrá ofrecer, cuando proceda y mediante acuerdo separado, licencias, servicios, soporte, integración, certificación, alojamiento, infraestructura, consultoría, formación, desarrollos por encargo u otras prestaciones comerciales lícitas.
+
+La capacidad de cobrar por un servicio es independiente de la libertad que AGPL-3.0 concede sobre el código cubierto por ella.
 
 Una licencia o acuerdo comercial podrá conceder derechos adicionales a los estrictamente necesarios para el uso del código bajo AGPL, siempre dentro de los derechos que Rudis o sus respectivos titulares puedan legítimamente conceder.
 
@@ -29,6 +31,7 @@ Salvo indicación expresa, la licencia del software no concede por sí misma der
 - bases de datos o contenidos sujetos a un régimen distinto;
 - contratos, acuerdos económicos o derechos patrimoniales independientes del código;
 - documentación que tenga una licencia específica distinta;
+- secretos empresariales legítimamente protegidos;
 - activos o derechos de terceros incorporados legítimamente al proyecto.
 
 ## 4. Principio de separación patrimonial
@@ -40,6 +43,8 @@ El proyecto distingue entre:
 **activos institucionales y económicos → régimen específico**
 
 **servicios comerciales → contrato o licencia correspondiente**
+
+**titularidad y autoría → trazabilidad documentada**
 
 Esta separación permite que el código pueda crecer de forma abierta sin interpretar que todo el patrimonio, identidad o infraestructura del ecosistema pasa a estar libremente disponible por el mero hecho de que determinado código lo esté.
 
@@ -54,3 +59,33 @@ La titularidad declarada del material original de Proyecto Rudis es **José Áng
 La titularidad del copyright no altera la licencia AGPL bajo la que se distribuye el código ni implica que puedan restringirse los derechos que la AGPL concede a sus usuarios.
 
 Las futuras contribuciones podrán quedar sujetas a las reglas de contribución y acuerdos específicos que establezca el proyecto.
+
+Para una descripción más completa de la cadena de titularidad, véase `COPYRIGHT-AND-OWNERSHIP.md`.
+
+## 7. Explotación económica
+
+Las vías de explotación económica del proyecto se describen en `COMMERCIAL-EXPLOITATION-POLICY.md`.
+
+El proyecto queda expresamente diseñado para poder recibir ingresos por prestaciones y activos que puedan explotarse lícitamente, sin confundir dichos ingresos con la concesión de derechos sobre el código AGPL.
+
+## 8. Futuro vehículo jurídico
+
+Mientras no exista una persona jurídica distinta que haya adquirido válidamente los correspondientes derechos, el nombre institucional de Rudis no debe interpretarse como una persona jurídica independiente frente a terceros.
+
+El proyecto podrá adoptar en el futuro una sociedad, asociación, fundación u otra estructura jurídica. Cualquier transferencia de propiedad intelectual, activos, contratos o derechos deberá realizarse mediante instrumentos jurídicamente válidos.
+
+## 9. Actividades reguladas
+
+La descripción arquitectónica de moneda, conversión, banca, seguros, pagos u otros servicios regulados no constituye por sí misma autorización para prestarlos en el mundo real.
+
+Cuando una actividad requiera licencia, registro, autorización, capital mínimo, controles u otra condición legal, deberá cumplirse antes de su explotación efectiva.
+
+## 10. No transferencia implícita
+
+La publicación del repositorio, la aceptación de una contribución, la prestación de un servicio o la participación en la comunidad no implican por sí solas una transferencia universal de derechos patrimoniales.
+
+Las cesiones de derechos que resulten necesarias para una finalidad concreta deberán constar de manera suficientemente clara y cumplir los requisitos legales aplicables.
+
+## 11. Aviso jurídico
+
+Este documento es una especificación de gobernanza económica y patrimonial del proyecto y no sustituye asesoramiento jurídico, fiscal, contable o regulatorio profesional.
