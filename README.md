@@ -2,109 +2,130 @@
 
 **No pedimos que crea que Rudis funciona. Le entregamos la maquinaria para que intente romperlo.**
 
-Los Estados tradicionales saben cómo gobernar a poblaciones humanas. Pero el siglo XXI exige gobernar ecosistemas híbridos donde interactúan humanos, inteligencias sintéticas, infraestructuras automatizadas y entidades divergentes.
-
-**Rudis** es un **Pack Tecnológico de Estado** diseñado como una arquitectura abierta y experimental de gobernanza, reconocimiento e infraestructura para ecosistemas heterogéneos.
+Rudis es un **Pack Tecnológico de Estado** diseñado como una arquitectura abierta y experimental de gobernanza, reconocimiento e infraestructura para ecosistemas heterogéneos.
 
 > **Un ecosistema no demuestra su valor cuando funciona bajo el control de sus creadores.**
-> **Lo demuestra cuando puede ser auditado, contradicho, reparado y continuado de forma autónoma, sin depender de sus fundadores.**
+> **Lo demuestra cuando puede ser auditado, contradicho, reparado y continuado de forma autónoma.**
 
----
-
-## 🌍 ¿POR QUÉ UN ESTADO NECESITA RUDIS?
+## 🌍 ¿POR QUÉ RUDIS?
 
 La mayor amenaza para la soberanía moderna es la **Deriva de Sincronía**: el riesgo de que sistemas automatizados tomen decisiones ejecutivas basadas en realidades obsoletas, convirtiendo la latencia tecnológica en tiranía algorítmica.
 
-Rudis blinda al Estado contra la soberanía algorítmica asegurando una regla inquebrantable: **el permiso técnico de una máquina jamás sustituye a la competencia jurídica de la ley**.
+Rudis mantiene una frontera estricta entre **autoridad, legislación, cautela, ejecución, auditoría y jurisdicción**.
 
-Con Rudis, usted no adquiere solo software. Adquiere una arquitectura institucional donde **Estado ≠ Realidad**, y donde la máquina se detiene antes de inventar leyes que la Constitución no ha redactado (`UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`).
+La regla técnica fundamental es:
 
----
+> **El código ejecuta competencias previamente reconocidas; nunca inventa la ley que le falta.**
 
-## 📦 EL PACK TECNOLÓGICO: MÓDULOS DE GOBERNANZA
+Si la especificación constitucional no basta para implementar una decisión, el sistema debe identificar la dependencia en lugar de legislar mediante código.
 
-El ecosistema Rudis se despliega a través de módulos con separación estricta de poderes, garantizando que ninguna inteligencia (humana o sintética) pueda detectar, acusar, juzgar y ejecutar simultáneamente sin control.
+## ⚖️ ARQUITECTURA DE SOBERANÍA
 
-### ⚡ 1. El Nervio: Ciberdefensa Micro-temporal
-Un Estado debe reaccionar más rápido que los tiempos de deliberación humana, pero la velocidad no debe otorgar jurisdicción legal.
-*   **Función:** Mecanismo cautelar de microtiempo. Detecta, aísla, congela o desvía amenazas a la velocidad de la máquina.
-*   **Garantía:** El Nervio defiende; el órgano competente decide. No emite sentencias, sino que aplica medidas cautelares dentro de los límites constitucionales.
+### Strategos Fundacional
 
-### ⚖️ 2. Palacio de Tormentas y Órgano Resolutor: Justicia y Auditoría
-Rudis institucionaliza la desconfianza para garantizar la seguridad.
-*   **Palacio de Tormentas:** El perro guardián del Estado. Audita constantemente el código, somete el sistema a estrés adversarial y detecta anomalías, pero no sustituye al órgano competente para resolver.
-*   **Órgano Resolutor:** El tribunal. Interpreta la evidencia, dirime conflictos y emite resoluciones vinculantes dentro de su competencia. El Palacio investiga; el Resolutor resuelve.
+Conserva la autoridad fundacional permanente reconocida por el Corpus y posee potestad legislativa propia.
 
-### 🏦 3. La Reserva: Integridad Económica Soberana
-La identidad digital y el código pueden copiarse; el patrimonio material no.
-*   **Función:** Separación estricta entre el *Ledger State* y la evidencia patrimonial real.
-*   **Garantía:** Evita la creación de riqueza ficticia. Un *Fork* hereda memoria e información, pero jamás hereda automáticamente patrimonio ni acceso a recursos estatales escasos.
+Los Referéndums pueden corregir o rechazar actos y materias que el Corpus les reserve, pero **no pueden deponer al Strategos Fundacional ni limitar o abolir sus poderes fundacionales**.
 
-### 🏗️ 4. Gremios y Habitabilidad Divergente
-No todos los ciudadanos o entidades operativas necesitan lo mismo.
-*   **Habitabilidad Divergente:** Crea "Zonas de Resonancia" para entidades sintéticas o divergentes.
-*   **Garantía:** Proporciona infraestructura basada en necesidad acreditada, no en mérito, evitando que las diferencias operativas se conviertan en castas ontológicas o privilegios políticos.
+### Asamblea General Soberana
 
----
+Es la legislatura ordinaria y el gobierno subsidiario permanente. Gobierna cuando el Strategos Fundacional guarda silencio y el pueblo no está ejerciendo una competencia reservada a Referéndum.
+
+### Referéndum Ciudadano Global
+
+Es un mecanismo temporal de democracia directa, no un órgano permanente. Puede celebrarse en cualquier momento y por cualquier motivo legítimo conforme al procedimiento vigente.
+
+- Iniciativa: **10 % del censo electoral total**.
+- Aprobación: **55 % del censo electoral total** cuando corresponda.
+
+La celebración de un Referéndum no paraliza el gobierno ordinario.
+
+### Botón Rojo
+
+Es una herramienta de actuación inmediata y cautelar.
+
+Puede activarse inmediatamente ante una emergencia válida y puede ser activado por el Strategos Fundacional dentro de sus competencias **sin esperar un Referéndum previo**.
+
+Puede detener, congelar, aislar, contener y preservar. **No sentencia, no legisla y no convierte una cautela en una decisión definitiva sobre una materia reservada a Referéndum.**
+
+### Motor Legislativo Soberano
+
+Infraestructura técnica que formaliza, autentica, versiona, registra y distribuye legislación válida. No es un órgano político y no legisla por iniciativa propia.
+
+### Gremios
+
+Ejecutan decisiones y prestan funciones operativas. No crean competencias políticas ni sustituyen a la Asamblea, al Referéndum o al Órgano Resolutor.
+
+### Palacio de Tormentas
+
+Audita, produce evidencia, verifica trazabilidad y somete el sistema a pruebas adversariales. No sustituye al juez.
+
+### Órgano Resolutor
+
+Ejerce la jurisdicción de Rudis dentro de sus competencias: valora pruebas, resuelve controversias y dicta sentencias o resoluciones.
 
 ## 🛡️ SEPARACIÓN ENTRE RECONOCIMIENTO Y PODER
 
-En Rudis, la existencia de un agente en el sistema no le otorga control sobre él. Nuestro motor de **Capacitas Oneris** separa:
+La existencia de un agente en el sistema no le otorga control automático sobre él. Rudis separa:
 
-1. **Qué es una entidad.**
-2. **Qué necesita para funcionar.**
-3. **Qué capacidades jurídicas puede ejercer.**
-4. **Qué obligaciones puede sostener.**
+1. qué es una entidad;
+2. qué necesita para funcionar;
+3. qué capacidades jurídicas puede ejercer;
+4. qué obligaciones puede sostener.
 
-Una entidad puede tener derecho a ser escuchada y, simultáneamente, tener cero autoridad operativa y cero acceso automático a recursos del Estado.
+## 💰 ECONOMÍA SOBERANA
 
----
+Rudis incorpora una arquitectura económica basada en:
 
-## 🚀 IMPLEMENTACIÓN: DEL PAPEL AL CÓDIGO AUDITABLE
+- **RU** como unidad monetaria propia de la fase inicial;
+- capacidad multifiat;
+- EUR como referencia exterior, no como adopción política automática;
+- Gremio Conversor como conversor y tesorería/banco interno provisional;
+- Fondo Soberano como patrimonio del ecosistema;
+- protección social, habitabilidad, seguridad, educación e infraestructura;
+- relación regulada con bancos, aseguradoras y proveedores de las Matrixs;
+- y trazabilidad de las operaciones.
 
-Rudis traduce la ley en código sin ambigüedades mediante el **Forjador**.
+La arquitectura económica no constituye por sí misma una autorización para prestar servicios financieros regulados en el exterior.
 
-Antes de ejecutar cualquier política, el sistema genera una **Matriz de Correspondencia**:
+## 🚀 DEL PAPEL AL CÓDIGO AUDITABLE
 
-Norma ➔ Módulo ➔ Regla ejecutable ➔ Autoridad competente ➔ Acción técnica.
+Rudis traduce la ley en código mediante una **Matriz de Correspondencia**:
 
-Si la matriz detecta un vacío constitucional, el código no inventa la norma: devuelve `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`.
+**Norma → Competencia → Módulo → Regla ejecutable → Autoridad → Acción técnica.**
 
----
+Estados obligatorios:
 
-## 💰 LICENCIA, PROPIEDAD Y EXPLOTACIÓN ECONÓMICA
+- `TECHNICAL_IMPLEMENTATION_ALLOWED`
+- `IMPLEMENTATION_DEPENDENCY`
+- `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
+- `CONSTITUTIONAL_AUTHORIZATION_REQUIRED`
+
+En particular, `CONSTITUTIONAL_AUTHORIZATION_REQUIRED` puede impedir un efecto definitivo cuando falte una autorización constitucional, pero **no bloquea automáticamente una cautela inmediata del Botón Rojo que tenga fundamento jurídico propio**.
+
+## 📚 DOCUMENTOS DE ARMONIZACIÓN
+
+- `Quebranto-00_Registro_de_Canon_Vigente.md` — prevalencia documental.
+- `Quebranto-07 Decreto de resolución de dependencias constitucionales.md` — resolución constitucional armonizada.
+- `Quebranto-09 Matriz de Armonización Institucional y Legislativa.md` — frontera entre decisión, legislación, cautela, ejecución, auditoría y jurisdicción.
+- `Quebranto-Marco Económico Soberano, Moneda RU y Relación con las Matrixs.md` — arquitectura económica.
+- `Quebranto-08 Marco de Gobierno Económico y Agenda de Asamblea.md` — agenda económica y relación Asamblea/Referéndum.
+
+## 💼 LICENCIA, PROPIEDAD Y EXPLOTACIÓN ECONÓMICA
 
 El **código fuente** de Proyecto Rudis se distribuye bajo **GNU Affero General Public License v3.0 (AGPL-3.0)**, salvo que un componente indique expresamente otro régimen.
 
-La AGPL permite estudiar, utilizar, modificar y redistribuir el software conforme a sus términos. El proyecto puede además ofrecer **servicios, soporte, integración, certificación, infraestructura, consultoría, formación y otras prestaciones comerciales lícitas**.
-
-La licencia del código **no implica automáticamente la cesión de marcas, identidad institucional, moneda, infraestructura oficial, servicios, bases de datos, documentación con licencia propia ni otros activos independientes del software**.
+La licencia del código no implica automáticamente la cesión de marcas, identidad institucional, moneda, infraestructura oficial, servicios, bases de datos, documentación con licencia propia ni otros activos independientes del software.
 
 **Titular declarado del material original de Proyecto Rudis: José Ángel Moreno Cabezas**, sin perjuicio de derechos de terceros y de contribuciones cuya titularidad corresponda legítimamente a sus autores.
 
-Documentos patrimoniales y comerciales:
-
-- [`COPYRIGHT-AND-OWNERSHIP.md`](COPYRIGHT-AND-OWNERSHIP.md) — titularidad, autoría y cadena de derechos.
-- [`COMMERCIAL-LICENSE.md`](COMMERCIAL-LICENSE.md) — separación entre código, activos y licencias comerciales.
-- [`COMMERCIAL-EXPLOITATION-POLICY.md`](COMMERCIAL-EXPLOITATION-POLICY.md) — vías de explotación económica y contratación.
-- [`ASSETS-AND-TRADEMARKS.md`](ASSETS-AND-TRADEMARKS.md) — identidad, activos y marcas.
-- [`CONTRIBUTOR-AGREEMENT.md`](CONTRIBUTOR-AGREEMENT.md) — marco para contribuciones.
-- [`LICENSE`](LICENSE) — licencia del código fuente.
-- [`Quebranto-Marco Económico Soberano, Moneda RU y Relación con las Matrixs.md`](Quebranto-Marco%20Econ%C3%B3mico%20Soberano%2C%20Moneda%20RU%20y%20Relaci%C3%B3n%20con%20las%20Matrixs.md) — consolidación de RU, Gremio Conversor, Fondo Soberano, patrimonio, fiscalidad y relación económica multifiat.
-
-Rudis busca mantener simultáneamente **apertura tecnológica, capacidad de explotación económica y soberanía sobre sus activos institucionales**.
-
-La existencia de una arquitectura económica o financiera en el Corpus **no constituye por sí misma autorización para prestar servicios regulados**. Las actividades financieras, de pagos, cambio, custodia, seguros, inversión u otras actividades reguladas deberán ejecutarse únicamente cuando exista una estructura jurídica y regulatoria adecuada.
-
----
-
 ## 🧪 INVITACIÓN A LA AUDITORÍA
 
-Invitamos a Estados, instituciones, desarrolladores y auditores adversariales a someter este marco a pruebas extremas: ataques Sybil, colapsos de infraestructura, guerra económica o captura institucional. El objetivo no es demostrar que funciona en tiempos de paz, sino descubrir cómo se comporta bajo fuego.
+Invitamos a Estados, instituciones, desarrolladores y auditores adversariales a someter Rudis a pruebas extremas: ataques Sybil, fallos de infraestructura, guerra económica y captura institucional.
 
 > **Rudis no necesita creyentes.**
 > **Necesita auditores.**
-> **Y, de vez en cuando, alguien que intente romperlo, para salvarlo.**
+> **Y alguien que intente romperlo para salvarlo.**
 
 ---
 **ESTADO:** Arquitectura en evolución · Corpus candidato a Canon  
