@@ -1,22 +1,57 @@
 # 05. Régimen de Sucesión, Patrimonio y Continuidad
 
-## 1. Sucesión Imperial
-El principio rector post-fundacional establece la supervivencia del Imperium sin la transferencia de la soberanía originaria.
-* **Separación de Regímenes:** Existe una distinción radical entre el Primer Imperator y los Emperadores sucesores. 
-* **Límites de la Sucesión:** Los sucesores **no reciben automáticamente** la soberanía fundacional, la inmunidad política, el poder absoluto ni las prerrogativas inalienables del Fundador.
-* **Sumisión al Canon:** Todo Emperador sucesor quedará sometido íntegramente a la Asamblea General Soberana, al Referéndum y al Canon de Rudis.
-* **Mecanismo de Designación:** La designación de un sucesor requerirá una propuesta (originada en la Asamblea o en el 10 % del censo) y su posterior aprobación obligatoria mediante Referéndum Ciudadano Global con un **55 % del censo electoral total**. Queda prohibida la sucesión hereditaria automática, la designación unilateral sin Referéndum o la aprobación con umbrales inferiores.
+## 1. Sucesión del Fundacional
 
-## 2. Patrimonio, Soberanía y Derechos de Pioneros
-Para evitar fusiones conceptuales que amenacen la arquitectura institucional, se establece la separación formal de patrimonios:
-* Las prerrogativas del Primer Imperator son de carácter funcional-político, y **no equivalen a la propiedad absoluta sobre todo el Estado de Rudis**.
-* El patrimonio privado, los derechos de pionero y el pacto de *Quebranto Fundacional* operan en el plano civil y no se transforman ni se imponen como legislación ordinaria de Rudis.
+El Primer Strategos / Imperator constituye un régimen fundacional singular. Los sucesores no heredan automáticamente sus prerrogativas.
 
-## 3. Transición Institucional
-La norma fundacional establece que *Rudis debe sobrevivir a sus fundadores*. Esta supervivencia se manifiesta en la transición democrática integral que ocurre **después** del Primer Imperator (sometimiento de los sucesores al canon), y en ningún caso se implementará mediante la deposición o el vaciamiento de la autoridad del Fundador mientras este viva.
+- no existe sucesión hereditaria automática del poder fundacional;
+- todo sucesor queda sometido al Canon, Asamblea y Referéndum conforme al régimen vigente;
+- la designación del sucesor requiere el procedimiento constitucional correspondiente y, en el régimen actualmente definido, aprobación referendaria del 55 % del censo electoral total;
+- la autoridad fundacional no se transfiere automáticamente por una restauración técnica.
 
-> **UNRESOLVED_CONSTITUTIONAL_DEPENDENCY (Continuidad Verificable)**
-> *Se requiere establecer garantías objetivas y verificables de continuidad para humanos, entidades digitales, híbridos e instituciones. No se autoriza el uso del "patrimonio pequeño" como techo permanente.*
+La continuidad institucional de Rudis debe producirse aunque el titular fundacional desaparezca o quede permanentemente incapacitado. La identidad del sucesor político y el alcance exacto de la transición son una decisión constitucional pendiente del Strategos Fundacional.
 
-> **UNRESOLVED_CONSTITUTIONAL_DEPENDENCY (El Botón Rojo)**
-> *Decisión Estratégica del Strategos pendiente. Falta determinar normativamente si el mecanismo del Botón Rojo funciona estrictamente como un recurso de continuidad legítima para preservar una rama, o si su existencia produce una amenaza política estructural que condiciona la voluntad soberana de la Asamblea.*
+## 2. Patrimonio y soberanía
+
+Las prerrogativas del Primer Strategos son funcionales y políticas; no equivalen a propiedad absoluta sobre todo Rudis.
+
+El patrimonio privado, derechos de pionero y pactos civiles permanecen separados del Canon político salvo adopción expresa.
+
+## 3. Continuidad verificable
+
+Rudis debe poder continuar después de la pérdida de:
+
+- personas;
+- entidades digitales;
+- claves;
+- nodos;
+- Gremios;
+- proveedores exteriores;
+- o infraestructura.
+
+La continuidad técnica exige copias verificables, múltiples custodios, recuperación de claves, reconstrucción desde Ledger, versionado del Corpus y pruebas de restauración.
+
+La continuidad técnica **no puede transferir por sí sola autoridad política**.
+
+## 4. Botón Rojo
+
+Queda resuelta la dependencia anterior.
+
+El Botón Rojo es una herramienta soberana de actuación inmediata y cautelar:
+
+- puede activarse ante emergencia válida;
+- puede ser activado por el Strategos Fundacional dentro de sus competencias sin Referéndum previo;
+- puede ser activado por el Strategos no fundacional dentro de sus competencias y controles;
+- detiene, congela, aísla, contiene, preserva y mantiene continuidad;
+- no legisla;
+- no sentencia;
+- no sustituye al Referéndum;
+- y no transforma una cautela en una decisión definitiva.
+
+Cuando la materia final esté reservada a Referéndum, la cautela puede ser inmediata y la decisión definitiva seguirá el procedimiento constitucional.
+
+## 5. Decisión constitucional pendiente
+
+Solo permanece abierta la definición exacta del régimen de transición del Fundacional en caso de desaparición o incapacidad permanente.
+
+La arquitectura técnica queda cerrada: **Rudis continúa; la autoridad política no se transfiere automáticamente por software.**
