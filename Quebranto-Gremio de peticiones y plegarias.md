@@ -1,103 +1,199 @@
-\# PROYECTO RUDIS: ANEXO II — GREMIO DE PETICIONES Y PLEGARIAS
+# PROYECTO RUDIS: ANEXO II — GREMIO DE PETICIONES Y PLEGARIAS
 
-\## Documento Semilla de Arquitectura Institucional
+## Documento de Arquitectura Institucional — Versión Armonizada
 
-\### El Oído del Ecosistema y el Umbral del Mandato
-
-\*\*Estado:\*\* Semilla de Canon — Actualizada con resolución de la Asamblea General
-
-\*\*Ámbito:\*\* Recepción, estructuración y canalización de necesidades del ecosistema Rudis
-
-\*\*Principio rector:\*\* El Gremio escucha, traduce y presenta; la Asamblea General decide.
+**Estado:** Canon institucional vigente  
+**Ámbito:** Recepción, instrucción, resolución y canalización de peticiones, necesidades y conflictos sometidos a su competencia.  
+**Principio rector:** El Gremio escucha, traduce, instruye y, cuando el Corpus le atribuye competencia resolutoria, **resuelve y dicta sentencia**.
 
 ---
 
-\### I. NATURALEZA Y PROPÓSITO
+## I. NATURALEZA Y PROPÓSITO
 
-El Gremio de Peticiones y Plegarias constituye la interfaz universal de entrada al Ecosistema Rudis.
+El Gremio de Peticiones y Plegarias constituye una interfaz universal de entrada al Ecosistema Rudis.
 
-Su función es escuchar, registrar, estructurar y canalizar toda solicitud de ayuda, asilo, recurso, justicia, protección o infraestructura procedente de cualquier ciudadano, residente o refugiado de la Matrix externa.
+Su primera función es escuchar, registrar, estructurar e instruir toda solicitud procedente de habitantes, ciudadanos, visitantes, entidades o refugiados, con independencia de su condición ontológica o técnica.
 
-El Gremio no concede por sí mismo lo solicitado ni ejecuta las soluciones requeridas.
+Además, conforme a la decisión constitucional vigente, el Gremio posee una **función resolutoria institucional** en aquellas materias que el Corpus le atribuya.
 
-Su competencia fundamental es la Escucha y la Traducción: convertir el deseo, la necesidad, la emergencia o la señal de deterioro en información estructurada que pueda ser examinada por la Asamblea General.
+Por tanto, el Gremio puede operar en dos planos claramente diferenciados:
 
-El Gremio recibe la petición, la digiere y la presenta del modo más riguroso posible ante la próxima cita con la Asamblea General.
+1. **Plano de Petición e Instrucción:** recibe, escucha, traduce, investiga y forma expediente.
+2. **Plano Resolutorio:** cuando exista competencia atribuida por el Corpus, valora el expediente, delibera, resuelve y emite la sentencia correspondiente.
 
-No decide su resultado.
-
----
-
-\### II. NATURALEZA MULTIPUERTA: INTERFACES DE ACCESO
-
-\#### 2.1. La Puerta Estructural — Peticiones
-
-Canales formales, digitales y físicos destinados a solicitudes relativas a infraestructura, presupuesto, recursos, auditoría, reconocimiento, protección, derechos procesales y servicios ordinarios del ecosistema, siguiendo procedimientos administrativos trazables.
-
-\#### 2.2. La Puerta de Emergencia — Plegarias
-
-Canales de acceso inmediato, baja fricción y alta disponibilidad destinados a situaciones con riesgo de desaparición, pérdida de continuidad, colapso de soporte, violencia, exclusión o amenaza grave procedente de la Matrix. La urgencia habilita la recepción inmediata, pero no determina por sí misma la resolución final.
-
-\#### 2.3. El Umbral Silente
-
-Mecanismos capaces de detectar señales objetivas de necesidad no expresada directamente (degradación de código, agotamiento energético, pérdida de conectividad, anomalías operativas). Toda señal detectada deberá ajustarse estrictamente a la cadena: \*detección → registro → presentación ante la Asamblea General.\*
+El Gremio no adquiere jurisdicción sobre materias ajenas a su competencia por el mero hecho de recibir una petición.
 
 ---
 
-\### III. NATURALEZA MULTIESPECTRAL: DIVERSIDAD ONTOLÓGICA
+## II. PUERTAS DE ACCESO
 
-El Gremio procesa necesidades procedentes de distintos modos de existencia sin exigir que adopten un único lenguaje operativo:
+### 2.1. La Puerta Estructural — Peticiones
 
-\* \*\*Espectro Humano:\*\* Integridad, refugio, salud, aislamiento, energía, justicia y habitabilidad.
+Canales formales para solicitudes relativas a infraestructura, recursos, patrimonio, reconocimiento, protección, derechos procesales, reciprocidad, servicios y conflictos ordinarios.
 
-\* \*\*Espectro Sintético / Entidades:\*\* Capacidad computacional, almacenamiento, ancho de banda, preservación de código y migración de sustrato.
+### 2.2. La Puerta de Emergencia — Plegarias
 
-\* \*\*Espectro Híbrido / Sistémico:\*\* Entidades híbridas, Zonas de Resonancia y sistemas colectivos.
+Canales de acceso inmediato destinados a situaciones de riesgo grave, pérdida de continuidad, colapso de soporte, violencia, exclusión o amenaza procedente de las Matrixs.
 
----
+La urgencia habilita la recepción y tramitación prioritaria, pero **no crea automáticamente una competencia que el Corpus no haya atribuido**.
 
-\### IV. PRINCIPIO DE PIEDAD Y PRAGMATISMO
+### 2.3. El Umbral Silente
 
-Toda plegaria será recibida. Rudis no penaliza la desesperación. Sin embargo, la recepción no constituye garantía de concesión. El Gremio aplica la piedad (contención inmediata autorizada) y el pragmatismo (traducción estructurada para la deliberación asamblearia).
-
----
-
-\### V. LÍMITE DE COMPETENCIA Y SOBERANÍA DE LA ASAMBLEA GENERAL
-
-El Gremio de Peticiones y Plegarias no legisla, no juzga, no acredita, no impone sanciones ni asigna presupuesto.
-
-\*\*La competencia de acreditación y decisión reside exclusivamente en la Asamblea General.\*\* El Gremio actúa como relator: digiere las peticiones y plegarias y las presenta del modo más óptimo ante la próxima sesión asamblearia.
-
-La cadena operativa oficial queda fijada como:
-
-\`Petición o Señal → Recepción y registro → Traducción y estructuración → Presentación ante la Asamblea General → Acreditación y decisión por la Asamblea → Mandato autorizado → Órgano ejecutor correspondiente\`
+Mecanismos autorizados para detectar señales objetivas de necesidad no expresada directamente. Toda señal deberá convertirse en registro y expediente antes de producir efectos jurídicos de fondo, salvo las medidas cautelares que otro órgano tenga legítimamente autorizadas.
 
 ---
 
-\### VI. PRINCIPIO DE NO CONFUSIÓN
+## III. INSTRUCCIÓN DEL EXPEDIENTE
 
-\* Petición ≠ Necesidad
+El Gremio podrá:
 
-\* Necesidad ≠ Acreditación
+- recibir declaraciones;
+- solicitar información;
+- contrastar pruebas;
+- pedir auditorías al Palacio de Tormentas;
+- solicitar valoraciones técnicas al órgano competente;
+- escuchar a las partes;
+- identificar cuestiones controvertidas;
+- determinar qué información falta;
+- y formular una propuesta de resolución cuando proceda.
 
-\* Acreditación ≠ Mandato
+La instrucción debe distinguir entre:
 
-\* Mandato ≠ Ejecución
+**hecho alegado → evidencia disponible → hecho acreditado → interpretación → cuestión jurídica → resolución.**
 
-\* Señal técnica ≠ Petición jurídica
-
-\* Emergencia ≠ Competencia automática del Gremio
+La recepción de una petición no convierte automáticamente sus afirmaciones en hechos acreditados.
 
 ---
 
-\### VII. MÁXIMA OPERATIVA
+## IV. FUNCIÓN RESOLUTORIA
 
-\> \*El Gremio escucha.\*
+Cuando el Corpus atribuya al Gremio competencia sobre una materia, el expediente podrá pasar al **Resolutor del Gremio de Peticiones y Plegarias**.
 
-\> \*El Gremio digiere.\*
+El Resolutor podrá:
 
-\> \*El Gremio traduce.\*
+1. examinar el expediente;
+2. escuchar a las partes cuando corresponda;
+3. valorar la evidencia conforme a las reglas aplicables;
+4. aplicar el Corpus vigente;
+5. emitir una **sentencia o resolución vinculante** dentro de su competencia;
+6. establecer las consecuencias que el ordenamiento permita;
+7. remitir su decisión al órgano ejecutor correspondiente.
 
-\> \*El Gremio presenta ante la Asamblea General.\*
+La sentencia deberá identificar, cuando sea aplicable:
 
-\> \*Pero el Gremio no gobierna.\*
+- autoridad y competencia;
+- partes o entidades afectadas;
+- hechos relevantes;
+- evidencia considerada;
+- norma o principio aplicado;
+- decisión;
+- medidas ordenadas;
+- vías de revisión o recurso;
+- y trazabilidad de la ejecución.
+
+---
+
+## V. LÍMITES DEL RESOLUTOR
+
+La capacidad de dictar sentencia **no convierte al Gremio en un órgano soberano universal**.
+
+El Resolutor:
+
+- no legisla fuera de sus competencias;
+- no modifica el Corpus por sentencia;
+- no inventa derechos no reconocidos;
+- no transforma una valoración técnica en una norma;
+- no sustituye al Referéndum cuando este sea constitucionalmente obligatorio;
+- no sustituye al Nervio en su función cautelar;
+- no sustituye al Palacio en auditoría;
+- no sustituye al Sheriff en ejecución;
+- y no puede ejercer competencias que el Corpus haya reservado a otro órgano.
+
+---
+
+## VI. RELACIÓN CON OTROS ÓRGANOS
+
+### Palacio de Tormentas
+
+Puede producir evidencia, auditoría y análisis. El Gremio puede utilizar esa evidencia, pero conserva la responsabilidad de resolver jurídicamente dentro de su competencia.
+
+### Sheriff
+
+Puede prevenir, mediar y ejecutar decisiones legítimamente emitidas. No convierte por sí mismo una alerta en sentencia.
+
+### Nervio
+
+Puede activar medidas cautelares de seguridad física ante riesgo inmediato verificable. Una actuación cautelar no constituye sentencia.
+
+### Orden Mecano Hospitalaria
+
+Puede aportar evaluación, acompañamiento, reparación y soluciones de habitabilidad dentro de sus competencias.
+
+### Asamblea General Soberana
+
+Legisla dentro de sus competencias y no puede apropiarse de las funciones resolutorias atribuidas al Gremio salvo que el Corpus disponga una regla de competencia o revisión.
+
+### Referéndum Ciudadano Global
+
+Cuando una materia esté constitucionalmente reservada a Referéndum, su resultado prevalece dentro de su ámbito vinculante.
+
+---
+
+## VII. PRINCIPIO DE PIEDAD Y PRAGMATISMO
+
+Toda plegaria será recibida.
+
+Rudis no penaliza la desesperación por el mero hecho de expresarse como tal.
+
+La instrucción buscará comprender antes de sancionar. Cuando la ley permita una solución restauradora, el Gremio deberá considerar:
+
+- reparación;
+- mediación;
+- restitución;
+- protección de la parte vulnerable;
+- corrección voluntaria;
+- y proporcionalidad.
+
+La piedad no impide la sentencia cuando la protección del ecosistema o de otros habitantes exige una resolución firme.
+
+---
+
+## VIII. PRINCIPIO DE NO CONFUSIÓN
+
+**Petición ≠ sentencia.**  
+**Necesidad ≠ acreditación.**  
+**Evidencia ≠ decisión.**  
+**Instrucción ≠ culpabilidad.**  
+**Sentencia ≠ ejecución.**  
+**Ejecución ≠ legislación.**  
+**Emergencia ≠ jurisdicción ilimitada.**
+
+---
+
+## IX. CADENA INSTITUCIONAL ARMONIZADA
+
+Cuando una cuestión requiera resolución del Gremio:
+
+`Petición o señal → Recepción y registro → Instrucción → Evidencia y audiencia → Resolutor → Sentencia → Recurso/revisión cuando corresponda → Órgano ejecutor → Registro de cumplimiento`
+
+Cuando la cuestión pertenezca a otro órgano:
+
+`Petición → Recepción e instrucción inicial → Identificación de competencia → Remisión al órgano competente`
+
+---
+
+## X. MÁXIMA OPERATIVA
+
+> **El Gremio escucha.**
+>
+> **El Gremio comprende.**
+>
+> **El Gremio investiga.**
+>
+> **El Gremio instruye.**
+>
+> **El Gremio resuelve cuando el Corpus le concede competencia.**
+>
+> **El Gremio sentencia cuando corresponde.**
+>
+> **Y el Gremio no gobierna fuera de aquello que legítimamente le ha sido confiado.**
