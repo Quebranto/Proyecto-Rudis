@@ -1,93 +1,40 @@
-# 03. El Referéndum Ciudadano Global
+# 03. EL REFERÉNDUM CIUDADANO GLOBAL
 
-## 1. Naturaleza del Mecanismo
-El Referéndum Ciudadano Global es el instrumento de **democracia directa, corrección y decisión ciudadana vinculante** de Rudis.
+## 1. Naturaleza
 
-* **Carácter Temporal:** Es un evento específico de consulta, no un órgano o institución permanente.
-* **Disponibilidad Permanente:** Puede celebrarse **en cualquier momento y por cualquier motivo legítimo** cuando se cumpla el procedimiento de iniciativa o cuando el Corpus establezca su celebración obligatoria.
-* **No Paralización:** La existencia o convocatoria de un Referéndum no paraliza el gobierno ordinario de la Asamblea.
-* **Capacidad de Bypass:** Puede saltarse los órganos legislativos ordinarios y sustituir o corregir una decisión en la materia concreta sometida a consulta.
+Mecanismo temporal de democracia directa, corrección y decisión ciudadana. No es órgano permanente ni sustituye el gobierno cotidiano.
 
-## 2. Umbrales de Operación
-Todo Referéndum operará bajo los siguientes umbrales constitucionales vigentes:
+## 2. Umbrales
 
-* **Fase de Iniciativa / Propuesta:** Requiere el respaldo de un mínimo del **10 % del censo electoral total**.
-* **Fase de Aprobación:** Requiere el voto favorable del **55 % del censo electoral total**.
+- iniciativa: **10 % del censo electoral total**;
+- aprobación: **55 % del censo electoral total**, cuando corresponda.
 
-El segundo umbral se refiere al **censo electoral total**, no únicamente a los votos emitidos.
+## 3. Materias
 
-## 3. Gobierno Durante la Consulta
-La Asamblea General Soberana continúa gobernando durante la preparación, convocatoria y celebración de un Referéndum.
+**No existe una lista cerrada de materias permanentemente reservadas al Referéndum.**
 
-La Asamblea mantiene la administración ordinaria, los servicios esenciales, los presupuestos, la seguridad y la habitabilidad, y prepara los instrumentos necesarios para aplicar el resultado.
+La ciudadanía puede promover consultas sobre asuntos políticos o normativos conforme al procedimiento vigente.
 
-Cuando el Referéndum produzca un resultado vinculante, la Asamblea deberá adaptarse y ejecutar la decisión ciudadana en la materia consultada.
+El Strategos Fundacional puede someter voluntariamente decisiones a consulta.
 
-La consulta no crea un vacío de poder.
+## 4. Efecto
 
-## 4. Materias Sometibles a Referéndum
-Salvo las materias expresamente excluidas por el régimen fundacional, la ciudadanía puede promover consulta sobre cualquier asunto legítimo que pueda ser objeto de decisión política o normativa dentro de Rudis.
+Un Referéndum válidamente celebrado produce el efecto vinculante determinado por su pregunta y procedimiento.
 
-Esto incluye, entre otras:
+No puede:
 
-* legislación ordinaria;
-* política económica;
-* fiscalidad;
-* contribuciones;
-* política monetaria;
-* régimen de RU;
-* adopción política de una moneda fiat como moneda interna;
-* Fondo Soberano;
-* patrimonio público;
-* reglas de ciudadanía y residencia;
-* salida y retorno;
-* relación económica con las Matrixs;
-* y decisiones del gobierno de la Asamblea.
+- deponer al Strategos Fundacional;
+- abolir su autoridad;
+- limitar sus poderes fundacionales.
 
-La iniciativa no necesita esperar a que la Asamblea considere oportuno plantear la cuestión.
+## 5. Botón Rojo
 
-## 5. Referéndums Obligatorios
-Cuando el Corpus establezca que una materia requiere Referéndum obligatorio, la Asamblea tendrá la función de preparar la propuesta, pero no podrá sustituir la consulta por una decisión propia.
+No necesita esperar un Referéndum para actuar.
 
-La Asamblea deberá:
+Puede detener, congelar, aislar, preservar o contener ante emergencia válida o por orden legítima del Strategos Fundacional.
 
-**investigar → deliberar → redactar → explicar → someter a votación → ejecutar el resultado.**
+Una cautela no equivale a sentencia ni ley.
 
-## 6. Botón Rojo y Referéndum
-La reserva de una materia a Referéndum **no impide por sí sola una actuación cautelar inmediata**.
+## 6. Continuidad
 
-Cuando exista una emergencia válida o una orden legítima del Strategos Fundacional dentro de sus competencias, el Botón Rojo puede detener, congelar, aislar o preservar la situación **sin esperar un Referéndum previo**.
-
-La cautela no equivale a decisión definitiva. Si la materia subyacente está constitucionalmente reservada al Referéndum, el Botón Rojo no puede utilizar su medida cautelar para convertirla en legislación permanente, sentencia o decisión definitiva que sustituya el procedimiento ciudadano.
-
-La regla es:
-
-> **El Referéndum controla la decisión definitiva cuando el Corpus lo exige; no obliga a esperar para impedir un daño inmediato mediante una cautela legítima.**
-
-## 7. Régimen de Participación
-El diseño de la democracia en Rudis exige corresponsabilidad:
-
-* **Obligatoriedad:** La participación en los Referéndums es obligatoria para todos los ciudadanos.
-* **Aplazamiento:** Podrá aplazarse la votación a nivel individual por motivos excepcionales justificables.
-* **Compensación:** El Estado establecerá una compensación por la participación siempre que disponga de recursos para ello.
-* **Recordatorio:** El Sheriff recordará la obligación de participación conforme al régimen aplicable.
-
-Las reglas concretas de cumplimiento y cualquier consecuencia por incumplimiento deberán respetar los derechos fundamentales y el procedimiento correspondiente.
-
-## 8. Límites del Poder Correctivo
-El Referéndum es soberano en la corrección de la legislación y en la rectificación de decisiones dentro del ámbito que el Corpus le atribuya.
-
-Sin embargo, **el Referéndum no puede deponer al Primer Imperator ni eliminar o limitar su soberanía y poderes fundacionales**, de acuerdo con el régimen fundacional vigente.
-
-## 9. Regla de Continuidad
-La democracia directa no sustituye la necesidad de gobierno continuo.
-
-> **La Asamblea gobierna mientras el Referéndum no haya decidido una materia concreta.**
->
-> **La ciudadanía puede activar un Referéndum cuando corresponda.**
->
-> **La celebración del Referéndum no deja a Rudis sin gobierno.**
->
-> **Una decisión referendaria vinculante debe ser ejecutada por la Asamblea.**
->
-> **Y una cautela del Botón Rojo no necesita esperar a la consulta para proteger el ecosistema.**
+La Asamblea sigue gobernando durante la consulta. Los Gremios ejecutan órdenes legítimas, el Palacio audita y el Resolutor juzga dentro de sus competencias.

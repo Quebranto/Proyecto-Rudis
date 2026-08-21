@@ -1,19 +1,42 @@
-# Arquitectura Institucional y Transición Democrática
+# 06. ARQUITECTURA INSTITUCIONAL Y TRANSICIÓN
 
-## 1. Los Tres Planos de Poder
-La arquitectura institucional de Rudis se divide en tres planos funcionales diseñados para equilibrar la visión original con la gobernanza descentralizada:
-1. **Autoridad fundacional:** Ostentada por el Primer Strategos / Imperator de forma vitalicia y soberana.
-2. **Legislación ordinaria:** A cargo de la **Asamblea General Soberana**.
-3. **Democracia directa:** Ejercida por la ciudadanía a través del **Referéndum**.
+## 1. Planos funcionales
 
-## 2. La Asamblea General Soberana
-La Asamblea es la institución permanente encargada de la legislación ordinaria y la gestión continua del proyecto. 
-* Existe una estricta separación entre la institución y sus ocupantes.
-* La Asamblea como órgano es permanente, pero **los cargos que la componen son temporales y rotativos**.
+Rudis distingue:
 
-## 3. Transición Democrática y Supervivencia Institucional
-Rudis está diseñado para sobrevivir a sus fundadores sin traicionar su visión inicial. 
-Durante la etapa fundacional, el Primer Imperator retiene prerrogativas que aseguran el anclaje del proyecto. Sin embargo, en el escenario post-fundacional:
-* Ningún sucesor hereda el poder absoluto o la autoridad soberana incontestable del fundador.
-* Todo sucesor en el cargo de Emperador estará sometido a la fiscalización de la Asamblea y al dictado vinculante del Referéndum Ciudadano Global.
-* Este mecanismo garantiza que la transición democrática se complete formalmente tras la era del Primer Imperator, consolidando el poder en las instituciones permanentes (Asamblea) y en la voluntad popular (Referéndum).
+1. autoridad fundacional — Strategos Fundacional;
+2. gobierno y legislación ordinaria — Asamblea;
+3. democracia directa — Referéndum;
+4. ejecución — Gremios;
+5. auditoría — Palacio;
+6. jurisdicción — Órgano Resolutor;
+7. cautela — Botón Rojo y Nervio;
+8. asesoramiento — Órgano Pedagógico + Palacio + Asesor IA.
+
+## 2. Strategos Fundacional
+
+Posee poder soberano fundacional y potestad legislativa materialmente ilimitados.
+
+La Asamblea y el Referéndum no pueden deponerlo, abolir su autoridad ni limitar sus poderes fundacionales.
+
+## 3. Asamblea
+
+Es permanente y gobierna ordinariamente cuando el Strategos guarda silencio, delega o no ejerce directamente una materia.
+
+## 4. Referéndum
+
+Es temporal. No existe una lista cerrada de materias permanentemente reservadas.
+
+Puede corregir decisiones concretas conforme al procedimiento válido, pero no limitar al Fundacional.
+
+## 5. Transición post-fundacional
+
+Si el Strategos Fundacional desaparece o queda permanentemente incapacitado:
+
+- Asamblea y mecanismos referendarios gobiernan la transición;
+- pueden promulgar un **Strategos provisional**;
+- el provisional queda sometido al régimen ordinario.
+
+## 6. Continuidad
+
+La continuidad técnica preserva Estado y registros, pero no designa automáticamente al titular del poder político.

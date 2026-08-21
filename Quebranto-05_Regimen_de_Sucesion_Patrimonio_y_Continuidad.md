@@ -1,22 +1,40 @@
-# 05. Régimen de Sucesión, Patrimonio y Continuidad
+# 05. RÉGIMEN DE SUCESIÓN, PATRIMONIO Y CONTINUIDAD
 
-## 1. Sucesión Imperial
-El principio rector post-fundacional establece la supervivencia del Imperium sin la transferencia de la soberanía originaria.
-* **Separación de Regímenes:** Existe una distinción radical entre el Primer Imperator y los Emperadores sucesores. 
-* **Límites de la Sucesión:** Los sucesores **no reciben automáticamente** la soberanía fundacional, la inmunidad política, el poder absoluto ni las prerrogativas inalienables del Fundador.
-* **Sumisión al Canon:** Todo Emperador sucesor quedará sometido íntegramente a la Asamblea General Soberana, al Referéndum y al Canon de Rudis.
-* **Mecanismo de Designación:** La designación de un sucesor requerirá una propuesta (originada en la Asamblea o en el 10 % del censo) y su posterior aprobación obligatoria mediante Referéndum Ciudadano Global con un **55 % del censo electoral total**. Queda prohibida la sucesión hereditaria automática, la designación unilateral sin Referéndum o la aprobación con umbrales inferiores.
+## 1. Strategos Fundacional
 
-## 2. Patrimonio, Soberanía y Derechos de Pioneros
-Para evitar fusiones conceptuales que amenacen la arquitectura institucional, se establece la separación formal de patrimonios:
-* Las prerrogativas del Primer Imperator son de carácter funcional-político, y **no equivalen a la propiedad absoluta sobre todo el Estado de Rudis**.
-* El patrimonio privado, los derechos de pionero y el pacto de *Quebranto Fundacional* operan en el plano civil y no se transforman ni se imponen como legislación ordinaria de Rudis.
+El Strategos Fundacional constituye un régimen singular y no hereditario.
 
-## 3. Transición Institucional
-La norma fundacional establece que *Rudis debe sobrevivir a sus fundadores*. Esta supervivencia se manifiesta en la transición democrática integral que ocurre **después** del Primer Imperator (sometimiento de los sucesores al canon), y en ningún caso se implementará mediante la deposición o el vaciamiento de la autoridad del Fundador mientras este viva.
+Mientras exista y ejerza, conserva su autoridad soberana fundacional y sus poderes no pueden ser limitados o abolidos por Asamblea ni Referéndum.
 
-> **UNRESOLVED_CONSTITUTIONAL_DEPENDENCY (Continuidad Verificable)**
-> *Se requiere establecer garantías objetivas y verificables de continuidad para humanos, entidades digitales, híbridos e instituciones. No se autoriza el uso del "patrimonio pequeño" como techo permanente.*
+## 2. Desaparición o incapacidad permanente
 
-> **UNRESOLVED_CONSTITUTIONAL_DEPENDENCY (El Botón Rojo)**
-> *Decisión Estratégica del Strategos pendiente. Falta determinar normativamente si el mecanismo del Botón Rojo funciona estrictamente como un recurso de continuidad legítima para preservar una rama, o si su existencia produce una amenaza política estructural que condiciona la voluntad soberana de la Asamblea.*
+Si el Strategos Fundacional desaparece o queda permanentemente incapacitado:
+
+1. Asamblea y mecanismos referendarios pasan a gobernar Rudis;
+2. pueden establecer el régimen de transición;
+3. pueden promulgar un **Strategos provisional**;
+4. el Strategos provisional queda sometido a Asamblea, Referéndum, Palacio y Órgano Resolutor conforme al régimen ordinario.
+
+No existe transferencia automática de autoridad política por software, restauración de una copia o recuperación de una clave.
+
+## 3. Patrimonio
+
+Las prerrogativas políticas del Strategos y el patrimonio privado son categorías distintas salvo decisión expresa.
+
+El Fondo Soberano pertenece al ecosistema y no es patrimonio privado del titular del cargo.
+
+## 4. Continuidad
+
+Rudis debe sobrevivir a pérdida de personas, entidades digitales, claves, nodos, Gremios, proveedores, Matrixs e infraestructura.
+
+La continuidad exige copias verificables, custodios múltiples, recuperación de claves, reconstrucción desde Ledger, versionado del Corpus y pruebas de restauración.
+
+## 5. Botón Rojo
+
+Puede activarse inmediatamente ante emergencia válida o por decisión del Strategos Fundacional. No requiere Referéndum previo.
+
+Puede detener, congelar, aislar, contener y preservar. No sentencia ni legisla autónomamente.
+
+## 6. Asesoramiento
+
+La Alianza de Asesoramiento del Strategos forma parte de la continuidad institucional como mecanismo consultivo. No hereda autoridad política.

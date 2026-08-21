@@ -1,21 +1,45 @@
-# 04. Órganos de Control, Evidencia y Garantía
+# 04. ÓRGANOS DE CONTROL, EVIDENCIA Y GARANTÍA
 
-La arquitectura de Rudis separa estrictamente la producción de evidencia, el cumplimiento administrativo y la adjudicación jurídica de la toma de decisiones políticas.
+Rudis separa asesoramiento, evidencia, cautela, ejecución y jurisdicción.
 
-## 1. El Palacio de Tormentas
-El Palacio es el sistema de observación y auditoría de Rudis.
-* **Competencias:** Detectar, auditar, producir evidencia, señalar contradicciones e identificar concentraciones de poder.
-* **Restricciones:** El Palacio **no tiene potestad sancionadora automática**. La detección o producción de evidencia no puede traducirse en una pérdida automática del poder fundacional ni constituye, por sí misma, la deposición del Primer Imperator o sus sucesores.
+## 1. Palacio de Tormentas
 
-## 2. El Resolutor (Poder Judicial)
-Es la entidad encargada de la adjudicación jurídica.
-* **Competencias:** Resolver controversias entre partes, juzgar casos concretos y aplicar el Canon de Rudis vigente.
-* **Restricciones:** El Resolutor adjudica, pero no legisla ni corrige políticamente. No puede sustituir la voluntad del Referéndum, reinterpretar una prerrogativa fundacional hasta hacerla desaparecer, ni deponer al Primer Imperator.
+Detecta, audita, produce evidencia, verifica trazabilidad, identifica contradicciones, realiza pruebas adversariales y advierte al Strategos.
 
-## 3. El Sheriff
-Es el brazo administrativo y ejecutor del cumplimiento normativo.
-* **Competencias:** Ejecutar el régimen de cumplimiento aprobado y administrar el sistema de trabajo social derivado de sanciones.
-* **Garantía Electoral:** El Sheriff **recuerda la obligatoriedad del voto referendario** y ejecuta las penalizaciones por incumplimiento. Sin embargo, garantiza exclusivamente la participación, **no el resultado**. El Sheriff no decide el contenido político del Referéndum ni puede convertir su función administrativa en poder político coercitivo sobre el sentido del voto.
+Una auditoría no equivale a sentencia.
 
-> **UNRESOLVED_CONSTITUTIONAL_DEPENDENCY (Situación Triste)**
-> *El disparador administrativo a cargo del Sheriff conocido como "Situación Triste" carece actualmente de un umbral normativo suficientemente determinado. Falta definir su evidencia, procedimiento, autoridad competente y posibilidad de revisión para evitar que se transforme silenciosamente en un poder de desconexión.*
+## 2. Órgano Resolutor
+
+Es la jurisdicción de Rudis. Resuelve controversias, valora pruebas, determina responsabilidad y dicta resoluciones o sentencias dentro de su competencia.
+
+No legisla para llenar vacíos constitucionales.
+
+## 3. Sheriff
+
+Es órgano administrativo y ejecutor de cumplimiento reconocido. No legisla ni convierte alertas en sentencias.
+
+## 4. Situación Triste
+
+No es categoría ontológica, sentencia ni autorización automática de desconexión. Es una señal operacional de deterioro, vulnerabilidad, necesidad o condición divergente.
+
+## 5. Nervio y Botón Rojo
+
+El Nervio actúa cautelarmente ante riesgo físico inmediato verificable.
+
+El Botón Rojo puede activarse inmediatamente ante emergencia válida o por orden del Strategos Fundacional. **No necesita Referéndum previo.**
+
+Puede detener, congelar, aislar, contener y preservar. No sentencia ni legisla autónomamente.
+
+## 6. Alianza de Asesoramiento
+
+El Órgano Pedagógico, el Palacio y el Asesor de IA forman la **Alianza de Asesoramiento del Strategos**.
+
+La alianza asesora; el Strategos decide.
+
+## 7. Separación funcional
+
+```text
+ASESORAMIENTO → STRATEGOS → DECISIÓN / LEGISLACIÓN → GREMIOS → EJECUCIÓN → PALACIO / EVIDENCIA → RESOLUTOR SI PROCEDE
+```
+
+> **Detectar no es juzgar. Cautelar no es sentenciar. Asesorar no es gobernar. Ejecutar no es legislar.**
