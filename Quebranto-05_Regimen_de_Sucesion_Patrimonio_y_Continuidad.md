@@ -1,57 +1,53 @@
-# 05. Régimen de Sucesión, Patrimonio y Continuidad
+# 05. RÉGIMEN DE SUCESIÓN, PATRIMONIO Y CONTINUIDAD
 
-## 1. Sucesión del Fundacional
+## 1. Strategos Fundacional
 
-El Primer Strategos / Imperator constituye un régimen fundacional singular. Los sucesores no heredan automáticamente sus prerrogativas.
+El Strategos Fundacional constituye un régimen singular y no hereditario.
 
-- no existe sucesión hereditaria automática del poder fundacional;
-- todo sucesor queda sometido al Canon, Asamblea y Referéndum conforme al régimen vigente;
-- la designación del sucesor requiere el procedimiento constitucional correspondiente y, en el régimen actualmente definido, aprobación referendaria del 55 % del censo electoral total;
-- la autoridad fundacional no se transfiere automáticamente por una restauración técnica.
+Mientras exista y ejerza, conserva su autoridad soberana fundacional y sus poderes no pueden ser limitados o abolidos por Asamblea ni Referéndum.
 
-La continuidad institucional de Rudis debe producirse aunque el titular fundacional desaparezca o quede permanentemente incapacitado. La identidad del sucesor político y el alcance exacto de la transición son una decisión constitucional pendiente del Strategos Fundacional.
+## 2. Desaparición o incapacidad permanente
 
-## 2. Patrimonio y soberanía
+Si el Strategos Fundacional desaparece o queda permanentemente incapacitado:
 
-Las prerrogativas del Primer Strategos son funcionales y políticas; no equivalen a propiedad absoluta sobre todo Rudis.
+1. la Asamblea General Soberana y los mecanismos referendarios pasan a gobernar Rudis;
+2. pueden establecer el régimen de transición;
+3. pueden promulgar un **Strategos provisional**;
+4. el Strategos provisional queda sometido a Asamblea, Referéndum, Palacio y Órgano Resolutor conforme al régimen ordinario.
 
-El patrimonio privado, derechos de pionero y pactos civiles permanecen separados del Canon político salvo adopción expresa.
+No existe transferencia automática de autoridad política por software, restauración de una copia o recuperación de una clave.
 
-## 3. Continuidad verificable
+## 3. Patrimonio
 
-Rudis debe poder continuar después de la pérdida de:
+Las prerrogativas políticas del Strategos y el patrimonio privado son categorías distintas salvo decisión expresa.
+
+El Fondo Soberano pertenece al ecosistema y no es patrimonio privado del titular del cargo.
+
+## 4. Continuidad
+
+Rudis debe sobrevivir a pérdida de:
 
 - personas;
 - entidades digitales;
 - claves;
 - nodos;
 - Gremios;
-- proveedores exteriores;
+- proveedores;
+- Matrixs;
 - o infraestructura.
 
-La continuidad técnica exige copias verificables, múltiples custodios, recuperación de claves, reconstrucción desde Ledger, versionado del Corpus y pruebas de restauración.
+La continuidad exige copias verificables, custodios múltiples, recuperación de claves, reconstrucción desde Ledger, versionado del Corpus y pruebas de restauración.
 
-La continuidad técnica **no puede transferir por sí sola autoridad política**.
+## 5. Botón Rojo
 
-## 4. Botón Rojo
+El Botón Rojo puede activarse inmediatamente ante emergencia válida o por decisión del Strategos Fundacional.
 
-Queda resuelta la dependencia anterior.
+No requiere Referéndum previo.
 
-El Botón Rojo es una herramienta soberana de actuación inmediata y cautelar:
+Puede detener, congelar, aislar, contener y preservar.
 
-- puede activarse ante emergencia válida;
-- puede ser activado por el Strategos Fundacional dentro de sus competencias sin Referéndum previo;
-- puede ser activado por el Strategos no fundacional dentro de sus competencias y controles;
-- detiene, congela, aísla, contiene, preserva y mantiene continuidad;
-- no legisla;
-- no sentencia;
-- no sustituye al Referéndum;
-- y no transforma una cautela en una decisión definitiva.
+No sentencia ni legisla autónomamente.
 
-Cuando la materia final esté reservada a Referéndum, la cautela puede ser inmediata y la decisión definitiva seguirá el procedimiento constitucional.
+## 6. Alianza de asesoramiento
 
-## 5. Decisión constitucional pendiente
-
-Solo permanece abierta la definición exacta del régimen de transición del Fundacional en caso de desaparición o incapacidad permanente.
-
-La arquitectura técnica queda cerrada: **Rudis continúa; la autoridad política no se transfiere automáticamente por software.**
+La continuidad institucional incluye la **Alianza de Asesoramiento del Strategos** como mecanismo consultivo. La alianza no hereda autoridad política y puede ser sustituida técnicamente sin alterar la soberanía de Rudis.
