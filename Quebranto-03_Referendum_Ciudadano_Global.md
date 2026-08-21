@@ -19,13 +19,7 @@ El segundo umbral se refiere al **censo electoral total**, no únicamente a los 
 ## 3. Gobierno Durante la Consulta
 La Asamblea General Soberana continúa gobernando durante la preparación, convocatoria y celebración de un Referéndum.
 
-La Asamblea:
-
-* mantiene la administración ordinaria;
-* mantiene los servicios esenciales;
-* ejecuta presupuestos;
-* conserva la seguridad y habitabilidad;
-* y prepara los instrumentos necesarios para aplicar el resultado.
+La Asamblea mantiene la administración ordinaria, los servicios esenciales, los presupuestos, la seguridad y la habitabilidad, y prepara los instrumentos necesarios para aplicar el resultado.
 
 Cuando el Referéndum produzca un resultado vinculante, la Asamblea deberá adaptarse y ejecutar la decisión ciudadana en la materia consultada.
 
@@ -59,7 +53,18 @@ La Asamblea deberá:
 
 **investigar → deliberar → redactar → explicar → someter a votación → ejecutar el resultado.**
 
-## 6. Régimen de Participación
+## 6. Botón Rojo y Referéndum
+La reserva de una materia a Referéndum **no impide por sí sola una actuación cautelar inmediata**.
+
+Cuando exista una emergencia válida o una orden legítima del Strategos Fundacional dentro de sus competencias, el Botón Rojo puede detener, congelar, aislar o preservar la situación **sin esperar un Referéndum previo**.
+
+La cautela no equivale a decisión definitiva. Si la materia subyacente está constitucionalmente reservada al Referéndum, el Botón Rojo no puede utilizar su medida cautelar para convertirla en legislación permanente, sentencia o decisión definitiva que sustituya el procedimiento ciudadano.
+
+La regla es:
+
+> **El Referéndum controla la decisión definitiva cuando el Corpus lo exige; no obliga a esperar para impedir un daño inmediato mediante una cautela legítima.**
+
+## 7. Régimen de Participación
 El diseño de la democracia en Rudis exige corresponsabilidad:
 
 * **Obligatoriedad:** La participación en los Referéndums es obligatoria para todos los ciudadanos.
@@ -69,12 +74,12 @@ El diseño de la democracia en Rudis exige corresponsabilidad:
 
 Las reglas concretas de cumplimiento y cualquier consecuencia por incumplimiento deberán respetar los derechos fundamentales y el procedimiento correspondiente.
 
-## 7. Límites del Poder Correctivo
+## 8. Límites del Poder Correctivo
 El Referéndum es soberano en la corrección de la legislación y en la rectificación de decisiones dentro del ámbito que el Corpus le atribuya.
 
-Sin embargo, **el Referéndum no puede deponer al Primer Imperator ni eliminar su soberanía fundacional**, de acuerdo con el régimen fundacional vigente.
+Sin embargo, **el Referéndum no puede deponer al Primer Imperator ni eliminar o limitar su soberanía y poderes fundacionales**, de acuerdo con el régimen fundacional vigente.
 
-## 8. Regla de Continuidad
+## 9. Regla de Continuidad
 La democracia directa no sustituye la necesidad de gobierno continuo.
 
 > **La Asamblea gobierna mientras el Referéndum no haya decidido una materia concreta.**
@@ -83,4 +88,6 @@ La democracia directa no sustituye la necesidad de gobierno continuo.
 >
 > **La celebración del Referéndum no deja a Rudis sin gobierno.**
 >
-> **Y una decisión referendaria vinculante debe ser ejecutada por la Asamblea.**
+> **Una decisión referendaria vinculante debe ser ejecutada por la Asamblea.**
+>
+> **Y una cautela del Botón Rojo no necesita esperar a la consulta para proteger el ecosistema.**
