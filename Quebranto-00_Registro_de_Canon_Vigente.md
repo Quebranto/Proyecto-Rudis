@@ -117,6 +117,20 @@ Son órganos ejecutores y funcionales. Construyen, despliegan, mantienen, repara
 
 No legislan, no juzgan y no sustituyen al Referéndum.
 
+#### Gremio Unificador
+
+`Quebranto-Gremio Unificador.md` queda integrado como **semilla institucional de trabajo** para las funciones de adquisición, contratación, licenciamiento, incorporación, protección, recuperación y reunificación de activos, sistemas, entidades, proyectos, descubrimientos, obras, capacidades, tecnologías, conocimientos, habilidades e infraestructuras de interés legítimo para Rudis.
+
+Su misión comprende también la **continuidad y reconstrucción del ecosistema** ante desastre, accidente, guerra, fragmentación, pérdida de infraestructura, corrupción, aislamiento u otras rupturas graves.
+
+Puede coordinar operaciones de forma reservada y compartimentada cuando la confidencialidad sea necesaria para una adquisición, contratación, protección, evacuación o reunificación legítima. Esta capacidad no constituye una licencia general para delinquir ni añade por sí misma jurisdicción, potestad legislativa o soberanía.
+
+El Gremio Unificador actúa dentro del reparto de competencias del Corpus: **incorpora, protege y reúne; no crea por sí mismo los derechos, la jurisdicción ni la autorización que necesite para hacerlo.**
+
+La continuidad del ecosistema es además un **deber moral compartido por sus habitantes**, aunque la competencia institucional especializada corresponda al Gremio.
+
+Esta inclusión no eleva por sí misma la semilla a rango constitucional ni modifica materias reservadas a Referéndum.
+
 ### Palacio de Tormentas
 
 Audita, registra evidencia, verifica trazabilidad, detecta anomalías y realiza pruebas adversariales dentro de las competencias del Corpus.
