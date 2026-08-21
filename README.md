@@ -115,9 +115,21 @@ En particular, `CONSTITUTIONAL_AUTHORIZATION_REQUIRED` puede impedir un efecto d
 
 El **código fuente** de Proyecto Rudis se distribuye bajo **GNU Affero General Public License v3.0 (AGPL-3.0)**, salvo que un componente indique expresamente otro régimen.
 
+La documentación y el corpus tienen un régimen separado descrito en `DOCUMENTATION-LICENSE.md`.
+
 La licencia del código no implica automáticamente la cesión de marcas, identidad institucional, moneda, infraestructura oficial, servicios, bases de datos, documentación con licencia propia ni otros activos independientes del software.
 
 **Titular declarado del material original de Proyecto Rudis: José Ángel Moreno Cabezas**, sin perjuicio de derechos de terceros y de contribuciones cuya titularidad corresponda legítimamente a sus autores.
+
+Documentos clave:
+
+- `LICENSE` — AGPL-3.0 para el código cubierto.
+- `DOCUMENTATION-LICENSE.md` — régimen documental y del corpus.
+- `ASSETS-AND-TRADEMARKS.md` — identidad, signos distintivos y activos reservados.
+- `COMMERCIAL-LICENSE.md` — separación entre software abierto y derechos comerciales independientes.
+- `COMMERCIAL-EXPLOITATION-POLICY.md` — vías de explotación económica.
+- `COPYRIGHT-AND-OWNERSHIP.md` — cadena de titularidad y trazabilidad.
+- `CONTRIBUTOR-AGREEMENT.md` — contribuciones y derechos.
 
 ## 🧪 INVITACIÓN A LA AUDITORÍA
 
