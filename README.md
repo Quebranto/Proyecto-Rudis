@@ -90,6 +90,7 @@ Documentos patrimoniales y comerciales:
 - [`ASSETS-AND-TRADEMARKS.md`](ASSETS-AND-TRADEMARKS.md) — identidad, activos y marcas.
 - [`CONTRIBUTOR-AGREEMENT.md`](CONTRIBUTOR-AGREEMENT.md) — marco para contribuciones.
 - [`LICENSE`](LICENSE) — licencia del código fuente.
+- [`Quebranto-Marco Económico Soberano, Moneda RU y Relación con las Matrixs.md`](Quebranto-Marco%20Econ%C3%B3mico%20Soberano%2C%20Moneda%20RU%20y%20Relaci%C3%B3n%20con%20las%20Matrixs.md) — consolidación de RU, Gremio Conversor, Fondo Soberano, patrimonio, fiscalidad y relación económica multifiat.
 
 Rudis busca mantener simultáneamente **apertura tecnológica, capacidad de explotación económica y soberanía sobre sus activos institucionales**.
 
