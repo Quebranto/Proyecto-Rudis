@@ -56,6 +56,14 @@ Infraestructura técnica que formaliza, autentica, versiona, registra y distribu
 
 Ejecutan decisiones y prestan funciones operativas. No crean competencias políticas ni sustituyen a la Asamblea, al Referéndum o al Órgano Resolutor.
 
+#### Gremio Unificador
+
+Órgano especializado en detectar, evaluar, adquirir, contratar, licenciar, proteger, integrar, recuperar y reunificar activos, sistemas, entidades, proyectos, descubrimientos, obras, capacidades, tecnologías, conocimientos e infraestructuras de interés legítimo para Rudis.
+
+También desarrolla la función institucional de continuidad y reconstrucción ante desastre, accidente, guerra, fragmentación o pérdida grave. Puede coordinar operaciones de forma reservada y compartimentada cuando la confidencialidad sea necesaria para una adquisición, contratación, protección, evacuación o reunificación legítima, sin que ello constituya una licencia general para delinquir ni cree soberanía propia.
+
+La continuidad de Rudis sigue siendo, además, una responsabilidad moral compartida por todos sus habitantes. Documento rector de esta función: `Quebranto-Gremio Unificador.md`.
+
 ### Palacio de Tormentas
 
 Audita, produce evidencia, verifica trazabilidad y somete el sistema a pruebas adversariales. No sustituye al juez.
@@ -110,6 +118,7 @@ En particular, `CONSTITUTIONAL_AUTHORIZATION_REQUIRED` puede impedir un efecto d
 - `Quebranto-09 Matriz de Armonización Institucional y Legislativa.md` — frontera entre decisión, legislación, cautela, ejecución, auditoría y jurisdicción.
 - `Quebranto-Marco Económico Soberano, Moneda RU y Relación con las Matrixs.md` — arquitectura económica.
 - `Quebranto-08 Marco de Gobierno Económico y Agenda de Asamblea.md` — agenda económica y relación Asamblea/Referéndum.
+- `Quebranto-Gremio Unificador.md` — adquisición, integración, recuperación y continuidad del ecosistema.
 
 ## 💼 LICENCIA, PROPIEDAD Y EXPLOTACIÓN ECONÓMICA
 
