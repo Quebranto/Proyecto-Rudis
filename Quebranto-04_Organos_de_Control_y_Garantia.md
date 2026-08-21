@@ -1,23 +1,21 @@
-# 04. Órganos de Control, Evidencia y Garantía
+# 04. ÓRGANOS DE CONTROL, EVIDENCIA Y GARANTÍA
 
-La arquitectura de Rudis separa evidencia, cumplimiento administrativo, cautela y adjudicación jurídica.
+La arquitectura de Rudis separa **asesoramiento, evidencia, cautela, ejecución y jurisdicción**.
 
 ## 1. Palacio de Tormentas
 
-El Palacio es el sistema de observación y auditoría.
+El Palacio:
 
-Puede:
+- detecta;
+- audita;
+- produce evidencia;
+- verifica trazabilidad;
+- identifica contradicciones;
+- realiza pruebas adversariales;
+- advierte al Strategos mediante la Alianza de Asesoramiento;
+- y ejerce las facultades expresamente atribuidas por el Corpus.
 
-- detectar;
-- auditar;
-- producir evidencia;
-- señalar contradicciones;
-- identificar concentraciones de poder;
-- realizar pruebas adversariales;
-- verificar trazabilidad;
-- activar los canales institucionales que el Corpus le atribuya.
-
-No tiene potestad sancionadora automática y una auditoría no equivale a sentencia.
+Una auditoría no equivale a sentencia.
 
 ## 2. Órgano Resolutor
 
@@ -25,58 +23,61 @@ Es la jurisdicción de Rudis.
 
 Puede resolver controversias, valorar pruebas, determinar responsabilidad jurídica y dictar resoluciones o sentencias dentro de su competencia.
 
-No legisla para llenar vacíos constitucionales, no sustituye al Referéndum y no puede convertir una prerrogativa fundacional en inexistente por reinterpretación.
+No legisla para llenar vacíos constitucionales.
 
 ## 3. Sheriff
 
-Es el brazo administrativo y ejecutor del cumplimiento normativo reconocido.
+Es órgano administrativo y ejecutor de cumplimiento reconocido.
 
-Puede recordar obligaciones, mediar, ejecutar decisiones legítimas y aplicar consecuencias administrativas previamente establecidas.
-
-No decide el contenido político de un Referéndum ni puede coercionar el sentido del voto.
+No legisla ni convierte una alerta en sentencia.
 
 ## 4. Situación Triste
 
-Queda resuelta la dependencia anterior.
+No es categoría ontológica, sentencia ni autorización automática de desconexión.
 
-**Situación Triste no es una categoría ontológica, una sentencia ni una autorización de desconexión.** Es una señal operacional que puede indicar una condición de deterioro, vulnerabilidad, sufrimiento o necesidad divergente.
+Es una señal operacional de deterioro, vulnerabilidad, necesidad o condición divergente.
 
-Ante una Situación Triste, el sistema debe:
-
-1. registrar la señal;
-2. preservar evidencia relevante;
-3. ofrecer o activar protección/auxilio cuando exista fundamento;
-4. notificar al órgano competente;
-5. abrir expediente cuando sea necesario;
-6. activar cautela solo si concurren las condiciones jurídicas de una medida cautelar;
-7. permitir revisión.
-
-La señal por sí sola **nunca autoriza la desconexión, confiscación, sanción o pérdida de derechos**.
+Debe registrarse, producir expediente cuando proceda y activar el órgano competente.
 
 ## 5. Nervio y Botón Rojo
 
-El Nervio atiende riesgo físico inmediato verificable mediante medidas de seguridad cautelar.
+El Nervio actúa cautelarmente ante riesgo físico inmediato verificable.
 
-El Botón Rojo puede detener, congelar, aislar, contener y preservar ante emergencia válida o por orden legítima del Strategos Fundacional dentro de sus competencias.
+El Botón Rojo puede activarse inmediatamente ante emergencia válida o por orden del Strategos Fundacional.
 
-Ninguno juzga ni legisla.
+**No necesita Referéndum previo.**
 
-## 6. Separación funcional
+Puede detener, congelar, aislar, contener, preservar y ejecutar órdenes legítimas.
+
+No sentencia ni legisla autónomamente.
+
+## 6. Alianza de Asesoramiento
+
+El Órgano Pedagógico, el Palacio y el Asesor de IA forman la **Alianza de Asesoramiento del Strategos**.
+
+El Palacio conserva su independencia funcional de auditoría, aunque participe en el asesoramiento.
+
+La alianza asesora; el Strategos decide.
+
+## 7. Separación funcional
 
 ```text
-SEÑAL
-  ↓
-EVIDENCIA — Palacio
-  ↓
-CAUTELA — Nervio / Botón Rojo cuando corresponda
-  ↓
-PROCEDIMIENTO
-  ↓
-RESOLUTOR
-  ↓
-SENTENCIA
-  ↓
-EJECUCIÓN — Sheriff / Gremio
+ASESORAMIENTO
+Órgano Pedagógico + Palacio + Asesor IA
+                ↓
+             STRATEGOS
+                ↓
+        DECISIÓN / LEGISLACIÓN
+                ↓
+             GREMIOS
+                ↓
+            EJECUCIÓN
+                ↓
+         PALACIO / EVIDENCIA
+                ↓
+          RESOLUTOR SI PROCEDE
+                ↓
+            SENTENCIA
 ```
 
-> **Detectar no es juzgar. Cautelar no es sentenciar. Ejecutar no es legislar.**
+> **Detectar no es juzgar. Cautelar no es sentenciar. Asesorar no es gobernar. Ejecutar no es legislar.**
