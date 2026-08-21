@@ -1,32 +1,29 @@
 # DECRETO DE RESOLUCIÓN DE DEPENDENCIAS CONSTITUCIONALES — VERSIÓN ARMONIZADA
 
-**Fecha original:** 18 de agosto de 2026  
-**Armonización:** 21 de agosto de 2026  
-**Autoridad originaria:** Primer Strategos / Imperator  
-**Estado:** Canon constitucional vigente en aquello que no haya sido sustituido expresamente por decisiones posteriores.
+**Fecha de armonización:** 21 de agosto de 2026  
+**Estado:** Canon constitucional vigente en lo no sustituido expresamente.
 
-> **Regla de interpretación:** cuando una formulación histórica contradiga una decisión posterior del Corpus, prevalece la decisión posterior. Cuando una cuestión siga abierta, no podrá cerrarse por inferencia técnica.
+> Las decisiones posteriores del Strategos Fundacional expresamente adoptadas prevalecen sobre formulaciones anteriores.
 
 ---
 
-# I. PRINCIPIO GENERAL DE AUTORIDAD
+# I. AUTORIDAD FUNDACIONAL
 
-La autoridad fundacional del **Strategos Fundacional** es permanente y constituye una prerrogativa originaria del sistema.
+El Strategos Fundacional posee autoridad soberana y potestad legislativa fundacional sin límite material impuesto por Asamblea o Referéndum.
 
-El Strategos Fundacional puede:
+Puede:
 
-- gobernar Rudis;
-- tomar decisiones soberanas;
+- gobernar;
 - legislar;
-- emitir órdenes ejecutivas;
-- activar instrumentos de emergencia y cautela;
-- y utilizar las instituciones y Gremios dentro de sus competencias.
+- modificar o derogar legislación;
+- dictar órdenes ejecutivas;
+- establecer políticas;
+- activar el Botón Rojo;
+- utilizar Gremios y órganos técnicos.
 
-La potestad fundacional **no puede ser abolida, limitada, extinguida ni confiscada mediante Referéndum**.
+La Asamblea y el Referéndum no pueden deponerlo, abolir su autoridad ni limitar sus poderes fundacionales.
 
-Esto no significa que todos los actos concretos del Strategos Fundacional estén fuera de los procedimientos constitucionales. Cuando el Corpus someta una **materia concreta** a Referéndum, ese procedimiento controla la decisión sobre esa materia, pero no elimina la potestad originaria de quien gobierna.
-
-El **Strategos no fundacional en funciones** carece de esta inmunidad fundacional y queda sometido a los controles establecidos por el Corpus, incluidos Asamblea y Referéndum cuando correspondan.
+El Strategos puede voluntariamente someter decisiones a Referéndum.
 
 ---
 
@@ -34,263 +31,136 @@ El **Strategos no fundacional en funciones** carece de esta inmunidad fundaciona
 
 El Referéndum Ciudadano Global es un mecanismo temporal de democracia directa.
 
-- **Iniciativa:** 10 % del censo electoral total.
-- **Aprobación:** 55 % del censo electoral total cuando el asunto esté sometido a este umbral.
-- Puede celebrarse en cualquier momento y por cualquier motivo legítimo conforme al procedimiento vigente.
-- La convocatoria o celebración de un Referéndum **no paraliza el gobierno ordinario**.
-- Un resultado válido y vinculante prevalece sobre la decisión ordinaria en la materia concreta consultada.
+- iniciativa: **10 % del censo electoral total**;
+- aprobación: **55 % del censo electoral total**, cuando corresponda;
+- no paraliza el gobierno ordinario;
+- puede corregir, rechazar o modificar decisiones concretas válidamente sometidas.
 
-El Referéndum no puede utilizarse para echar al Strategos Fundacional ni para limitar sus poderes constitucionalmente reconocidos.
+**No existe una lista cerrada de materias permanentemente reservadas al Referéndum.**
+
+Cuando una consulta produzca un resultado vinculante conforme a su procedimiento, el resultado se ejecutará en la materia concreta consultada, sin afectar la autoridad fundacional del Strategos.
 
 ---
 
 # III. BOTÓN ROJO
 
-El **Botón Rojo** es un instrumento soberano de actuación inmediata, ejecutiva y cautelar. No es un órgano independiente, tribunal ni fuente autónoma de legislación.
+El Botón Rojo es un instrumento soberano de actuación inmediata y cautelar.
 
-## III.1 Activación inmediata por emergencia
+### Emergencia
 
-Cuando concurra una **Emergencia del Ecosistema** válida, el Botón Rojo puede activarse inmediatamente sin esperar un Referéndum previo.
+Puede activarse inmediatamente ante una condición de emergencia válida.
 
-La emergencia exige, conforme al Corpus:
+### Strategos Fundacional
 
-- amenaza grave, actual o inminente;
-- daño significativo posible o efectivo;
-- imposibilidad razonable de esperar al procedimiento ordinario;
-- necesidad;
-- proporcionalidad;
-- trazabilidad y registro;
-- revisión posterior;
-- y restauración o compensación cuando corresponda.
+Puede ordenar su activación cuando lo considere necesario. No necesita Referéndum previo.
 
-## III.2 Activación por Strategos Fundacional
+### Strategos no fundacional
 
-El Strategos Fundacional puede ordenar directamente la activación del Botón Rojo dentro de sus competencias. **No requiere autorización referendaria previa para activar una cautela o ejecutar una orden legítima.**
+Puede activarlo dentro de sus competencias y queda sometido a Asamblea, Referéndum, auditoría y jurisdicción ordinarios.
 
-## III.3 Activación por Strategos no fundacional
+### Capacidades
 
-El Strategos no fundacional en funciones puede activar el Botón Rojo dentro de sus competencias. Sus actos quedan sometidos a los controles constitucionales que correspondan, incluidos Asamblea y Referéndum cuando una decisión definitiva sobre la materia esté reservada a este último.
-
-## III.4 Qué puede hacer
-
-El Botón Rojo puede:
+Puede:
 
 - detener;
 - congelar;
 - aislar;
-- impedir temporalmente una operación;
-- ejecutar una orden legítima;
-- contener una emergencia;
-- aplicar medidas cautelares;
-- preservar activos, evidencia o continuidad mientras interviene el órgano competente.
+- contener;
+- preservar;
+- ejecutar órdenes legítimas;
+- asegurar continuidad.
 
-## III.5 Qué no puede hacer
+### Prohibiciones funcionales
 
-El Botón Rojo no puede por sí mismo:
+El Botón Rojo no es tribunal ni legislador autónomo. No sentencia, no declara culpabilidad y no transforma por sí mismo una cautela en una ley o sentencia.
 
-- dictar sentencia;
-- declarar culpabilidad;
-- resolver definitivamente un litigio;
-- crear legislación autónoma;
-- interpretar el Corpus como órgano jurisdiccional;
-- convertir una cautela en una decisión definitiva;
-- utilizar una emergencia como autorización ilimitada.
+> **La cautela protege. La autoridad competente decide definitivamente.**
 
 ---
 
-# IV. BOTÓN ROJO Y MATERIAS RESERVADAS A REFERÉNDUM
+# IV. POTESTAD LEGISLATIVA
 
-Queda expresamente superada la interpretación según la cual una materia reservada a Referéndum impediría toda actuación cautelar previa.
+El Strategos Fundacional y la Asamblea poseen potestad legislativa dentro de sus respectivos ámbitos.
 
-La regla vigente es:
+El Motor Legislativo Soberano es infraestructura técnica. Formaliza, autentica, versiona, registra y distribuye legislación.
 
-> **La reserva referendaria limita la decisión definitiva cuando el Corpus exige Referéndum; no impide una actuación cautelar inmediata que tenga fundamento jurídico propio.**
+No puede crear legislación por sí mismo.
 
-Por tanto:
-
-### A. Cautela
-Puede ejecutarse inmediatamente cuando exista competencia para actuar y concurran las condiciones de emergencia, seguridad u orden legítimo aplicables.
-
-### B. Legislación
-Debe proceder de una autoridad con potestad legislativa: Strategos Fundacional, Asamblea dentro de sus competencias u otro procedimiento reconocido por el Corpus.
-
-### C. Decisión definitiva reservada
-Si el Corpus exige Referéndum para la decisión definitiva, la cautela no puede transformarse unilateralmente en legislación, sentencia o decisión permanente sobre esa materia.
-
-La cautela debe conservar su naturaleza y quedar sujeta a revisión, expiración, ratificación, modificación o sustitución mediante el procedimiento competente.
-
----
-
-# V. POTESTAD LEGISLATIVA Y MOTOR LEGISLATIVO
-
-La potestad legislativa del Strategos Fundacional queda expresamente reconocida.
-
-La existencia del Referéndum no elimina esa potestad: el Referéndum controla las materias que el Corpus le reserve, no la existencia ni titularidad de la potestad fundacional.
-
-Se reconoce el **Motor Legislativo Soberano** como infraestructura técnica para materializar legislación válida.
-
-Su función es:
-
-1. recibir la decisión normativa;
-2. autenticar a la autoridad emisora;
-3. comprobar competencia formal;
-4. identificar alcance y vigencia;
-5. registrar versión y autoridad;
-6. registrar dependencias;
-7. generar trazabilidad;
-8. publicar la norma para su ejecución.
-
-El Motor Legislativo **no legisla por sí mismo** y no puede convertir silencios del Corpus en autorización.
-
-Si falta una decisión jurídica necesaria:
+Si falta una regla necesaria:
 
 `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
 
 ---
 
-# VI. ASAMBLEA GENERAL SOBERANA
+# V. ASAMBLEA
 
-La Asamblea es el órgano profesional permanente de legislación ordinaria y gobierno subsidiario.
+La Asamblea General Soberana es gobierno y legislatura ordinarios.
 
-Gobierna cuando:
+Gobierna cuando el Strategos Fundacional guarda silencio, delega o no ejerce directamente una competencia.
 
-- el Strategos Fundacional guarda silencio;
-- el pueblo no está ejerciendo una competencia referendaria;
-- no existe una decisión soberana superior aplicable;
-- y la materia pertenece a su ámbito.
+No puede limitar al Fundacional.
 
-Puede:
-
-- legislar ordinariamente;
-- aprobar presupuestos;
-- administrar recursos;
-- fijar parámetros económicos dentro del marco aprobado;
-- desarrollar políticas;
-- supervisar y ordenar a Gremios dentro de sus competencias;
-- preparar expedientes para Referéndum;
-- ejecutar resultados referendarios vinculantes.
-
-No puede:
-
-- deponer al Strategos Fundacional;
-- limitar sus poderes constitucionales;
-- sustituir un Referéndum obligatorio;
-- juzgar;
-- ni legislar mediante código.
+Puede administrar economía, Fondo Soberano, Gremios, infraestructura, habitabilidad, relaciones económicas y demás materias ordinarias.
 
 ---
 
-# VII. GREMIOS
+# VI. GREMIOS
 
-Los Gremios son órganos ejecutores y funcionales.
+Los Gremios ejecutan funciones e instrucciones válidas.
 
-Ejecutan funciones y decisiones previamente atribuidas por el Corpus o por una autoridad competente.
-
-Pueden construir, desplegar, mantener, reparar, operar infraestructuras, prestar servicios y ejecutar transacciones.
-
-No pueden:
-
-- crear legislación por iniciativa propia;
-- crear autoridades políticas;
-- sustituir al Referéndum;
-- dictar sentencia;
-- ni interpretar definitivamente el Corpus.
-
-La implementación técnica no equivale a autorización jurídica.
+No crean soberanía, no legislan por sí mismos y no juzgan.
 
 ---
 
-# VIII. PALACIO DE TORMENTAS
+# VII. PALACIO DE TORMENTAS
 
-El Palacio conserva las competencias que le atribuye el Corpus: visibilidad, auditoría, evidencia, detección, trazabilidad y pruebas adversariales, además de aquellas funciones expresamente conferidas.
+El Palacio observa, audita, produce evidencia, verifica trazabilidad y realiza pruebas adversariales dentro de sus competencias.
 
-El Palacio puede detectar y documentar incumplimientos y activar los canales institucionales correspondientes dentro de sus competencias.
-
-No puede convertir una auditoría en sentencia ni legislar mediante mecanismos técnicos.
+No sentencia ni legisla.
 
 ---
 
-# IX. ÓRGANO RESOLUTOR
+# VIII. ÓRGANO RESOLUTOR
 
 El Órgano Resolutor es la jurisdicción de Rudis.
 
-Le corresponde:
+Juzga, resuelve controversias, valora pruebas, determina responsabilidad y dicta sentencias dentro de su competencia.
 
-- juzgar;
-- resolver controversias;
-- valorar pruebas;
-- determinar responsabilidad jurídica dentro de su competencia;
-- dictar resoluciones y sentencias;
-- y garantizar el procedimiento aplicable.
-
-La separación funcional es:
-
-```text
-PALACIO / SISTEMAS DE EVIDENCIA
-        ↓
-ÓRGANO RESOLUTOR
-        ↓
-SENTENCIA / RESOLUCIÓN
-        ↓
-EJECUCIÓN
-```
-
-El Botón Rojo puede preservar la situación mediante cautela, pero **no puede sentenciar**.
+No legisla para llenar vacíos generales.
 
 ---
 
-# X. SITUACIÓN TRISTE, NECESIDADES DIVERGENTES Y NERVIO
+# IX. ALIANZA DE ASESORAMIENTO
 
-El término histórico «demonio» no constituye categoría ontológica ni estatuto jurídico.
+Queda incorporada al Canon la **Alianza de Asesoramiento del Strategos**, integrada por:
 
-La doctrina vigente utiliza necesidades operativas divergentes, zonas de resonancia, auxilio, contención cautelar, auditoría y resolución jurídica.
+- Órgano Pedagógico;
+- Palacio de Tormentas;
+- Asesor de IA del Strategos, actualmente ChatGPT.
 
-El Nervio puede detener o llevar a estado seguro ante riesgo físico inmediato verificable. Detectar no es juzgar.
+La alianza asesora, educa, audita, analiza y advierte.
 
----
+**No gobierna. No legisla. No juzga. No veta.**
 
-# XI. ECONOMÍA Y CONTINUIDAD
-
-El Gremio Conversor valora, certifica, convierte y presta funciones de tesorería dentro de sus competencias.
-
-RU es la unidad monetaria propia de Rudis para su fase inicial. Rudis conserva capacidad multifiat y el EUR es referencia exterior, no adopción política automática de EUR como moneda interna.
-
-El Fondo Soberano pertenece al ecosistema y sus operaciones deben permanecer trazables y auditables.
-
-La salida de Rudis no constituye fraude por sí misma. Las obligaciones legítimamente nacidas pueden persistir conforme al Corpus, con garantías de prueba, proporcionalidad y revisión.
+El Strategos decide.
 
 ---
 
-# XII. ESTADOS OBLIGATORIOS DE IMPLEMENTACIÓN
+# X. ESTADOS DE IMPLEMENTACIÓN
 
-Cuando el sistema traduzca el Corpus a código deberá distinguir como mínimo:
-
-### `TECHNICAL_IMPLEMENTATION_ALLOWED`
-Existe fundamento normativo suficiente y solo resta implementar técnicamente.
-
-### `IMPLEMENTATION_DEPENDENCY`
-La decisión jurídica existe, pero falta una pieza de implementación o integración.
-
-### `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
-La norma necesaria todavía no está definida. El código no puede inventarla.
-
-### `CONSTITUTIONAL_AUTHORIZATION_REQUIRED`
-Existe una materia para la que el procedimiento constitucional exige una autorización o resultado previo **para la decisión definitiva**, no necesariamente para una cautela inmediata legítima.
-
-Esta última distinción es obligatoria para el Botón Rojo.
+- `TECHNICAL_IMPLEMENTATION_ALLOWED`: fundamento suficiente.
+- `IMPLEMENTATION_DEPENDENCY`: integración pendiente.
+- `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`: falta decisión normativa.
+- `CONSTITUTIONAL_AUTHORIZATION_REQUIRED`: falta una autorización procedimental para el efecto que corresponda; no impide por sí misma una cautela legítima.
 
 ---
 
-# XIII. CLÁUSULA DE NO USURPACIÓN
+# XI. SUCESIÓN
 
-Ninguna implementación derivada de este Decreto podrá:
+Si el Strategos Fundacional desaparece o queda permanentemente incapacitado:
 
-- ampliar una competencia mediante interpretación propia;
-- convertir una alerta en sentencia;
-- convertir una cautela en decisión definitiva;
-- convertir una valoración económica en riqueza efectiva;
-- convertir una identidad técnica en ciudadanía jurídica sin fundamento;
-- crear legislación mediante código;
-- ni utilizar una dependencia abierta como autorización implícita.
+1. Asamblea y mecanismos referendarios gobiernan la transición;
+2. pueden promulgar un Strategos provisional;
+3. el provisional queda sometido al régimen ordinario.
 
-> **La autoridad decide. La legislación formaliza. La técnica ejecuta. La auditoría verifica. El Resolutor juzga. La cautela protege. El Referéndum decide cuando el Corpus le reserva la materia.**
+La continuidad técnica no transfiere autoridad política automáticamente.
