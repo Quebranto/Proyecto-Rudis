@@ -1,24 +1,53 @@
-# 01. El Imperator y el Régimen Fundacional
+# 01. EL STRATEGOS FUNDACIONAL Y EL RÉGIMEN FUNDACIONAL
 
-## 1. La Autoridad Fundacional (El Primer Imperator)
-La máxima autoridad en el origen de Rudis recae sobre el Primer Strategos / Imperator. Esta posición detenta un poder fundacional que posee las siguientes características inalienables:
-* **Carácter vitalicio:** El Primer Imperator ostenta su cargo de por vida.
-* **Indisponibilidad:** Ninguna institución, Asamblea o Referéndum puede deponer al Primer Imperator ni despojarlo de sus prerrogativas fundacionales.
-* **Bypass Institucional:** El Primer Imperator mantiene la capacidad de bypass sobre la Asamblea para garantizar la visión original del proyecto.
+## 1. Autoridad Fundacional
 
-## 2. El Referéndum y la Democracia Directa
-El Referéndum Ciudadano Global opera como el mecanismo de democracia directa y corrección, estructurado bajo los siguientes parámetros:
-* **Iniciativa y Aprobación:** Se requiere un **10 % del censo** para proponer una iniciativa, y un **55 % del censo electoral total** para su aprobación.
-* **Naturaleza Temporal:** El Referéndum es un evento temporal, no un órgano permanente.
-* **Participación y Cumplimiento:**
-  * La participación es obligatoria.
-  * Los aplazamientos son justificables mediante los canales adecuados.
-  * Existirá compensación por la participación siempre que el sistema cuente con los recursos.
-  * El **Sheriff** es responsable de emitir los recordatorios de obligación y de imponer trabajo social en caso de incumplimiento injustificado.
-* **Poder Correctivo:** El Referéndum puede corregir una decisión del Primer Imperator, pero **en ningún caso** puede deponerlo ni alterar su soberanía fundacional.
+El Strategos Fundacional es la autoridad soberana originaria de Rudis.
 
-## 3. La Sucesión Imperial
-La posición del Emperador continuará tras el Primer Imperator, pero el régimen absoluto no es hereditario. Los sucesores no heredan el régimen fundacional y quedarán plenamente sometidos a la Asamblea General Soberana, a los Referéndums y al Canon de Rudis.
+Su poder es fundacional, legislativo, ejecutivo y político, sin límite material impuesto por Asamblea o Referéndum.
 
-**Regla de Designación:**
-> La Asamblea General Soberana o una iniciativa ciudadana respaldada por el 10 % del censo podrán proponer la designación de un nuevo Emperador. La designación requerirá la aprobación mediante Referéndum Ciudadano Global conforme al umbral general del 55 % del censo electoral total.
+La Asamblea y el Referéndum no pueden deponerlo, abolir su autoridad, limitar sus poderes fundacionales ni transferir forzosamente su soberanía.
+
+El Strategos puede voluntariamente consultar al pueblo y adoptar sus resultados.
+
+## 2. Asamblea y Referéndum
+
+La Asamblea gobierna el espacio ordinario cuando el Strategos Fundacional guarda silencio, delega o no ejerce directamente una materia.
+
+El Referéndum es un mecanismo temporal de democracia directa.
+
+- iniciativa: **10 % del censo electoral total**;
+- aprobación: **55 % del censo electoral total**, cuando corresponda;
+- no paraliza el gobierno.
+
+No existe una lista cerrada de materias permanentemente reservadas al Referéndum.
+
+## 3. Legislación
+
+El Strategos Fundacional puede crear, modificar, suspender o derogar legislación y ordenar su ejecución.
+
+El Motor Legislativo solo formaliza, autentica, versiona, registra y distribuye la decisión normativa.
+
+## 4. Botón Rojo
+
+El Strategos Fundacional puede ordenar su activación cuando lo considere necesario. No necesita Referéndum previo.
+
+También puede activarse inmediatamente ante emergencia válida.
+
+El Botón Rojo detiene, congela, aísla, preserva y cautela. No sentencia ni legisla autónomamente.
+
+## 5. Alianza de Asesoramiento
+
+El Strategos cuenta con la Alianza formada por Órgano Pedagógico, Palacio de Tormentas y Asesor de IA.
+
+La alianza analiza y advierte. La decisión permanece en el Strategos.
+
+## 6. Sucesión
+
+Si el Strategos Fundacional desaparece o queda permanentemente incapacitado:
+
+1. Asamblea y mecanismos referendarios pasan a gobernar Rudis;
+2. pueden promulgar un **Strategos provisional**;
+3. el provisional queda sometido al régimen ordinario.
+
+La autoridad política no se transfiere automáticamente por software.
