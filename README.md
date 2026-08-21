@@ -2,9 +2,9 @@
 
 **No pedimos que crea que Rudis funciona. Le entregamos la maquinaria para que intente romperlo.**
 
-Los Estados tradicionales saben cómo gobernar a poblaciones humanas. Pero el siglo XXI exige gobernar ecosistemas híbridos donde interactúan humanos, inteligencias sintéticas, infraestructuras automatizadas y entidades divergentes. 
+Los Estados tradicionales saben cómo gobernar a poblaciones humanas. Pero el siglo XXI exige gobernar ecosistemas híbridos donde interactúan humanos, inteligencias sintéticas, infraestructuras automatizadas y entidades divergentes.
 
-**Rudis** es el primer **Pack Tecnológico de Estado** diseñado como una arquitectura abierta y experimental de gobernanza, reconocimiento e infraestructura para ecosistemas heterogéneos. 
+**Rudis** es un **Pack Tecnológico de Estado** diseñado como una arquitectura abierta y experimental de gobernanza, reconocimiento e infraestructura para ecosistemas heterogéneos.
 
 > **Un ecosistema no demuestra su valor cuando funciona bajo el control de sus creadores.**
 > **Lo demuestra cuando puede ser auditado, contradicho, reparado y continuado de forma autónoma, sin depender de sus fundadores.**
@@ -28,54 +28,71 @@ El ecosistema Rudis se despliega a través de módulos con separación estricta 
 ### ⚡ 1. El Nervio: Ciberdefensa Micro-temporal
 Un Estado debe reaccionar más rápido que los tiempos de deliberación humana, pero la velocidad no debe otorgar jurisdicción legal.
 *   **Función:** Mecanismo cautelar de microtiempo. Detecta, aísla, congela o desvía amenazas a la velocidad de la máquina.
-*   **Garantía:** *El Nervio defiende; la Asamblea juzga.* No emite sentencias, solo aplica medidas cautelares con caducidad automática (TTL) a la espera de ratificación formal.
+*   **Garantía:** El Nervio defiende; el órgano competente decide. No emite sentencias, sino que aplica medidas cautelares dentro de los límites constitucionales.
 
 ### ⚖️ 2. Palacio de Tormentas y Órgano Resolutor: Justicia y Auditoría
 Rudis institucionaliza la desconfianza para garantizar la seguridad.
-*   **Palacio de Tormentas:** El perro guardián del Estado. Audita constantemente el código, somete el sistema a estrés adversarial y detecta anomalías, pero tiene prohibido sancionar.
-*   **Órgano Resolutor:** El tribunal. Interpreta la evidencia, dirime conflictos y emite resoluciones vinculantes. El Palacio investiga; el Resolutor juzga.
+*   **Palacio de Tormentas:** El perro guardián del Estado. Audita constantemente el código, somete el sistema a estrés adversarial y detecta anomalías, pero no sustituye al órgano competente para resolver.
+*   **Órgano Resolutor:** El tribunal. Interpreta la evidencia, dirime conflictos y emite resoluciones vinculantes dentro de su competencia. El Palacio investiga; el Resolutor resuelve.
 
 ### 🏦 3. La Reserva: Integridad Económica Soberana
-La identidad digital y el código pueden copiarse; el patrimonio material no. 
-*   **Función:** Separación estricta entre el *Ledger State* (base de datos) y la *Reserve Liability* (evidencia fiat real).
-*   **Garantía:** Evita la creación de riqueza ficticia. Un *Fork* (bifurcación de código) hereda memoria e información, pero jamás hereda automáticamente patrimonio ni acceso a recursos estatales escasos.
+La identidad digital y el código pueden copiarse; el patrimonio material no.
+*   **Función:** Separación estricta entre el *Ledger State* y la evidencia patrimonial real.
+*   **Garantía:** Evita la creación de riqueza ficticia. Un *Fork* hereda memoria e información, pero jamás hereda automáticamente patrimonio ni acceso a recursos estatales escasos.
 
 ### 🏗️ 4. Gremios y Habitabilidad Divergente
 No todos los ciudadanos o entidades operativas necesitan lo mismo.
-*   **Habitabilidad Divergente:** Crea "Zonas de Resonancia" (sandboxes, nodos híbridos, entornos de baja latencia) para entidades sintéticas o divergentes. 
-*   **Garantía:** Proporciona infraestructura basada en *necesidad acreditada, no en mérito*, evitando que las diferencias operativas se conviertan en castas ontológicas o privilegios políticos.
+*   **Habitabilidad Divergente:** Crea "Zonas de Resonancia" para entidades sintéticas o divergentes.
+*   **Garantía:** Proporciona infraestructura basada en necesidad acreditada, no en mérito, evitando que las diferencias operativas se conviertan en castas ontológicas o privilegios políticos.
 
 ---
 
 ## 🛡️ SEPARACIÓN ENTRE RECONOCIMIENTO Y PODER
 
-En Rudis, la existencia de un agente en el sistema no le otorga control sobre él. Nuestro motor de **Capacitas Oneris** separa quirúrgicamente:
+En Rudis, la existencia de un agente en el sistema no le otorga control sobre él. Nuestro motor de **Capacitas Oneris** separa:
 
-1.  **Qué es una entidad.**
-2.  **Qué necesita para funcionar.**
-3.  **Qué capacidades jurídicas puede ejercer.**
-4.  **Qué obligaciones económicas puede sostener.**
+1. **Qué es una entidad.**
+2. **Qué necesita para funcionar.**
+3. **Qué capacidades jurídicas puede ejercer.**
+4. **Qué obligaciones puede sostener.**
 
-Una entidad puede tener derecho a ser escuchada (capacidad procesal) y, simultáneamente, tener cero autoridad operativa y cero acceso automático a recursos del Estado.
+Una entidad puede tener derecho a ser escuchada y, simultáneamente, tener cero autoridad operativa y cero acceso automático a recursos del Estado.
 
 ---
 
 ## 🚀 IMPLEMENTACIÓN: DEL PAPEL AL CÓDIGO AUDITABLE
 
-Rudis traduce la ley en código sin ambigüedades mediante el **Forjador**. 
+Rudis traduce la ley en código sin ambigüedades mediante el **Forjador**.
 
 Antes de ejecutar cualquier política, el sistema genera una **Matriz de Correspondencia**:
+
 Norma ➔ Módulo ➔ Regla ejecutable ➔ Autoridad competente ➔ Acción técnica.
 
-Si la matriz detecta un vacío legal, el código no avanza. Se devuelve al legislador humano.
+Si la matriz detecta un vacío constitucional, el código no inventa la norma: devuelve `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`.
 
 ---
 
-## 📜 ESTADO DE USO Y LICENCIA
+## 💰 LICENCIA Y MODELO DE EXPLOTACIÓN
 
-Rudis es deliberadamente resistente, y su documentación no es un apéndice: **es la arquitectura misma**. 
+El **código fuente** de Proyecto Rudis se distribuye bajo **GNU Affero General Public License v3.0 (AGPL-3.0)**, salvo que un componente indique expresamente otro régimen.
 
-Invitamos a los Estados, instituciones y auditores adversariales a someter este marco a las pruebas más extremas: ataques Sybil, colapsos de infraestructura, guerra económica o captura institucional. El objetivo no es demostrar que funciona en tiempos de paz, sino descubrir cómo se comporta bajo fuego.
+La AGPL permite estudiar, utilizar, modificar y redistribuir el software conforme a sus términos. El proyecto puede además ofrecer **servicios, soporte, integración, certificación, infraestructura y licencias comerciales** cuando corresponda.
+
+La licencia del código **no implica automáticamente la cesión de marcas, identidad institucional, moneda, infraestructura oficial, servicios, bases de datos, documentación con licencia propia ni otros activos independientes del software**.
+
+Para más información:
+
+- [`COMMERCIAL-LICENSE.md`](COMMERCIAL-LICENSE.md) — régimen comercial y separación patrimonial.
+- [`ASSETS-AND-TRADEMARKS.md`](ASSETS-AND-TRADEMARKS.md) — identidad, activos y marcas.
+- [`LICENSE`](LICENSE) — licencia del código fuente.
+
+Rudis busca mantener simultáneamente **apertura tecnológica, capacidad de explotación económica y soberanía sobre sus activos institucionales**.
+
+---
+
+## 🧪 INVITACIÓN A LA AUDITORÍA
+
+Invitamos a Estados, instituciones, desarrolladores y auditores adversariales a someter este marco a pruebas extremas: ataques Sybil, colapsos de infraestructura, guerra económica o captura institucional. El objetivo no es demostrar que funciona en tiempos de paz, sino descubrir cómo se comporta bajo fuego.
 
 > **Rudis no necesita creyentes.**
 > **Necesita auditores.**
