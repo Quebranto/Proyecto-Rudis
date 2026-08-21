@@ -2,6 +2,8 @@
 
 **Estado:** Documento marco del proyecto · sujeto al Corpus y a los derechos de sus titulares.
 
+**Titular declarado del material original de Proyecto Rudis:** José Ángel Moreno Cabezas, sin perjuicio de derechos de terceros y de contribuciones con titularidad independiente.
+
 ## 1. Licencia del código
 
 El código fuente cubierto por este repositorio se distribuye bajo **GNU Affero General Public License v3.0 (AGPL-3.0)**, salvo que un archivo o componente indique expresamente otro régimen compatible y aplicable.
@@ -47,6 +49,8 @@ Nada de este documento pretende restringir los derechos que la AGPL concede a lo
 
 ## 6. Titularidad
 
-La titularidad de derechos de autor sobre cada contribución, módulo o activo deberá determinarse conforme a su origen y al régimen jurídico aplicable. Este documento no constituye por sí mismo una transferencia de titularidad.
+La titularidad declarada del material original de Proyecto Rudis es **José Ángel Moreno Cabezas**, sin perjuicio de los derechos que correspondan a terceros, colaboradores, autores de contribuciones independientes o titulares de componentes incorporados bajo licencias propias.
+
+La titularidad del copyright no altera la licencia AGPL bajo la que se distribuye el código ni implica que puedan restringirse los derechos que la AGPL concede a sus usuarios.
 
 Las futuras contribuciones podrán quedar sujetas a las reglas de contribución y acuerdos específicos que establezca el proyecto.
