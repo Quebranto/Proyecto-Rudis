@@ -72,21 +72,28 @@ Si la matriz detecta un vacío constitucional, el código no inventa la norma: d
 
 ---
 
-## 💰 LICENCIA Y MODELO DE EXPLOTACIÓN
+## 💰 LICENCIA, PROPIEDAD Y EXPLOTACIÓN ECONÓMICA
 
 El **código fuente** de Proyecto Rudis se distribuye bajo **GNU Affero General Public License v3.0 (AGPL-3.0)**, salvo que un componente indique expresamente otro régimen.
 
-La AGPL permite estudiar, utilizar, modificar y redistribuir el software conforme a sus términos. El proyecto puede además ofrecer **servicios, soporte, integración, certificación, infraestructura y licencias comerciales** cuando corresponda.
+La AGPL permite estudiar, utilizar, modificar y redistribuir el software conforme a sus términos. El proyecto puede además ofrecer **servicios, soporte, integración, certificación, infraestructura, consultoría, formación y otras prestaciones comerciales lícitas**.
 
 La licencia del código **no implica automáticamente la cesión de marcas, identidad institucional, moneda, infraestructura oficial, servicios, bases de datos, documentación con licencia propia ni otros activos independientes del software**.
 
-Para más información:
+**Titular declarado del material original de Proyecto Rudis: José Ángel Moreno Cabezas**, sin perjuicio de derechos de terceros y de contribuciones cuya titularidad corresponda legítimamente a sus autores.
 
-- [`COMMERCIAL-LICENSE.md`](COMMERCIAL-LICENSE.md) — régimen comercial y separación patrimonial.
+Documentos patrimoniales y comerciales:
+
+- [`COPYRIGHT-AND-OWNERSHIP.md`](COPYRIGHT-AND-OWNERSHIP.md) — titularidad, autoría y cadena de derechos.
+- [`COMMERCIAL-LICENSE.md`](COMMERCIAL-LICENSE.md) — separación entre código, activos y licencias comerciales.
+- [`COMMERCIAL-EXPLOITATION-POLICY.md`](COMMERCIAL-EXPLOITATION-POLICY.md) — vías de explotación económica y contratación.
 - [`ASSETS-AND-TRADEMARKS.md`](ASSETS-AND-TRADEMARKS.md) — identidad, activos y marcas.
+- [`CONTRIBUTOR-AGREEMENT.md`](CONTRIBUTOR-AGREEMENT.md) — marco para contribuciones.
 - [`LICENSE`](LICENSE) — licencia del código fuente.
 
 Rudis busca mantener simultáneamente **apertura tecnológica, capacidad de explotación económica y soberanía sobre sus activos institucionales**.
+
+La existencia de una arquitectura económica o financiera en el Corpus **no constituye por sí misma autorización para prestar servicios regulados**. Las actividades financieras, de pagos, cambio, custodia, seguros, inversión u otras actividades reguladas deberán ejecutarse únicamente cuando exista una estructura jurídica y regulatoria adecuada.
 
 ---
 
