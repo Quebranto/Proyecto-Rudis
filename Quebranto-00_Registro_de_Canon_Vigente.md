@@ -40,6 +40,7 @@ Se consideran piezas centrales del corpus actual:
 - `Quebranto-06_Arquitectura_institucional_y_transicion_democratica.md`
 - `Quebranto-07 Decreto de resolución de dependencias constitucionales.md`
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
+- `Quebranto-Marco Económico Soberano, Moneda RU y Relación con las Matrixs.md`
 
 Estos documentos deben interpretarse conjuntamente y conforme a las decisiones posteriores expresamente incorporadas al Corpus.
 
@@ -99,13 +100,27 @@ La naturaleza técnica no determina por sí sola derechos, obligaciones o capaci
 
 El Gremio Conversor valora, audita, certifica y facilita conversión y tesorería dentro de sus competencias.
 
-RU es una unidad monetaria propia de Rudis y no constituye por sí misma una promesa automática de conversión a EUR.
+RU es la unidad monetaria propia de Rudis para su fase inicial y no constituye por sí misma una promesa automática de conversión a EUR.
+
+Rudis conserva capacidad de operar con múltiples monedas fiat exteriores. El euro es un numerario exterior de referencia, no una adopción política automática de EUR como moneda interna.
+
+El Gremio Conversor actúa provisionalmente como Tesorería y Banco Interno, sin que ello equivalga a disponer de una licencia bancaria exterior.
 
 ### Fondo Soberano
 
 Pertenece al ecosistema Rudis.
 
-Sus rendimientos se orientan universalmente a habitabilidad, seguridad, educación, infraestructura, protección social y oportunidades, sin perjuicio de las reglas de acumulación vigentes.
+Los beneficios netos del Gremio Conversor y de otros mecanismos soberanos que correspondan se destinan al Fondo Soberano.
+
+Sus rendimientos se orientan universalmente a habitabilidad, seguridad, educación, infraestructura, protección social, oportunidades, resiliencia y continuidad, priorizando inicialmente la acumulación de capital hasta alcanzar el umbral que corresponda.
+
+### Fiscalidad y relación con las Matrixs
+
+Rudis procurará cumplir las obligaciones fiscales legalmente exigibles.
+
+Cuando sea lícito y estratégicamente conveniente, podrá utilizar donaciones bien dirigidas como instrumento de contribución social y relación cooperativa con las Matrixs. Las donaciones no sustituyen automáticamente impuestos legalmente exigibles.
+
+La orientación política contempla, cuando sea viable y jurídicamente reconocible, una contribución voluntaria que pueda superar en un 20 % la carga fiscal comparable, buscando beneficio simultáneo para Rudis y la sociedad de la Matrix correspondiente.
 
 ### Salida y retorno
 
@@ -113,9 +128,17 @@ Los habitantes pueden abandonar Rudis conforme al régimen aplicable y conservan
 
 Las obligaciones económicas legítimamente nacidas no desaparecen automáticamente por la salida.
 
+Rudis podrá conservar registros, administrar bienes internos y cooperar con las Matrixs para defender derechos económicos legítimos, sin convertir la salida en fraude por sí misma.
+
 ### Reciprocidad
 
 El crecimiento económico derivado de relaciones significativas dentro de Rudis puede generar obligaciones de reciprocidad conforme al Corpus, con garantías de prueba, proporcionalidad y revisión.
+
+### Relación financiera exterior
+
+Rudis admite la entrada de bancos, aseguradoras, reaseguradoras, proveedores de pago y otros servicios financieros de las Matrixs cuando exista una vía legal y técnica para ello.
+
+La banca regulada propia podrá estudiarse en el futuro, pero no constituye una prioridad inmediata.
 
 ---
 
