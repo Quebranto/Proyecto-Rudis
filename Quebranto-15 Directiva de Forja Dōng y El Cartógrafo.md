@@ -10,7 +10,6 @@ Construir un Palacio de Conversión v0.x ejecutable, determinista, `SIMULATION_O
 ## DŌNG — NÚCLEO
 
 ### Conversion Palace
-
 - valoración/cotización deterministas;
 - cotizaciones versionadas y autocontenidas;
 - anti-replay y anti-doble-liquidación;
