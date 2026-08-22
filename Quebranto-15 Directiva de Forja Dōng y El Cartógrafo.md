@@ -1,31 +1,31 @@
 # QUEBRANTO-15 — DIRECTIVA DE FORJA DE DŌNG Y EL CARTÓGRAFO
 
-**Fecha:** 22 de agosto de 2026  
-**Estado:** DIRECTIVA OPERATIVA CANÓNICA DE FORJA  
-**Ámbito:** Gremio Conversor / Palacio de Conversión / State OS
+**Fecha:** 22 de agosto de 2026
 
-## OBJETIVO INMEDIATO
+**Estado:** DIRECTIVA OPERATIVA CANÓNICA DE FORJA
 
-Construir un **Palacio de Conversión v0.x ejecutable, determinista, simulation-only y auditable**, e integrarlo progresivamente en el State OS sin introducir legislación en código.
+## Objetivo inmediato
 
-## DŌNG — NÚCLEO DETERMINISTA
+Construir un Palacio de Conversión v0.x ejecutable, determinista, `SIMULATION_ONLY` y auditable, e integrarlo progresivamente en el State OS sin introducir legislación en código.
 
-### Entrega A — Conversion Palace
+## Dōng — núcleo determinista
 
-- mantener valoración y cotización deterministas;
-- mantener cotizaciones versionadas y autocontenidas;
+### Conversion Palace
+
+- valoración y cotización deterministas;
+- cotizaciones versionadas y autocontenidas;
 - anti-replay y anti-doble-liquidación;
 - cadena de estado reproducible;
 - expiración de cotizaciones;
-- recálculo interno de la cotización en `Settle()`;
+- recálculo interno en `Settle()`;
 - invalidación ante cambio de evidencia o política;
 - `SIMULATION_ONLY` y fail-closed;
-- verificación de evidencia mediante un componente independiente del booleano `verified`;
-- preparar el adaptador futuro a Continuity/Ledger sin inventar reglas políticas.
+- verificación de evidencia mediante componente independiente del booleano `verified`;
+- adaptador futuro a Continuity/Ledger mediante contrato explícito.
 
-### Entrega B — Law Engine v0.1
+### Law Engine v0.1
 
-Implementar la lógica interna acordada con Kaelen/Aster:
+Implementar las estructuras aprobadas:
 
 ```text
 CorpusReference
@@ -47,97 +47,64 @@ CompetenceResult
   reason
 ```
 
-El motor debe comprobar como mínimo:
+Comprobar referencia, versión, integridad, regla activa, acción, claim, perfil y versión de autoridad. Acción desconocida o ambigua: fallo cerrado. No insertar texto jurídico completo en el binario.
 
-- referencia completa;
-- versión válida;
-- integridad de referencia según el resolver/registro disponible;
-- regla activa;
-- acción coincidente;
-- claim requerido;
-- perfil de autoridad compatible;
-- versión de autoridad compatible;
-- acción desconocida → no autorización;
-- cualquier ambigüedad → fallo cerrado.
+### Sovereign Kernel
 
-No insertar texto jurídico completo en el binario.
+Solo muta estado con mandato externo válido y resultado de competencia autorizado.
 
-### Entrega C — Sovereign Kernel
+### Pruebas
 
-El Kernel solo puede mutar estado cuando exista un mandato externo válido y un `CompetenceResult` autorizado. El Kernel no determina por sí mismo el contenido del Corpus.
+Regla ausente/inactiva, referencia incompleta, hash/versionado incompatible, claim ausente, perfil/version incompatible, colisiones, manipulación, replay, doble liquidación y simulación intentando mutar estado soberano.
 
-### Pruebas obligatorias
+## El Cartógrafo — contratos e integración
 
-- regla ausente;
-- regla inactiva;
-- referencia incompleta;
-- hash/versionado incompatible;
-- claim ausente;
-- `authority_profile_id` incompatible;
-- `authority_version` incompatible;
-- regla duplicada/colisión;
-- manipulación de regla;
-- manipulación de evidencia;
-- replay;
-- doble liquidación;
-- `SIMULATION_ONLY` intentando mutar estado soberano.
-
-## EL CARTÓGRAFO — CONTRATOS E INTEGRACIÓN
-
-### Entrega A — Contratos Conversion/State OS
+### Conversion/State OS
 
 Cerrar la correspondencia:
 
-`Corpus → contrato → tipo → interfaz → implementación → evidencia → auditoría`.
+`Corpus → contrato → tipo → interfaz → implementación → evidencia → auditoría`
 
-Mantener por separado:
+Separar actor, identidad autenticada, autoridad, competencia, decisión, evidencia y resultado.
 
-- actor;
-- identidad autenticada;
-- autoridad;
-- competencia;
-- decisión;
-- evidencia;
-- resultado.
+### Law Engine
 
-### Entrega B — Integración Law Engine
+Definir:
 
-Definir el contrato entre:
+`Acto Legislativo → Rule Payload → Law Engine → CompetenceResult → Sovereign Kernel`
 
-`Acto Legislativo → Rule Payload → Law Engine → CompetenceResult → Sovereign Kernel`.
+Mantener separado lo canónico, lo derivado y lo exclusivamente visual.
 
-El Cartógrafo debe documentar qué datos son canónicos, cuáles son derivados y cuáles son exclusivamente de UI/Atlas.
+### Continuity/Ledger
 
-### Entrega C — Continuity/Ledger
+Definir el adaptador que será dueño de la cadena histórica. `ConversionPalace` no inventa el estado padre de producción.
 
-Definir el adaptador que será dueño de la cadena histórica. `ConversionPalace` no debe inventar por sí mismo el estado padre de producción.
+### Atlas / Gran Biblioteca
 
-### Entrega D — UI / Gran Biblioteca
+Representar de forma trazable:
 
-El Atlas debe poder representar de forma trazable:
+`acción → rule_id → document_id → section → corpus_version → integrity_hash → motivo`
 
-`acción → rule_id → basis.document_id → basis.section → corpus_version → integrity_hash → motivo del rechazo/aceptación`.
-
-## FRONTERAS INNEGOCIABLES
+## Fronteras
 
 - no `float`/`double` monetario;
 - no secretos ni claves privadas en público;
 - no hashes disfrazados de criptografía;
-- no STUBs que concedan autorización positiva por defecto;
-- no hardcodear impuestos, emisión, crédito, intereses, reservas o política económica;
-- no convertir un problema técnico en `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`;
-- no convertir una cautela del Botón Rojo en sentencia o legislación;
+- no STUBs que autoricen positivamente por defecto;
+- no hardcodear política económica;
+- no confundir dependencia técnica con dependencia constitucional;
+- no convertir cautela del Botón Rojo en sentencia o legislación;
 - no sustituir artefactos por prosa.
 
-## ESTADOS DE DEPENDENCIA
+## Estados
 
 `TECHNICAL_IMPLEMENTATION_ALLOWED` → construir.  
 `IMPLEMENTATION_DEPENDENCY` → norma resuelta; falta integración.  
 `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY` → falta decisión normativa real.  
 `CONSTITUTIONAL_AUTHORIZATION_REQUIRED` → falta autorización para el efecto definitivo.
 
-## PROTOCOLO DE ENTREGA
+## Entrega
 
-Cada entrega debe incluir PR/commit, archivos completos, tests ejecutables, dependencias, regresiones, no implementado y evidencia reproducible.
+Cada avance debe aportar PR/commit reproducible, archivos completos, tests, dependencias, regresiones, no implementado y evidencia reproducible.
 
 **Dōng construye. El Cartógrafo integra. Limes rompe. Aster mantiene la correspondencia con el Canon.**
