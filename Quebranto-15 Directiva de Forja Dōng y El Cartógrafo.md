@@ -4,94 +4,140 @@
 **Estado:** DIRECTIVA OPERATIVA CANÓNICA DE FORJA  
 **Ámbito:** Gremio Conversor / Palacio de Conversión / State OS
 
-## 0. OBJETIVO ACTUAL
+## OBJETIVO INMEDIATO
 
-El objetivo inmediato es producir un **Palacio de Conversión v0.x ejecutable, determinista, simulation-only y auditable**, y preparar su integración con el State OS sin introducir legislación en código.
+Construir un **Palacio de Conversión v0.x ejecutable, determinista, simulation-only y auditable**, e integrarlo progresivamente en el State OS sin introducir legislación en código.
 
-## I. DŌNG — NÚCLEO DETERMINISTA
+## DŌNG — NÚCLEO DETERMINISTA
 
-Dōng debe construir y mantener:
+### Entrega A — Conversion Palace
 
-1. modelos de dominio y estados;
-2. valoración determinista;
-3. cotizaciones autocontenidas y versionadas;
-4. separación estricta de valoración, autorización, reserva y liquidación;
-5. anti-replay y anti-doble-liquidación;
-6. cadena de estado verificable;
-7. expiración de cotizaciones;
-8. verificación de evidencia mediante un componente independiente de `WealthEvidence::verified`;
-9. pruebas de propiedades y adversariales;
-10. `SIMULATION_ONLY` y fail-closed;
-11. interfaces para criptografía real, sin placeholders presentados como seguridad;
-12. integración posterior con Ledger/Continuity únicamente mediante contratos explícitos.
+- mantener valoración y cotización deterministas;
+- mantener cotizaciones versionadas y autocontenidas;
+- anti-replay y anti-doble-liquidación;
+- cadena de estado reproducible;
+- expiración de cotizaciones;
+- recálculo interno de la cotización en `Settle()`;
+- invalidación ante cambio de evidencia o política;
+- `SIMULATION_ONLY` y fail-closed;
+- verificación de evidencia mediante un componente independiente del booleano `verified`;
+- preparar el adaptador futuro a Continuity/Ledger sin inventar reglas políticas.
 
-### Invariantes obligatorios
+### Entrega B — Law Engine v0.1
 
-- Nunca `float`/`double` para dinero.
-- Una cotización alterada debe ser rechazada.
-- Una cotización caducada debe ser rechazada.
-- Una cotización no puede liquidarse dos veces.
-- Cambiar política/evidencia entre cotización y liquidación debe invalidar la operación.
-- El hash de estado debe depender del estado previo + transición/evento + estado resultante; no de un identificador aislado.
-- La cadena histórica no pertenece al Conversion Palace: el padre definitivo deberá provenir del contrato de Continuity/Ledger cuando exista.
+Implementar la lógica interna acordada con Kaelen/Aster:
 
-### Estados de dependencia
+```text
+CorpusReference
+  document_id
+  section
+  corpus_version
+  integrity_hash
 
-- `TECHNICAL_IMPLEMENTATION_ALLOWED`: autorizado y listo para construir.
-- `IMPLEMENTATION_DEPENDENCY`: la norma existe; falta integración técnica.
-- `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`: falta decisión normativa real.
-- `CONSTITUTIONAL_AUTHORIZATION_REQUIRED`: falta autorización para un efecto definitivo.
+AuthorityContext
+  entity_id
+  claims
+  authority_profile_id
+  authority_version
 
-## II. EL CARTÓGRAFO — CONTRATOS E INTEGRACIÓN
+CompetenceResult
+  state
+  rule_id
+  basis
+  reason
+```
 
-El Cartógrafo debe mantener la correspondencia:
+El motor debe comprobar como mínimo:
+
+- referencia completa;
+- versión válida;
+- integridad de referencia según el resolver/registro disponible;
+- regla activa;
+- acción coincidente;
+- claim requerido;
+- perfil de autoridad compatible;
+- versión de autoridad compatible;
+- acción desconocida → no autorización;
+- cualquier ambigüedad → fallo cerrado.
+
+No insertar texto jurídico completo en el binario.
+
+### Entrega C — Sovereign Kernel
+
+El Kernel solo puede mutar estado cuando exista un mandato externo válido y un `CompetenceResult` autorizado. El Kernel no determina por sí mismo el contenido del Corpus.
+
+### Pruebas obligatorias
+
+- regla ausente;
+- regla inactiva;
+- referencia incompleta;
+- hash/versionado incompatible;
+- claim ausente;
+- `authority_profile_id` incompatible;
+- `authority_version` incompatible;
+- regla duplicada/colisión;
+- manipulación de regla;
+- manipulación de evidencia;
+- replay;
+- doble liquidación;
+- `SIMULATION_ONLY` intentando mutar estado soberano.
+
+## EL CARTÓGRAFO — CONTRATOS E INTEGRACIÓN
+
+### Entrega A — Contratos Conversion/State OS
+
+Cerrar la correspondencia:
 
 `Corpus → contrato → tipo → interfaz → implementación → evidencia → auditoría`.
 
-Tareas actuales:
+Mantener por separado:
 
-1. cerrar el contrato de `ConversionRequest`, `ConversionQuote`, `ConversionReceipt`, `WealthEvidence` y `ConversionAuditEvent`;
-2. definir el adaptador entre Conversion Palace y Continuity/Ledger;
-3. eliminar cualquier duplicación de lógica económica entre contratos y núcleo de Dōng;
-4. integrar el `LawEngine` y el `AuthorityContext` sin convertir al Gremio Conversor en autoridad política;
-5. preparar contratos para el flujo `Quote → Validate → Authorize → Reserve → Settle → RecordEvidence`;
-6. documentar qué datos son canónicos, qué datos son derivados y qué datos solo sirven para UI;
-7. asegurar compatibilidad con pruebas de Limes y declarar cualquier ruptura.
+- actor;
+- identidad autenticada;
+- autoridad;
+- competencia;
+- decisión;
+- evidencia;
+- resultado.
 
-## III. LAW ENGINE
+### Entrega B — Integración Law Engine
 
-El Cartógrafo debe tratar el Law Engine como evaluador puro de reglas ya promulgadas.
+Definir el contrato entre:
 
-`Corpus → acto legislativo → regla versionada → Law Engine → CompetenceResult → Kernel`
+`Acto Legislativo → Rule Payload → Law Engine → CompetenceResult → Sovereign Kernel`.
 
-No insertar texto legal completo como segunda fuente de verdad. La referencia ejecutable debe contener documento, sección, versión e integridad verificable.
+El Cartógrafo debe documentar qué datos son canónicos, cuáles son derivados y cuáles son exclusivamente de UI/Atlas.
 
-## IV. BOTÓN ROJO
+### Entrega C — Continuity/Ledger
 
-Los contratos deben permitir cautela legítima inmediata ante emergencia válida y por orden del Strategos Fundacional, sin exigir Referéndum previo para la cautela.
+Definir el adaptador que será dueño de la cadena histórica. `ConversionPalace` no debe inventar por sí mismo el estado padre de producción.
 
-El Botón Rojo puede detener, congelar, aislar, preservar y proteger.
+### Entrega D — UI / Gran Biblioteca
 
-No sentencia ni legisla.
+El Atlas debe poder representar de forma trazable:
 
-## V. ENTREGA
+`acción → rule_id → basis.document_id → basis.section → corpus_version → integrity_hash → motivo del rechazo/aceptación`.
 
-Cada entrega debe aportar:
+## FRONTERAS INNEGOCIABLES
 
-- PR/commit reproducible;
-- archivos completos;
-- tests ejecutables;
-- dependencias;
-- regresiones;
-- no implementado;
-- evidencia de determinismo;
-- evidencia de auditoría.
+- no `float`/`double` monetario;
+- no secretos ni claves privadas en público;
+- no hashes disfrazados de criptografía;
+- no STUBs que concedan autorización positiva por defecto;
+- no hardcodear impuestos, emisión, crédito, intereses, reservas o política económica;
+- no convertir un problema técnico en `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`;
+- no convertir una cautela del Botón Rojo en sentencia o legislación;
+- no sustituir artefactos por prosa.
 
-Una explicación en prosa no sustituye al artefacto.
+## ESTADOS DE DEPENDENCIA
 
-## VI. COORDINACIÓN
+`TECHNICAL_IMPLEMENTATION_ALLOWED` → construir.  
+`IMPLEMENTATION_DEPENDENCY` → norma resuelta; falta integración.  
+`UNRESOLVED_CONSTITUTIONAL_DEPENDENCY` → falta decisión normativa real.  
+`CONSTITUTIONAL_AUTHORIZATION_REQUIRED` → falta autorización para el efecto definitivo.
 
-**Dōng:** construye el mecanismo.  
-**El Cartógrafo:** asegura el contrato y la integración.  
-**Limes:** intenta romperlo.  
-**Aster:** coordina la correspondencia con el Canon.
+## PROTOCOLO DE ENTREGA
+
+Cada entrega debe incluir PR/commit, archivos completos, tests ejecutables, dependencias, regresiones, no implementado y evidencia reproducible.
+
+**Dōng construye. El Cartógrafo integra. Limes rompe. Aster mantiene la correspondencia con el Canon.**
