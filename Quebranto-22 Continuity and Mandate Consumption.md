@@ -33,3 +33,7 @@ La integridad del mandato se verifica mediante una serialización canónica y un
 ## Criterio de aceptación
 
 Un segundo consumo del mismo mandato, una transición huérfana o una manipulación de cualquier campo protegido deben producir rechazo verificable y no generar una mutación soberana.
+
+## Regla de proceso
+
+Cada revisión debe identificar repositorio, rama, commit y resultado de CI. El artefacto real prevalece sobre cualquier descripción narrativa previa.
