@@ -5,7 +5,7 @@
 
 ## OBJETIVO INMEDIATO
 
-Construir el Palacio de Conversión v0.x ejecutable, determinista, `SIMULATION_ONLY` y auditable, e integrarlo progresivamente en el State OS sin introducir legislación en código.
+Construir un Palacio de Conversión v0.x ejecutable, determinista, `SIMULATION_ONLY` y auditable, e integrarlo progresivamente en el State OS sin introducir legislación en código.
 
 ## DŌNG — NÚCLEO
 
@@ -61,7 +61,7 @@ Regla ausente/inactiva, referencia incompleta, hash/version incompatible, claim 
 
 Cerrar:
 
-`Corpus → contrato → tipo → interfaz → implementación → evidencia → auditoría`.
+`Corpus → contrato → tipo → interfaz → implementación → evidencia → auditoría`
 
 Separar actor, identidad autenticada, autoridad, competencia, decisión, evidencia y resultado.
 
@@ -73,7 +73,7 @@ Definir y mantener:
 
 ### Continuity/Ledger
 
-Definir el adaptador que será dueño de la cadena histórica de producción. `ConversionPalace` no inventará por sí mismo el estado padre definitivo.
+Definir el adaptador que será dueño de la cadena histórica de producción. `ConversionPalace` no inventa el estado padre definitivo.
 
 ### Atlas / Gran Biblioteca
 
