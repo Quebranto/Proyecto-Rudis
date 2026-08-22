@@ -11,7 +11,6 @@ Construir un **Palacio de Conversión v0.x ejecutable, determinista, simulation-
 ## DŌNG — NÚCLEO DETERMINISTA
 
 ### Entrega A — Conversion Palace
-
 - valoración y cotización deterministas;
 - cotizaciones versionadas y autocontenidas;
 - anti-replay y anti-doble-liquidación;
@@ -24,7 +23,6 @@ Construir un **Palacio de Conversión v0.x ejecutable, determinista, simulation-
 - adaptador futuro a Continuity/Ledger mediante contrato explícito.
 
 ### Entrega B — Law Engine v0.1
-
 Implementar las estructuras canónicas:
 
 ```text
@@ -50,17 +48,14 @@ CompetenceResult
 El motor debe comprobar referencia, versión, integridad, regla activa, acción, claim, perfil y versión de autoridad. Acción desconocida o ambigua: fallo cerrado. No insertar texto jurídico completo en el binario.
 
 ### Entrega C — Sovereign Kernel
-
 El Kernel solo muta estado con mandato externo válido y resultado de competencia autorizado. No determina por sí mismo el contenido del Corpus.
 
 ### Pruebas
-
 Regla ausente/inactiva, referencia incompleta, hash/versionado incompatible, claim ausente, perfil/version incompatible, colisiones, manipulación, replay, doble liquidación y simulación intentando mutar estado soberano.
 
 ## EL CARTÓGRAFO — CONTRATOS E INTEGRACIÓN
 
 ### Entrega A — Conversion/State OS
-
 Cerrar la correspondencia:
 
 `Corpus → contrato → tipo → interfaz → implementación → evidencia → auditoría`
@@ -68,7 +63,6 @@ Cerrar la correspondencia:
 Separar actor, identidad autenticada, autoridad, competencia, decisión, evidencia y resultado.
 
 ### Entrega B — Law Engine
-
 Definir:
 
 `Acto Legislativo → Rule Payload → Law Engine → CompetenceResult → Sovereign Kernel`
@@ -76,11 +70,9 @@ Definir:
 Mantener separado lo canónico, lo derivado y lo exclusivamente visual.
 
 ### Entrega C — Continuity/Ledger
-
 Definir el adaptador que será dueño de la cadena histórica. `ConversionPalace` no inventa el estado padre de producción.
 
 ### Entrega D — Atlas / Gran Biblioteca
-
 Representar de forma trazable:
 
 `acción → rule_id → document_id → section → corpus_version → integrity_hash → motivo`
