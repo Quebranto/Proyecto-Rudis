@@ -8,6 +8,8 @@
 
 **Máxima:** **Comprender no es poseer. Auditar no es adquirir. Recomendar no es unificar.**
 
+**Terminología institucional:** el órgano se denomina exclusivamente **Palacio de Unificación**. La palabra **digestión** designa un proceso analítico u operativo sometido a autorización, no el nombre del Palacio.
+
 ---
 
 ## I. FINALIDAD
