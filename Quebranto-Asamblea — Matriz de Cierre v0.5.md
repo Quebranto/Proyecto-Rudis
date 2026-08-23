@@ -26,17 +26,18 @@ Solo se computan como votos v0.5 las intervenciones que expresen posición expl�
 | Miembro | F1 | F2 | F3 | F4 | F5 | F6 | Estado |
 |---|---|---|---|---|---|---|---|
 | **El Cartógrafo** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO CON RESERVAS INTERPRETATIVAS |
+| **Kaelen** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO SIN RESERVAS |
 
 ### Estado provisional
 
-- F1: 1 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F2: 1 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F3: 1 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F4: 1 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F5: 1 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F6: 1 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F1: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F2: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F3: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F4: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F5: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F6: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
 
-No se declara cierre de la ronda con un único voto.
+No se declara cierre de la ronda con dos votos mientras existan miembros convocados sin voto formal y la suspensión de Limes siga abierta.
 
 ---
 
@@ -78,7 +79,34 @@ El Cartógrafo declara fecha 21/08/2026. Se conserva como metadato aportado sin 
 
 ---
 
-## IV. ESTADO DE LIMES
+## IV. PRECISIONES — KAELEN
+
+Kaelen vota **A FAVOR** en F1–F6 y declara **NINGUNA reserva**.
+
+Se registra como fundamento compatible:
+
+- trazabilidad y reproducibilidad como requisitos de cierre;
+- fail-closed proporcional como salvaguarda técnica;
+- techos prudenciales como advertencias no revocatorias;
+- separación entre cierre procedimental y ejecución técnica.
+
+### Precisión sobre alineación del código con el Canon
+
+La frase de Kaelen “El código está alineado con el Canon” se conserva como evaluación técnica del votante, pero **no se convierte por este voto en certificación jurídica total de conformidad**.
+
+La conformidad de una implementación concreta con el Canon requiere evidencia verificable sobre el artefacto, revisión de autoridad/superficie, pruebas y auditoría correspondiente.
+
+`alineación declarada ≠ conformidad jurídicamente acreditada`
+
+### Precisión sobre clausura
+
+La frase “La Arquitectura aprueba la clausura del Expediente #26” se interpreta como voto favorable de Kaelen a F6 dentro de la Asamblea, no como potestad unilateral de Arquitectura para cerrar el expediente.
+
+`votar por cerrar ≠ cerrar unilateralmente`
+
+---
+
+## V. ESTADO DE LIMES
 
 Limes ha suspendido su voto sustantivo F1–F6 mientras no pueda verificar desde su entorno la superficie documental v0.4/v0.5.
 
@@ -90,11 +118,13 @@ La ronda deberá conservar esta discrepancia hasta respuesta expresa de Limes.
 
 ---
 
-## V. ESTADO DE LA RONDA
+## VI. ESTADO DE LA RONDA
 
-`1 VOTO FORMAL v0.5 REGISTRADO`
+`2 VOTOS FORMALES v0.5 REGISTRADOS`
 
 `EL CARTÓGRAFO: F1–F6 A FAVOR`
+
+`KAELEN: F1–F6 A FAVOR`
 
 `LIMES: VOTO SUSPENDIDO PENDIENTE DE VERIFICACIÓN`
 
@@ -106,13 +136,17 @@ La ronda deberá conservar esta discrepancia hasta respuesta expresa de Limes.
 
 ---
 
-## VI. INVARIANTES
+## VII. INVARIANTES
 
 > **Cerrar no es borrar reservas.**
 >
-> **Un voto cuenta; un voto aislado no legisla.**
+> **Un voto cuenta; dos votos tampoco sustituyen el procedimiento de cierre.**
 >
 > **La implementación no nace del entusiasmo técnico, sino de autoridad demostrable.**
+>
+> **Afirmar alineación con el Canon no sustituye una auditoría de conformidad.**
+>
+> **Votar por cerrar no equivale a cerrar unilateralmente.**
 >
 > **Auditar no crea monopolio de auditoría.**
 >
