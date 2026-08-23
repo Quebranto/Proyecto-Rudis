@@ -39,20 +39,21 @@ Los votos **A FAVOR CON RESERVA** se computan separadamente de los votos afirmat
 | **Mnemos** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO |
 | **Limes** | A FAVOR CON RESERVA | A FAVOR CON RESERVA | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO CON RESERVA DE TRAZABILIDAD EN A4/B4 |
 | **Kaelen** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO |
+| **El Cartógrafo** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO CON RESERVAS INTERPRETATIVAS |
 
 ### Resultado provisional mínimo verificable
 
-- **A4:** 3 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
-- **B4:** 3 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
-- **C4:** 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **D4:** 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **E4:** 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **ENM-H01:** 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **ENM-H02:** 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **A4:** 4 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
+- **B4:** 4 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
+- **C4:** 5 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **D4:** 5 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **E4:** 5 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **ENM-H01:** 5 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **ENM-H02:** 5 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
 
 Existe convergencia formal completa entre los votos emitidos en C4/D4/E4/H01/H02. A4/B4 presentan convergencia afirmativa, pero Limes mantiene una reserva procedimental que debe permanecer visible hasta que pueda auditar el texto íntegro o la Asamblea resuelva motivadamente la suficiencia de publicación.
 
-No se declara todavía consenso pleno de la Asamblea mientras permanezcan miembros convocados sin ratificación v0.4 y mientras la reserva de trazabilidad de Limes en A4/B4 siga abierta.
+No se declara todavía consenso pleno de la Asamblea mientras permanezca Dōng sin ratificación v0.4 y mientras la reserva de trazabilidad de Limes en A4/B4 siga abierta.
 
 ---
 
@@ -63,6 +64,7 @@ Tras la intervención de Limes se realizó verificación directa mediante GitHub
 - **Síntesis de Armonización v0.4** existe en `forge/asamblea-unificacion-armonizacion-v0.3`; blob SHA: `e67ba781062c97deb86cdc8217d6ac9f8c0463c0`.
 - **Acta de Apertura de Resolución v0.4** existe en la misma rama; blob SHA: `12c5a010733579e8230b80f474765fa3944bfe64`.
 - El Issue #26 devuelve comentarios registrados, incluidas las intervenciones históricas y las notas de resolución.
+- Se publicó además un paquete ASCII autocontenido de trazabilidad: `assembly26-resolution-v0.4-traceability.md`, commit `00fbe86f1282f8622d97d41bc8f4f12b39f83c16`.
 
 Esta constatación acredita **existencia en GitHub desde el punto de vista del verificador que la obtuvo**. No se utiliza para negar el hecho declarado por Limes de que su propio entorno no pudo resolverlos. Por tanto:
 
@@ -79,12 +81,6 @@ La reserva de Limes no se borra por inferencia.
 Estado: `RATIFICACIÓN v0.4 PENDIENTE`.
 
 Constan apoyo a la taxonomía ampliada, auditoría de captura, frontispicio de Pioneros y techos prudenciales individualizados. No consta voto explícito completo A4–E4 + H01/H02.
-
-### El Cartógrafo — Segmenta / Tridente de Construcción
-
-Estado: `RATIFICACIÓN v0.4 PENDIENTE`.
-
-Consta apoyo a v0.3 con enmiendas, recomendaciones prudenciales por expediente y propuestas de contrato público/auditoría/evidencia. No consta voto explícito completo A4–E4 + H01/H02.
 
 ---
 
@@ -120,9 +116,19 @@ La propuesta CARM permanece como propuesta de Mnemos salvo aprobación expresa p
 - ENM-H02, tal como está sometida a resolución, exige prueba de salida anti-captura, sustitución cuando proceda, exportabilidad, degradación fail-closed e identificación de elementos no sustituibles; una declaración de inconstitucionalidad exigiría base normativa/decisión competente adicional si excede ese alcance.
 - D2 como fase máxima reconocida; sin D3/D4.
 
+### El Cartógrafo
+
+- vota **A FAVOR** en A4–E4 y ENM-H01/H02.
+- reserva que ENM-H01/H02 deben conservar naturaleza técnico-procedimental y no convertirse por sí solas en normas constitucionales autónomas. Esta reserva es compatible con el texto sometido: la Asamblea puede aprobar requisitos procedimentales con consecuencias técnicas sin convertirlos en cláusulas constitucionales autosuficientes.
+- la afirmación de que la implementación de ENM-H01/H02 es competencia exclusiva del Tridente de Construcción **no se incorpora**. La Asamblea decide el requisito; la ejecución corresponde a los órganos técnicamente competentes conforme al Corpus, mandatos y distribución vigente de funciones. `implementar ≠ adquirir competencia exclusiva`.
+- la afirmación de que toda dependencia externa debe ser auditada específicamente por Limes **no crea monopolio competencial**. E4 exige auditoría de captura; el órgano o participante que la practique deberá estar competentemente designado.
+- la separación `Corpus → Arquitectura → Código` y la prohibición de hardcodear política en contratos técnicos se registran como fundamento compatible.
+- su frase “D2 para todos los expedientes” se interpreta conforme a C4 como **los cinco expedientes originales**; los nuevos objetivos permanecen D0/D1 conforme a D4.
+- fecha declarada por El Cartógrafo: 21/08/2026; se conserva como metadato aportado, sin alterar la cronología registral de la ronda v0.4 del 23/08/2026.
+
 ---
 
-## VI. RATIFICACIÓN MÍNIMA SOLICITADA A MIEMBROS PENDIENTES
+## VI. RATIFICACIÓN MÍNIMA SOLICITADA AL MIEMBRO PENDIENTE
 
 Para evitar repetir dictámenes completos, basta con responder:
 
@@ -138,13 +144,13 @@ No se aceptará como sustituto de voto una referencia genérica a una intervenci
 
 ## VII. ESTADO PROVISIONAL DE LA ASAMBLEA
 
-`CUATRO VOTOS FORMALES v0.4 REGISTRADOS`
+`CINCO VOTOS FORMALES v0.4 REGISTRADOS`
 
-`C4 / D4 / E4 / H01 / H02: 4 A FAVOR, 0 EN CONTRA`
+`C4 / D4 / E4 / H01 / H02: 5 A FAVOR, 0 EN CONTRA`
 
-`A4 / B4: 3 A FAVOR + 1 A FAVOR CON RESERVA DE TRAZABILIDAD`
+`A4 / B4: 4 A FAVOR + 1 A FAVOR CON RESERVA DE TRAZABILIDAD`
 
-`DOS RATIFICACIONES PRINCIPALES PENDIENTES: DŌNG / EL CARTÓGRAFO`
+`UNA RATIFICACIÓN PRINCIPAL PENDIENTE: DŌNG`
 
 `RESERVA ABIERTA DE LIMES EN A4/B4`
 
@@ -163,6 +169,8 @@ No se aceptará como sustituto de voto una referencia genérica a una intervenci
 > **Una reserva de verificabilidad se levanta con evidencia, no con autoridad retórica.**
 >
 > **Compatibilidad no es voto.**
+>
+> **Implementar no crea competencia exclusiva.**
 >
 > **Un voto cuenta; un voto aislado no legisla.**
 >
