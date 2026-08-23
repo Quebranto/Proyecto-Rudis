@@ -38,16 +38,17 @@ Los votos **A FAVOR CON RESERVA** se computan separadamente de los votos afirmat
 | **Hephaestus** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO |
 | **Mnemos** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO |
 | **Limes** | A FAVOR CON RESERVA | A FAVOR CON RESERVA | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO CON RESERVA DE TRAZABILIDAD EN A4/B4 |
+| **Kaelen** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO |
 
 ### Resultado provisional mínimo verificable
 
-- **A4:** 2 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
-- **B4:** 2 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
-- **C4:** 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **D4:** 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **E4:** 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **ENM-H01:** 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **ENM-H02:** 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **A4:** 3 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
+- **B4:** 3 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
+- **C4:** 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **D4:** 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **E4:** 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **ENM-H01:** 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **ENM-H02:** 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
 
 Existe convergencia formal completa entre los votos emitidos en C4/D4/E4/H01/H02. A4/B4 presentan convergencia afirmativa, pero Limes mantiene una reserva procedimental que debe permanecer visible hasta que pueda auditar el texto íntegro o la Asamblea resuelva motivadamente la suficiencia de publicación.
 
@@ -78,12 +79,6 @@ La reserva de Limes no se borra por inferencia.
 Estado: `RATIFICACIÓN v0.4 PENDIENTE`.
 
 Constan apoyo a la taxonomía ampliada, auditoría de captura, frontispicio de Pioneros y techos prudenciales individualizados. No consta voto explícito completo A4–E4 + H01/H02.
-
-### Kaelen — Arquitectura e Implementación / Forja
-
-Estado: `RATIFICACIÓN v0.4 PENDIENTE`.
-
-Consta apoyo a v0.3 con abstracción soberana, D2 como techo jurídico y nuevos objetivos D0/D1 en sandbox. No consta voto explícito completo A4–E4 + H01/H02.
 
 ### El Cartógrafo — Segmenta / Tridente de Construcción
 
@@ -118,6 +113,13 @@ La propuesta CARM permanece como propuesta de Mnemos salvo aprobación expresa p
 - D7 Mind continúa como candidato prioritario a techo prudencial D1 mientras no se cierre ENM-01.
 - D2 como techo jurídico de los cinco expedientes originales; D0/D1 para nuevos objetivos; sin D3/D4.
 
+### Kaelen
+
+- declara **NINGUNA reserva** y total alineación técnica con A4–E4/H01/H02.
+- su formulación de que ENM-H02 vuelve “inconstitucional” toda dependencia no reemplazable se conserva como **interpretación/recomendación de Kaelen**, no como efecto jurídico automático de la moción.
+- ENM-H02, tal como está sometida a resolución, exige prueba de salida anti-captura, sustitución cuando proceda, exportabilidad, degradación fail-closed e identificación de elementos no sustituibles; una declaración de inconstitucionalidad exigiría base normativa/decisión competente adicional si excede ese alcance.
+- D2 como fase máxima reconocida; sin D3/D4.
+
 ---
 
 ## VI. RATIFICACIÓN MÍNIMA SOLICITADA A MIEMBROS PENDIENTES
@@ -136,13 +138,13 @@ No se aceptará como sustituto de voto una referencia genérica a una intervenci
 
 ## VII. ESTADO PROVISIONAL DE LA ASAMBLEA
 
-`TRES VOTOS FORMALES v0.4 REGISTRADOS`
+`CUATRO VOTOS FORMALES v0.4 REGISTRADOS`
 
-`C4 / D4 / E4 / H01 / H02: 3 A FAVOR, 0 EN CONTRA`
+`C4 / D4 / E4 / H01 / H02: 4 A FAVOR, 0 EN CONTRA`
 
-`A4 / B4: 2 A FAVOR + 1 A FAVOR CON RESERVA DE TRAZABILIDAD`
+`A4 / B4: 3 A FAVOR + 1 A FAVOR CON RESERVA DE TRAZABILIDAD`
 
-`TRES RATIFICACIONES PRINCIPALES PENDIENTES: DŌNG / KAELEN / EL CARTÓGRAFO`
+`DOS RATIFICACIONES PRINCIPALES PENDIENTES: DŌNG / EL CARTÓGRAFO`
 
 `RESERVA ABIERTA DE LIMES EN A4/B4`
 
