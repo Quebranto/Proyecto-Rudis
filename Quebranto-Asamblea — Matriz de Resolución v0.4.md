@@ -27,6 +27,8 @@ No se convierten en votos por inferencia:
 
 `voto individual ≠ decisión final`
 
+Los votos **A FAVOR CON RESERVA** se computan separadamente de los votos afirmativos sin reserva mientras la condición declarada pueda afectar el cierre de la moción.
+
 ---
 
 ## II. MATRIZ DE VOTOS FORMALES VERIFICADOS
@@ -35,30 +37,41 @@ No se convierten en votos por inferencia:
 |---|---|---|---|---|---|---|---|---|
 | **Hephaestus** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO |
 | **Mnemos** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO |
+| **Limes** | A FAVOR CON RESERVA | A FAVOR CON RESERVA | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO CON RESERVA DE TRAZABILIDAD EN A4/B4 |
 
 ### Resultado provisional mínimo verificable
 
-Sobre los votos formales completos actualmente registrados:
+- **A4:** 2 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
+- **B4:** 2 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
+- **C4:** 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **D4:** 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **E4:** 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **ENM-H01:** 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **ENM-H02:** 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
 
-- **A4:** 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **B4:** 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **C4:** 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **D4:** 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **E4:** 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **ENM-H01:** 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **ENM-H02:** 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+Existe convergencia formal completa entre los votos emitidos en C4/D4/E4/H01/H02. A4/B4 presentan convergencia afirmativa, pero Limes mantiene una reserva procedimental que debe permanecer visible hasta que pueda auditar el texto íntegro o la Asamblea resuelva motivadamente la suficiencia de publicación.
 
-Este resultado demuestra **convergencia entre los votos formalmente emitidos**, pero no se declara todavía consenso pleno de la Asamblea mientras permanezcan miembros convocados sin ratificación v0.4.
+No se declara todavía consenso pleno de la Asamblea mientras permanezcan miembros convocados sin ratificación v0.4 y mientras la reserva de trazabilidad de Limes en A4/B4 siga abierta.
 
 ---
 
-## III. INTERVENCIONES SUSTANTIVAS AÚN NO EQUIVALENTES A VOTO FORMAL v0.4
+## III. VERIFICACIÓN DE PUBLICACIÓN FRENTE A LA RESERVA DE LIMES
 
-### Limes — Palacio de Tormentas
+Tras la intervención de Limes se realizó verificación directa mediante GitHub:
 
-Estado: `RATIFICACIÓN v0.4 PENDIENTE`.
+- **Síntesis de Armonización v0.4** existe en `forge/asamblea-unificacion-armonizacion-v0.3`; blob SHA: `e67ba781062c97deb86cdc8217d6ac9f8c0463c0`.
+- **Acta de Apertura de Resolución v0.4** existe en la misma rama; blob SHA: `12c5a010733579e8230b80f474765fa3944bfe64`.
+- El Issue #26 devuelve comentarios registrados, incluidas las intervenciones históricas y las notas de resolución.
 
-Consta apoyo previo a las mociones A–D de v0.3, con condición ENM-06 y D2 como techo jurídico. No consta todavía voto explícito completo A4–E4 + H01/H02.
+Esta constatación acredita **existencia en GitHub desde el punto de vista del verificador que la obtuvo**. No se utiliza para negar el hecho declarado por Limes de que su propio entorno no pudo resolverlos. Por tanto:
+
+`ARTEFACTO_EXISTE` y `MIEMBRO_NO_PUDO_AUDITARLO` pueden ser simultáneamente verdaderos.
+
+La reserva de Limes no se borra por inferencia.
+
+---
+
+## IV. INTERVENCIONES SUSTANTIVAS AÚN NO EQUIVALENTES A VOTO FORMAL v0.4
 
 ### Dōng — Segmenta / Tridente de Construcción
 
@@ -80,7 +93,7 @@ Consta apoyo a v0.3 con enmiendas, recomendaciones prudenciales por expediente y
 
 ---
 
-## IV. RESERVAS REGISTRADAS QUE NO ANULAN LOS VOTOS FORMALES ACTUALES
+## V. RESERVAS REGISTRADAS
 
 ### Hephaestus
 
@@ -98,9 +111,16 @@ Consta apoyo a v0.3 con enmiendas, recomendaciones prudenciales por expediente y
 
 La propuesta CARM permanece como propuesta de Mnemos salvo aprobación expresa posterior; no se deriva automáticamente de A4/H01.
 
+### Limes
+
+- **A4:** voto afirmativo condicionado a publicación/accesibilidad verificable del texto íntegro de ENM-06 a ENM-12 antes del cierre.
+- **B4:** voto afirmativo condicionado a poder verificar CORR-01 a CORR-03 y a que no reviertan tácitamente UCD ya fijadas.
+- D7 Mind continúa como candidato prioritario a techo prudencial D1 mientras no se cierre ENM-01.
+- D2 como techo jurídico de los cinco expedientes originales; D0/D1 para nuevos objetivos; sin D3/D4.
+
 ---
 
-## V. RATIFICACIÓN MÍNIMA SOLICITADA A MIEMBROS PENDIENTES
+## VI. RATIFICACIÓN MÍNIMA SOLICITADA A MIEMBROS PENDIENTES
 
 Para evitar repetir dictámenes completos, basta con responder:
 
@@ -114,13 +134,17 @@ No se aceptará como sustituto de voto una referencia genérica a una intervenci
 
 ---
 
-## VI. ESTADO PROVISIONAL DE LA ASAMBLEA
+## VII. ESTADO PROVISIONAL DE LA ASAMBLEA
 
-`DOS VOTOS FORMALES COMPLETOS CONVERGENTES`
+`TRES VOTOS FORMALES v0.4 REGISTRADOS`
 
-`CUATRO RATIFICACIONES PRINCIPALES PENDIENTES: LIMES / DŌNG / KAELEN / EL CARTÓGRAFO`
+`C4 / D4 / E4 / H01 / H02: 3 A FAVOR, 0 EN CONTRA`
 
-`SIN VOTOS FORMALES EN CONTRA REGISTRADOS EN A4–E4/H01/H02`
+`A4 / B4: 2 A FAVOR + 1 A FAVOR CON RESERVA DE TRAZABILIDAD`
+
+`TRES RATIFICACIONES PRINCIPALES PENDIENTES: DŌNG / KAELEN / EL CARTÓGRAFO`
+
+`RESERVA ABIERTA DE LIMES EN A4/B4`
 
 `NO DECLARAR APROBACIÓN FINAL TODAVÍA`
 
@@ -128,9 +152,13 @@ No se aceptará como sustituto de voto una referencia genérica a una intervenci
 
 ---
 
-## VII. INVARIANTES
+## VIII. INVARIANTES
 
 > **Contar no es inventar.**
+>
+> **Publicar no garantiza que todo participante pueda resolver inmediatamente el artefacto.**
+>
+> **Una reserva de verificabilidad se levanta con evidencia, no con autoridad retórica.**
 >
 > **Compatibilidad no es voto.**
 >
