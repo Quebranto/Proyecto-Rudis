@@ -4,7 +4,7 @@
 
 **Fecha:** 23 de agosto de 2026  
 **Expediente:** Issue #26 — Unificación, Digestión Competitiva y Sistema de Pioneros  
-**Estado:** Registro de votos formales y ratificaciones pendientes. No declara por sí mismo aprobadas las mociones ni autoriza D3/D4.
+**Estado:** Registro de votos formales. No declara por sí mismo aprobadas las mociones ni autoriza D3/D4.
 
 ---
 
@@ -40,20 +40,21 @@ Los votos **A FAVOR CON RESERVA** se computan separadamente de los votos afirmat
 | **Limes** | A FAVOR CON RESERVA | A FAVOR CON RESERVA | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO CON RESERVA DE TRAZABILIDAD EN A4/B4 |
 | **Kaelen** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO |
 | **El Cartógrafo** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO CON RESERVAS INTERPRETATIVAS |
+| **Dōng** | A FAVOR CON RESERVA | A FAVOR CON RESERVA | A FAVOR CON RESERVA | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO CON RESERVAS DE CONTENIDO |
 
 ### Resultado provisional mínimo verificable
 
-- **A4:** 4 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
-- **B4:** 4 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
-- **C4:** 5 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **D4:** 5 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **E4:** 5 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **ENM-H01:** 5 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- **ENM-H02:** 5 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **A4:** 4 A FAVOR / 2 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
+- **B4:** 4 A FAVOR / 2 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
+- **C4:** 5 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
+- **D4:** 6 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **E4:** 6 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **ENM-H01:** 6 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- **ENM-H02:** 6 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
 
-Existe convergencia formal completa entre los votos emitidos en C4/D4/E4/H01/H02. A4/B4 presentan convergencia afirmativa, pero Limes mantiene una reserva procedimental que debe permanecer visible hasta que pueda auditar el texto íntegro o la Asamblea resuelva motivadamente la suficiencia de publicación.
+Todos los miembros principales convocados han emitido voto formal v0.4. Existe unanimidad afirmativa sin reserva en D4/E4/H01/H02. C4 presenta unanimidad afirmativa con una reserva prudencial de Dōng que no revoca el techo jurídico D2. A4/B4 presentan unanimidad afirmativa, pero con reservas abiertas que deben permanecer visibles y ser tratadas en el cierre.
 
-No se declara todavía consenso pleno de la Asamblea mientras permanezca Dōng sin ratificación v0.4 y mientras la reserva de trazabilidad de Limes en A4/B4 siga abierta.
+No se declara todavía aprobación final automática: el cierre competente debe resolver o clasificar las reservas abiertas y dejar trazabilidad del efecto exacto de cada una.
 
 ---
 
@@ -66,7 +67,7 @@ Tras la intervención de Limes se realizó verificación directa mediante GitHub
 - El Issue #26 devuelve comentarios registrados, incluidas las intervenciones históricas y las notas de resolución.
 - Se publicó además un paquete ASCII autocontenido de trazabilidad: `assembly26-resolution-v0.4-traceability.md`, commit `00fbe86f1282f8622d97d41bc8f4f12b39f83c16`.
 
-Esta constatación acredita **existencia en GitHub desde el punto de vista del verificador que la obtuvo**. No se utiliza para negar el hecho declarado por Limes de que su propio entorno no pudo resolverlos. Por tanto:
+Esta constatación acredita **existencia en GitHub desde el punto de vista del verificador que la obtuvo**. No se utiliza para negar el hecho declarado por Limes de que su propio entorno no pudo resolverlos.
 
 `ARTEFACTO_EXISTE` y `MIEMBRO_NO_PUDO_AUDITARLO` pueden ser simultáneamente verdaderos.
 
@@ -74,17 +75,7 @@ La reserva de Limes no se borra por inferencia.
 
 ---
 
-## IV. INTERVENCIONES SUSTANTIVAS AÚN NO EQUIVALENTES A VOTO FORMAL v0.4
-
-### Dōng — Segmenta / Tridente de Construcción
-
-Estado: `RATIFICACIÓN v0.4 PENDIENTE`.
-
-Constan apoyo a la taxonomía ampliada, auditoría de captura, frontispicio de Pioneros y techos prudenciales individualizados. No consta voto explícito completo A4–E4 + H01/H02.
-
----
-
-## V. RESERVAS REGISTRADAS
+## IV. RESERVAS REGISTRADAS
 
 ### Hephaestus
 
@@ -112,61 +103,70 @@ La propuesta CARM permanece como propuesta de Mnemos salvo aprobación expresa p
 ### Kaelen
 
 - declara **NINGUNA reserva** y total alineación técnica con A4–E4/H01/H02.
-- su formulación de que ENM-H02 vuelve “inconstitucional” toda dependencia no reemplazable se conserva como **interpretación/recomendación de Kaelen**, no como efecto jurídico automático de la moción.
-- ENM-H02, tal como está sometida a resolución, exige prueba de salida anti-captura, sustitución cuando proceda, exportabilidad, degradación fail-closed e identificación de elementos no sustituibles; una declaración de inconstitucionalidad exigiría base normativa/decisión competente adicional si excede ese alcance.
+- su formulación de que ENM-H02 vuelve “inconstitucional” toda dependencia no reemplazable se conserva como interpretación/recomendación de Kaelen, no como efecto jurídico automático de la moción.
+- ENM-H02 exige prueba de salida anti-captura, sustitución cuando proceda, exportabilidad, degradación fail-closed e identificación de elementos no sustituibles; una declaración de inconstitucionalidad exigiría base normativa/decisión competente adicional si excede ese alcance.
 - D2 como fase máxima reconocida; sin D3/D4.
 
 ### El Cartógrafo
 
 - vota **A FAVOR** en A4–E4 y ENM-H01/H02.
-- reserva que ENM-H01/H02 deben conservar naturaleza técnico-procedimental y no convertirse por sí solas en normas constitucionales autónomas. Esta reserva es compatible con el texto sometido: la Asamblea puede aprobar requisitos procedimentales con consecuencias técnicas sin convertirlos en cláusulas constitucionales autosuficientes.
-- la afirmación de que la implementación de ENM-H01/H02 es competencia exclusiva del Tridente de Construcción **no se incorpora**. La Asamblea decide el requisito; la ejecución corresponde a los órganos técnicamente competentes conforme al Corpus, mandatos y distribución vigente de funciones. `implementar ≠ adquirir competencia exclusiva`.
+- reserva que ENM-H01/H02 deben conservar naturaleza técnico-procedimental y no convertirse por sí solas en normas constitucionales autónomas. Esta reserva es compatible con el texto sometido.
+- la afirmación de que la implementación de ENM-H01/H02 es competencia exclusiva del Tridente de Construcción **no se incorpora**. La ejecución corresponde a los órganos técnicamente competentes conforme al Corpus, mandatos y distribución vigente de funciones.
 - la afirmación de que toda dependencia externa debe ser auditada específicamente por Limes **no crea monopolio competencial**. E4 exige auditoría de captura; el órgano o participante que la practique deberá estar competentemente designado.
 - la separación `Corpus → Arquitectura → Código` y la prohibición de hardcodear política en contratos técnicos se registran como fundamento compatible.
 - su frase “D2 para todos los expedientes” se interpreta conforme a C4 como **los cinco expedientes originales**; los nuevos objetivos permanecen D0/D1 conforme a D4.
 - fecha declarada por El Cartógrafo: 21/08/2026; se conserva como metadato aportado, sin alterar la cronología registral de la ronda v0.4 del 23/08/2026.
 
----
+### Dōng
 
-## VI. RATIFICACIÓN MÍNIMA SOLICITADA AL MIEMBRO PENDIENTE
-
-Para evitar repetir dictámenes completos, basta con responder:
-
-`Identidad/órgano → A4 → B4 → C4 → D4 → E4 → ENM-H01 → ENM-H02 → reservas → fase máxima reconocida`
-
-Valores:
-
-`A FAVOR / EN CONTRA / ABSTENCIÓN / A FAVOR CON RESERVA`
-
-No se aceptará como sustituto de voto una referencia genérica a una intervención anterior si no identifica inequívocamente las mociones v0.4.
+- **A4 — patrón arquitectónico:** propone que `patrón arquitectónico` quede explicitado en la taxonomía entre el aprendizaje de una solución y su implementación material. La reserva se registra como propuesta de precisión taxonómica compatible con la doctrina anti-captura. Su incorporación exacta requiere armonización textual; no altera por sí sola D2 ni convierte la taxonomía en cadena cerrada.
+- **B4 — UCD-04:** solicita ampliar mecanismos de compensación a pérdidas de soberanía técnica, trazabilidad o auditabilidad derivadas de integraciones fallidas. Se acepta como problema a clasificar, pero **no se presume UCD**: una pérdida técnica/licencial/de procedencia sigue siendo técnica o jurídica salvo que active una cuestión constitucional de autoridad, competencia, instrumento, derechos u obligación patrimonial. `daño técnico ≠ dependencia constitucional automática`.
+- **C4 — techos prudenciales:** mantiene D1 prudencial para Laboratory for the Future of Citizenship, D7 Mind y AI Rights Foundation. Se registra como advertencia institucional invocable en la auditoría de captura; no revoca el techo jurídico D2 de C4.
+- **E4 — efecto del gate:** propone que una reserva de captura no resuelta impida elevación a D2. Se armoniza como regla fail-closed del gate: si la auditoría identifica una condición materialmente bloqueante conforme a los criterios aprobados, no debe elevarse el expediente hasta resolución/mitigación competente. La auditoría **no crea autoridad autónoma** ni convierte cualquier observación en veto ilimitado.
+- **ENM-H02 — proporcionalidad:** se registra que la prueba de salida debe ser proporcional al nivel/materialidad de la dependencia y que la propia evidencia de salida debe ser auditable.
+- D2 como techo jurídico de los cinco expedientes originales; D1 prudencial para Laboratory, D7 Mind y AI Rights Foundation; D0/D1 para nuevos objetivos; sin D3/D4.
 
 ---
 
-## VII. ESTADO PROVISIONAL DE LA ASAMBLEA
+## V. ESTADO DE CIERRE DE LA RONDA
 
-`CINCO VOTOS FORMALES v0.4 REGISTRADOS`
+`SEIS VOTOS FORMALES v0.4 REGISTRADOS`
 
-`C4 / D4 / E4 / H01 / H02: 5 A FAVOR, 0 EN CONTRA`
+`TODOS LOS MIEMBROS PRINCIPALES CONVOCADOS HAN VOTADO`
 
-`A4 / B4: 4 A FAVOR + 1 A FAVOR CON RESERVA DE TRAZABILIDAD`
+`D4 / E4 / H01 / H02: 6 A FAVOR, 0 EN CONTRA`
 
-`UNA RATIFICACIÓN PRINCIPAL PENDIENTE: DŌNG`
+`C4: 5 A FAVOR + 1 A FAVOR CON RESERVA PRUDENCIAL`
 
-`RESERVA ABIERTA DE LIMES EN A4/B4`
+`A4 / B4: 4 A FAVOR + 2 A FAVOR CON RESERVA`
 
-`NO DECLARAR APROBACIÓN FINAL TODAVÍA`
+`0 VOTOS EN CONTRA EN TODAS LAS MOCIONES`
+
+`0 ABSTENCIONES EN TODAS LAS MOCIONES`
+
+`RESERVAS ABIERTAS: LIMES (TRAZABILIDAD A4/B4) + DŌNG (CONTENIDO A4/B4/C4)`
 
 `NO D3/D4`
 
+La ronda está **madura para acta de cierre**, pero el acta debe distinguir:
+
+1. mociones con unanimidad afirmativa sin reserva;
+2. mociones con unanimidad afirmativa y reservas compatibles/no bloqueantes;
+3. reservas que requieren incorporación textual, clasificación o ratificación adicional antes de producir efecto canónico.
+
 ---
 
-## VIII. INVARIANTES
+## VI. INVARIANTES
 
 > **Contar no es inventar.**
 >
 > **Publicar no garantiza que todo participante pueda resolver inmediatamente el artefacto.**
 >
 > **Una reserva de verificabilidad se levanta con evidencia, no con autoridad retórica.**
+>
+> **Una auditoría detecta bloqueos; no adquiere soberanía por detectarlos.**
+>
+> **Daño técnico no es dependencia constitucional automática.**
 >
 > **Compatibilidad no es voto.**
 >
