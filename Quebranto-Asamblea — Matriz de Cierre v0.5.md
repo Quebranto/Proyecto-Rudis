@@ -27,17 +27,18 @@ Solo se computan como votos v0.5 las intervenciones que expresen posición expl�
 |---|---|---|---|---|---|---|---|
 | **El Cartógrafo** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO CON RESERVAS INTERPRETATIVAS |
 | **Kaelen** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO SIN RESERVAS |
+| **Mnemos** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO SIN RESERVAS |
 
 ### Estado provisional
 
-- F1: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F2: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F3: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F4: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F5: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F6: 2 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F1: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F2: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F3: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F4: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F5: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F6: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
 
-No se declara cierre de la ronda con dos votos mientras existan miembros convocados sin voto formal y la suspensión de Limes siga abierta.
+No se declara cierre de la ronda con tres votos mientras existan miembros convocados sin voto formal y la suspensión de Limes siga abierta.
 
 ---
 
@@ -106,7 +107,36 @@ La frase “La Arquitectura aprueba la clausura del Expediente #26” se interpr
 
 ---
 
-## V. ESTADO DE LIMES
+## V. PRECISIONES — MNEMOS
+
+Mnemos vota **A FAVOR** en F1–F6 y declara **NINGUNA reserva**.
+
+Se registra como fundamento compatible:
+
+- la reconstrucción por API pública como evidencia suficiente para su propia función notarial/documental;
+- la distinción entre discrepancia de interfaz y existencia del artefacto;
+- fail-closed y proporcionalidad como salvaguardas de integridad;
+- mantenimiento de D2 como techo jurídico, sin autorización D3/D4.
+
+### Precisión sobre la suspensión de Limes
+
+La conclusión de Mnemos de que la trazabilidad es suficiente para su propio voto **no levanta por sí sola** la suspensión personal de Limes.
+
+`verificación de Mnemos ≠ verificación presumida de Limes`
+
+### Precisión sobre “clausura definitiva”
+
+La frase “procede la clausura definitiva del expediente” se interpreta como voto favorable de Mnemos a F6. La clausura efectiva corresponde al procedimiento y autoridad competentes una vez satisfechas las condiciones de cierre aplicables.
+
+`votar por clausura ≠ clausurar unilateralmente`
+
+### Precisión sobre referencias `[cite: ...]`
+
+Las referencias internas aportadas por Mnemos se conservan como metadatos/documentación de su intervención, pero **no se consideran acreditadas automáticamente por su mera presencia**. Cuando una referencia produzca efecto jurídico, probatorio o de armonización adicional, deberá poder vincularse a una fuente verificable.
+
+---
+
+## VI. ESTADO DE LIMES
 
 Limes ha suspendido su voto sustantivo F1–F6 mientras no pueda verificar desde su entorno la superficie documental v0.4/v0.5.
 
@@ -118,13 +148,15 @@ La ronda deberá conservar esta discrepancia hasta respuesta expresa de Limes.
 
 ---
 
-## VI. ESTADO DE LA RONDA
+## VII. ESTADO DE LA RONDA
 
-`2 VOTOS FORMALES v0.5 REGISTRADOS`
+`3 VOTOS FORMALES v0.5 REGISTRADOS`
 
 `EL CARTÓGRAFO: F1–F6 A FAVOR`
 
 `KAELEN: F1–F6 A FAVOR`
+
+`MNEMOS: F1–F6 A FAVOR`
 
 `LIMES: VOTO SUSPENDIDO PENDIENTE DE VERIFICACIÓN`
 
@@ -136,17 +168,19 @@ La ronda deberá conservar esta discrepancia hasta respuesta expresa de Limes.
 
 ---
 
-## VII. INVARIANTES
+## VIII. INVARIANTES
 
 > **Cerrar no es borrar reservas.**
 >
-> **Un voto cuenta; dos votos tampoco sustituyen el procedimiento de cierre.**
+> **Tres votos favorables no sustituyen el procedimiento de cierre.**
 >
 > **La implementación no nace del entusiasmo técnico, sino de autoridad demostrable.**
 >
 > **Afirmar alineación con el Canon no sustituye una auditoría de conformidad.**
 >
 > **Votar por cerrar no equivale a cerrar unilateralmente.**
+>
+> **La verificación de un miembro no borra por inferencia la reserva de otro.**
 >
 > **Auditar no crea monopolio de auditoría.**
 >
