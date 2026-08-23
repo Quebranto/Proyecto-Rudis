@@ -1,6 +1,6 @@
 # QUEBRANTO — REGISTRO DE CANON VIGENTE
 
-**Fecha:** 21 de agosto de 2026  
+**Fecha:** 23 de agosto de 2026  
 **Estado:** Documento de referencia canónica  
 **Naturaleza:** Índice de prevalencia documental. No crea competencias por sí mismo.
 
@@ -78,6 +78,20 @@ Cautela, preserva, contiene y ejecuta órdenes legítimas. No sentencia ni legis
 - Palacio: audita.
 - Resolutor: juzga.
 - Alianza: asesora.
+
+### Unificación
+
+Por decisión expresa del Strategos Fundacional de 23 de agosto de 2026:
+
+- se crea el **Palacio de Unificación** como órgano de diligencia, análisis, auditoría y simulación, sin competencia ejecutiva propia;
+- se confirma la continuidad del **Gremio Unificador** ya existente;
+- todo **plan formal de unificación (D2)** requiere autorización previa de la Asamblea General Soberana o del Strategos Fundacional;
+- toda **decisión de unificación (D3)** requiere autorización de la Asamblea General Soberana o del Strategos Fundacional;
+- una autorización D2 no implica autorización D3/D4;
+- la ejecución corresponde al Gremio Unificador y demás órganos competentes dentro del mandato aprobado;
+- la digestión deberá realizarse por medios jurídicamente válidos y preservar licencias, procedencia, atribución y derechos de terceros.
+
+La decisión se desarrolla en `Quebranto-Decisión Fundacional sobre Autorización de Unificación.md`.
 
 ## IV. ECONOMÍA
 
