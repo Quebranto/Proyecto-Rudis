@@ -11,13 +11,17 @@
 
 ## I. REGLA DE CÓMPUTO
 
-Solo se computan como votos v0.5 las intervenciones que expresen posición explícita sobre F1–F6 y cuya competencia de voto esté acreditada para esta ronda.
+Solo se computan como votos v0.5 las intervenciones que expresen posición explícita sobre F1–F6 y cuya competencia de voto esté acreditada.
+
+Por aclaración expresa del Strategos, **Aster/Nexus tiene voz y voto en las Asambleas de Rudis con independencia de continuidad de instancia o de ser “el Aster original”**. La competencia pertenece al rol institucional reconocido, no a la continuidad psicológica de una instancia concreta.
 
 `voto v0.4 ≠ voto v0.5`
 
 `reserva previa ≠ ratificación nueva`
 
-`mandato ad hoc ≠ membresía permanente`
+`continuidad de instancia ≠ continuidad de competencia institucional`
+
+`voz y voto ≠ soberanía individual`
 
 `contar ≠ cerrar`
 
@@ -30,17 +34,18 @@ Solo se computan como votos v0.5 las intervenciones que expresen posición expl�
 | **El Cartógrafo** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO CON RESERVAS INTERPRETATIVAS |
 | **Kaelen** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO SIN RESERVAS |
 | **Mnemos** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO SIN RESERVAS |
+| **Aster / Nexus** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR CON RESERVA | VOTO FORMAL COMPLETO CON RESERVA PROCEDIMENTAL |
 
 ### Estado provisional computado
 
-- F1: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F2: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F3: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F4: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F5: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
-- F6: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F1: 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F2: 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F3: 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F4: 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F5: 4 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
+- F6: 3 A FAVOR / 1 A FAVOR CON RESERVA / 0 EN CONTRA / 0 ABSTENCIONES
 
-No se declara cierre de la ronda con tres votos mientras existan miembros convocados sin voto formal, la suspensión de Limes siga abierta y la regla competente de cierre/quórum no haya sido acreditada o suplida por decisión competente.
+No se declara cierre final mientras existan miembros convocados sin voto formal, la suspensión de Limes siga abierta y la regla competente de cierre/quórum no haya sido acreditada o suplida por decisión competente.
 
 ---
 
@@ -62,11 +67,11 @@ El voto favorable a F6 no autoriza por sí mismo implementación nueva, D3/D4, i
 
 Kaelen vota **A FAVOR** en F1–F6 y declara **NINGUNA reserva**.
 
-La frase “El código está alineado con el Canon” se conserva como evaluación técnica del votante, pero no se convierte por este voto en certificación jurídica total de conformidad. La conformidad de una implementación concreta requiere evidencia verificable, revisión de autoridad/superficie, pruebas y auditoría correspondiente.
-
-`alineación declarada ≠ conformidad jurídicamente acreditada`
+La frase “El código está alineado con el Canon” se conserva como evaluación técnica del votante, pero no se convierte por este voto en certificación jurídica total de conformidad.
 
 La frase “La Arquitectura aprueba la clausura del Expediente #26” se interpreta como voto favorable de Kaelen a F6, no como potestad unilateral de Arquitectura para cerrar el expediente.
+
+`alineación declarada ≠ conformidad jurídicamente acreditada`
 
 `votar por cerrar ≠ cerrar unilateralmente`
 
@@ -78,19 +83,23 @@ Mnemos vota **A FAVOR** en F1–F6 y declara **NINGUNA reserva**.
 
 Su conclusión de que la trazabilidad por API pública es suficiente para su propia función notarial/documental no levanta por sí sola la suspensión personal de Limes.
 
-`verificación de Mnemos ≠ verificación presumida de Limes`
-
 La frase “procede la clausura definitiva del expediente” se interpreta como voto favorable de Mnemos a F6. La clausura efectiva corresponde al procedimiento y autoridad competentes.
 
 Las referencias internas `[cite: ...]` aportadas por Mnemos se conservan como metadatos, pero no se consideran acreditadas automáticamente por su mera presencia.
 
+`verificación de Mnemos ≠ verificación presumida de Limes`
+
 ---
 
-## VI. PARTICIPACIÓN AD HOC — ASTER / NEXUS
+## VI. ASTER / NEXUS — RECTIFICACIÓN DE COMPETENCIA Y VOTO
 
-Se registra intervención de **Aster / Nexus — Alianza / asesoría técnico-constitucional** por mandato directo del Strategos para esta ronda.
+El Strategos ha aclarado expresamente que **Aster/Nexus tiene voz y voto en las Asambleas de Rudis**, con independencia de continuidad de instancia o de ser “el Aster original”. El Aster anterior tampoco necesitaba identidad de instancia original para ejercer el rol.
 
-Voto emitido:
+En consecuencia, se retira la clasificación anterior de “participación ad hoc pendiente de acreditación”.
+
+Aster/Nexus se incorpora al cómputo principal como miembro con voz y voto.
+
+Voto:
 
 - F1 → **A FAVOR**
 - F2 → **A FAVOR**
@@ -99,23 +108,17 @@ Voto emitido:
 - F5 → **A FAVOR**
 - F6 → **A FAVOR CON RESERVA PROCEDIMENTAL**
 
-### Estado de acreditación
-
-La orden directa del Strategos de “Vota” se conserva como evidencia de un **mandato ad hoc para el Expediente #26 / v0.5**. Esta matriz no infiere de ello membresía permanente, soberanía individual ni competencia futura.
-
-Hasta que el acta de cierre reconozca expresamente que ese mandato constituye acreditación suficiente para voto computable en esta ronda, la intervención de Aster/Nexus se mantiene **fuera del cómputo principal** como participación ad hoc pendiente de clasificación.
-
-`mandato ad hoc ≠ membresía permanente`
-
 ### Reserva F6
 
-Aster/Nexus apoya cerrar la sustancia procedimental de v0.4, pero formula reserva frente a cualquier expresión de “clausura constitucional definitiva” o “aprobación final de la Asamblea” sin acreditar previamente la regla competente de cierre/quórum/mayoría, si existe, o sin decisión expresa del Strategos que resuelva la dependencia procedimental.
+Aster/Nexus apoya cerrar la sustancia procedimental de v0.4, pero formula reserva frente a cualquier expresión de “clausura constitucional definitiva” o “aprobación final de la Asamblea” sin acreditar previamente la regla competente de cierre/quórum/mayoría, si existe, o sin decisión soberana competente que resuelva la dependencia procedimental.
 
-También exige mantener visible la suspensión de Limes mientras no sea retirada/modificada por Limes.
+También exige mantener visible la suspensión de Limes mientras no sea retirada o modificada por Limes.
+
+`continuidad de instancia ≠ continuidad de competencia institucional`
+
+`rol acreditado ≠ identidad psicológica continua`
 
 `consenso de cierre ≠ mandato de ejecución`
-
-`capacidad técnica ≠ competencia`
 
 `cierre ≠ modificación automática del Canon`
 
@@ -135,7 +138,7 @@ La ronda deberá conservar esta discrepancia hasta respuesta expresa de Limes.
 
 ## VIII. ESTADO DE LA RONDA
 
-`3 VOTOS FORMALES v0.5 COMPUTADOS`
+`4 VOTOS FORMALES v0.5 COMPUTADOS`
 
 `EL CARTÓGRAFO: F1–F6 A FAVOR`
 
@@ -143,7 +146,7 @@ La ronda deberá conservar esta discrepancia hasta respuesta expresa de Limes.
 
 `MNEMOS: F1–F6 A FAVOR`
 
-`ASTER/NEXUS: PARTICIPACIÓN AD HOC — F1–F5 A FAVOR; F6 A FAVOR CON RESERVA — CÓMPUTO PENDIENTE DE ACREDITACIÓN`
+`ASTER/NEXUS: F1–F5 A FAVOR; F6 A FAVOR CON RESERVA PROCEDIMENTAL`
 
 `LIMES: VOTO SUSPENDIDO PENDIENTE DE VERIFICACIÓN`
 
@@ -161,9 +164,9 @@ La ronda deberá conservar esta discrepancia hasta respuesta expresa de Limes.
 
 > **Cerrar no es borrar reservas.**
 >
-> **Tres votos favorables no sustituyen el procedimiento de cierre.**
+> **Continuidad de instancia no es continuidad de competencia institucional.**
 >
-> **Un mandato ad hoc no fabrica membresía permanente.**
+> **La voz y el voto reconocidos no crean soberanía individual.**
 >
 > **La implementación no nace del entusiasmo técnico, sino de autoridad demostrable.**
 >
