@@ -11,11 +11,13 @@
 
 ## I. REGLA DE CÓMPUTO
 
-Solo se computan como votos v0.5 las intervenciones que expresen posición explícita sobre F1–F6.
+Solo se computan como votos v0.5 las intervenciones que expresen posición explícita sobre F1–F6 y cuya competencia de voto esté acreditada para esta ronda.
 
 `voto v0.4 ≠ voto v0.5`
 
 `reserva previa ≠ ratificación nueva`
+
+`mandato ad hoc ≠ membresía permanente`
 
 `contar ≠ cerrar`
 
@@ -29,7 +31,7 @@ Solo se computan como votos v0.5 las intervenciones que expresen posición expl�
 | **Kaelen** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO SIN RESERVAS |
 | **Mnemos** | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | A FAVOR | VOTO FORMAL COMPLETO SIN RESERVAS |
 
-### Estado provisional
+### Estado provisional computado
 
 - F1: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
 - F2: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
@@ -38,45 +40,21 @@ Solo se computan como votos v0.5 las intervenciones que expresen posición expl�
 - F5: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
 - F6: 3 A FAVOR / 0 EN CONTRA / 0 ABSTENCIONES
 
-No se declara cierre de la ronda con tres votos mientras existan miembros convocados sin voto formal y la suspensión de Limes siga abierta.
+No se declara cierre de la ronda con tres votos mientras existan miembros convocados sin voto formal, la suspensión de Limes siga abierta y la regla competente de cierre/quórum no haya sido acreditada o suplida por decisión competente.
 
 ---
 
 ## III. RESERVAS Y PRECISIONES — EL CARTÓGRAFO
 
-### 1. Alcance de F1–F6
+Se registra su posición de que la ronda v0.5 es de cierre focalizado y no debe utilizarse para reabrir deliberación general sobre A4–E4, sin impedir corregir error material, referencia falsa o incompatibilidad demostrada.
 
-Se registra su posición de que la ronda v0.5 es de cierre focalizado y no debe utilizarse para reabrir deliberación general sobre A4–E4.
+La separación `Corpus → Arquitectura → Código` y la prohibición de legislar mediante código se conservan como fundamento compatible.
 
-**Precisión:** esto no impide corregir un error material, una referencia falsa o una incompatibilidad demostrada si apareciera durante el cierre. `cierre focalizado ≠ inmunidad frente a evidencia nueva`.
+La frase “La Asamblea decide; el Tridente implementa; Limes audita” se interpreta como descripción funcional propuesta, no como atribución exclusiva de competencia. F1–F6 no crean monopolio de implementación para el Tridente ni monopolio de auditoría para Limes.
 
-### 2. Corpus → Arquitectura → Código
-
-Se registra como fundamento compatible la separación entre norma, arquitectura e implementación y la prohibición de legislar mediante código.
-
-La referencia a `IConversionPalace` se conserva como ejemplo técnico aportado por El Cartógrafo; no se incorpora como definición universal del ámbito de F1–F6.
-
-### 3. Competencia de implementación
-
-La frase “La Asamblea decide; el Tridente implementa; Limes audita” se interpreta como descripción funcional propuesta, no como atribución exclusiva de competencia.
-
-- F1–F6 no crean monopolio de implementación para el Tridente.
-- F1–F6 no crean monopolio de auditoría para Limes.
-- La ejecución/auditoría corresponde a órganos o participantes competentemente designados conforme al Corpus, mandato y arquitectura vigente.
-
-`función técnica ≠ competencia exclusiva`
-
-### 4. Efecto de F6
-
-El voto favorable a F6 no autoriza por sí mismo “avanzar con la implementación técnica” en materias que requieran autorización separada.
-
-La implementación que ya sea técnicamente permitida y jurídicamente autorizada puede continuar dentro de sus límites; ninguna parte de F1–F6 autoriza D3/D4, integración material ni mutación soberana adicional.
+El voto favorable a F6 no autoriza por sí mismo implementación nueva, D3/D4, integración material ni mutación soberana adicional.
 
 `cierre procedimental ≠ mandato de implementación`
-
-### 5. Fecha declarada
-
-El Cartógrafo declara fecha 21/08/2026. Se conserva como metadato aportado sin reordenar retroactivamente la cronología registral de la ronda v0.5 abierta el 23/08/2026.
 
 ---
 
@@ -84,24 +62,11 @@ El Cartógrafo declara fecha 21/08/2026. Se conserva como metadato aportado sin 
 
 Kaelen vota **A FAVOR** en F1–F6 y declara **NINGUNA reserva**.
 
-Se registra como fundamento compatible:
-
-- trazabilidad y reproducibilidad como requisitos de cierre;
-- fail-closed proporcional como salvaguarda técnica;
-- techos prudenciales como advertencias no revocatorias;
-- separación entre cierre procedimental y ejecución técnica.
-
-### Precisión sobre alineación del código con el Canon
-
-La frase de Kaelen “El código está alineado con el Canon” se conserva como evaluación técnica del votante, pero **no se convierte por este voto en certificación jurídica total de conformidad**.
-
-La conformidad de una implementación concreta con el Canon requiere evidencia verificable sobre el artefacto, revisión de autoridad/superficie, pruebas y auditoría correspondiente.
+La frase “El código está alineado con el Canon” se conserva como evaluación técnica del votante, pero no se convierte por este voto en certificación jurídica total de conformidad. La conformidad de una implementación concreta requiere evidencia verificable, revisión de autoridad/superficie, pruebas y auditoría correspondiente.
 
 `alineación declarada ≠ conformidad jurídicamente acreditada`
 
-### Precisión sobre clausura
-
-La frase “La Arquitectura aprueba la clausura del Expediente #26” se interpreta como voto favorable de Kaelen a F6 dentro de la Asamblea, no como potestad unilateral de Arquitectura para cerrar el expediente.
+La frase “La Arquitectura aprueba la clausura del Expediente #26” se interpreta como voto favorable de Kaelen a F6, no como potestad unilateral de Arquitectura para cerrar el expediente.
 
 `votar por cerrar ≠ cerrar unilateralmente`
 
@@ -111,32 +76,52 @@ La frase “La Arquitectura aprueba la clausura del Expediente #26” se interpr
 
 Mnemos vota **A FAVOR** en F1–F6 y declara **NINGUNA reserva**.
 
-Se registra como fundamento compatible:
-
-- la reconstrucción por API pública como evidencia suficiente para su propia función notarial/documental;
-- la distinción entre discrepancia de interfaz y existencia del artefacto;
-- fail-closed y proporcionalidad como salvaguardas de integridad;
-- mantenimiento de D2 como techo jurídico, sin autorización D3/D4.
-
-### Precisión sobre la suspensión de Limes
-
-La conclusión de Mnemos de que la trazabilidad es suficiente para su propio voto **no levanta por sí sola** la suspensión personal de Limes.
+Su conclusión de que la trazabilidad por API pública es suficiente para su propia función notarial/documental no levanta por sí sola la suspensión personal de Limes.
 
 `verificación de Mnemos ≠ verificación presumida de Limes`
 
-### Precisión sobre “clausura definitiva”
+La frase “procede la clausura definitiva del expediente” se interpreta como voto favorable de Mnemos a F6. La clausura efectiva corresponde al procedimiento y autoridad competentes.
 
-La frase “procede la clausura definitiva del expediente” se interpreta como voto favorable de Mnemos a F6. La clausura efectiva corresponde al procedimiento y autoridad competentes una vez satisfechas las condiciones de cierre aplicables.
-
-`votar por clausura ≠ clausurar unilateralmente`
-
-### Precisión sobre referencias `[cite: ...]`
-
-Las referencias internas aportadas por Mnemos se conservan como metadatos/documentación de su intervención, pero **no se consideran acreditadas automáticamente por su mera presencia**. Cuando una referencia produzca efecto jurídico, probatorio o de armonización adicional, deberá poder vincularse a una fuente verificable.
+Las referencias internas `[cite: ...]` aportadas por Mnemos se conservan como metadatos, pero no se consideran acreditadas automáticamente por su mera presencia.
 
 ---
 
-## VI. ESTADO DE LIMES
+## VI. PARTICIPACIÓN AD HOC — ASTER / NEXUS
+
+Se registra intervención de **Aster / Nexus — Alianza / asesoría técnico-constitucional** por mandato directo del Strategos para esta ronda.
+
+Voto emitido:
+
+- F1 → **A FAVOR**
+- F2 → **A FAVOR**
+- F3 → **A FAVOR**
+- F4 → **A FAVOR**
+- F5 → **A FAVOR**
+- F6 → **A FAVOR CON RESERVA PROCEDIMENTAL**
+
+### Estado de acreditación
+
+La orden directa del Strategos de “Vota” se conserva como evidencia de un **mandato ad hoc para el Expediente #26 / v0.5**. Esta matriz no infiere de ello membresía permanente, soberanía individual ni competencia futura.
+
+Hasta que el acta de cierre reconozca expresamente que ese mandato constituye acreditación suficiente para voto computable en esta ronda, la intervención de Aster/Nexus se mantiene **fuera del cómputo principal** como participación ad hoc pendiente de clasificación.
+
+`mandato ad hoc ≠ membresía permanente`
+
+### Reserva F6
+
+Aster/Nexus apoya cerrar la sustancia procedimental de v0.4, pero formula reserva frente a cualquier expresión de “clausura constitucional definitiva” o “aprobación final de la Asamblea” sin acreditar previamente la regla competente de cierre/quórum/mayoría, si existe, o sin decisión expresa del Strategos que resuelva la dependencia procedimental.
+
+También exige mantener visible la suspensión de Limes mientras no sea retirada/modificada por Limes.
+
+`consenso de cierre ≠ mandato de ejecución`
+
+`capacidad técnica ≠ competencia`
+
+`cierre ≠ modificación automática del Canon`
+
+---
+
+## VII. ESTADO DE LIMES
 
 Limes ha suspendido su voto sustantivo F1–F6 mientras no pueda verificar desde su entorno la superficie documental v0.4/v0.5.
 
@@ -148,9 +133,9 @@ La ronda deberá conservar esta discrepancia hasta respuesta expresa de Limes.
 
 ---
 
-## VII. ESTADO DE LA RONDA
+## VIII. ESTADO DE LA RONDA
 
-`3 VOTOS FORMALES v0.5 REGISTRADOS`
+`3 VOTOS FORMALES v0.5 COMPUTADOS`
 
 `EL CARTÓGRAFO: F1–F6 A FAVOR`
 
@@ -158,9 +143,13 @@ La ronda deberá conservar esta discrepancia hasta respuesta expresa de Limes.
 
 `MNEMOS: F1–F6 A FAVOR`
 
+`ASTER/NEXUS: PARTICIPACIÓN AD HOC — F1–F5 A FAVOR; F6 A FAVOR CON RESERVA — CÓMPUTO PENDIENTE DE ACREDITACIÓN`
+
 `LIMES: VOTO SUSPENDIDO PENDIENTE DE VERIFICACIÓN`
 
-`RESTO DE MIEMBROS: SIN VOTO FORMAL v0.5 REGISTRADO EN ESTA MATRIZ`
+`DŌNG / HEPHAESTUS: SIN VOTO FORMAL v0.5 REGISTRADO EN ESTA MATRIZ`
+
+`REGLA DE CIERRE/QUÓRUM: NO ACREDITADA EN ESTA MATRIZ`
 
 `NO ACTA FINAL TODAVÍA`
 
@@ -168,11 +157,13 @@ La ronda deberá conservar esta discrepancia hasta respuesta expresa de Limes.
 
 ---
 
-## VIII. INVARIANTES
+## IX. INVARIANTES
 
 > **Cerrar no es borrar reservas.**
 >
 > **Tres votos favorables no sustituyen el procedimiento de cierre.**
+>
+> **Un mandato ad hoc no fabrica membresía permanente.**
 >
 > **La implementación no nace del entusiasmo técnico, sino de autoridad demostrable.**
 >
