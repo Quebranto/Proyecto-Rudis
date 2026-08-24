@@ -19,6 +19,14 @@ Estudiar OAGS, OpenEAGO, ACP, OpenAGP y Anumati como fuentes externas, comparar 
 - [Snapshot de fuentes v0.1](SOURCE-SNAPSHOT-v0.1.md): identidades, commits, versiones, licencias, colisiones nominales y estado Radar propuesto.
 - [Mapa competitivo transversal v0.1](TRANSVERSAL-MAP-v0.1.md): fortalezas, brechas, conceptos absorbibles y rutas de aislamiento.
 - [Threat model transversal v0.1](THREAT-MODEL-v0.1.md): amenazas de captura, downgrade, replay, sustitución de verifier y confusión de autoridad.
+- [Manifest sellado v0.1](campaign-manifest-v0.1.json), validador y pruebas: guardas offline contra sustitución de snapshot, escalada de fase y rutas soberanas prohibidas.
+
+Verificación offline:
+
+```text
+python validate_campaign.py
+python -m unittest -v test_validate_campaign.py
+```
 
 ## Frontera de la campaña
 
