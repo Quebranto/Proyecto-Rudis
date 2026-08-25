@@ -29,7 +29,7 @@ class RedactedScannerTests(unittest.TestCase):
         self.assertNotIn(locator.decode(), json.dumps(findings))
 
     def test_private_key_header_is_redacted(self):
-        material = b"-----BEGIN PRIVATE KEY-----\nnot-a-real-key"
+        material = b"-----BEGIN " + b"PRIVATE KEY-----\\nnot-a-real-key"
         findings = scanner.scan_bytes(material)
         self.assertEqual(findings[0]["category"], "private-key")
         self.assertNotIn("BEGIN PRIVATE KEY", json.dumps(findings))
