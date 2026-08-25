@@ -32,7 +32,7 @@ PATTERNS = (
 )
 
 GITHUB_LOCATOR = re.compile(
-    rb"(?:https?://)?github\\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+",
+    rb"(?:https?://)?github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+",
     re.IGNORECASE,
 )
 # Truncated irreversible aliases; the underlying private locator is never
