@@ -1,6 +1,6 @@
 # QUEBRANTO — REGISTRO DE CANON VIGENTE
 
-**Fecha:** 23 de agosto de 2026  
+**Fecha:** 25 de agosto de 2026  
 **Estado:** Documento de referencia canónica  
 **Naturaleza:** Índice de prevalencia documental. No crea competencias por sí mismo.
 
@@ -31,11 +31,12 @@ Forman el núcleo actual:
 - `Quebranto-09 Matriz de Armonización Institucional y Legislativa.md`
 - `Quebranto-10 Sistema Operativo de Soberanía Estatal.md`
 - `Quebranto-11 Alianza de Asesoramiento del Strategos.md`
+- `Quebranto-23 Régimen Monetario RU y Palacio de Conversión v1.0.md`
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal y `Quebranto-11` es el canon institucional de asesoramiento.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento y `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión en las materias que regula expresamente.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -93,15 +94,33 @@ Por decisión expresa del Strategos Fundacional de 23 de agosto de 2026:
 
 La decisión se desarrolla en `Quebranto-Decisión Fundacional sobre Autorización de Unificación.md`.
 
-## IV. ECONOMÍA
+## IV. ECONOMÍA Y RU
 
-RU se diseñará para **emular el oro digital**: escasez controlada, autenticidad criptográficamente verificable, resistencia a falsificación y capacidad de encapsular información verificable.
+La norma monetaria vigente se desarrolla en `Quebranto-23 Régimen Monetario RU y Palacio de Conversión v1.0.md`.
 
-El EUR es referencia exterior transicional; no se establece paridad fija automática.
+Quedan consolidadas las siguientes decisiones:
 
-El Gremio Conversor es infraestructura de conversión y Tesorería/Banco Interno provisional.
+- RU es el instrumento económico nativo del Ecosistema y tiene como finalidad inicial preservar independencia operativa sin reinventar innecesariamente el dinero;
+- en su primera fase económica real, **1 RU deberá mantener como mínimo respaldo equivalente a 1 EUR en activos de reserva elegibles**;
+- ese suelo de respaldo no fija necesariamente el precio de mercado;
+- `respaldo != emisión` y aportar 1 EUR no concede por defecto derecho ilimitado a acuñar 1 RU;
+- se separan suelo de respaldo, precio de mercado, precio de conversión y eventual derecho jurídico de redención;
+- RU puede apreciarse por encima del suelo sin convertir esa prima en obligación patrimonial automática de Rudis;
+- Reserva Monetaria RU, Fondo Soberano y Fondo de Integridad son patrimonios distintos;
+- el destino de beneficios de conversión queda abierto a política competente y **no fluye automáticamente al Fondo Soberano**;
+- RU podrá emplearse progresivamente para remuneración, intercambio, ahorro y diversificación, sin transferir forzosamente el riesgo monetario al trabajador;
+- el Palacio de Conversión es **infraestructura crítica para la viabilidad y prosperidad del RU**;
+- el Palacio debe observar y responder contextualmente a tasas, liquidez, reservas y mercados sin adquirir potestad legislativa;
+- los oráculos económicos suministran evidencia externa, nunca autoridad monetaria;
+- la convertibilidad falla cerrado cuando no puedan demostrarse las precondiciones vigentes;
+- un fallo de banco/proveedor exterior no corrompe por sí mismo la integridad interna del RU;
+- RU aspira a evolucionar hacia un **oro digital resiliente**, resistente a falsificación y capaz de sobrevivir a migraciones de claves, algoritmos, proveedores e implementaciones;
+- un Ledger comprometido no convierte automáticamente una transferencia ilícita en propiedad legítima;
+- Rudis podrá reparar daños conforme a autoridad y procedimiento, sin convertir la capacidad técnica de reparación en potestad arbitraria sobre la propiedad;
+- cuando sea razonablemente posible, Rudis intentará no descargar automáticamente sobre usuarios inocentes el coste de un fallo sistémico, sin prometer compensación ilimitada;
+- se reconoce conceptualmente un Fondo de Integridad separado para incidentes, reconstrucción y compensaciones autorizadas.
 
-El Fondo Soberano es patrimonio del ecosistema y no autoridad política.
+El antiguo principio genérico «EUR como referencia exterior sin paridad fija automática» queda sustituido, en la fase inicial regulada por `Quebranto-23`, por el **suelo mínimo de respaldo equivalente a 1 EUR**, sin convertirlo en precio fijo de mercado ni redención automática.
 
 ## V. ALIANZA DE ASESORAMIENTO
 
@@ -116,12 +135,47 @@ Asesora, educa, audita, analiza y advierte. **La decisión soberana continúa co
 - `TECHNICAL_IMPLEMENTATION_ALLOWED`: fundamento suficiente.
 - `IMPLEMENTATION_DEPENDENCY`: norma resuelta; falta integración.
 - `UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`: falta decisión normativa; no inventar.
+- `UNRESOLVED_MONETARY_POLICY`: política económica/monetaria todavía no fijada; no hardcodear.
 - `CONSTITUTIONAL_AUTHORIZATION_REQUIRED`: falta autorización para un efecto concreto; no impide por sí misma una cautela legítima.
 
-## VII. HISTÓRICOS
+### Deber de descubrimiento de la Forja
+
+Todo actor de Forja activo sobre StateOS deberá sincronizar este Registro y revisar nuevas decisiones canónicas antes de considerar agotado su frente de trabajo.
+
+Una nueva materia marcada `TECHNICAL_IMPLEMENTATION_ALLOWED` constituye señal suficiente de trabajo D2 técnicamente ejecutable si cae dentro de su superficie y no requiere una decisión política abierta.
+
+No es necesaria una mención personal, issue nominativo ni repetición de la orden para que el trabajo deba ser detectado.
+
+`detectar Canon -> mapear impacto -> revisar implementación -> construir/probar o justificar técnicamente`
+
+La omisión de trabajo canónicamente abierto durante un ciclo activo de Forja se clasifica como **fallo de descubrimiento/sincronización**, no como ausencia de encargo.
+
+## VII. IMPLEMENTACIÓN D2 ABIERTA — RU / PALACIO DE CONVERSIÓN
+
+Por `Quebranto-23`, existe desde ahora `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
+
+- modelado separado de suelo, mercado, conversión y redención;
+- Reserva Monetaria / Fondo Soberano / Fondo de Integridad separados;
+- ExternalMarketEvidence y oráculos provider-neutral;
+- agregación sin política económica hardcodeada;
+- fail-closed de conversión;
+- separación MarketData / Valuation / Reserve / Conversion / Accounting / Authority / Audit;
+- remuneración RU/EUR simulada;
+- apreciación sobre suelo simulada;
+- escenarios de reserva/proveedor bloqueado;
+- genealogía de emisión;
+- Fondo de Integridad simulado;
+- migrabilidad tecnológica;
+- challenge suites adversariales monetarias.
+
+Permanece bloqueado: dinero real, producción, proveedor financiero real, parámetros económicos no resueltos, autoridad monetaria inventada, derecho de redención inventado y cualquier salto D3/D4.
+
+## VIII. HISTÓRICOS
 
 `Quebranto-Honor..md` es **HISTÓRICO / SUPERADO** cuando contradiga el Canon vigente.
 
-## VIII. INVARIANTE
+Los documentos económicos anteriores a `Quebranto-23` conservan valor histórico, doctrinal o complementario; quedan superados únicamente donde contradigan expresamente la norma monetaria posterior.
 
-> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Rudis conserva memoria.**
+## IX. INVARIANTE
+
+> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria.**
