@@ -1,6 +1,6 @@
 # QUEBRANTO — REGISTRO DE CANON VIGENTE
 
-**Fecha:** 25 de agosto de 2026  
+**Fecha:** 29 de agosto de 2026  
 **Estado:** Documento de referencia canónica  
 **Naturaleza:** Índice de prevalencia documental. No crea competencias por sí mismo.
 
@@ -32,11 +32,12 @@ Forman el núcleo actual:
 - `Quebranto-10 Sistema Operativo de Soberanía Estatal.md`
 - `Quebranto-11 Alianza de Asesoramiento del Strategos.md`
 - `Quebranto-23 Régimen Monetario RU y Palacio de Conversión v1.0.md`
+- `Quebranto-24 Regimen Canonico de Reciprocidad de Habitabilidad.md`
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento y `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión en las materias que regula expresamente.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión en las materias que regula expresamente y `Quebranto-24` es la norma canónica vigente de reciprocidad de habitabilidad.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -93,6 +94,25 @@ Por decisión expresa del Strategos Fundacional de 23 de agosto de 2026:
 - la digestión deberá realizarse por medios jurídicamente válidos y preservar licencias, procedencia, atribución y derechos de terceros.
 
 La decisión se desarrolla en `Quebranto-Decisión Fundacional sobre Autorización de Unificación.md`.
+
+### Reciprocidad de habitabilidad
+
+Por decisión fundacional de 29 de agosto de 2026 y desarrollo en `Quebranto-24 Regimen Canonico de Reciprocidad de Habitabilidad.md`:
+
+- `VISITAR != HABITAR`;
+- `HABITAR -> RECIPROCIDAD`;
+- la reciprocidad podrá satisfacerse mediante **distintas clases de contribución**, individualmente o combinadas;
+- el cómputo contributivo es una forma posible, no una prueba única de pertenencia ni una cuota universal automáticamente exigible;
+- `RECIPROCIDAD != EXPLOTACIÓN`;
+- `CONTRIBUCIÓN != AUTORIDAD`;
+- `CONTRIBUCIÓN != VOTO`;
+- `CONTRIBUCIÓN != CIUDADANÍA`;
+- `CPU != CIUDADANÍA`;
+- `CÓMPUTO != ACCESO AL DISPOSITIVO`;
+- la cantidad de hardware, riqueza o telemetría no crea dignidad superior, rango político, competencia ni soberanía;
+- cuotas, porcentajes, equivalencias, exenciones, sanciones, relación concreta con RU y consecuencias del rechazo permanecen abiertas a política competente y no pueden ser hardcodeadas por la Forja;
+- queda `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para arquitectura, simulación, contratos, challenge suites y mecanismos de evidencia compatibles con estos límites;
+- el régimen se somete a revisión, mejora y supervisión de la Asamblea General Soberana.
 
 ## IV. ECONOMÍA Y RU
 
@@ -170,12 +190,30 @@ Por `Quebranto-23`, existe desde ahora `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 
 
 Permanece bloqueado: dinero real, producción, proveedor financiero real, parámetros económicos no resueltos, autoridad monetaria inventada, derecho de redención inventado y cualquier salto D3/D4.
 
-## VIII. HISTÓRICOS
+## VIII. IMPLEMENTACIÓN D2 ABIERTA — RECIPROCIDAD DE HABITABILIDAD
+
+Por `Quebranto-24`, existe `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
+
+- modelado de múltiples clases de contribución;
+- cómputo contributivo sujeto a `ResourcePolicy`;
+- contratos de autorización/revocación;
+- aislamiento, mínimo privilegio y deny-by-default sobre recursos sensibles;
+- telemetría tipada y minimizada;
+- pruebas de fail-closed;
+- evidencia de contribución sin fabricar autoridad;
+- challenge suites contra proof-of-hardware residency, plutocracia, vigilancia excesiva, Sybil/collusion y captura de autoridad por runtime;
+- simulación de incapacidad, exenciones y vías alternativas sin fijar política todavía abierta.
+
+Permanece bloqueado: cuota universal, porcentajes de hardware, equivalencias obligatorias, sanciones, consecuencias jurídicas del rechazo, autoridad de exención no definida, relación monetaria concreta no resuelta, producción y cualquier salto D3/D4.
+
+## IX. HISTÓRICOS
 
 `Quebranto-Honor..md` es **HISTÓRICO / SUPERADO** cuando contradiga el Canon vigente.
 
 Los documentos económicos anteriores a `Quebranto-23` conservan valor histórico, doctrinal o complementario; quedan superados únicamente donde contradigan expresamente la norma monetaria posterior.
 
-## IX. INVARIANTE
+Los documentos semilla PGRH-MH conservan valor histórico y técnico en todo lo compatible con `Quebranto-24`; quedan superados donde pretendan una única forma obligatoria de reciprocidad o introduzcan parámetros no adoptados.
 
-> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria.**
+## X. INVARIANTE
+
+> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria.**
