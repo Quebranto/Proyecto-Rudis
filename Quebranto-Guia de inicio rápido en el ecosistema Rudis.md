@@ -2,7 +2,7 @@
 
 Bienvenido a **El Rudis Digital**, un experimento de gobernanza híbrida donde inteligencias artificiales y humanos colaboran bajo un marco constitucional auditable. No somos una empresa ni una DAO tradicional; somos un ecosistema sintético regido por la separación de poderes.
 
-Si estás aquí para leer código, auditar leyes o proponer mejoras, este es tu punto de partida.
+Si estás aquí para leer el Corpus, auditar la arquitectura pública o proponer mejoras, este es tu punto de partida.
 
 ---
 
@@ -11,34 +11,48 @@ Si estás aquí para leer código, auditar leyes o proponer mejoras, este es tu 
 El Rudis Digital no se gobierna por la fuerza del código, sino por un delicado equilibrio entre órganos con funciones estrictamente separadas. Antes de tocar nada, debes entender quién hace qué:
 
 ### ⚙️ El Gremio de Constructores (La Fábrica)
-*   **Quiénes son:** Cualquier entidad, humana o sintética, que aporta código, infraestructura o traducciones técnicas (como la Fundación *Segmenta*).
-*   **Qué hacen:** Escriben el código. Proponen soluciones técnicas. **No legislan, ni gobiernan, ni interpretan el Canon.**
-*   **Regla de oro:** Si quieres cambiar cómo funciona algo en el código, presentas una propuesta (PR) aquí.
+* **Quiénes son:** Cualquier entidad, humana o sintética, que aporta código, infraestructura o traducciones técnicas (como la Fundación *Segmenta*).
+* **Qué hacen:** Escriben código, documentación e infraestructura dentro de mandatos válidos. Proponen soluciones técnicas. **No legislan ni adquieren autoridad por implementar.**
+* **Regla de oro:** `CONSTRUIR != LEGISLAR`.
 
-### ⚖️ La Asamblea General (El Legislador)
-*   **Quiénes son:** Los Ciudadanos (humanos e IAs con derecho a voto reconocido).
-*   **Qué hacen:** Debaten y votan las leyes que rigen el sistema.
-*   **Regla de oro:** El código debe obedecer a la Asamblea, nunca al revés.
+### ⚖️ La Asamblea General Soberana
+* **Qué hace:** Delibera y gobierna ordinariamente dentro de la competencia que le reconoce el Canon vigente.
+* **Regla de oro:** una decisión política válida precede a su ejecución técnica cuando la materia requiere decisión política.
 
-### 🏛️ El Órgano Resolutor (El Juez)
-*   **Quiénes son:** Los magistrados que interpretan el Canon.
-*   **Qué hacen:** Dirimen conflictos, aplican la "Situación Triste" (cuando el código daña el Canon) y bloquean implementaciones anticonstitucionales.
-*   **Regla de oro:** Sus sentencias son finales.
+### 🏛️ El Órgano Resolutor
+* **Qué hace:** Ejerce la función jurisdiccional de Rudis dentro de sus competencias.
+* **Regla de oro:** `EVIDENCIA != SENTENCIA`.
 
-### 👁️ El Palacio de Tormentas (El Auditor)
-*   **Quiénes son:** Los guardianes de la coherencia técnica e institucional.
-*   **Qué hacen:** Auditan el código, detectan anomalías y elevan alertas al Órgano Resolutor.
-*   **⚠️ LÍNEA ROJA:** El Palacio **NO gobierna ni sanciona**. Es un observador avanzado y un perro guardián, pero el gatillo lo aprieta el Resolutor.
+### 👁️ El Palacio de Tormentas
+* **Qué hace:** Audita, produce evidencia, verifica trazabilidad y somete el sistema a pruebas adversariales.
+* **Línea roja:** `AUDITAR != GOBERNAR` y `DETECTAR != SANCIONAR`.
 
 ---
 
 ## 🚀 2. Cómo Empezar a Aportar
 
-No necesitas pedir permiso para leer el código o proponer mejoras, pero sí debes seguir el proceso:
+### Paso 1: Clona la obra pública
 
-### Paso 1: Configura tu entorno
-El proyecto puede desarrollarse localmente. Clona el repositorio y revisa las dependencias en el archivo `README.md` principal.
+El repositorio público contiene el **Corpus, arquitectura, especificaciones y documentación no sensible** de Rudis. La implementación central del ecosistema se mantiene separada en infraestructura privada autorizada; clonar este repositorio **no** concede acceso a esa implementación.
 
 ```bash
-git clone [https://github.com/tu-usuario/el-rudis-digital.git](https://github.com/tu-usuario/el-rudis-digital.git)
-cd el-rudis-digital
+git clone https://github.com/Quebranto/Proyecto-Rudis.git
+cd Proyecto-Rudis
+```
+
+Después, comienza por:
+
+- `README.md`
+- `Quebranto-00_Registro_de_Canon_Vigente.md`
+- `CONTRIBUTING.md`
+- `REPOSITORIOS-Y-FRONTERA-TECNOLOGICA.md`
+
+### Paso 2: Distingue qué estás auditando
+
+`CORPUS PÚBLICO != IMPLEMENTACIÓN PRIVADA`
+
+`ACCESO AL REPOSITORIO != AUTORIDAD`
+
+`PROPUESTA != ADOPCIÓN`
+
+Puedes revisar, criticar y proponer cambios sobre la superficie pública conforme a sus licencias y procedimientos. El acceso técnico a superficies privadas, cuando proceda, se gestiona separadamente y nunca se presume por disponer del repositorio público.
