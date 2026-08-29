@@ -33,11 +33,12 @@ Forman el núcleo actual:
 - `Quebranto-11 Alianza de Asesoramiento del Strategos.md`
 - `Quebranto-23 Régimen Monetario RU y Palacio de Conversión v1.0.md`
 - `Quebranto-24 Regimen Canonico de Reciprocidad de Habitabilidad.md`
+- `Quebranto-25 Regimen de Voluntariado Pionero, Aportaciones y Digestión Competitiva.md`
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión en las materias que regula expresamente y `Quebranto-24` es la norma canónica vigente de reciprocidad de habitabilidad.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad y `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -113,6 +114,22 @@ Por decisión fundacional de 29 de agosto de 2026 y desarrollo en `Quebranto-24 
 - cuotas, porcentajes, equivalencias, exenciones, sanciones, relación concreta con RU y consecuencias del rechazo permanecen abiertas a política competente y no pueden ser hardcodeadas por la Forja;
 - queda `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para arquitectura, simulación, contratos, challenge suites y mecanismos de evidencia compatibles con estos límites;
 - el régimen se somete a revisión, mejora y supervisión de la Asamblea General Soberana.
+
+### Voluntariado pionero y aportaciones
+
+Por decisión fundacional de 29 de agosto de 2026 y desarrollo en `Quebranto-25 Regimen de Voluntariado Pionero, Aportaciones y Digestión Competitiva.md`:
+
+- el Gremio de Construcción y Expansión y el Palacio de Construcción custodiarán una lista viva de proyectos D2 disponibles para voluntarios pioneros;
+- sólo se abre trabajo cuando exista fundamento técnico/normativo suficiente y el voluntario queda limitado al alcance autorizado;
+- toda aportación pionera deberá conservar autoría, procedencia, licencia, evidencia y estado de revisión;
+- `APORTAR != INTEGRAR`, `APORTAR != VOTO` y `APORTAR != AUTORIDAD`;
+- Construcción recibe y controla alcance, pero no adopta soberanamente el fruto;
+- el Palacio de Unificación y el Gremio Unificador valoran las aportaciones y las someten a **digestión competitiva** frente al estado Rudis y alternativas pertinentes;
+- `VALORAR != ADOPTAR` y `RECOMENDACIÓN DE UNIFICACIÓN != DECISIÓN FINAL`;
+- tras la digestión, la Asamblea General Soberana dispone ordinariamente `ACCEPT / ACCEPT_PARTIAL / RETURN_FOR_REWORK / REQUEST_REDIGESTION / HOLD / REJECT`;
+- la aportación permanece registrada aunque su fruto sea rechazado;
+- reconocimiento, premio, RU, remuneración u otro beneficio futuro requieren autoridad, política y recursos propios y no nacen automáticamente del registro;
+- por defecto este régimen sólo abre D2 y no autoriza producción, dinero real ni D3/D4.
 
 ## IV. ECONOMÍA Y RU
 
@@ -206,7 +223,23 @@ Por `Quebranto-24`, existe `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
 
 Permanece bloqueado: cuota universal, porcentajes de hardware, equivalencias obligatorias, sanciones, consecuencias jurídicas del rechazo, autoridad de exención no definida, relación monetaria concreta no resuelta, producción y cualquier salto D3/D4.
 
-## IX. HISTÓRICOS
+## IX. VOLUNTARIADO PIONERO Y REGISTROS VIVOS
+
+Por `Quebranto-25`, el trabajo pionero D2 autorizado se descubre y publica operativamente mediante:
+
+- `REGISTRO-VIVO-Proyectos-Voluntarios-Pioneros-D2.md`;
+- `REGISTRO-VIVO-Aportaciones-Pioneras.md`;
+- el expediente operativo permanente correspondiente.
+
+Los registros vivos son instrumentos de ejecución y trazabilidad; **no pueden ampliar por sí mismos el Canon ni abrir D3/D4**.
+
+`REGISTRO VIVO -> DESCUBRE TRABAJO YA AUTORIZADO`
+
+Nunca:
+
+`REGISTRO VIVO -> FABRICA AUTORIZACIÓN`
+
+## X. HISTÓRICOS
 
 `Quebranto-Honor..md` es **HISTÓRICO / SUPERADO** cuando contradiga el Canon vigente.
 
@@ -214,6 +247,6 @@ Los documentos económicos anteriores a `Quebranto-23` conservan valor históric
 
 Los documentos semilla PGRH-MH conservan valor histórico y técnico en todo lo compatible con `Quebranto-24`; quedan superados donde pretendan una única forma obligatoria de reciprocidad o introduzcan parámetros no adoptados.
 
-## X. INVARIANTE
+## XI. INVARIANTE
 
-> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria.**
+> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora y digiere, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria.**
