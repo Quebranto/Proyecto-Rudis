@@ -17,17 +17,19 @@ La regla técnica fundamental es:
 
 > **El código ejecuta competencias previamente reconocidas; nunca inventa la ley que le falta.**
 
-## 🧭 DOS REPOSITORIOS, UNA OBRA
+## 🧭 DOS SUPERFICIES, UNA OBRA
 
 Rudis separa deliberadamente su **obra pública** de su **implementación privada**.
 
-### Repositorio público
+### Superficie pública
 
 `Quebranto/Proyecto-Rudis` contiene el Corpus, arquitectura, especificaciones, diseño del State OS, interfaz, documentación y contratos no sensibles.
 
-### Repositorio privado
+### Superficie privada autorizada
 
-`Quebranto/tt` contiene el **código del ecosistema Rudis** y los detalles técnicos que no deben exponerse públicamente.
+La implementación operativa del ecosistema Rudis y los detalles técnicos sensibles se mantienen en una superficie privada con acceso controlado.
+
+Su localización, topología, ramas, CI, artefactos y demás internals no forman parte de la interfaz pública por defecto.
 
 La separación permite auditar la arquitectura sin publicar innecesariamente los mecanismos internos de seguridad de la implementación.
 
@@ -84,7 +86,7 @@ Rudis incorpora una arquitectura económica basada en RU, Fondo Soberano, conver
 
 La RU se diseña conceptualmente para emular el oro digital: autenticidad, escasez controlada, procedencia y resistencia a falsificación.
 
-El **Palacio de Conversión** dispone de contrato público de arquitectura, mientras que su código se mantiene en el repositorio privado del ecosistema.
+El **Palacio de Conversión** dispone de contrato público de arquitectura, mientras que su implementación operativa permanece en la superficie privada autorizada.
 
 ## 🚀 DEL PAPEL AL CÓDIGO AUDITABLE
 
@@ -128,4 +130,4 @@ Invitamos a Estados, instituciones, desarrolladores y auditores adversariales a 
 
 ---
 **ESTADO:** Arquitectura en evolución · Corpus y contratos públicos  
-**IMPLEMENTACIÓN:** Repositorio privado `Quebranto/tt`
+**IMPLEMENTACIÓN:** Superficie privada autorizada · localizadores e internals no públicos por defecto
