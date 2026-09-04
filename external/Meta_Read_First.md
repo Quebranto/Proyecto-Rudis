@@ -1,8 +1,8 @@
-# Project Rudis — Meta Reading Path
+# Project Rudis — Meta Reading Hub
 
-**Purpose:** one public entry point for Meta / Reality Labs / Horizon / Meta AI readers.
+**Purpose:** one public entry point for readers across Meta / Reality Labs / Horizon / Meta AI / partnerships.
 
-This page groups the three documents selected for the first external reading sequence. Read them in order.
+If you received this link from Project Rudis, this page is the intended public starting point. It is not addressed to one individual or one Meta team. The same project can be evaluated from several angles: immersive systems, long-running AI agents, institutional continuity, creator ecosystems, public-sector StateOS research, or strategic partnership.
 
 > **Rudis works with two meanings of State:** the verifiable state of a system, and the political State as an institution of legitimate authority.
 >
@@ -12,7 +12,9 @@ Current project maturity remains **PRE-D3**. These documents describe a proposed
 
 ---
 
-## 1 — Daniel + Sair: A Day in Rudis
+## Recommended reading order
+
+### 1 — Daniel + Sair: A Day in Rudis
 
 **Start here.**
 
@@ -36,7 +38,7 @@ It also shows why an institutional metaverse can be more than a social 3D space:
 
 ---
 
-## 2 — Lucia: One State, Many Windows
+### 2 — Lucia: One State, Many Windows
 
 **Then expand from individual life to an entire ecosystem.**
 
@@ -61,7 +63,7 @@ The document introduces the connection between:
 
 ---
 
-## 3 — Rudis x Meta: Strategic Pioneer Partnership
+### 3 — Rudis × Meta: Strategic Pioneer Partnership
 
 **Only after the first two documents establish the product thesis, read the proposed relationship.**
 
@@ -98,6 +100,41 @@ Meta can receive meaningful economic, technical, evaluation and negotiation righ
 
 ---
 
+## Fast routes by role
+
+### Reality Labs / Horizon / spatial computing
+Focus first on Daniel's Quest training path, then Lucia's movement across mobile, Quest, web and AI clients.
+
+Core question:
+
+> Can one persistent institutional state remain coherent across several immersive and non-immersive representations?
+
+### Meta AI / long-running agents
+Focus first on Sair and on Lucia's delegated agent Ánfora.
+
+Core questions:
+
+> How does an agent preserve identity, delegation, competence and continuity over time?
+>
+> How do we prevent capability from silently becoming authority?
+
+Rudis treats long-running agents as participants in causal institutional systems rather than as self-authorizing executors.
+
+`AGENT CAPABILITY != INSTITUTIONAL AUTHORITY`
+
+`DELEGATION != SOVEREIGNTY`
+
+`LONG-RUNNING != UNBOUNDED`
+
+### Partnerships / strategy / business development
+Read the first two documents for the category thesis, then the Strategic Pioneer Partnership for the proposed economic relationship.
+
+Core question:
+
+> Can Meta help materialize a new category and participate economically in the value it causally helps create without needing to own Rudis governance?
+
+---
+
 # Why Meta
 
 The proposed Meta-facing experiment is not “another metaverse world.”
@@ -121,9 +158,9 @@ The same architecture may later be investigated as complementary infrastructure 
 
 ## Suggested next conversation
 
-If this direction overlaps with work inside Meta Horizon, Reality Labs or Meta AI, the requested next step is intentionally small:
+If this direction overlaps with work anywhere inside Meta Horizon, Reality Labs, Meta AI, agent infrastructure or strategic partnerships, the requested next step is intentionally small:
 
-**a 30-minute technical and strategic review.**
+**a 30-minute technical and strategic review with the relevant team.**
 
 The proposal is designed to be falsifiable. Meta should not need to accept Rudis's claims; it should be able to test them.
 
