@@ -48,7 +48,10 @@ Salvo decisión expresa de publicación y revisión de seguridad previa:
 - configuraciones de proveedores, endpoints, cuentas, identificadores o infraestructura;
 - detalles de explotación que reduzcan materialmente el coste de atacar una vulnerabilidad abierta;
 - volcados de logs privados;
-- datos personales o identificadores no necesarios para el objeto público.
+- datos personales o identificadores no necesarios para el objeto público;
+- rutas locales de worktree, directorios de usuario o topología del host;
+- identificadores o enlaces de sesión de herramientas externas;
+- valores exactos de ataque cuando una propiedad puede describirse sin ellos.
 
 ## 5. Regla para Asambleas públicas
 
@@ -73,7 +76,7 @@ Mientras una vulnerabilidad permanezca abierta, la superficie pública debe publ
 - registrar el estado de reparación;
 - permitir escrutinio institucional.
 
-La prueba de concepto, secuencia de explotación, offsets, líneas exactas, rutas internas o mecanismos de bypass deben permanecer privados salvo decisión específica de disclosure responsable.
+La prueba de concepto, secuencia de explotación, offsets, líneas exactas, rutas internas, valores de ataque o mecanismos de bypass deben permanecer privados salvo decisión específica de disclosure responsable.
 
 ## 7. Credenciales
 
@@ -92,6 +95,12 @@ Si aparece información privada en Proyecto-Rudis:
 5. revisar comentarios, issues, PRs y archivos relacionados;
 6. registrar una nota de sanitización sin volver a reproducir el material filtrado.
 
+La sanitización no puede utilizarse para borrar evidencia desfavorable:
+
+`SANITIZE SECRET != SANITIZE FAILURE`
+
+Deben preservarse expresamente `FAIL`, `HOLD`, `NOT RUN`, reservas, disenso, limitaciones y condiciones de salida.
+
 ## 9. Revisión previa a publicar
 
 Antes de publicar desde la superficie privada, comprobar:
@@ -101,10 +110,85 @@ Antes de publicar desde la superficie privada, comprobar:
 - ¿incluye identificadores privados o infraestructura?;
 - ¿facilita explotación de un hallazgo abierto?;
 - ¿puede expresarse como propiedad, resultado o evidencia sanitizada?;
-- ¿ha sido autorizado su disclosure?
+- ¿ha sido autorizado su disclosure?;
+- ¿incluye una rama, hash, path, worktree, CI ID, sesión externa o valor de ataque que pueda sustituirse por un handle opaco?;
 
 Si la respuesta segura no es clara: **no publicar y someter a revisión**.
 
-## 10. Principio final
+## 10. Handles públicos de evidencia privada
+
+Cuando una Asamblea necesite referirse a evidencia privada sin exponer su localización, se usará un handle público opaco y estable.
+
+Formato recomendado:
+
+`EVIDENCE-<GATE>-<YYYYMMDD>-<NN>`
+
+Ejemplo conceptual:
+
+`EVIDENCE-G8-20260904-01`
+
+El handle público no debe codificar:
+
+- rama;
+- hash;
+- path;
+- repositorio privado;
+- CI run;
+- host;
+- identidad técnica sensible;
+- mecanismo de explotación.
+
+La correspondencia entre handle y evidencia real se mantiene únicamente en la superficie privada autorizada.
+
+Formato público preferido:
+
+`PROPERTY -> AUDITOR -> PRIVATE EVIDENCE HANDLE -> RESULT -> LIMITATION -> EXIT CONDITION`
+
+## 11. Gate de publicación PRE-D3
+
+Todo informe PRE-D3 derivado de la Forja privada debe pasar antes de publicación por esta reducción mínima:
+
+```text
+PRIVATE REPORT
+-> REMOVE LOCATORS
+-> REMOVE CODE/DIFF
+-> REMOVE EXPLOIT RECIPE
+-> REMOVE HOST/SESSION DETAILS
+-> PRESERVE FINDING
+-> PRESERVE RESULT
+-> PRESERVE LIMITATION
+-> PRESERVE DISSENT
+-> PRESERVE EXIT CONDITION
+-> PUBLIC SANITIZED REPORT
+```
+
+Publicación recomendada:
+
+```text
+PROPERTY
+RESULT
+SEVERITY
+STATUS
+LIMITATION
+EXIT CONDITION
+D3 IMPACT
+SANITIZED EVIDENCE HANDLE
+```
+
+No publicación por defecto:
+
+```text
+BRANCH
+HASH
+PRIVATE PR/ISSUE
+PRIVATE CI ID/URL
+WORKTREE
+INTERNAL PATH
+SOURCE CODE
+EXPLOIT VALUES
+SESSION LINK
+```
+
+## 12. Principio final
 
 > Rudis debe ser auditable sin convertir su repositorio público en un inventario de ataque de su implementación privada.
