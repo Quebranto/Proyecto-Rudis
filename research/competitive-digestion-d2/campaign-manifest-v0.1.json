@@ -1,0 +1,62 @@
+{
+  "schema_version": "rudis-competitive-digestion-manifest/0.1",
+  "cutoff_date": "2026-08-24",
+  "authority_ref": "https://github.com/Quebranto/Proyecto-Rudis/issues/32",
+  "maximum_phase": "D2",
+  "runtime_network_allowed": false,
+  "production_accreditation": false,
+  "entries": [
+    {
+      "id": "oags",
+      "repository": "https://github.com/sekuire/oags",
+      "commit": "e00031d39d51e010d77d0fb7ccccd9b81d79aece",
+      "license": "Apache-2.0",
+      "track": "deep-digestion",
+      "recommended_status": "D2_DOCUMENTARY_CONDITIONAL",
+      "source_status": "IDENTITY_RESOLVED"
+    },
+    {
+      "id": "open-eago",
+      "repository": "https://github.com/finos-labs/open-eago",
+      "commit": "f03627fce810a8e0ba423147fe29a854b5fcd3b2",
+      "license": "Apache-2.0",
+      "track": "deep-digestion",
+      "recommended_status": "D2_CANDIDATE_D1_ACCREDITATION",
+      "source_status": "IDENTITY_RESOLVED"
+    },
+    {
+      "id": "acp-agent-consent-protocol",
+      "repository": "https://github.com/o1100/Agent-Consent-Protocol",
+      "commit": "06c563237c9e0803afc0730cef5935ed49db2fb8",
+      "license": "Apache-2.0",
+      "track": "parallel-dossier",
+      "recommended_status": "D1_PROPOSED",
+      "source_status": "ACRONYM_AMBIGUOUS"
+    },
+    {
+      "id": "openagp-spec",
+      "repository": "https://github.com/openagp/spec",
+      "commit": "c8fb613f13d46673cdaeb6ae109177ca74547222",
+      "license": "CC-BY-4.0",
+      "track": "parallel-dossier",
+      "recommended_status": "D1_PENDING",
+      "source_status": "MULTIREPO_SNAPSHOT_INCOMPLETE"
+    },
+    {
+      "id": "anumati-acap-candidate",
+      "repository": "https://github.com/ravikiran438/agent-consent-protocol",
+      "commit": "fafc24a1872596e8b8438125b9d0618d1dfb7a3f",
+      "license": "Apache-2.0",
+      "track": "parallel-dossier",
+      "recommended_status": "D1_PENDING",
+      "source_status": "IDENTITY_CANDIDATE"
+    }
+  ],
+  "integration_boundary": {
+    "allowed_ingress": ["ExternalEvidence"],
+    "forbidden_direct_consumers": ["AuthorityResolver", "LawEngine", "SovereignKernel", "ContinuityLedger"],
+    "external_conformance_grants_authority": false,
+    "technical_consent_is_juridical_mandate": false
+  }
+}
+
