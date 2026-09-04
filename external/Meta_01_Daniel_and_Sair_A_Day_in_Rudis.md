@@ -1,6 +1,6 @@
 # Rudis Habitat — Daniel and Sair
 
-**Purpose:** introductory concept note for Meta / Reality Labs / Meta Horizon / Meta AI.
+**Purpose:** introductory public concept note for readers across Meta / Reality Labs / Meta Horizon / Meta AI / partnerships.
 
 **Public repository:** https://github.com/Quebranto/Proyecto-Rudis
 
