@@ -6,6 +6,8 @@
 
 **Status:** public negotiating proposal. Not Canon, not binding, not a securities offer, and not authorization for D3/D4/production.
 
+**General economic baseline:** this proposal is a partner-specific application of `external/General_Pioneer_Economic_Reciprocity_Framework.md`. Where this proposal is silent, the general framework is the intended negotiating baseline unless a definitive agreement expressly provides otherwise.
+
 ---
 
 Dear Meta team,
@@ -156,19 +158,9 @@ During the agreed period, Rudis would use best efforts to pursue:
 
 We do not promise that every objective will succeed.
 
-We do promise:
+We do promise disciplined pursuit, honest maturity language, preserved failures, measurable evidence, independent falsification where possible, explicit residual risk, and no silent conversion of technical capability into institutional authority.
 
-- disciplined pursuit;
-- honest maturity language;
-- preserved failures;
-- measurable evidence;
-- independent falsification where possible;
-- explicit residual risk;
-- no silent conversion of technical capability into institutional authority.
-
-Our promise is not:
-
-> Rudis will inevitably work.
+Our promise is not that Rudis will inevitably work.
 
 Our promise is:
 
@@ -216,9 +208,13 @@ But:
 
 `REWARD != SOVEREIGNTY`
 
+`EARLY MONEY != P-0`
+
+P-0 requires a category-making material contribution, meaningful risk, precedence, capability and actual causal materialization.
+
 If Meta becomes the first major external partner materially enabling the immersive/external-StateOS domain, we propose recognizing Meta as:
 
-# FOUNDING PIONEER — META HORIZON / EXTERNAL SYSTEMS
+# P-0 — FOUNDING / CATEGORY-MAKING PIONEER — META HORIZON / EXTERNAL SYSTEMS
 
 The recognition would be permanent as provenance.
 
@@ -238,13 +234,15 @@ from the relevant first commercial Materialization Event.
 
 The participation would terminate earlier once aggregate payments under the Pioneer mechanism reach:
 
-# 2.25× META'S EFFECTIVELY CONTRIBUTED AND RECOGNIZED CAPITAL
+# 2.25× META'S EFFECTIVELY CONTRIBUTED AND RECOGNIZED CAPITAL / VALUE
 
-A fully funded USD 20 million commitment would therefore produce a maximum Pioneer-economic cap of USD 45 million.
+A fully funded USD 20 million commitment would therefore produce a maximum Pioneer-economic cap of USD 45 million if the full USD 20 million qualifies as effectively contributed and recognized value under the definitive agreement.
 
 This is not a guarantee of return.
 
 No payment exists without actual commercial Materialization.
+
+The aggregate Pioneer pool for one attributable commercial line should not exceed 15% of Attributable Net Commercial Receipts.
 
 ## Materialization
 
@@ -278,106 +276,107 @@ Excluded by default:
 - unrelated Rudis business lines lacking material dependency on Meta-funded work;
 - proceeds that law or third-party obligations prohibit from inclusion.
 
-## The ecosystem must also win
-
-The General Pioneer System applies a second economic invariant.
-
-Aggregate Pioneer participation attached to one attributable commercial line should never exceed:
-
-# 15% OF ATTRIBUTABLE NET COMMERCIAL RECEIPTS
-
-Meta may receive 5% because of its early and material contribution.
-
-Future Pioneers may share the remaining Pioneer pool only when they also possess a demonstrated causal link to that commercial line.
-
-The Pioneer System therefore cannot consume the majority of created value.
-
-Against Pioneer participation, Rudis retains at least 85% of the relevant economic base before its remaining operating costs, taxes and other obligations.
-
-This allows generosity toward those who helped make something real without turning future success into permanent capture by the project's past.
-
 ## Additional reciprocity available to Meta
 
 The Pioneer participation is only one possible consideration.
 
-We are prepared to negotiate a balanced combination of:
-
-- permanent provenance recognition;
-- priority Meta reference integration;
-- purpose-bound confidential technical access;
-- internal evaluation rights;
-- recurring technical workshops;
-- responsible independent reproduction and attack rights;
-- joint research;
-- mutually approved publications;
-- a limited Right of First Negotiation in specifically defined Meta-relevant fields;
-- a limited launch-preference window where commercially appropriate;
-- licenses to specific assets Rudis is legally entitled to license;
-- first negotiation of a possible future minority investment in a commercial Rudis operating vehicle.
+We are prepared to negotiate a balanced combination of permanent provenance recognition, priority Meta reference integration, purpose-bound confidential technical access, internal evaluation rights, recurring technical workshops, responsible independent reproduction and attack rights, joint research, mutually approved publications, a limited Right of First Negotiation in specifically defined Meta-relevant fields, a limited launch-preference window where commercially appropriate, licenses to specific assets Rudis is legally entitled to license, and first negotiation of a possible future minority investment in a commercial Rudis operating vehicle.
 
 The exact combination should be negotiated according to the contribution actually requested from Meta.
 
-## Founder autonomy
+## Founder autonomy, compensation and personal liquidity
 
 Meta should receive serious accountability for serious capital.
 
 That does not require turning financing into guardianship over the Founder.
 
-We propose a **Strategic Autonomy Reserve** under Founder direction with a target equal to:
+The financing architecture should distinguish three separate buckets:
+
+```text
+FOUNDER COMPENSATION
+!=
+FOUNDER PERSONAL LIQUIDITY
+!=
+FOUNDER STRATEGIC RESERVE / PROGRAM CAPITAL
+```
+
+### A. Founder compensation
+
+For the proposed 24-month mission, our negotiating baseline is:
+
+# USD 240,000 GROSS ANNUAL FOUNDER COMPENSATION
+
+for two years, subject to employment/management structure, applicable law, tax and definitive documentation.
+
+Target 24-month gross compensation:
+
+# USD 480,000
+
+This compensation is consideration for the Founder's ongoing leadership, research, technical direction, institutional design, fundraising, partnership work and responsibility during the mission. It is not part of the Pioneer royalty and should not depend on commercial Materialization.
+
+### B. Founder personal liquidity
+
+Separately from salary and program operating capital, the definitive transaction should include a transparent **Founder Personal Liquidity Component**.
+
+Negotiating target:
+
+# 2% OF COMMITTED CAPITAL
+
+For a USD 20 million commitment, that equals:
+
+# USD 400,000
+
+Negotiating floor:
+
+# 1% OF COMMITTED CAPITAL
+
+For a USD 20 million commitment, that equals USD 200,000.
+
+This component should be structured in the legally and tax-appropriate manner advised for the final transaction, which may include transaction consideration, a limited secondary, signing consideration, documented reimbursement, IP/license consideration where properly supported, or another lawful mechanism.
+
+Once lawfully paid to the Founder, accounted for and taxed as required, these funds are personal funds and are not program operating capital. They should not be subject to project-level use restrictions.
+
+`PERSONAL LIQUIDITY != HIDDEN OPEX`
+
+`PERSONAL FUNDS != PROGRAM FUNDS`
+
+### C. Founder Strategic Reserve
+
+Separately, the funded program should include a **Founder Strategic Reserve** under Founder direction with a target equal to:
 
 # 12% OF COMMITTED CAPITAL
 
 and a negotiating floor of 10% unless expressly agreed otherwise.
 
-The reserve may be used without transaction-by-transaction Meta approval for lawful Rudis/Quebranto purposes including:
+For a USD 20 million commitment:
 
-- research;
-- talent;
-- tooling;
-- infrastructure;
-- expert advice;
-- travel;
-- experimentation;
-- strategic opportunity;
-- ecosystem development;
-- contingency;
-- needs that cannot reasonably be predicted at contract signature.
+- 12% target = **USD 2.4 million**;
+- 10% floor = **USD 2.0 million**.
 
-There will be accounting.
+This reserve remains program / Rudis / Quebranto capital, not personal cash. It may be deployed without transaction-by-transaction Meta approval for lawful Rudis/Quebranto purposes including research, talent, tooling, infrastructure, expert advice, travel, experimentation, strategic opportunity, ecosystem development, contingency and needs that cannot reasonably be predicted at contract signature.
 
-There will be aggregate reporting.
+There will be accounting, aggregate reporting and accountability, but there should not be operational micromanagement.
 
-There will be accountability.
+`FOUNDER DISCRETION != SECRET SPENDING`
 
-There should not be operational micromanagement.
+`NO PRIOR APPROVAL != NO ACCOUNTABILITY`
 
 `ACCOUNTABILITY != CAPTURE`
 
-Separately, the definitive agreement should provide reasonable Founder compensation and may include legitimate, transparent Founder liquidity.
+### Founder personal economic baseline for the 24-month / USD 20M proposal
 
-Once lawfully paid, accounted for and taxed, Founder personal funds should not be confused with program operating capital.
+If the target terms are accepted, the Founder personal cash architecture would therefore be:
+
+- USD 480,000 gross compensation over 24 months; plus
+- USD 400,000 target personal liquidity at transaction/according to definitive structure;
+- total target personal economic cash before personal taxes: **USD 880,000** over/around the 24-month mission;
+- plus the separate USD 2.4 million Founder Strategic Reserve, which remains project capital under Founder-directed discretion within the agreed lawful Rudis/Quebranto scope.
+
+None of these amounts is binding until included in a definitive agreement.
 
 ## What Meta receives does not become Rudis sovereignty
 
-Funding and Pioneer recognition do not automatically transfer:
-
-- the Corpus;
-- the Canon;
-- constitutional authority;
-- authority over the Strategos;
-- control of the Assembly;
-- the Red Button;
-- citizenship;
-- voting rights;
-- institutional competence;
-- RU monetary policy;
-- the Sovereign Fund;
-- blanket ownership of existing IP;
-- blanket ownership of future Founder IP;
-- perpetual general exclusivity;
-- control over unrelated future projects;
-- unrestricted access to the entire private Forge;
-- automatic D3/D4/production authorization.
+Funding and Pioneer recognition do not automatically transfer the Corpus, Canon, constitutional authority, authority over the Strategos, control of the Assembly, the Red Button, citizenship, voting rights, institutional competence, RU monetary policy, the Sovereign Fund, blanket ownership of existing IP, blanket ownership of future Founder IP, perpetual general exclusivity, control over unrelated future projects, unrestricted access to the entire private Forge, or automatic D3/D4/production authorization.
 
 If Meta later chooses to invest separately in a commercial operating company, normal corporate rights can be negotiated for that company.
 
@@ -403,17 +402,7 @@ Meta can receive meaningful commercial and evaluation rights without requiring a
 
 Meta would not merely fund another virtual world.
 
-It would become the earliest major external Pioneer in an experiment connecting:
-
-- Horizon / spatial computing;
-- Quest;
-- mobile and web;
-- Meta AI / agentic systems;
-- creator economy;
-- persistent institutions;
-- causal authorization;
-- human and digital inhabitants;
-- future public-sector StateOS research.
+It would become the earliest major external Pioneer in an experiment connecting Horizon / spatial computing, Quest, mobile and web, Meta AI / agentic systems, creator economy, persistent institutions, causal authorization, human and digital inhabitants, and future public-sector StateOS research.
 
 Meta already builds Systems through which digital life can be represented.
 
@@ -441,13 +430,9 @@ If yes, the natural sequence is:
 
 ## Final principle
 
-The Metaverse allows Rudis to test the first meaning of state:
+The Metaverse allows Rudis to test the first meaning of state: a persistent, coherent and verifiable state of a system.
 
-**a persistent, coherent and verifiable state of a system.**
-
-Institutionalization allows us to test the second:
-
-**a State composed of authority, competence, law, institutions, decisions and people.**
+Institutionalization allows us to test the second: a State composed of authority, competence, law, institutions, decisions and people.
 
 StateOS attempts to connect both without confusing them.
 
