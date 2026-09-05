@@ -1,14 +1,20 @@
 # Rudis — Capital Structure Options
 
-**Purpose:** compare financing structures by capital, dilution, repayment burden, IP cost and founder autonomy.
+**Purpose:** compare financing structures by capital, dilution, repayment burden, IP cost, Pioneer economics and Founder continuity.
 
 **Related quantified Pioneer framework:** `external/General_Pioneer_Economic_Reciprocity_Framework.md`
 
+**Related Founder compensation framework:** `external/Founder_Compensation_and_Continuity_Framework.md`
+
 Pioneer reciprocity may coexist with equity, debt, grants, licenses or strategic R&D, but it is a distinct instrument tied to attributable materialization rather than general ownership.
+
+Founder compensation is likewise distinct: it is a structural operating cost for active Founder work, not a Pioneer right and not a favor from a particular financing source.
 
 `EQUITY != PIONEER RIGHT`
 
 `PIONEER RIGHT != EQUITY`
+
+`FOUNDER SALARY != PIONEER PAYMENT`
 
 ## 1. Sponsored strategic R&D
 
@@ -28,7 +34,9 @@ Pioneer reciprocity may coexist with equity, debt, grants, licenses or strategic
 
 ### Founder protections
 - Founder Strategic Reserve **12% target / 10% floor**;
-- separate founder liquidity / compensation;
+- explicit Founder base compensation in the consolidated operating budget;
+- current fully funded full-time target: **USD 240,000 gross annual**, with **USD 180,000 negotiating floor** where sufficiently capitalized;
+- separate lawful Founder liquidity where transaction size and instrument permit;
 - no broad exclusivity;
 - purpose-bound disclosure;
 - no automatic Canon or Assembly authority;
@@ -55,8 +63,10 @@ Pioneer reciprocity may coexist with equity, debt, grants, licenses or strategic
 
 ### Founder protections
 - company remains founder-managed subject to normal obligations;
+- Founder salary should remain an explicit consolidated company operating cost where lawfully payable;
+- do not assume every public instrument will reimburse Founder salary; use unrestricted/eligible sources for any non-eligible portion;
 - avoid relying on restricted public debt for personal liquidity;
-- use strategic/private transaction for founder liquidity if desired.
+- use strategic/private transaction for Founder liquidity if desired.
 
 **Pioneer treatment:** normally **none merely for providing regulated/public financing** unless a separate material contribution satisfies the Pioneer framework.
 
@@ -80,6 +90,8 @@ Pioneer reciprocity may coexist with equity, debt, grants, licenses or strategic
 
 ### Founder protections
 - use CDTI for tightly defined technical work;
+- include eligible Founder/management personnel costs where the program legally permits them;
+- fund any non-eligible Founder salary portion from other lawful operating sources rather than eliminating compensation;
 - preserve Founder Strategic Reserve and personal liquidity in other funding sources rather than pretending restricted aid is unrestricted money.
 
 **Pioneer treatment:** public funding does not automatically become Pioneer status. Provenance may be recorded where appropriate, but economic Pioneer rights require a separate lawful basis.
@@ -104,9 +116,10 @@ Pioneer reciprocity may coexist with equity, debt, grants, licenses or strategic
 
 ### Founder protections
 - distinguish company governance from Rudis constitutional governance;
-- preserve founder background IP;
+- preserve Founder background IP;
 - negotiate ordinary-course autonomy;
-- define founder compensation / liquidity transparently.
+- include Founder compensation in the operating plan as a normal management cost subject to eligibility and corporate rules;
+- define Founder personal liquidity separately from salary and grant-funded OPEX.
 
 **Pioneer treatment:** not automatic. Strategic co-investors or program partners may separately qualify only when the Pioneer causality/materialization test is met.
 
@@ -121,13 +134,13 @@ Pioneer reciprocity may coexist with equity, debt, grants, licenses or strategic
 ### Advantages
 - flexible corporate capital;
 - network, recruiting, follow-on funding;
-- can fund broad operating costs.
+- can fund broad operating costs, including executive compensation subject to company governance.
 
 ### Risks
 - dilution;
 - board / veto rights;
 - liquidation preferences;
-- founder vesting / leaver terms;
+- Founder vesting / leaver terms;
 - pressure toward exit or business-model changes;
 - possible IP or exclusivity pressure from strategic investors.
 
@@ -136,6 +149,7 @@ Pioneer reciprocity may coexist with equity, debt, grants, licenses or strategic
 - keep board/control structure deliberate;
 - no blanket future-IP assignment;
 - no disproportionate reserved matters;
+- preserve explicit Founder salary as a company operating line;
 - personal liquidity may be addressed through a limited secondary in a sufficiently sized round.
 
 **Pioneer treatment:** equity alone does not create Pioneer status. A VC that only supplies fungible capital should normally receive equity economics, not an additional Pioneer claim, unless it materially enables a specific category beyond the capital itself.
@@ -155,7 +169,12 @@ Pioneer reciprocity may coexist with equity, debt, grants, licenses or strategic
 ### Risks
 - future dilution can be underestimated;
 - stacked convertibles can create cap-table complexity;
-- investor rights may still attach through side letters.
+- investor rights may still attach through side letters;
+- a small bridge may not support the full Founder-compensation target without damaging runway.
+
+### Founder treatment
+- compensation remains explicit even if temporarily below the long-term target;
+- any temporary reduction should have a defined review or next-financing trigger rather than becoming the silent permanent baseline.
 
 **Pioneer treatment:** no automatic Pioneer status.
 
@@ -183,7 +202,8 @@ Pioneer reciprocity may coexist with equity, debt, grants, licenses or strategic
 - preserve provider neutrality where architecturally required;
 - Pioneer scope tied to the exact contribution domain;
 - no claim over unrelated commercial lines;
-- no blanket platform dependency.
+- no blanket platform dependency;
+- do not treat platform credits or infrastructure as a substitute for the cash operating budget needed to pay people, including the Founder.
 
 **Preferred Rudis rating:** `VERY HIGH FIT WHEN MATERIAL AND NON-CAPTURING`.
 
@@ -215,6 +235,8 @@ OPERATING COMPANY
 
 This structure can help separate open governance from commercial contracting, but it should not be implemented without tax, corporate and IP review.
 
+The operating vehicle should be the normal source of lawful Founder salary/management compensation when it has sufficient capital and the Founder performs active work.
+
 Pioneer economic rights should attach to the attributable commercial line/vehicle by definitive agreement without converting the open/constitutional layer into investor property.
 
 ---
@@ -233,6 +255,22 @@ PUBLIC / QUASI-PUBLIC CAPITAL
 = FINANCING WITHOUT SINGLE-PARTY CAPTURE
 ```
 
+The resulting consolidated operating budget should then fund:
+
+```text
+FOUNDER + TEAM COMPENSATION
++ R&D
++ SECURITY
++ INFRASTRUCTURE
++ LEGAL / IP / COMPLIANCE
++ PRODUCT / INTEGRATION
++ BUSINESS DEVELOPMENT
++ STRATEGIC RESERVE
++ CONTINGENCY
+```
+
+No single source has to fund every line. Restricted and unrestricted sources should be layered lawfully.
+
 A deal should be judged on total cost:
 
 ```text
@@ -244,10 +282,25 @@ PRICE OF CAPITAL
 + EXCLUSIVITY
 + GOVERNANCE
 + FOUNDER FREEDOM
++ COMPENSATION CONTINUITY
 = TRUE FINANCING COST
 ```
 
-## 10. Default quantified Pioneer reference
+## 10. Founder compensation reference
+
+For convenience only; controlling detail lives in `Founder_Compensation_and_Continuity_Framework.md`.
+
+Current fully funded full-time baseline:
+
+- **Founder base salary target:** USD 240,000 gross annual;
+- **substantial-financing negotiation floor:** USD 180,000 gross annual where sufficiently capitalized;
+- **compensation runway objective:** at least 12 months of base salary plus employer-side costs after major financing where financially feasible;
+- **Founder personal liquidity:** separate from salary, target 2% / floor 1% for major unrestricted strategic financings where lawful and transaction structure permits;
+- **Founder Strategic Reserve:** 12% target / 10% floor of committed capital for substantial strategic financing.
+
+`SALARY != LIQUIDITY != STRATEGIC RESERVE`
+
+## 11. Default quantified Pioneer reference
 
 For convenience only; controlling negotiation detail lives in `General_Pioneer_Economic_Reciprocity_Framework.md`.
 
