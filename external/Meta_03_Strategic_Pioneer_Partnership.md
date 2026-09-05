@@ -8,6 +8,8 @@
 
 **General economic baseline:** this proposal is a partner-specific application of `external/General_Pioneer_Economic_Reciprocity_Framework.md`. Where this proposal is silent, the general framework is the intended negotiating baseline unless a definitive agreement expressly provides otherwise.
 
+**Founder compensation baseline:** this proposal is also a partner-specific application of `external/Founder_Compensation_and_Continuity_Framework.md`. Meta is not treated as the Founder's unique payer or employer; the Founder compensation line belongs to the consolidated Rudis / Quebranto operating budget.
+
 ---
 
 Dear Meta team,
@@ -290,6 +292,8 @@ Meta should receive serious accountability for serious capital.
 
 That does not require turning financing into guardianship over the Founder.
 
+This section applies the partner-neutral `Founder_Compensation_and_Continuity_Framework.md`; it does not create a Meta-specific salary regime.
+
 The financing architecture should distinguish three separate buckets:
 
 ```text
@@ -302,7 +306,7 @@ FOUNDER STRATEGIC RESERVE / PROGRAM CAPITAL
 
 ### A. Founder compensation
 
-For the proposed 24-month mission, our negotiating baseline is:
+For the proposed 24-month mission, the general Rudis full-time, fully funded compensation baseline is applied:
 
 # USD 240,000 GROSS ANNUAL FOUNDER COMPENSATION
 
@@ -312,11 +316,15 @@ Target 24-month gross compensation:
 
 # USD 480,000
 
+This is a cost of the consolidated Rudis / Quebranto operating mission. Meta's financing may contribute to that budget, but Meta is not conceptually the unique payer or employer of the Founder.
+
+If the same 24-month mission is co-financed by Meta and other lawful sources, the Founder receives one consolidated salary, not multiple salaries.
+
 This compensation is consideration for the Founder's ongoing leadership, research, technical direction, institutional design, fundraising, partnership work and responsibility during the mission. It is not part of the Pioneer royalty and should not depend on commercial Materialization.
 
 ### B. Founder personal liquidity
 
-Separately from salary and program operating capital, the definitive transaction should include a transparent **Founder Personal Liquidity Component**.
+Separately from salary and program operating capital, the definitive transaction should include a transparent **Founder Personal Liquidity Component** where the transaction structure permits.
 
 Negotiating target:
 
@@ -371,6 +379,8 @@ If the target terms are accepted, the Founder personal cash architecture would t
 - USD 400,000 target personal liquidity at transaction/according to definitive structure;
 - total target personal economic cash before personal taxes: **USD 880,000** over/around the 24-month mission;
 - plus the separate USD 2.4 million Founder Strategic Reserve, which remains project capital under Founder-directed discretion within the agreed lawful Rudis/Quebranto scope.
+
+These figures are Meta-specific applications of general Rudis financing baselines, not a unique entitlement created by Meta.
 
 None of these amounts is binding until included in a definitive agreement.
 
