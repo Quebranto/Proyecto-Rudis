@@ -130,6 +130,39 @@ Not as replacement.
 
 As complementary infrastructure.
 
+## Investor and ecosystem dossier
+
+The Meta-specific proposal is only one application of a broader Rudis economic, legislative, social, commercial and expansion architecture.
+
+For investors, strategic partners and diligence teams that need to understand **the whole ecosystem Meta would be helping to materialize**, Rudis maintains a standalone bilingual investor introduction covering:
+
+- the StateOS thesis;
+- the legislative and governance system;
+- the economic architecture, RU, reserves, treasury and external payment rails;
+- the social model, divergent habitability and the Evolutionary Palace;
+- commercial products and revenue lines;
+- the Pioneer and provenance system;
+- Rudis Habitat;
+- provider-neutral expansion policy;
+- technical architecture;
+- what investment can and cannot purchase;
+- financing principles;
+- PRE-D3 maturity boundaries, risks and value milestones.
+
+**Public investor dossier — Spanish + English:**
+
+https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Rudis_Investor_Introduction_ES_EN.md
+
+This dossier should be read as general Rudis investor context. The present document remains the **Meta-specific strategic and economic proposal**.
+
+The distinction is intentional:
+
+`GENERAL RUDIS INVESTMENT THESIS != META-SPECIFIC TERMS`
+
+`PRODUCT ECOSYSTEM != SINGLE PARTNER`
+
+`META PARTNERSHIP != META OWNERSHIP`
+
 ## Proposed mission
 
 We propose a strategic mission of **24 months** with a target financing commitment of:
@@ -481,3 +514,4 @@ Project Rudis / Quebranto
 1. `Meta_01_Daniel_and_Sair_A_Day_in_Rudis.md`
 2. `Meta_02_Lucia_One_State_Many_Windows.md`
 3. `Meta_03_Strategic_Pioneer_Partnership.md`
+4. `Rudis_Investor_Introduction_ES_EN.md` — broader bilingual investor and ecosystem diligence
