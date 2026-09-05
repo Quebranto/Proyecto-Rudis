@@ -4,6 +4,8 @@
 
 **Status:** negotiation framework, not a binding securities, employment or investment agreement.
 
+**General Pioneer economics:** see `external/General_Pioneer_Economic_Reciprocity_Framework.md` for the quantified P-0 / P-1 / P-2 / P-3 baseline.
+
 `FUNDING != GOVERNANCE AUTHORITY`
 
 `INVESTMENT != CANON CONTROL`
@@ -43,13 +45,14 @@ They should not be drafted as a transfer of sovereign or constitutional authorit
 
 ## 3. Founder Strategic Reserve
 
-Each funded budget should include a clearly disclosed **Founder Strategic Reserve**.
+Each substantial strategic financing should include a clearly disclosed **Founder Strategic Reserve**.
 
 Recommended negotiation position:
 
-- target: **not less than 10% of each funded tranche**;
+- target: **12% of committed capital**;
+- negotiating floor: **10%**, unless expressly agreed otherwise;
 - controlled by the founder without transaction-by-transaction investor approval;
-- usable for lawful project, research, strategic, hiring, tooling, travel, advisory, contingency, opportunity or ecosystem purposes reasonably connected to Rudis / Quebranto activities;
+- usable for lawful project, research, strategic, hiring, tooling, infrastructure, travel, advisory, contingency, opportunity or ecosystem purposes reasonably connected to Rudis / Quebranto activities;
 - subject to applicable law, tax, accounting and anti-fraud obligations;
 - reported at aggregate category level rather than by prior approval of each ordinary expenditure;
 - not available for prohibited, unlawful or misleading use.
@@ -150,12 +153,34 @@ For a strategic R&D financing, a defensible starting allocation may include:
 - hiring / contractors;
 - business development;
 - founder compensation / lawful liquidity component;
-- **Founder Strategic Reserve (>=10% target)**;
+- **Founder Strategic Reserve (12% target / 10% floor)**;
 - contingency.
 
 The exact percentages are negotiation variables, not Canon.
 
-## 10. Anti-capture clause — proposed concept
+## 10. Pioneer reciprocity and investment instruments
+
+Pioneer economics are separate from equity, loans, grants, licenses and service contracts.
+
+The default quantified Pioneer framework is defined in:
+
+`external/General_Pioneer_Economic_Reciprocity_Framework.md`
+
+A financing partner may qualify as a Pioneer only if the relevant contribution satisfies the applicable materiality, causality and materialization requirements.
+
+```text
+EQUITY -> COMPANY ECONOMIC / CORPORATE RIGHTS
+PIONEER RIGHT -> ATTRIBUTABLE MATERIALIZATION RECIPROCITY
+RUDIS CANON -> SEPARATE CONSTITUTIONAL DOMAIN
+```
+
+`INVESTMENT != AUTOMATIC PIONEER STATUS`
+
+`PIONEER STATUS != AUTOMATIC EQUITY`
+
+Where both are granted, the total economic bargain must be reviewed to avoid double counting.
+
+## 11. Anti-capture clause — proposed concept
 
 A definitive agreement should reflect, in legally appropriate language, the following commercial principle:
 
@@ -163,7 +188,7 @@ A definitive agreement should reflect, in legally appropriate language, the foll
 
 This does not restrict legitimate contractual remedies.
 
-## 11. Freedom to continue creating
+## 12. Freedom to continue creating
 
 Unless a narrowly defined conflict exists, the founder should remain free to:
 
@@ -177,7 +202,7 @@ Unless a narrowly defined conflict exists, the founder should remain free to:
 
 Any restriction on these freedoms should be explicit, narrow, time-limited, economically justified and reviewed by counsel.
 
-## 12. Negotiation red flags
+## 13. Negotiation red flags
 
 Treat as high-risk unless specifically justified:
 
@@ -190,12 +215,17 @@ Treat as high-risk unless specifically justified:
 - automatic ownership of improvements unrelated to funded scope;
 - right to terminate funding while retaining expansive permanent rights;
 - use-of-funds clauses that prohibit reasonable founder discretion while imposing no reciprocal commitment;
-- clauses that characterize economic contribution as governance authority.
+- clauses that characterize economic contribution as governance authority;
+- Pioneer claims over unrelated future products or business lines;
+- uncapped, perpetual receipt participation;
+- percentage claims without defined causal attribution or Materialization Event.
 
-## 13. Final principle
+## 14. Final principle
 
 > The goal is not financing at any price. The goal is enough capital to make Rudis stronger while preserving the founder's ability to think, build, decide and continue creating.
 
 `CAPITAL SHOULD BUY A FAIR ECONOMIC BARGAIN`
 
 `CAPITAL SHOULD NOT BUY THE FOUNDER'S FREEDOM`
+
+`PIONEER RECIPROCITY SHOULD REWARD MATERIALIZATION, NOT PURCHASE CONTROL`
