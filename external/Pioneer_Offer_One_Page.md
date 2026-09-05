@@ -58,14 +58,29 @@ Pioneer status does not grant Canon control, Strategos authority, Assembly contr
 
 `CAPITAL != CAPTURE`
 
-## Founder autonomy baseline
+## Founder continuity baseline
 
-For substantial strategic financing:
+Founder compensation is governed by the partner-neutral framework in:
 
-- Founder Strategic Reserve: **12% target / 10% negotiating floor** of committed capital;
-- aggregate reporting/accountability;
-- no transaction-by-transaction investor approval for ordinary lawful use within scope;
-- separate lawful founder compensation/liquidity where appropriate.
+`external/Founder_Compensation_and_Continuity_Framework.md`
+
+For a fully funded full-time Founder / chief executive / chief architect / strategic leadership role, current baseline:
+
+- **USD 240,000 gross annual salary target**;
+- **USD 180,000 gross annual negotiation floor** where the operating program is sufficiently capitalized;
+- at least **12 months of compensation runway** after major financing where financially feasible;
+- Founder personal liquidity treated separately from salary;
+- Founder Strategic Reserve: **12% target / 10% negotiating floor** of committed capital for substantial strategic financing.
+
+These are components of the consolidated Rudis / Quebranto operating and financing architecture. They are not a special payment owed by a particular Pioneer.
+
+```text
+SALARY != PERSONAL LIQUIDITY
+PERSONAL LIQUIDITY != STRATEGIC RESERVE
+STRATEGIC RESERVE != PIONEER ECONOMICS
+```
+
+A financing source that cannot lawfully fund salary may fund other eligible budget lines while another lawful source covers compensation. The same salary period must never be charged in full to multiple funders.
 
 ## Default deal logic
 
@@ -76,6 +91,8 @@ CONTRIBUTION DOMAIN
 -> MATERIALIZATION EVENT
 -> ANCR BASE
 -> % / TERM / CAP
+-> CONSOLIDATED OPERATING BUDGET
+-> FOUNDER + TEAM COMPENSATION
 -> EXISTING PIONEER POOL
 -> EQUITY / LOAN / LICENSE ECONOMICS
 -> DEFINITIVE AGREEMENT
@@ -84,3 +101,5 @@ CONTRIBUTION DOMAIN
 ## Final principle
 
 > Earlier, riskier and more causally important contributions can earn stronger reciprocity. No contribution purchases sovereignty, and no Pioneer claim should outlive its attributable value.
+
+> A financed Rudis should also finance the leadership work required to operate it.
