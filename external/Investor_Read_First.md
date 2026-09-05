@@ -52,6 +52,10 @@ Read:
 
 `external/Financing_Principles_and_Founder_Autonomy.md`
 
+and:
+
+`external/Founder_Compensation_and_Continuity_Framework.md`
+
 Core principles:
 
 `FUNDING != GOVERNANCE AUTHORITY`
@@ -60,12 +64,28 @@ Core principles:
 
 `ACCOUNTABILITY != CAPTURE`
 
+`FUNDED PROJECT -> FUNDED LEADERSHIP`
+
+For a fully funded full-time Founder / chief executive / chief architect / strategic leadership role, the current partner-neutral compensation baseline is:
+
+- **USD 240,000 gross annual target**;
+- **USD 180,000 gross annual negotiating floor** where the program is sufficiently capitalized;
+- lower temporary compensation only where objectively justified by runway, legal eligibility or financing size, with explicit review mechanics.
+
+Founder compensation is a structural operating cost of Rudis / Quebranto, not a favor owed by one investor.
+
 Preferred Founder Strategic Reserve for substantial strategic financing:
 
 - **12% target** of committed capital;
 - **10% negotiating floor** unless expressly agreed otherwise;
 - aggregate accounting and reporting;
 - no transaction-by-transaction approval for ordinary lawful use within scope.
+
+Founder salary, Founder personal liquidity and Founder Strategic Reserve are separate mechanisms.
+
+```text
+SALARY != LIQUIDITY != STRATEGIC RESERVE
+```
 
 ---
 
@@ -125,6 +145,7 @@ A strategic partner can hold both, but the total economic bargain must be review
 ```text
 EQUITY -> COMPANY ECONOMIC / CORPORATE RIGHTS
 PIONEER RIGHT -> ATTRIBUTABLE MATERIALIZATION RECIPROCITY
+FOUNDER SALARY -> COMPENSATION FOR WORK
 RUDIS CANON -> SEPARATE CONSTITUTIONAL DOMAIN
 ```
 
@@ -149,6 +170,8 @@ PUBLIC / QUASI-PUBLIC CAPITAL
 + FOUNDER RETAINED RIGHTS
 = FINANCING WITHOUT SINGLE-PARTY CAPTURE
 ```
+
+The consolidated operating budget should include Founder compensation where legally eligible and economically sustainable. Where a restricted source cannot fund it, another lawful unrestricted source should cover the non-eligible portion rather than silently assuming unpaid Founder labor.
 
 ---
 
@@ -190,9 +213,11 @@ No partner receives by default:
 
 Partner-specific proposals are implementations of the general framework, not separate constitutions.
 
-For example, the existing Meta proposal uses a P-0-style 5% / 10-year / 2.25x structure for a hypothetical USD 20M category-making contribution. That proposal should be read as a negotiated candidate application of the general framework, not a unique rule reserved for Meta.
+For example, the existing Meta proposal uses a P-0-style 5% / 10-year / 2.25x structure for a hypothetical USD 20M category-making contribution. It also applies the same Founder compensation and continuity framework used for any sufficiently capitalized strategic mission.
 
-Future Qualcomm, Samsung, Google, NVIDIA, Microsoft, Epic, public-funding or other proposals should begin from the same general framework and vary only where contribution facts justify it.
+That does **not** mean Meta uniquely pays or employs the Founder. Meta would merely be one possible financing source contributing to a consolidated operating mission budget.
+
+Future Qualcomm, Samsung, Google, NVIDIA, Microsoft, Epic, public-funding or other proposals should begin from the same general frameworks and vary only where contribution facts or legal instrument rules justify it.
 
 `SAME PRINCIPLES -> DIFFERENT FACTS -> DIFFERENT CONTRACT`
 
@@ -209,12 +234,14 @@ TECHNICAL / STRATEGIC FIT
 -> CONTRIBUTION DOMAIN
 -> MATERIALITY / CAUSALITY
 -> CAPITAL / CAPABILITY PACKAGE
+-> CONSOLIDATED OPERATING BUDGET
+-> FOUNDER + TEAM COMPENSATION
 -> CANDIDATE PIONEER CLASS
 -> DILIGENCE
 -> DEFINITIVE COMMERCIAL STRUCTURE
 ```
 
-The objective is to determine whether the partner can materially accelerate a Rudis category without requiring institutional capture.
+The objective is to determine whether the partner can materially accelerate a Rudis category without requiring institutional capture or artificially externalizing Founder labor.
 
 ---
 
@@ -222,8 +249,12 @@ The objective is to determine whether the partner can materially accelerate a Ru
 
 > Rudis is willing to offer meaningful economic reciprocity for meaningful material contribution. It is not willing to sell constitutional authority as a side effect of financing.
 
+> A funded Rudis should also fund the leadership work required to operate it.
+
 `CAPITAL -> CAPABILITY`
 
 `MATERIAL CONTRIBUTION -> BOUNDED RECIPROCITY`
+
+`FUNDED PROJECT -> FUNDED LEADERSHIP`
 
 `CAPITAL != CAPTURE`
