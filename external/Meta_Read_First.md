@@ -100,6 +100,22 @@ Meta can receive meaningful economic, technical, evaluation and negotiation righ
 
 ---
 
+### 4 — Rudis Investor Introduction — Spanish + English
+
+**For broader investment and institutional diligence.**
+
+This standalone bilingual dossier introduces the complete Rudis ecosystem beyond the Meta-specific proposal. It explains the legislative and governance architecture, economic system, social system, commercial model, Pioneer/provenance framework, Rudis Habitat, provider-neutral expansion policy, maturity boundaries, investment thesis and value milestones.
+
+It is useful for readers who need to understand **what Meta would be financing and what Rudis is designed to become independently of any single platform**.
+
+Public URL:
+
+https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Rudis_Investor_Introduction_ES_EN.md
+
+**Read:** [Rudis Investor Introduction — ES / EN](./Rudis_Investor_Introduction_ES_EN.md)
+
+---
+
 ## Fast routes by role
 
 ### Reality Labs / Horizon / spatial computing
@@ -128,6 +144,8 @@ Rudis treats long-running agents as participants in causal institutional systems
 
 ### Partnerships / strategy / business development
 Read the first two documents for the category thesis, then the Strategic Pioneer Partnership for the proposed economic relationship.
+
+For broader investment diligence, continue with the bilingual **Rudis Investor Introduction**.
 
 Core question:
 
