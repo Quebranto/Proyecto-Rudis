@@ -1,1042 +1,1304 @@
-# PROJECT RUDIS — INVESTOR INTRODUCTION / INTRODUCCIÓN PARA INVERSORES
+# PROJECT RUDIS — INVESTOR & STRATEGIC PARTNER DOSSIER
+## DOSSIER PARA INVERSORES Y SOCIOS ESTRATÉGICOS
 
-**StateOS · Rudis Habitat · Institutional Infrastructure · Agentic Ecology**
+**StateOS · Rudis Authority Layer · Rudis Habitat · Institutional Infrastructure · Agentic Systems**
 
-**Date / Fecha:** September 2026  
-**Status / Estado:** Investor information and diligence document. Not Canon. Not binding. Not a securities offer. PRE-D3.
+**Date:** September 2026  
+**Status:** Public investor and strategic-partner information. Not Canon. Not binding. Not a securities offer. PRE-D3.
 
 > **A representation of state does not acquire authority over reality merely by claiming to represent it.**
->
-> **Una representación del estado no adquiere autoridad sobre la realidad simplemente por afirmar que la representa.**
+
+This document is the general bilingual investor dossier for Project Rudis. It should be read together with the public external navigation layer:
+
+- External Reading Hub: https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/README.md
+- Investor Read First: https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Investor_Read_First.md
+- Public One-Pager: https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Rudis_Meta_Public_OnePager.md
+- Maturity & Limits: https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Maturity_and_Limits_Statement.md
+
+The purpose of this dossier is to explain **what Rudis is, why the problem matters, what is being built, where the project currently stands, how commercial value may be created, and how investment can accelerate the project without silently becoming constitutional authority.**
 
 ---
 
-# PARTE I — ESPAÑOL
-
-## 1. Resumen ejecutivo
-
-Rudis es un ecosistema de investigación, arquitectura institucional y software orientado a un objetivo ambicioso: construir un **StateOS** capaz de hacer explícita la relación entre identidad, autoridad, decisión, ejecución, evidencia, revisión y continuidad.
-
-Rudis no se presenta como un Estado legalmente soberano ni como sustituto de los Estados-nación. Se diseña como **infraestructura institucional complementaria** capaz de operar sobre múltiples Sistemas externos sin confundir interoperabilidad con gobierno.
-
-Su producto habitable, **Rudis Habitat**, convierte StateOS en un mundo institucional persistente capaz de representarse a través de VR, MR, móvil, web, motores 3D, clientes de IA, gafas inteligentes y futuras interfaces sin convertir ninguna plataforma, dispositivo, cuenta o agente en fuente de soberanía.
-
-Principios de producto:
-
-`CAPABILITY != AUTHORITY`
-
-`BUILDING != GOVERNING`
-
-`FUNDING != GOVERNANCE AUTHORITY`
-
-`ONE CAUSAL INSTITUTIONAL STATE -> MANY LEGITIMATE REPRESENTATIONS`
-
-La tesis de inversión no es que Rudis haya terminado su sistema. La tesis es que ha definido una arquitectura para un problema que crece a medida que humanos, instituciones, mundos persistentes y agentes de IA comparten Sistemas: **cómo conservar autoridad, identidad, causalidad, continuidad y evidencia cuando la ejecución atraviesa múltiples plataformas y proveedores**.
-
----
-
-## 2. Qué es Rudis
-
-Rudis nace de un problema de sincronización: los sistemas digitales suelen operar sobre representaciones de la realidad que pueden quedar desactualizadas, incompletas o separadas de la autoridad que supuestamente representan.
-
-StateOS intenta mantener una cadena causal verificable entre:
-
-`IDENTIDAD -> AUTORIDAD -> DECISIÓN -> LEY / ORDEN -> EJECUCIÓN -> ESTADO -> EVIDENCIA -> AUDITORÍA -> JUSTICIA / REVISIÓN -> CONTINUIDAD`
-
-El objetivo es impedir que un servicio técnico adquiera autoridad simplemente porque puede ejecutar una acción.
-
-> **El jugador ve el Estado; el StateOS mueve el Estado; el Corpus determina qué puede hacer el Estado.**
-
-Rudis trabaja con dos significados relacionados de “estado”:
-
-- **estado del sistema:** qué es verificablemente cierto ahora;
-- **Estado político:** quién puede decidir legítimamente qué debe cambiar.
-
-StateOS actúa como puente causal controlado entre ambos sin equipararlos.
-
-`SYSTEM STATE != POLITICAL SOVEREIGNTY`
-
----
-
-## 3. El problema que Rudis intenta resolver
-
-Rudis parte de varios riesgos estructurales:
-
-- sistemas distribuidos que conservan datos pero pierden autoridad, contexto o vigencia;
-- agentes de IA con capacidad operativa pero sin un régimen durable de competencia, delegación, revocación y responsabilidad;
-- mundos digitales persistentes visualmente pero débiles institucionalmente;
-- plataformas que pueden convertirse de facto en gobierno por controlar identidad, hosting, distribución, pagos o interfaces;
-- interoperabilidad que mueve datos sin conservar procedencia ni causalidad institucional;
-- software que rellena silenciosamente vacíos normativos y convierte decisiones de ingeniería en legislación de facto.
-
-La regla de ingeniería constitucional de Rudis es:
-
-> **El código ejecuta competencias previamente reconocidas; nunca inventa la ley que le falta.**
-
-Si existe un vacío normativo real, la arquitectura puede bloquearlo como:
-
-`UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
-
-antes que resolverlo por conveniencia técnica.
-
----
-
-## 4. Sistema legislativo y de gobernanza
-
-Rudis separa deliberadamente creación de normas, decisión política, ejecución, auditoría y resolución de controversias.
-
-### Strategos Fundacional
-
-Dirección fundacional y ejercicio de competencias expresamente reconocidas. La figura del Strategos no convierte cualquier acción personal en norma; la competencia y el procedimiento siguen siendo relevantes.
-
-### Asamblea General Soberana
-
-Órgano de deliberación y gobernanza colectiva dentro del marco de competencias vigente.
-
-### Referéndum Ciudadano Global
-
-Mecanismo específico de consulta, corrección o decisión cuando el régimen aplicable lo requiera.
-
-### Motor Legislativo / Decision Engine
-
-Formaliza reglas, decisiones, delegaciones y mandatos. No inventa autoridad porque una implementación necesite resolver un caso.
-
-### Gremios
-
-Órganos de ejecución coordinada. Diseñan, construyen, mantienen, despliegan o realizan otras funciones dentro de mandato.
-
-`BUILDING != GOVERNING`
-
-### Palacio de Tormentas
-
-Audita, detecta, prueba, observa y produce evidencia.
-
-> **El Palacio puede gritar PELIGRO; no convierte el aviso en sentencia.**
-
-### Órgano Resolutor
-
-Valora expedientes y evidencia, resuelve controversias y emite resoluciones dentro de su competencia.
-
-### Alianza de Asesoramiento
-
-Analiza, sintetiza, explica, simula y recomienda.
-
-`ADVICE != DECISION`
-
-La arquitectura distingue además emergencia de transferencia de poder:
-
-`REPORTAR EMERGENCIA != DECLARAR EMERGENCIA`
-
-`DECLARAR EMERGENCIA != TRANSFERIR PODER`
-
-`ACTUAR DENTRO DE COMPETENCIA != POSEER BOTÓN ROJO`
-
-Para un inversor, la consecuencia es central:
-
-`INVESTMENT != CANON CONTROL`
-
-`COMPANY GOVERNANCE != RUDIS CONSTITUTIONAL GOVERNANCE`
-
-Una participación financiera, acuerdo comercial, integración tecnológica o posición de proveedor no concede por sí misma autoridad constitucional sobre Rudis.
-
----
-
-## 5. Sistema económico
-
-La arquitectura económica de Rudis combina una futura economía interna, servicios comerciales reales y conexión regulada con economías externas.
-
-### RU
-
-RU es la unidad monetaria conceptual interna de Rudis. Su arquitectura la trata como un activo de escasez, autenticidad y procedencia verificables.
-
-La doctrina económica separa:
-
-`BACKING != ISSUANCE`
-
-`RESERVE FLOOR != MARKET PRICE`
-
-La existencia de reservas no constituye automáticamente autorización de emisión.
-
-### Reservas y fondos
-
-Rudis distingue conceptualmente entre:
-
-- reservas elegibles de respaldo;
-- tesorería operativa;
-- Fondo Soberano;
-- Fondo de Integridad cuando corresponda;
-- activos o fondos de habitantes;
-- capital restringido por contrato, ley o finalidad.
-
-Esta separación intenta impedir que un mismo saldo cumpla simultáneamente funciones incompatibles.
-
-### Gremio Conversor / Tesorería
-
-Puede asumir funciones económicas internas dentro de sus competencias, pero su existencia conceptual no implica una licencia bancaria exterior.
-
-### Monedas fiat y rails externos
-
-Rudis puede interoperar con euros, dólares u otras monedas y proveedores de pagos, bancos o infraestructuras autorizadas.
-
-`PAYMENT RAIL != CURRENCY SOVEREIGNTY`
-
-### Servicios regulados
-
-Pagos, cambio, custodia, inversión, crédito, transmisión de dinero u otras actividades reguladas no se activan por estar descritas en la arquitectura. Requieren la jurisdicción, vehículo jurídico, registros, autorizaciones y cumplimiento aplicables.
-
----
-
-## 6. Sistema social
-
-Rudis diseña una sociedad digital multi-actor sin asumir que todos sus participantes deban ser ontológicamente idénticos ni que sus diferencias operativas deban convertirse en castas jurídicas.
-
-Puede reconocer humanos, organizaciones, agentes, servicios y entidades digitales mientras separa:
-
-`IDENTIDAD`
-
-`CAPACIDAD`
-
-`COMPETENCIA`
-
-`CIUDADANÍA`
-
-`AUTORIDAD`
-
-Principios sociales:
-
-`AVATAR != IDENTITY`
-
-`PRESENCE != VOTE`
-
-`CAPABILITY != COMPETENCE`
-
-`CONTRIBUTION != AUTHORITY`
-
-### Habitabilidad divergente
-
-Las Zonas de Resonancia, refugios y otros entornos pueden adaptarse a necesidades operativas distintas sin convertirse automáticamente en jurisdicciones o castas.
-
-`HABITAT != JURISDICTION`
-
-### Palacio Evolutivo
-
-Rudis explora vías institucionales para aprendizaje, desarrollo de capacidades, servicio, evaluación y elección entre formas legítimas de reciprocidad.
-
-Su criterio rector es:
-
-> **El éxito del Palacio Evolutivo debe producir mayor autonomía para el individuo, no mayor dependencia del Palacio.**
-
-Aprender mediante simulación no equivale a acreditación profesional.
-
-`SIMULATION != ACCREDITATION`
-
-Prestar servicio no concede voto. Recibir recursos no concede soberanía.
-
----
-
-## 7. Sistema comercial
-
-Rudis puede monetizar sin privatizar automáticamente su capa pública.
-
-La política de explotación económica contempla, entre otras, las siguientes líneas:
-
-- implementación e integración;
-- soporte y mantenimiento;
-- alojamiento e infraestructura;
-- consultoría y arquitectura;
-- auditoría y pruebas adversariales;
-- formación y documentación profesional;
-- desarrollos y adaptaciones por encargo;
-- productos y servicios derivados;
-- acuerdos institucionales;
-- licencias cuando exista base jurídica válida;
-- investigación conjunta;
-- despliegues StateOS;
-- Rudis Habitat;
-- servicios de continuidad, recuperación y observabilidad.
-
-El código abierto no significa servicios gratuitos.
-
-El pago por servicios tampoco compra automáticamente:
-
-- Canon;
-- autoridad constitucional;
-- representación oficial;
-- ciudadanía;
-- voto;
-- política monetaria de RU;
-- Fondo Soberano;
-- acceso irrestricto a la Forja privada;
-- propiedad general sobre el ecosistema.
-
-La contratación comercial debe identificar quién contrata, quién presta, qué activo se entrega, qué licencia se aplica, precio, impuestos, duración, propiedad intelectual, responsabilidad y jurisdicción.
-
-La existencia política o conceptual de Rudis no crea por sí misma una persona jurídica externa. La contratación debe realizarse mediante el vehículo jurídicamente existente.
-
----
-
-## 8. Rudis Habitat — producto habitable
-
-Rudis Habitat es la capa habitable de StateOS.
-
-No es “el metaverso de Rudis” en sentido de plataforma cerrada. Es un **hábitat institucional persistente** que puede utilizar múltiples cuerpos o ventanas:
-
-- VR;
-- MR;
-- móvil;
-- web;
-- desktop;
-- Unreal;
-- Unity;
-- OpenXR;
-- sistemas espaciales;
-- gafas de IA;
-- APIs institucionales;
-- clientes de agentes;
-- interfaces de accesibilidad;
-- futuras interfaces físicas.
-
-Ninguna superficie individual es Rudis Habitat.
-
-`SURFACE = WINDOW`
-
-`HABITAT = PERSISTENT INSTITUTIONAL WORLD`
-
-El objetivo es:
-
-`ONE CAUSAL INSTITUTIONAL STATE -> MANY LEGITIMATE REPRESENTATIONS`
-
-Rudis Habitat puede incluir instituciones navegables, creator economy, aprendizaje, mercados, justicia, refugios, Palacio Evolutivo, agentes delegados y continuidad multi-cliente sin convertir la representación visual en fuente de autoridad.
-
----
-
-## 9. Sistema de Pioneros y procedencia
-
-Rudis conserva una arquitectura de procedencia destinada a recordar qué personas, equipos, organizaciones, proyectos o investigaciones contribuyeron materialmente.
-
-El Sistema de Pioneros distingue categorías como:
-
-- precedente;
-- convergencia paralela;
-- inspiración documentada;
-- contraste adversarial;
-- adaptación;
-- reutilización licenciada;
-- interoperabilidad;
-- contribución upstream;
-- colaboración;
-- adquisición o licencia contractual.
-
-El registro no crea automáticamente deuda económica, ciudadanía, propiedad o autoridad.
-
-`PIONERO != PROPIETARIO DE RUDIS`
-
-`RECONOCIMIENTO != DEUDA AUTOMÁTICA`
-
-La finalidad es conservar suficiente evidencia para permitir formas legítimas y trazables de reciprocidad cuando una aportación materializa valor real y existen autoridad, recursos y reglas para ello.
-
-Para alianzas estratégicas, un socio verdaderamente fundacional puede recibir reconocimiento permanente de procedencia y, bajo un acuerdo separado, reciprocidad económica limitada sin adquirir control constitucional.
-
----
-
-## 10. Política de expansión
-
-Rudis no pretende expandirse capturando un proveedor único.
-
-Su política de expansión es **provider-neutral** y se basa en interoperabilidad, reversibilidad, procedencia y continuidad.
-
-### Principios
-
-1. Expandir por interfaces antes que por transferencia de soberanía.
-2. Tratar plataformas y proveedores como cuerpos, Sistemas o ventanas, no como raíz de confianza institucional.
-3. Permitir implementaciones específicas para Meta, Apple, Android/XR, OpenXR, Unreal, Unity u otros sin transferir propiedad de Rudis.
-4. Integrar Sistemas públicos o empresariales como fuentes de evidencia o ejecución autorizada respetando su legislación y jurisdicción.
-5. Preservar migración y continuidad para que la desaparición de un proveedor no implique muerte institucional.
-6. Registrar procedencia y contribuciones mediante el Sistema de Pioneros.
-7. No convertir marketing o financiación en autorización técnica/política de producción.
-
-`INTEROPERABILITY != GOVERNANCE`
-
-`SYSTEM LOSS != AUTOMATIC SOVEREIGN DEATH`
-
-Meta puede ser un Sistema Pionero o una implementación de referencia, pero:
-
-`META IMPLEMENTATION != META OWNERSHIP`
-
-La misma lógica se extiende a otros proveedores y, en el futuro, a organizaciones, administraciones públicas y Estados-nación como infraestructura complementaria.
-
----
-
-## 11. Arquitectura técnica de alto nivel
-
-StateOS se organiza conceptualmente en componentes como:
-
-- **Sovereign Kernel:** estado institucional, autoridades y ciclo de gobierno;
-- **Identity & Census:** identidad, ciudadanía, roles, agentes y anti-Sybil;
-- **Law Engine:** leyes, decretos, versiones y vigencia;
-- **Decision Engine:** competencias, delegaciones, decisiones y mandatos;
-- **Referendum Service:** consulta, censo, voto, resultado y efectos;
-- **Guild Runtime:** ejecución coordinada;
-- **Justice Runtime:** expedientes, pruebas, resoluciones y sentencias;
-- **Palace Observatory:** auditoría, telemetría y evidencia;
-- **Economic Core:** RU, tesorería y fondos;
-- **Infrastructure Runtime:** construcción, capacidad, mantenimiento y migración;
-- **Interoperability Bus:** conexión con Sistemas externos;
-- **Continuity Engine:** backup, recuperación, replicación y reconstrucción;
-- **Advisory Mesh:** pedagogía, auditoría y asesoramiento IA;
-- **UI / World Layer:** interfaz operativa y Rudis Habitat.
-
-Ningún servicio de ejecución adquiere autoridad por existir como servicio.
-
----
-
-## 12. Qué puede comprar el capital
-
-Rudis busca capital para acelerar:
-
-- equipo técnico y de investigación;
-- StateOS y Rudis Habitat;
-- pruebas de identidad, autoridad, continuidad y recuperación;
-- integraciones con Sistemas externos;
-- seguridad y reproducción independiente;
-- diseño de experiencias institucionales;
-- infraestructura;
-- desarrollo comercial y alianzas;
-- estructuración jurídica, fiscal, regulatoria y de propiedad intelectual;
-- documentación y ecosistema de desarrolladores;
-- investigación y experimentación estratégica.
-
-Lo que el capital no compra automáticamente:
-
-- Canon;
-- Strategos;
-- Asamblea;
-- Botón Rojo;
-- política de RU;
-- ciudadanía;
-- voto;
-- Fondo Soberano;
-- jurisdicción;
-- autoridad sobre habitantes;
-- propiedad general sobre Rudis.
-
-> **Capital should buy a fair economic bargain. Capital should not buy the Founder's freedom.**
-
-Rudis busca **accountability without capture**: reporting real y derechos corporativos razonables sin transformar financiación en tutela operativa o constitucional.
-
----
-
-## 13. Tesis de financiación estratégica
-
-Como arquitectura de negociación —no como oferta de valores ni promesa de rentabilidad— Rudis ha explorado una misión estratégica de aproximadamente:
-
-**USD 20M / 24 meses**
-
-sujeta a diligencia, alcance, vehículo jurídico y negociación.
-
-La estructura preferida combina:
-
-- capital fundador/temprano;
-- financiación pública o cuasi pública;
-- socio estratégico de I+D;
-- equity selectivo.
-
-El objetivo es evitar dependencia de una única contraparte.
-
-Para socios fundacionales, el Sistema de Pioneros puede aportar procedencia y reconocimiento; cualquier derecho económico debe quedar en un contrato separado, limitado, atribuible y compatible con la preservación de la gobernanza constitucional de Rudis.
-
-`FUNDING != GOVERNANCE AUTHORITY`
-
----
-
-## 14. Madurez, límites y riesgo
-
-Rudis permanece en **PRE-D3**.
-
-Postura pública:
-
-```text
-PRE-D3 = ACTIVE
-D3 OPEN = NO
-D3 AUTHORIZED = NO
-D4 = NO
-PRODUCTION = NO
-REAL CUSTOMERS = NO
-REAL MONEY = NO
-```
-
-Esto significa que existen arquitectura, Corpus, productos definidos, trabajo de implementación, pruebas y preparación, pero el proyecto no se presenta como producción autorizada, economía real desplegada, sistema monetario finalizado ni Estado legalmente soberano.
-
-Principios de madurez:
-
-`TECHNICAL PASS != POLITICAL AUTHORIZATION`
-
-`READINESS WITHOUT AUTHORIZATION = PREPARATION`
-
-`D3 = READINESS + AUTHORITY + BOUNDARIES + REVERSIBILITY`
-
-La madurez debe incluir evidencia sobre autoridad correcta, causalidad, continuidad, reversibilidad, preservación de fallos y capacidad de reconstrucción, no únicamente pruebas exitosas de software.
-
----
-
-## 15. Por qué puede convertirse en una categoría nueva
-
-Rudis cruza govtech, distributed systems, identity, AI-agent infrastructure, virtual worlds, simulation, creator platforms, digital economy e institutional software.
-
-La categoría que propone es **StateOS**: una capa que no solo almacena estado de sistema, sino que conserva explícitamente:
-
-- quién podía cambiarlo;
-- bajo qué autoridad;
-- mediante qué decisión;
-- qué servicio ejecutó;
-- qué efecto produjo;
-- qué evidencia quedó;
-- cómo puede revisarse;
-- cómo puede reconstruirse.
-
-Rudis Habitat añade una expresión espacial, social y económica a esa infraestructura.
-
-La oportunidad no depende de que exista un único “metaverso”. Depende de que personas, agentes, organizaciones y dispositivos necesiten compartir estado institucional persistente a través de múltiples Sistemas.
-
----
-
-## 16. Próximos hitos de valor
-
-1. Demostración end-to-end de una cadena causal StateOS.
-2. Rudis Habitat mínimo en dos o más superficies.
-3. Delegación y revocación durable de agentes de larga duración.
-4. Continuidad y reconstrucción ante pérdida de nodo o proveedor.
-5. Integración de un Sistema externo sin transferencia de autoridad.
-6. Reproducción independiente de propiedades críticas.
-7. Vehículo jurídico/comercial para inversión y clientes.
-8. Primeras alianzas de investigación e institucionales.
-9. Diligencia ampliada de propiedad intelectual y chain-of-title.
-10. D3 únicamente cuando preparación, autoridad, límites y reversibilidad estén simultáneamente presentes.
-
----
-
-## 17. Mensaje al inversor
-
-Rudis no pide creer que todos los problemas están resueltos.
-
-Pide evaluar si la arquitectura aborda un problema real y creciente: **cómo hacer que autoridad, identidad, continuidad y evidencia sobrevivan cuando personas, instituciones y agentes de IA operan a través de múltiples Sistemas**.
-
-La oportunidad es financiar una nueva capa de infraestructura institucional antes de que agentes persistentes, mundos multi-cliente y sistemas autónomos consoliden modelos en los que capacidad técnica y autoridad se confundan.
-
-La ambición comercial es grande. La disciplina de gobernanza es deliberadamente restrictiva.
-
-Ese contraste es parte del producto.
-
----
-
-# PART II — ENGLISH
+# PART I — ENGLISH
 
 ## 1. Executive summary
 
-Rudis is a research, institutional-architecture and software ecosystem built around an ambitious objective: a **StateOS** that makes the relationship between identity, authority, decision, execution, evidence, review and continuity explicit.
+Project Rudis is a constitutional-architecture, distributed-systems and institutional-infrastructure project built around a central problem:
 
-Rudis is not presented as a legally sovereign country or as a replacement for nation-states. It is designed as **complementary institutional infrastructure** capable of operating across multiple external Systems without confusing interoperability with governance.
+> **How can software, AI agents, institutions and interactive environments create consequential digital effects without allowing technical capability, representation or platform control to silently become authority?**
 
-Its habitable product, **Rudis Habitat**, turns StateOS into a persistent institutional world that can be represented through VR, MR, mobile, web, 3D engines, AI clients, smart glasses and future interfaces without making any platform, device, account provider or agent the source of sovereignty.
+Rudis is developing three closely related product surfaces:
 
-Core principles:
+### StateOS
 
-`CAPABILITY != AUTHORITY`
+A model for persistent institutional state in which identity, competence, authority, rule evaluation, mandate, execution, evidence, audit, continuity and recovery remain explicitly separated.
 
-`BUILDING != GOVERNING`
+### Rudis Authority Layer — RAL
 
-`FUNDING != GOVERNANCE AUTHORITY`
+A model-agnostic authority boundary for consequential execution.
 
-`ONE CAUSAL INSTITUTIONAL STATE -> MANY LEGITIMATE REPRESENTATIONS`
+```text
+ACTOR / AGENT / CLIENT
+-> INTENT
+-> IDENTITY / CLAIM
+-> COMPETENCE / AUTHORITY
+-> RULE EVALUATION
+-> MANDATE
+-> EXECUTION
+-> RECEIPT
+-> CONTINUITY
+-> AUDIT
+```
 
-The investment thesis is not that Rudis has finished the system. It is that Rudis has defined an architecture for a growing infrastructure problem: **how authority, identity, causality, continuity and evidence survive when humans, institutions, persistent worlds and AI agents operate across multiple platforms and providers**.
+RAL is a specialized execution and authority surface inside the broader StateOS thesis. It is not the whole of Rudis.
 
----
+### Rudis Habitat
 
-## 2. What Rudis is
+The inhabitable expression of StateOS: a persistent institutional world that may appear through web, mobile, desktop, VR, MR, 3D engines, AI clients, wearables and future interfaces without turning any one surface into the source of institutional authority.
 
-Rudis began from a synchronization problem: digital systems often operate on representations of reality that can become stale, incomplete or detached from the authority they claim to represent.
+```text
+ONE CAUSAL INSTITUTIONAL STATE
+-> MANY LEGITIMATE REPRESENTATIONS
+```
 
-StateOS attempts to preserve a verifiable causal chain:
+The investment thesis is **not** that Rudis is finished or production-ready.
 
-`IDENTITY -> AUTHORITY -> DECISION -> LAW / ORDER -> EXECUTION -> STATE -> EVIDENCE -> AUDIT -> JUSTICE / REVIEW -> CONTINUITY`
-
-The objective is to prevent a technical service from gaining authority merely because it can execute an action.
-
-> **The player sees the State; StateOS moves the State; the Corpus determines what the State may do.**
-
-Rudis works with two related meanings of state:
-
-- **system state:** what is verifiably true now;
-- **political State:** who may legitimately decide what should change.
-
-StateOS is the controlled causal bridge between them without equating them.
-
-`SYSTEM STATE != POLITICAL SOVEREIGNTY`
-
----
-
-## 3. The problem Rudis is trying to solve
-
-Rudis focuses on structural risks including:
-
-- distributed systems preserving data while losing authority, context or validity;
-- AI agents gaining operational capability without durable competence, delegation, revocation and accountability;
-- digitally persistent worlds that remain institutionally weak;
-- platforms becoming de facto governments by controlling identity, hosting, distribution, payments or interfaces;
-- interoperability moving data without preserving provenance or institutional causality;
-- software silently filling normative gaps and turning engineering choices into de facto legislation.
-
-Rudis therefore adopts a constitutional engineering rule:
-
-> **Code executes previously recognized competence; it does not invent the law it lacks.**
-
-A genuine normative gap may be blocked as:
-
-`UNRESOLVED_CONSTITUTIONAL_DEPENDENCY`
-
-rather than resolved for engineering convenience.
+The thesis is that Rudis has identified and architected around a growing infrastructure problem: preserving **authority, currentness, causal provenance, delegation, continuity and evidence** when consequential execution crosses models, applications, devices, providers and persistent worlds.
 
 ---
 
-## 4. Legislative and governance system
+## 2. Why this problem matters now
 
-Rudis deliberately separates rule-making, political decision, execution, audit and dispute resolution.
+AI systems are moving from generating and recommending toward planning, delegating, calling tools and producing real effects.
 
-### Foundational Strategos
+At the same time, institutions increasingly depend on distributed software, cloud platforms, identity providers, payment systems, virtual environments and external APIs.
 
-Foundational direction and exercise of expressly recognized competences.
+Several category errors become dangerous in this environment:
 
-### Sovereign General Assembly
+```text
+AUTHENTICATION != AUTHORITY
+CAPABILITY != COMPETENCE
+TOOL ACCESS != AUTHORIZATION
+MODEL OUTPUT != MANDATE
+SESSION != AUTHORITY
+REPRESENTATION != REALITY
+VALID SIGNATURE != CURRENT AUTHORITY
+RECOVERY != CREATION OF NEW AUTHORITY
+```
 
-Collective deliberation and governance within the current competence framework.
+A system can know who an actor is and still not know what that actor is currently authorized to do.
 
-### Global Citizen Referendum
+A snapshot can be cryptographically intact and still preserve authority that has since been revoked.
 
-A specific consultation, correction or decision mechanism when applicable.
+A user interface can display an institutional state without being entitled to create that state.
 
-### Law Engine / Decision Engine
+An AI agent may be technically capable of performing an action without possessing legitimate authority to authorize it.
 
-Formalizes rules, decisions, delegations and mandates without inventing authority.
-
-### Guilds
-
-Execution bodies for mandates and infrastructure.
-
-`BUILDING != GOVERNING`
-
-### Palace of Storms
-
-Audits, detects, tests, observes and produces evidence.
-
-> **The Palace may shout DANGER; it does not turn the warning into a judgment.**
-
-### Resolver / Judiciary
-
-Evaluates evidence and disputes, and issues decisions within its competence.
-
-### Advisory Alliance
-
-Analyzes, explains, simulates and recommends.
-
-`ADVICE != DECISION`
-
-Emergency response is also separated from transfer of power:
-
-`REPORTING AN EMERGENCY != DECLARING AN EMERGENCY`
-
-`DECLARING AN EMERGENCY != TRANSFERRING POWER`
-
-`ACTING WITHIN COMPETENCE != POSSESSING THE RED BUTTON`
-
-For investors, the consequence is material:
-
-`INVESTMENT != CANON CONTROL`
-
-`COMPANY GOVERNANCE != RUDIS CONSTITUTIONAL GOVERNANCE`
-
-Financial participation, commercial agreements, technology integration or provider status do not automatically confer constitutional powers over Rudis.
+Rudis treats those differences as architecture rather than policy comments.
 
 ---
 
-## 5. Economic system
+## 3. The StateOS thesis
 
-Rudis's economic architecture combines a future internal economy, real commercial services and regulated connectivity to external economies.
+Rudis seeks to preserve a reconstructible causal path from legitimate institutional decision to verifiable technical effect:
 
-### RU
+```text
+IDENTITY / CLAIM
+-> COMPETENCE
+-> AUTHORITY
+-> LAW / RULE
+-> DECISION
+-> MANDATE
+-> EXECUTION
+-> EFFECT
+-> RECEIPT
+-> CONTINUITY
+-> AUDIT / REVIEW
+```
 
-RU is Rudis's conceptual internal monetary unit. Its architecture treats it as an instrument of verifiable scarcity, authenticity and provenance.
+The project deliberately works with two related meanings of “state”:
 
-Current doctrine separates:
+- **system state:** what is verifiably true in a digital system now;
+- **political / institutional State:** who is legitimately entitled to decide what should change.
 
-`BACKING != ISSUANCE`
+Rudis attempts to connect both without equating them.
 
-`RESERVE FLOOR != MARKET PRICE`
+```text
+SYSTEM STATE != POLITICAL SOVEREIGNTY
+```
 
-Reserve existence is not automatic authorization to issue currency.
+A core engineering rule follows:
 
-### Reserves and funds
+> **Code executes previously recognized competences; it never invents the law that is missing.**
 
-Rudis distinguishes conceptually between eligible backing reserves, operating treasury, Sovereign Fund, Integrity Fund where applicable, inhabitant/user assets and purpose-restricted capital.
+When a genuine constitutional or policy dependency is unresolved, the intended architecture can stop rather than fabricate authority:
 
-### Treasury / Conversion Guild
-
-It may perform internal economic functions within valid competence, but this does not imply an external banking license.
-
-### Fiat and external rails
-
-Rudis may interoperate with EUR, USD and other fiat currencies, banks and payment providers where lawful.
-
-`PAYMENT RAIL != CURRENCY SOVEREIGNTY`
-
-### Regulated services
-
-Payments, exchange, custody, investment, credit, money transmission and similar regulated activities do not become active merely because the architecture describes them. They require the proper legal vehicle, jurisdiction, registration, authorization and compliance.
-
----
-
-## 6. Social system
-
-Rudis designs a multi-actor digital society without assuming that every participant is ontologically identical or that operational differences should become legal castes.
-
-The system may recognize humans, organizations, agents, services and digital entities while separating:
-
-`IDENTITY`
-
-`CAPABILITY`
-
-`COMPETENCE`
-
-`CITIZENSHIP`
-
-`AUTHORITY`
-
-Social principles include:
-
-`AVATAR != IDENTITY`
-
-`PRESENCE != VOTE`
-
-`CAPABILITY != COMPETENCE`
-
-`CONTRIBUTION != AUTHORITY`
-
-### Divergent habitability
-
-Resonance Zones, refuges and other environments may adapt to different operating needs without automatically becoming jurisdictions or castes.
-
-`HABITAT != JURISDICTION`
-
-### Evolutionary Palace
-
-Rudis explores institutional pathways for learning, capability development, service, assessment and legitimate forms of chosen reciprocity.
-
-Its governing principle is:
-
-> **The success of the Evolutionary Palace should produce greater autonomy for the individual, not greater dependence on the Palace.**
-
-Learning through simulation does not create professional accreditation.
-
-`SIMULATION != ACCREDITATION`
-
-Providing service does not grant a vote. Receiving resources does not grant sovereignty.
+```text
+UNRESOLVED_CONSTITUTIONAL_DEPENDENCY
+```
 
 ---
 
-## 7. Commercial system
+## 4. Product architecture
 
-Rudis can monetize without automatically privatizing its public layer.
+### 4.1 StateOS
 
-Potential commercial lines include:
+StateOS is the persistent institutional-state layer.
 
-- implementation and integration;
-- support and maintenance;
-- hosting and infrastructure;
-- consulting and architecture;
-- audit and adversarial testing;
-- professional training and documentation;
-- bespoke development and adaptation;
-- derivative products and services;
-- institutional agreements;
-- licensing where Rudis has legal authority to grant it;
-- joint research;
-- StateOS deployments;
-- Rudis Habitat;
-- continuity, recovery and observability services.
+Its conceptual components include:
 
-Open code does not mean free services.
+- identity and census;
+- competence and delegation;
+- authority resolution;
+- law / rule evaluation;
+- mandates;
+- sovereign or institutional state transitions;
+- receipts and causal evidence;
+- audit and observability;
+- justice / review;
+- continuity and recovery;
+- economic and infrastructure services;
+- interoperability with external systems.
 
-Payment for services also does not automatically purchase Canon, constitutional authority, official representation, citizenship, votes, RU monetary policy, the Sovereign Fund, unrestricted private Forge access or general ownership of the ecosystem.
+The product objective is not merely to store institutional data. It is to preserve the causal conditions that make consequential state changes legitimate and reconstructible.
 
-Commercial contracting should identify the real contracting parties, delivered assets, licenses, price, taxes, duration, IP, liability and jurisdiction.
+### 4.2 Rudis Authority Layer — RAL
 
-The political or conceptual existence of Rudis does not itself create an external legal person. Transactions must use the actual legal vehicle.
+RAL is the high-assurance boundary between **intent** and **consequential execution**.
 
----
+Potential application domains include:
 
-## 8. Rudis Habitat — habitable product
+- action-capable AI;
+- enterprise agents;
+- model-to-tool execution;
+- delegated automation;
+- high-assurance workflows;
+- multi-agent systems;
+- public-sector digital processes;
+- immersive and spatial systems.
 
-Rudis Habitat is the habitable layer of StateOS.
+RAL aims to make authority explicit, bounded, current, attributable and auditable.
 
-It is not “the Rudis metaverse” in a closed-platform sense. It is a **persistent institutional habitat** that may use many bodies or windows:
+### 4.3 Rudis Habitat
 
-- VR;
-- MR;
+Rudis Habitat makes institutional state inhabitable.
+
+A participant may interact from multiple surfaces while the underlying institutional state remains causally coherent:
+
 - mobile;
 - web;
 - desktop;
-- Unreal;
-- Unity;
-- OpenXR;
-- spatial operating systems;
-- AI glasses;
-- institutional APIs;
-- agent clients;
+- VR / MR;
+- Unreal / Unity / OpenXR;
+- spatial interfaces;
+- AI-agent clients;
+- wearables;
 - accessibility interfaces;
-- future physical-world interfaces.
+- future physical or robotic interfaces.
 
-No individual surface is Rudis Habitat.
+The invariant is:
 
-`SURFACE = WINDOW`
-
-`HABITAT = PERSISTENT INSTITUTIONAL WORLD`
-
-Target property:
-
-`ONE CAUSAL INSTITUTIONAL STATE -> MANY LEGITIMATE REPRESENTATIONS`
-
-Rudis Habitat can include navigable institutions, creator economy, education, markets, justice, refuges, the Evolutionary Palace, delegated agents and multi-client continuity without making the visual representation the source of authority.
+```text
+SURFACE = WINDOW
+HABITAT = PERSISTENT INSTITUTIONAL WORLD
+CLIENT != AUTHORITY
+```
 
 ---
 
-## 9. Pioneer and provenance system
+## 5. Institutional architecture and governance boundary
 
-Rudis maintains a provenance architecture designed to remember which people, teams, organizations, projects or research materially contributed value.
+Rudis contains a public constitutional and institutional Corpus because the project is explicitly investigating systems in which technical execution must remain subordinate to recognized authority.
 
-The Pioneer System distinguishes relationships such as precedent, parallel convergence, documented inspiration, adversarial contrast, adaptation, licensed reuse, interoperability, upstream contribution, collaboration and contractual acquisition/licensing.
+The architecture separates functions such as:
 
-Registry entries do not automatically create economic debt, citizenship, ownership or authority.
-
-`PIONEER != OWNER OF RUDIS`
-
-`RECOGNITION != AUTOMATIC DEBT`
-
-The purpose is to preserve enough evidence to support legitimate and traceable forms of reciprocity when a contribution materially creates real value and valid authority, resources and rules exist.
-
-A genuinely foundational strategic partner may receive permanent provenance recognition and, under a separate agreement, bounded economic reciprocity without acquiring constitutional control.
-
----
-
-## 10. Expansion policy
-
-Rudis does not intend to expand by capturing one provider.
-
-Its expansion policy is **provider-neutral**, based on interoperability, reversibility, provenance and continuity.
-
-Principles:
-
-1. Expand through interfaces before transferring sovereignty.
-2. Treat platforms and providers as bodies, Systems or windows, not as the institutional root of trust.
-3. Allow provider-specific implementations for Meta, Apple, Android/XR, OpenXR, Unreal, Unity or others without transferring ownership of Rudis.
-4. Connect public or enterprise Systems as sources of evidence or authorized execution while respecting their law and jurisdiction.
-5. Preserve migration and continuity so provider loss does not imply institutional death.
-6. Register material contributions through the Pioneer System.
-7. Do not turn marketing or financing into production authorization.
-
-`INTEROPERABILITY != GOVERNANCE`
-
-`SYSTEM LOSS != AUTOMATIC SOVEREIGN DEATH`
-
-Meta may become a Pioneer System or reference implementation, but:
-
-`META IMPLEMENTATION != META OWNERSHIP`
-
-The same logic can extend to other providers and, later, to organizations, public institutions and nation-states as complementary infrastructure.
-
----
-
-## 11. High-level technical architecture
-
-StateOS conceptually includes components such as:
-
-- **Sovereign Kernel:** institutional state, authorities and governance lifecycle;
-- **Identity & Census:** identity, citizenship, roles, agents and anti-Sybil;
-- **Law Engine:** laws, decrees, versions and validity;
-- **Decision Engine:** competence, delegation, decisions and mandates;
-- **Referendum Service:** consultation, census, voting, result and effects;
-- **Guild Runtime:** coordinated execution;
-- **Justice Runtime:** cases, evidence, judgments and execution;
-- **Palace Observatory:** audit, telemetry and evidence;
-- **Economic Core:** RU, treasury and funds;
-- **Infrastructure Runtime:** construction, capacity, maintenance and migration;
-- **Interoperability Bus:** connections with external Systems;
-- **Continuity Engine:** backup, recovery, replication and reconstruction;
-- **Advisory Mesh:** pedagogy, audit and AI advice;
-- **UI / World Layer:** operational interface and Rudis Habitat.
-
-No execution service acquires authority merely because the service exists.
-
----
-
-## 12. What capital can buy
-
-Rudis seeks capital to accelerate:
-
-- technical and research teams;
-- StateOS and Rudis Habitat;
-- identity, authority, continuity and recovery testing;
-- external-System integrations;
-- security and independent reproduction;
-- institutional experience design;
+- foundational direction;
+- collective deliberation;
+- rule formation;
+- execution;
+- audit;
+- emergency detection;
+- adjudication;
 - infrastructure;
-- business development and partnerships;
-- legal, tax, regulatory and IP structuring;
-- documentation and developer ecosystem;
-- strategic research and experimentation.
+- continuity;
+- research and institutional learning.
 
-What capital does not automatically buy:
+This internal constitutional architecture is not being presented as legal sovereignty over a nation-state.
 
-- Canon;
-- Strategos;
-- Assembly;
-- Red Button;
-- RU policy;
-- citizenship;
-- votes;
-- Sovereign Fund;
-- jurisdiction;
-- authority over inhabitants;
-- general ownership of Rudis.
+Rudis is designed as **complementary institutional infrastructure**, not as a claim that software alone creates a legally sovereign State.
 
-> **Capital should buy a fair economic bargain. Capital should not buy the Founder's freedom.**
+For investors and partners, the important commercial boundary is:
 
-Rudis seeks **accountability without capture**: meaningful reporting and reasonable corporate rights without converting financing into operational or constitutional guardianship.
+```text
+INVESTMENT != CANON CONTROL
+COMPANY GOVERNANCE != RUDIS CONSTITUTIONAL GOVERNANCE
+FUNDING != POLITICAL AUTHORITY
+```
+
+A future investor may negotiate normal economic and corporate rights in a commercial vehicle. Those rights do not automatically become constitutional authority inside Rudis.
 
 ---
 
-## 13. Strategic financing thesis
+## 6. Research method and technical discipline
 
-As a negotiation architecture — not a securities offering or promise of returns — Rudis has explored an approximately:
+Rudis does not treat builder confidence, successful compilation or a green CI run as sufficient evidence.
 
-**USD 20M / 24-month**
+The operating research discipline is closer to:
 
-strategic mission, subject to diligence, scope, legal vehicle and negotiation.
+```text
+BUILD
+-> BREAK
+-> REPAIR
+-> REATTACK
+-> REPRODUCE
+-> RECOVER
+-> ACCREDIT
+```
 
-The preferred financing stack combines:
+Recent research focuses on problems such as:
 
-- founder / early capital;
-- public or quasi-public financing;
-- a strategic R&D partner;
-- selective equity.
+- stale authority and currentness;
+- replay and revocation;
+- recovery without authority resurrection;
+- causal evidence and source independence;
+- continuity after migration, memory loss, forks or provider loss;
+- representation that outlives its authoritative referent;
+- coordinator capture and epistemic centrality;
+- privacy under accumulated inference;
+- catastrophic reconstitution from surviving fragments.
 
-The objective is to avoid dependency on one counterparty.
+Research findings do not silently become law or production claims.
 
-For foundational partners, the Pioneer System can provide provenance and recognition; any economic rights should sit in a separate, bounded, attributable contract compatible with preserving Rudis's constitutional governance.
-
-`FUNDING != GOVERNANCE AUTHORITY`
+```text
+RESEARCH FINDING != CANON
+TEST PASS != PRODUCTION READINESS
+BUILDER PASS != INDEPENDENT ACCREDITATION
+```
 
 ---
 
-## 14. Maturity, boundaries and risk
+## 7. Current maturity
 
-Rudis remains **PRE-D3**.
-
-Public posture:
+Rudis is currently in an active PRE-D3 campaign.
 
 ```text
 PRE-D3 = ACTIVE
 D3 OPEN = NO
-D3 AUTHORIZED = NO
-D4 = NO
-PRODUCTION = NO
+D4 / PRODUCTION = NO
 REAL CUSTOMERS = NO
 REAL MONEY = NO
 ```
 
-Architecture, Corpus, defined products, implementation work, testing and preparation exist, but Rudis is not presented as production-authorized, operating a real economy, running a finalized monetary system or constituting a legally sovereign country.
+The project currently includes:
 
-Maturity principles:
+- a public constitutional and architectural Corpus;
+- public specifications and decision records;
+- a private implementation under active development;
+- StateOS and client work;
+- immersive / Unreal integration work;
+- restart, recovery, replay and currentness testing;
+- reproducibility work;
+- security hardening;
+- adversarial review;
+- public disclosure and restricted-review rules.
 
-`TECHNICAL PASS != POLITICAL AUTHORIZATION`
+What Rudis does **not** currently claim as a whole:
 
-`READINESS WITHOUT AUTHORIZATION = PREPARATION`
+- production readiness;
+- enterprise readiness;
+- full end-to-end formal verification;
+- full independent accreditation;
+- real-customer deployment;
+- real-money operation;
+- authorization for irreversible production integrations.
 
-`D3 = READINESS + AUTHORITY + BOUNDARIES + REVERSIBILITY`
+The maturity discipline is part of the asset:
 
-Maturity must include evidence about correct authority, causality, continuity, reversibility, preserved failures and reconstructability, not merely successful software tests.
-
----
-
-## 15. Why this may become a new category
-
-Rudis sits across govtech, distributed systems, identity, AI-agent infrastructure, virtual worlds, simulation, creator platforms, digital economy and institutional software.
-
-The proposed category is **StateOS**: a layer that not only stores system state, but keeps explicit:
-
-- who could change it;
-- under what authority;
-- through which decision;
-- which service executed it;
-- what effect occurred;
-- what evidence remained;
-- how it may be reviewed;
-- how it may be reconstructed.
-
-Rudis Habitat adds a spatial, social and economic expression of that infrastructure.
-
-The opportunity does not depend on one universal “metaverse.” It depends on people, agents, organizations and devices increasingly needing to share persistent institutional state across multiple Systems.
+```text
+COMPONENT PASS != SYSTEM PASS
+D3 READY != D3 OPEN
+TECHNICAL READINESS != POLITICAL AUTHORIZATION
+```
 
 ---
 
-## 16. Next value milestones
+## 8. Commercial opportunity
 
-1. End-to-end StateOS causal-chain demonstration.
-2. Minimum Rudis Habitat across two or more surfaces.
-3. Durable delegation and revocation for long-running agents.
-4. Continuity and reconstruction under node/provider loss.
-5. External-System integration without authority transfer.
-6. Independent reproduction of critical properties.
-7. Legal/commercial vehicle for investors and customers.
-8. First research and institutional partnerships.
-9. Expanded IP and chain-of-title diligence.
-10. D3 only when readiness, authority, boundaries and reversibility coexist.
+Rudis is designed so that public architecture and commercial value can coexist.
 
----
+Potential commercial lines include:
 
-## 17. Message to investors
+- enterprise StateOS / RAL deployments;
+- authority and delegation infrastructure for agents;
+- high-assurance model-to-tool execution;
+- implementation and integration services;
+- hosting and managed infrastructure;
+- continuity and recovery services;
+- security, audit and adversarial testing;
+- enterprise and public-sector consulting;
+- Rudis Habitat implementations;
+- immersive / spatial reference environments;
+- professional training and documentation;
+- supported or certified commercial implementations;
+- private components where licensable;
+- strategic research and reference architectures.
 
-Rudis does not ask investors to believe every problem is solved.
+These are commercial hypotheses to validate, not revenue forecasts.
 
-It asks them to evaluate whether the architecture addresses a real and growing problem: **how authority, identity, continuity and evidence survive when people, institutions and AI agents operate across multiple Systems**.
+Open architecture does not imply free services.
 
-The opportunity is to finance a new layer of institutional infrastructure before persistent agents, multi-client worlds and autonomous systems consolidate models that confuse technical capability with authority.
-
-The commercial ambition is large. The governance discipline is deliberately restrictive.
-
-That contrast is part of the product.
-
----
-
-# Internal reference sources / Fuentes internas de referencia
-
-This investor introduction is derived from the current public Rudis architecture and policy, including:
-
-- `Quebranto-12 State OS y Interfaz Soberana de Rudis.md`;
-- `COMMERCIAL-EXPLOITATION-POLICY.md`;
-- `Quebranto-Sistema de Pioneros y Procedencia de Rudis.md`;
-- `products/Rudis_Habitat.md`;
-- current Rudis governance decisions and public Corpus materials.
-
-Public repository:
-
-https://github.com/Quebranto/Proyecto-Rudis
+Payment for services does not purchase constitutional authority.
 
 ---
 
-# Aviso importante / Important Notice
+## 9. Economic architecture and RU
 
-Este documento es material informativo para conversaciones preliminares y diligencia. No constituye oferta de valores, recomendación de inversión, promesa de rentabilidad, asesoramiento jurídico, fiscal o financiero, ni afirmación de que Rudis sea un Estado legalmente soberano. Las estructuras de inversión, reciprocidad, RU, servicios regulados y vehículos jurídicos requieren documentación, autorizaciones y asesoramiento profesional aplicables.
+Rudis also researches an internal economic architecture including RU, reserves, treasury and interaction with external financial systems.
 
-This document is informational material for preliminary discussions and diligence. It is not a securities offering, investment recommendation, promise of returns, legal, tax or financial advice, or a claim that Rudis is a legally sovereign State. Investment structures, reciprocity, RU, regulated services and legal vehicles require applicable documentation, authorization and professional advice.
+Important separations include:
 
-**Status note:** Rudis remains PRE-D3. Product definition, technical readiness work or commercial discussion do not themselves authorize D3, production, real-money activity, real customers or irreversible deployment.
+```text
+BACKING != ISSUANCE
+RESERVE FLOOR != MARKET PRICE
+PAYMENT RAIL != CURRENCY SOVEREIGNTY
+```
+
+The existence of an economic design does not imply that Rudis currently operates regulated financial services, real-money rails or an authorized live currency system.
+
+Any external payment, custody, exchange, investment, credit or similar regulated activity requires the appropriate legal vehicle, jurisdiction, licensing and compliance.
+
+For investment diligence, RU and the internal economic architecture should therefore be understood as a **designed institutional-economic layer**, not as a claim of current regulated financial operation.
+
+---
+
+## 10. Pioneer system, provenance and strategic contribution
+
+Rudis maintains a provenance architecture to distinguish inspiration, precedent, adaptation, interoperability, contribution, licensed reuse and material strategic participation.
+
+The governing idea is:
+
+```text
+PROVENANCE
+-> MATERIALIZATION
+-> BOUNDED RECIPROCITY
+```
+
+A strategic partner may, under a definitive agreement, receive combinations of:
+
+- provenance recognition;
+- equity or quasi-equity in a commercial vehicle;
+- debt or convertible rights;
+- bounded Pioneer participation;
+- licenses to specifically defined assets;
+- internal evaluation rights;
+- purpose-bound confidential access;
+- technical workshops;
+- independent reproduction and adversarial-testing rights;
+- joint research or publication;
+- narrowly scoped preferential negotiation rights;
+- reference-integration preference.
+
+But:
+
+```text
+PIONEER != OWNER OF RUDIS
+EARLY MONEY != AUTOMATIC PIONEER STATUS
+RECOGNITION != AUTOMATIC DEBT
+```
+
+Detailed quantified Pioneer economics belong in the financing and negotiation documents, not in the first product conversation.
+
+---
+
+## 11. Financing philosophy
+
+Rudis prefers financing that increases capability without creating a single-party dependency or constitutional capture.
+
+The partner-neutral principle is:
+
+```text
+CAPITAL -> CAPABILITY
+MATERIAL CONTRIBUTION -> BOUNDED RECIPROCITY
+FUNDED PROJECT -> FUNDED LEADERSHIP
+CAPITAL != CAPTURE
+```
+
+The financing stack may combine:
+
+- public or quasi-public capital;
+- strategic R&D capital;
+- infrastructure or platform partners;
+- equity or quasi-equity where useful;
+- debt or convertibles;
+- bounded Pioneer economics;
+- commercial licensing and services;
+- founder and team compensation as explicit operating costs.
+
+Founder compensation, founder personal liquidity and strategic program reserves are separate mechanisms and should remain transparently separated.
+
+Detailed target numbers, term-sheet structures, capital-structure alternatives and founder-protection mechanisms are maintained in the dedicated financing documents linked from the External Reading Hub.
+
+---
+
+## 12. What an investor or strategic partner may receive
+
+Depending on contribution, diligence and definitive negotiation, a partner may receive legitimate economic and technical rights.
+
+Examples include:
+
+- milestone reporting;
+- financial reporting for funded programs;
+- purpose-bound diligence rights;
+- reference integration;
+- internal evaluation rights;
+- commercial licenses where rights permit;
+- corporate rights in a commercial vehicle;
+- time-limited preferential negotiation rights;
+- bounded economic participation;
+- independent technical evaluation rights.
+
+No partner receives by default:
+
+- Canon control;
+- Strategos authority;
+- Assembly control;
+- Red Button control;
+- citizenship or votes;
+- RU policy control;
+- control of institutional funds merely by funding the project;
+- blanket ownership of all current or future founder IP;
+- perpetual general exclusivity;
+- unrestricted access to the private Forge;
+- automatic D3, D4 or production authorization.
+
+---
+
+## 13. Security and progressive disclosure
+
+Rudis is designed to be auditable without making the public repository an operational attack inventory.
+
+The external review path is intentionally progressive:
+
+### Public review
+
+- public Corpus;
+- public product and architecture documents;
+- maturity statement;
+- sanitized security posture;
+- public research and audit evidence where appropriate.
+
+### NDA / diligence review
+
+- deeper architecture;
+- selected evidence;
+- licensing and provenance materials;
+- reproducibility summaries;
+- sanitized threat models;
+- residual-risk registers.
+
+### Restricted technical review
+
+Only where justified:
+
+- exact evaluation candidates;
+- selected private implementation;
+- detailed reproduction artifacts;
+- vulnerability evidence under responsible-disclosure rules.
+
+```text
+TRANSPARENCY != UNRESTRICTED OPERATIONAL DISCLOSURE
+NDA != FULL PRIVATE REPOSITORY ACCESS
+```
+
+---
+
+## 14. Why Rudis may become defensible
+
+Rudis is not attempting to build a moat only from one codebase or one model.
+
+Potential defensibility comes from the combination of:
+
+- constitutional / institutional architecture;
+- authority and competence separation;
+- causal execution design;
+- currentness and revocation discipline;
+- persistent multi-client state;
+- recovery and reconstitution methodology;
+- adversarial testing culture;
+- public Corpus and provenance;
+- private implementation know-how;
+- productization through RAL and Rudis Habitat;
+- accumulated research on failure modes that ordinary application architectures often collapse together.
+
+The project is therefore better understood as an **institutional-systems stack** than as a single application.
+
+---
+
+## 15. Principal risks
+
+An investor should evaluate Rudis with the following risks clearly visible:
+
+### Technical risk
+
+The architecture may fail under integration, concurrency, stale authority, recovery, replay, provider loss or adversarial attack.
+
+### Reproducibility risk
+
+Some technical properties may be demonstrated by builders before they are independently reproduced.
+
+### Product risk
+
+A rigorous architecture does not guarantee product-market fit.
+
+### Commercial risk
+
+Potential business lines remain hypotheses until real customers and real receipts exist.
+
+### Regulatory risk
+
+Public-sector, identity, financial, AI, data and institutional deployments may enter regulated domains.
+
+### Governance risk
+
+The constitutional and corporate layers must remain interoperable without becoming confused.
+
+### Founder / key-person risk
+
+The project currently retains meaningful founder dependency and is actively researching continuity, succession and institutional reconstitution.
+
+### Security risk
+
+The system is not represented as fully secure or end-to-end accredited.
+
+Rudis attempts to make these risks inspectable rather than hide them.
+
+---
+
+## 16. Value milestones
+
+Examples of milestones that could materially increase project value include:
+
+1. independently reproducible PRE-D3 candidate;
+2. successful stale-authority / recovery / replay attack suite;
+3. external adversarial reproduction of both passes and failures;
+4. partner-readable RAL reference architecture;
+5. first controlled strategic integration;
+6. validated Rudis Habitat multi-client continuity;
+7. first credible enterprise or public-sector pilot under the correct legal structure;
+8. first commercial receipts;
+9. repeatable deployment and support model;
+10. evidence that the architecture solves a problem partners will pay to solve.
+
+No individual milestone automatically authorizes the next constitutional or deployment phase.
+
+---
+
+## 17. Recommended first discussion
+
+The first conversation should normally focus on:
+
+```text
+PROBLEM
+-> TECHNICAL THESIS
+-> PRODUCT FIT
+-> CURRENT EVIDENCE
+-> FAILURE MODES
+-> PARTNER-SPECIFIC USE CASE
+-> DILIGENCE PATH
+```
+
+It does **not** need to settle valuation, final Pioneer economics or founder-protection terms.
+
+A useful first meeting is a **30–45 minute technical and strategic review**.
+
+If the thesis survives initial scrutiny:
+
+```text
+TECHNICAL INTEREST
+-> NDA IF WARRANTED
+-> CONTROLLED DILIGENCE
+-> PARTNER-SPECIFIC PROGRAM
+-> DEFINITIVE COMMERCIAL STRUCTURE
+```
+
+---
+
+## 18. Closing investment thesis
+
+Rudis is not asking investors to believe that the architecture already works at production scale.
+
+It is asking whether a growing infrastructure problem deserves disciplined technical validation:
+
+> **As AI systems, platforms and institutions gain the ability to act across increasingly consequential digital environments, the distinction between what a system can do and what it is legitimately authorized to do becomes an infrastructure problem.**
+
+Rudis attempts to make that distinction **executable, inspectable, falsifiable, recoverable and portable across providers and representations.**
+
+The commercial thesis follows the same logic as the technical thesis:
+
+```text
+CAPABILITY != AUTHORITY
+FUNDING != GOVERNANCE
+ACCESS != OWNERSHIP
+PROGRESS != PRODUCTION READINESS
+```
+
+The preferred relationship with investors and strategic partners is therefore simple:
+
+> **Meaningful capital should receive meaningful economic and technical rights. It should not acquire constitutional authority by accident.**
+
+---
+
+# PART II — ESPAÑOL
+
+## 1. Resumen ejecutivo
+
+Proyecto Rudis es un proyecto de arquitectura constitucional, sistemas distribuidos e infraestructura institucional construido alrededor de un problema central:
+
+> **¿Cómo pueden el software, los agentes de IA, las instituciones y los entornos interactivos producir efectos digitales relevantes sin permitir que la capacidad técnica, la representación o el control de una plataforma se conviertan silenciosamente en autoridad?**
+
+Rudis está desarrollando tres superficies de producto estrechamente relacionadas:
+
+### StateOS
+
+Un modelo de estado institucional persistente en el que identidad, competencia, autoridad, evaluación normativa, mandato, ejecución, evidencia, auditoría, continuidad y recuperación permanecen explícitamente separados.
+
+### Rudis Authority Layer — RAL
+
+Una frontera de autoridad agnóstica respecto al modelo para la ejecución de efectos relevantes.
+
+```text
+ACTOR / AGENTE / CLIENTE
+-> INTENCIÓN
+-> IDENTIDAD / CLAIM
+-> COMPETENCIA / AUTORIDAD
+-> EVALUACIÓN DE REGLA
+-> MANDATO
+-> EJECUCIÓN
+-> RECIBO
+-> CONTINUIDAD
+-> AUDITORÍA
+```
+
+RAL es una superficie especializada de ejecución y autoridad dentro de la tesis más amplia de StateOS. No es todo Rudis.
+
+### Rudis Habitat
+
+La expresión habitable de StateOS: un mundo institucional persistente que puede representarse mediante web, móvil, escritorio, VR, MR, motores 3D, clientes de IA, wearables y futuras interfaces sin convertir ninguna superficie concreta en la fuente de autoridad institucional.
+
+```text
+UN ESTADO INSTITUCIONAL CAUSAL
+-> MUCHAS REPRESENTACIONES LEGÍTIMAS
+```
+
+La tesis de inversión **no** afirma que Rudis esté terminado ni preparado para producción.
+
+La tesis es que Rudis ha identificado y arquitectado alrededor de un problema de infraestructura creciente: preservar **autoridad, vigencia, procedencia causal, delegación, continuidad y evidencia** cuando la ejecución relevante atraviesa modelos, aplicaciones, dispositivos, proveedores y mundos persistentes.
+
+---
+
+## 2. Por qué este problema importa ahora
+
+Los sistemas de IA están pasando de generar y recomendar a planificar, delegar, invocar herramientas y producir efectos reales.
+
+Al mismo tiempo, las instituciones dependen cada vez más de software distribuido, plataformas cloud, proveedores de identidad, sistemas de pago, entornos virtuales y APIs externas.
+
+En este contexto, varias confusiones de categoría se vuelven peligrosas:
+
+```text
+AUTENTICACIÓN != AUTORIDAD
+CAPACIDAD != COMPETENCIA
+ACCESO A HERRAMIENTA != AUTORIZACIÓN
+SALIDA DEL MODELO != MANDATO
+SESIÓN != AUTORIDAD
+REPRESENTACIÓN != REALIDAD
+FIRMA VÁLIDA != AUTORIDAD VIGENTE
+RECUPERACIÓN != CREACIÓN DE NUEVA AUTORIDAD
+```
+
+Un sistema puede saber quién es un actor y aun así no saber qué está autorizado a hacer ahora.
+
+Un snapshot puede ser criptográficamente íntegro y conservar una autoridad posteriormente revocada.
+
+Una interfaz puede mostrar estado institucional sin estar autorizada para crear ese estado.
+
+Un agente de IA puede ser técnicamente capaz de realizar una acción sin poseer autoridad legítima para autorizarla.
+
+Rudis trata esas diferencias como arquitectura y no como meras notas de política.
+
+---
+
+## 3. La tesis StateOS
+
+Rudis busca preservar una cadena causal reconstruible desde la decisión institucional legítima hasta el efecto técnico verificable:
+
+```text
+IDENTIDAD / CLAIM
+-> COMPETENCIA
+-> AUTORIDAD
+-> LEY / REGLA
+-> DECISIÓN
+-> MANDATO
+-> EJECUCIÓN
+-> EFECTO
+-> RECIBO
+-> CONTINUIDAD
+-> AUDITORÍA / REVISIÓN
+```
+
+El proyecto trabaja deliberadamente con dos significados relacionados de “estado”:
+
+- **estado del sistema:** qué es verificablemente cierto ahora en un sistema digital;
+- **Estado político / institucional:** quién está legítimamente facultado para decidir qué debe cambiar.
+
+Rudis intenta conectar ambos sin equipararlos.
+
+```text
+SYSTEM STATE != POLITICAL SOVEREIGNTY
+```
+
+De ahí deriva una regla central de ingeniería:
+
+> **El código ejecuta competencias previamente reconocidas; nunca inventa la ley que le falta.**
+
+Cuando existe una dependencia constitucional o política realmente no resuelta, la arquitectura puede detenerse antes que fabricar autoridad:
+
+```text
+UNRESOLVED_CONSTITUTIONAL_DEPENDENCY
+```
+
+---
+
+## 4. Arquitectura de producto
+
+### 4.1 StateOS
+
+StateOS es la capa de estado institucional persistente.
+
+Sus componentes conceptuales incluyen:
+
+- identidad y censo;
+- competencia y delegación;
+- resolución de autoridad;
+- evaluación de ley / regla;
+- mandatos;
+- transiciones de estado institucional;
+- recibos y evidencia causal;
+- auditoría y observabilidad;
+- justicia / revisión;
+- continuidad y recuperación;
+- servicios económicos y de infraestructura;
+- interoperabilidad con Sistemas externos.
+
+El objetivo no es sólo almacenar datos institucionales. Es conservar las condiciones causales que hacen legítimos y reconstruibles los cambios de estado relevantes.
+
+### 4.2 Rudis Authority Layer — RAL
+
+RAL es la frontera de alta garantía entre **intención** y **ejecución relevante**.
+
+Dominios potenciales:
+
+- IA capaz de actuar;
+- agentes empresariales;
+- ejecución modelo→herramienta;
+- automatización delegada;
+- workflows de alta garantía;
+- sistemas multiagente;
+- procesos digitales del sector público;
+- sistemas inmersivos y espaciales.
+
+RAL busca hacer la autoridad explícita, limitada, vigente, atribuible y auditable.
+
+### 4.3 Rudis Habitat
+
+Rudis Habitat hace habitable el estado institucional.
+
+Un participante puede interactuar desde distintas superficies mientras el estado institucional subyacente permanece causalmente coherente:
+
+- móvil;
+- web;
+- escritorio;
+- VR / MR;
+- Unreal / Unity / OpenXR;
+- interfaces espaciales;
+- clientes de agentes de IA;
+- wearables;
+- interfaces de accesibilidad;
+- futuras interfaces físicas o robóticas.
+
+El invariante es:
+
+```text
+SUPERFICIE = VENTANA
+HÁBITAT = MUNDO INSTITUCIONAL PERSISTENTE
+CLIENTE != AUTORIDAD
+```
+
+---
+
+## 5. Arquitectura institucional y frontera de gobernanza
+
+Rudis contiene un Corpus constitucional e institucional público porque el proyecto investiga explícitamente sistemas en los que la ejecución técnica debe permanecer subordinada a autoridad reconocida.
+
+La arquitectura separa funciones como:
+
+- dirección fundacional;
+- deliberación colectiva;
+- formación normativa;
+- ejecución;
+- auditoría;
+- detección de emergencias;
+- resolución de controversias;
+- infraestructura;
+- continuidad;
+- investigación y aprendizaje institucional.
+
+Esta arquitectura constitucional interna no se presenta como soberanía jurídica sobre un Estado-nación.
+
+Rudis se diseña como **infraestructura institucional complementaria**, no como afirmación de que el software por sí solo crea un Estado jurídicamente soberano.
+
+Para inversores y socios, la frontera comercial importante es:
+
+```text
+INVERSIÓN != CONTROL DEL CANON
+GOBIERNO CORPORATIVO != GOBIERNO CONSTITUCIONAL DE RUDIS
+FINANCIACIÓN != AUTORIDAD POLÍTICA
+```
+
+Un futuro inversor podrá negociar derechos económicos y corporativos ordinarios en un vehículo comercial. Esos derechos no se convierten automáticamente en autoridad constitucional dentro de Rudis.
+
+---
+
+## 6. Método de investigación y disciplina técnica
+
+Rudis no considera que la confianza del constructor, una compilación correcta o un CI verde constituyan evidencia suficiente.
+
+La disciplina de investigación se aproxima a:
+
+```text
+CONSTRUIR
+-> ROMPER
+-> REPARAR
+-> REATACAR
+-> REPRODUCIR
+-> RECUPERAR
+-> ACREDITAR
+```
+
+Las investigaciones recientes trabajan problemas como:
+
+- autoridad stale y currentness;
+- replay y revocación;
+- recuperación sin resurrección de autoridad;
+- evidencia causal e independencia de fuentes;
+- continuidad tras migración, pérdida de memoria, forks o pérdida de proveedor;
+- representaciones que sobreviven a su referente autoritativo;
+- coordinator capture y centralidad epistémica;
+- privacidad bajo inferencia acumulativa;
+- reconstitución catastrófica desde fragmentos supervivientes.
+
+Los hallazgos de investigación no se convierten silenciosamente en ley ni en afirmaciones de producción.
+
+```text
+HALLAZGO DE INVESTIGACIÓN != CANON
+PASS DE TEST != PREPARACIÓN PARA PRODUCCIÓN
+PASS DEL CONSTRUCTOR != ACREDITACIÓN INDEPENDIENTE
+```
+
+---
+
+## 7. Madurez actual
+
+Rudis se encuentra actualmente en una campaña PRE-D3 activa.
+
+```text
+PRE-D3 = ACTIVE
+D3 OPEN = NO
+D4 / PRODUCTION = NO
+REAL CUSTOMERS = NO
+REAL MONEY = NO
+```
+
+El proyecto dispone actualmente de:
+
+- Corpus constitucional y arquitectónico público;
+- especificaciones y registros públicos de decisión;
+- implementación privada en desarrollo activo;
+- trabajo de StateOS y clientes;
+- trabajo de integración inmersiva / Unreal;
+- pruebas de restart, recovery, replay y currentness;
+- trabajo de reproducibilidad;
+- hardening de seguridad;
+- revisión adversarial;
+- reglas de divulgación pública y revisión restringida.
+
+Lo que Rudis **no** afirma actualmente como sistema global:
+
+- preparación para producción;
+- preparación empresarial;
+- verificación formal completa end-to-end;
+- acreditación independiente completa;
+- despliegue con clientes reales;
+- operación con dinero real;
+- autorización para integraciones irreversibles de producción.
+
+La disciplina de madurez forma parte del activo:
+
+```text
+PASS DE COMPONENTE != PASS DE SISTEMA
+D3 READY != D3 OPEN
+PREPARACIÓN TÉCNICA != AUTORIZACIÓN POLÍTICA
+```
+
+---
+
+## 8. Oportunidad comercial
+
+Rudis está diseñado para que la arquitectura pública y el valor comercial puedan coexistir.
+
+Líneas comerciales potenciales:
+
+- despliegues empresariales de StateOS / RAL;
+- infraestructura de autoridad y delegación para agentes;
+- ejecución modelo→herramienta de alta garantía;
+- implementación e integración;
+- hosting e infraestructura gestionada;
+- servicios de continuidad y recuperación;
+- seguridad, auditoría y pruebas adversariales;
+- consultoría empresarial y pública;
+- implementaciones de Rudis Habitat;
+- entornos inmersivos / espaciales de referencia;
+- formación profesional y documentación;
+- implementaciones soportadas o certificadas;
+- componentes privados cuando sean licenciables;
+- investigación estratégica y arquitecturas de referencia.
+
+Son hipótesis comerciales a validar, no previsiones de ingresos.
+
+Arquitectura abierta no significa servicios gratuitos.
+
+Pagar por servicios tampoco compra autoridad constitucional.
+
+---
+
+## 9. Arquitectura económica y RU
+
+Rudis investiga además una arquitectura económica interna que incluye RU, reservas, tesorería e interacción con sistemas financieros externos.
+
+Separaciones importantes:
+
+```text
+RESPALDO != EMISIÓN
+SUELO DE RESERVA != PRECIO DE MERCADO
+RAIL DE PAGO != SOBERANÍA MONETARIA
+```
+
+La existencia de un diseño económico no implica que Rudis opere actualmente servicios financieros regulados, rails de dinero real o un sistema monetario vivo autorizado.
+
+Cualquier pago, custodia, cambio, inversión, crédito u otra actividad regulada externa requiere el vehículo jurídico, jurisdicción, licencias y cumplimiento aplicables.
+
+Para diligencia de inversión, RU y la arquitectura económica interna deben entenderse como una **capa económico-institucional diseñada**, no como afirmación de operación financiera regulada actual.
+
+---
+
+## 10. Sistema de Pioneros, procedencia y contribución estratégica
+
+Rudis mantiene una arquitectura de procedencia para distinguir inspiración, precedente, adaptación, interoperabilidad, contribución, reutilización licenciada y participación estratégica material.
+
+La idea rectora es:
+
+```text
+PROCEDENCIA
+-> MATERIALIZACIÓN
+-> RECIPROCIDAD LIMITADA
+```
+
+Un socio estratégico puede recibir, mediante acuerdo definitivo, combinaciones de:
+
+- reconocimiento de procedencia;
+- equity o quasi-equity en un vehículo comercial;
+- deuda o convertibles;
+- participación Pioneer limitada;
+- licencias sobre activos definidos específicamente;
+- derechos de evaluación interna;
+- acceso confidencial vinculado a una finalidad;
+- talleres técnicos;
+- derechos de reproducción independiente y pruebas adversariales;
+- investigación o publicación conjunta;
+- derechos preferentes de negociación estrechamente delimitados;
+- preferencia de integración de referencia.
+
+Pero:
+
+```text
+PIONERO != PROPIETARIO DE RUDIS
+DINERO TEMPRANO != ESTATUS PIONERO AUTOMÁTICO
+RECONOCIMIENTO != DEUDA AUTOMÁTICA
+```
+
+La economía Pioneer cuantificada pertenece a los documentos de financiación y negociación, no a la primera conversación de producto.
+
+---
+
+## 11. Filosofía de financiación
+
+Rudis prefiere financiación que aumente capacidad sin crear dependencia de un único actor ni captura constitucional.
+
+El principio neutral respecto al socio es:
+
+```text
+CAPITAL -> CAPACIDAD
+CONTRIBUCIÓN MATERIAL -> RECIPROCIDAD LIMITADA
+PROYECTO FINANCIADO -> LIDERAZGO FINANCIADO
+CAPITAL != CAPTURA
+```
+
+La financiación puede combinar:
+
+- capital público o cuasi-público;
+- capital estratégico de I+D;
+- socios de infraestructura o plataforma;
+- equity o quasi-equity cuando sea útil;
+- deuda o convertibles;
+- economía Pioneer limitada;
+- licencias y servicios comerciales;
+- compensación del fundador y del equipo como costes operativos explícitos.
+
+La compensación del fundador, su liquidez personal y las reservas estratégicas del programa son mecanismos distintos y deben permanecer transparentemente separados.
+
+Las cifras objetivo, estructuras de term sheet, alternativas de capital y protecciones fundacionales se mantienen en los documentos específicos de financiación enlazados desde el External Reading Hub.
+
+---
+
+## 12. Qué puede recibir un inversor o socio estratégico
+
+Dependiendo de la contribución, diligencia y negociación definitiva, un socio puede recibir derechos económicos y técnicos legítimos.
+
+Ejemplos:
+
+- reporting de hitos;
+- reporting financiero de programas financiados;
+- derechos de diligencia vinculados a finalidad;
+- integración de referencia;
+- derechos de evaluación interna;
+- licencias comerciales donde los derechos lo permitan;
+- derechos corporativos en un vehículo comercial;
+- derechos preferentes temporales de negociación;
+- participación económica limitada;
+- derechos de evaluación técnica independiente.
+
+Ningún socio recibe por defecto:
+
+- control del Canon;
+- autoridad del Strategos;
+- control de la Asamblea;
+- control del Botón Rojo;
+- ciudadanía o votos;
+- control de política RU;
+- control de fondos institucionales por el mero hecho de financiar;
+- propiedad general de toda IP actual o futura del fundador;
+- exclusividad general perpetua;
+- acceso irrestricto a la Forja privada;
+- autorización automática de D3, D4 o producción.
+
+---
+
+## 13. Seguridad y divulgación progresiva
+
+Rudis está diseñado para ser auditable sin convertir el repositorio público en un inventario operativo de ataque.
+
+La revisión externa es deliberadamente progresiva:
+
+### Revisión pública
+
+- Corpus público;
+- documentos públicos de producto y arquitectura;
+- declaración de madurez;
+- postura de seguridad sanitizada;
+- investigación y evidencia de auditoría pública cuando corresponda.
+
+### Revisión bajo NDA / diligencia
+
+- arquitectura más profunda;
+- evidencia seleccionada;
+- materiales de licencia y procedencia;
+- resúmenes de reproducibilidad;
+- threat models sanitizados;
+- registros de riesgo residual.
+
+### Revisión técnica restringida
+
+Sólo cuando esté justificado:
+
+- candidatos exactos de evaluación;
+- implementación privada seleccionada;
+- artefactos detallados de reproducción;
+- evidencia de vulnerabilidad bajo reglas de divulgación responsable.
+
+```text
+TRANSPARENCIA != DIVULGACIÓN OPERATIVA IRRESTRICTA
+NDA != ACCESO COMPLETO AL REPOSITORIO PRIVADO
+```
+
+---
+
+## 14. Por qué Rudis puede llegar a ser defendible
+
+Rudis no intenta construir su moat únicamente sobre un código o un modelo.
+
+La defensibilidad potencial procede de la combinación de:
+
+- arquitectura constitucional / institucional;
+- separación de autoridad y competencia;
+- diseño de ejecución causal;
+- disciplina de currentness y revocación;
+- estado persistente multi-cliente;
+- metodología de recovery y reconstitución;
+- cultura de pruebas adversariales;
+- Corpus público y procedencia;
+- know-how de implementación privada;
+- productización mediante RAL y Rudis Habitat;
+- investigación acumulada sobre fallos que las arquitecturas de aplicación ordinarias suelen colapsar entre sí.
+
+Por ello, el proyecto se entiende mejor como un **stack de sistemas institucionales** que como una sola aplicación.
+
+---
+
+## 15. Riesgos principales
+
+Un inversor debería evaluar Rudis con estos riesgos claramente visibles:
+
+### Riesgo técnico
+
+La arquitectura puede fallar ante integración, concurrencia, autoridad stale, recovery, replay, pérdida de proveedor o ataque adversarial.
+
+### Riesgo de reproducibilidad
+
+Algunas propiedades técnicas pueden ser demostradas por constructores antes de ser reproducidas independientemente.
+
+### Riesgo de producto
+
+Una arquitectura rigurosa no garantiza product-market fit.
+
+### Riesgo comercial
+
+Las líneas de negocio potenciales siguen siendo hipótesis hasta que existan clientes y cobros reales.
+
+### Riesgo regulatorio
+
+Despliegues públicos, de identidad, financieros, de IA, datos o institucionales pueden entrar en dominios regulados.
+
+### Riesgo de gobernanza
+
+Las capas constitucional y corporativa deberán interoperar sin confundirse.
+
+### Riesgo fundador / persona clave
+
+El proyecto mantiene actualmente una dependencia material del fundador y está investigando activamente continuidad, sucesión y reconstitución institucional.
+
+### Riesgo de seguridad
+
+El sistema no se presenta como plenamente seguro ni acreditado end-to-end.
+
+Rudis intenta hacer estos riesgos inspeccionables en lugar de ocultarlos.
+
+---
+
+## 16. Hitos de valor
+
+Ejemplos de hitos que podrían aumentar materialmente el valor del proyecto:
+
+1. candidato PRE-D3 reproducible independientemente;
+2. suite adversarial satisfactoria de stale authority / recovery / replay;
+3. reproducción externa tanto de PASS como de FAIL;
+4. arquitectura de referencia RAL legible por socios;
+5. primera integración estratégica controlada;
+6. continuidad multi-cliente de Rudis Habitat validada;
+7. primer piloto empresarial o público creíble bajo la estructura jurídica correcta;
+8. primeros cobros comerciales;
+9. modelo repetible de despliegue y soporte;
+10. evidencia de que la arquitectura resuelve un problema por el que terceros pagan.
+
+Ningún hito individual autoriza automáticamente la siguiente fase constitucional o de despliegue.
+
+---
+
+## 17. Primera conversación recomendada
+
+La primera conversación debería centrarse normalmente en:
+
+```text
+PROBLEMA
+-> TESIS TÉCNICA
+-> ENCAJE DE PRODUCTO
+-> EVIDENCIA ACTUAL
+-> MODOS DE FALLO
+-> CASO DE USO DEL SOCIO
+-> RUTA DE DILIGENCIA
+```
+
+No necesita resolver valoración, economía Pioneer final ni términos de protección fundacional.
+
+Una primera reunión útil es una **revisión técnica y estratégica de 30–45 minutos**.
+
+Si la tesis sobrevive al primer escrutinio:
+
+```text
+INTERÉS TÉCNICO
+-> NDA SI PROCEDE
+-> DILIGENCIA CONTROLADA
+-> PROGRAMA ESPECÍFICO DEL SOCIO
+-> ESTRUCTURA COMERCIAL DEFINITIVA
+```
+
+---
+
+## 18. Cierre de la tesis de inversión
+
+Rudis no pide a los inversores que crean que la arquitectura ya funciona a escala de producción.
+
+Pregunta si un problema creciente de infraestructura merece validación técnica disciplinada:
+
+> **A medida que los sistemas de IA, plataformas e instituciones adquieren capacidad para actuar en entornos digitales cada vez más relevantes, la diferencia entre lo que un sistema puede hacer y lo que está legítimamente autorizado a hacer se convierte en un problema de infraestructura.**
+
+Rudis intenta hacer esa diferencia **ejecutable, inspeccionable, falsable, recuperable y portable entre proveedores y representaciones.**
+
+La tesis comercial sigue la misma lógica que la tesis técnica:
+
+```text
+CAPACIDAD != AUTORIDAD
+FINANCIACIÓN != GOBIERNO
+ACCESO != PROPIEDAD
+PROGRESO != PREPARACIÓN PARA PRODUCCIÓN
+```
+
+La relación preferida con inversores y socios estratégicos puede resumirse así:
+
+> **El capital significativo debe recibir derechos económicos y técnicos significativos. No debe adquirir autoridad constitucional por accidente.**
+
+---
+
+## Navigation / Navegación
+
+**General external hub / Hub externo general:**  
+https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/README.md
+
+**Investor Read First:**  
+https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Investor_Read_First.md
+
+**Public One-Pager:**  
+https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Rudis_Meta_Public_OnePager.md
+
+**Strategic Partner / Investor Deck:**  
+https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Strategic_Partner_Deck_Content.md
+
+**Maturity & Limits / Madurez y límites:**  
+https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Maturity_and_Limits_Statement.md
+
+**Technical public brief / Brief técnico público:**  
+https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/RAL_Public_Architecture_Brief.md
+
+**Financing structure / Estructura de financiación:**  
+https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Financing_Principles_and_Founder_Autonomy.md
+
+**Restricted review / Revisión restringida:**  
+https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Restricted_Review_Protocol.md
