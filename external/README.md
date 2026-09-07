@@ -34,7 +34,7 @@ For a first investment or strategic-partner review, read **only these four docum
 
 1. [Investor Read First](./Investor_Read_First.md)
 2. [Investor & Strategic Partner Dossier — EN / ES](./Rudis_Investor_Introduction_ES_EN.md)
-3. [Public One-Pager](./Rudis_Meta_Public_OnePager.md)
+3. [Public One-Pager](./Rudis_Public_OnePager.md)
 4. [Strategic Partner / Investor Deck Content](./Strategic_Partner_Deck_Content.md)
 
 Then, if there is real fit, continue through the technical and financing routes below.
@@ -56,7 +56,7 @@ Do not begin a first conversation with the data room, vulnerability material, te
 ## General public / product
 
 1. [Project repository](../README.md)
-2. [Public One-Pager](./Rudis_Meta_Public_OnePager.md)
+2. [Public One-Pager](./Rudis_Public_OnePager.md)
 3. [Product Surface](../products/README.md)
 4. [Rudis Habitat](../products/Rudis_Habitat.md)
 5. [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)
@@ -116,7 +116,7 @@ PROJECT / PRODUCT THESIS
 When a credible evaluation requires deeper evidence:
 
 1. [Restricted Review Protocol](./Restricted_Review_Protocol.md)
-2. [NDA Data Room Index](./Meta_NDA_Data_Room_Index.md)
+2. [NDA Data Room Index](./NDA_Data_Room_Index.md)
 3. [IP / License / Provenance Matrix](./IP_License_Provenance_Matrix.md)
 4. [Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
 
@@ -137,6 +137,8 @@ Partner-specific documents implement the general framework; they do not create s
 Start with [Meta Read First](./Meta_Read_First.md), then use the Meta-specific narrative and financing materials linked there.
 
 The current preferred staged financing reference and any earlier / alternative Meta scenarios must be distinguished explicitly; partner-specific numbers remain negotiation hypotheses unless embodied in definitive agreements.
+
+Legacy Meta-named public documents may remain for backward compatibility. Generic external routes are the default for new visitors.
 
 ---
 
