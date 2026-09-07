@@ -2,15 +2,17 @@
 
 This is the preferred **first public entry point** for investors and strategic partners evaluating Project Rudis.
 
+For the broader external navigation map, use [External Reading Hub](./README.md). If you entered this directory by browsing files, [00_START_HERE.md](./00_START_HERE.md) provides the shortest orientation.
+
 Rudis is developing **StateOS** and **Rudis Habitat**: infrastructure for persistent institutional state across multiple digital systems, clients and agentic interfaces while preserving explicit boundaries between identity, capability, delegation, competence, authority, execution, evidence and continuity.
 
 > **A representation of state does not acquire authority over reality merely by claiming to represent it.**
 
-This page is intentionally short. It explains **what to read, in what order, and what not to infer**.
+This page explains **what to read, in what order, and what not to infer**.
 
 ---
 
-## 1. The investment thesis in one paragraph
+## 1. Investment thesis
 
 As AI systems, digital institutions, immersive environments and distributed software gain the ability to act, the cost of confusing **technical capability** with **legitimate authority** increases.
 
@@ -32,7 +34,7 @@ The thesis is not that Rudis is finished. The thesis is that the authority / cur
 
 ---
 
-## 2. Current maturity — read this before any commercial discussion
+## 2. Current maturity — read before commercial terms
 
 ```text
 PRE-D3 = ACTIVE
@@ -44,39 +46,48 @@ REAL MONEY = NO
 
 Rudis has a public constitutional / architectural Corpus and a private implementation under active development and adversarial testing.
 
-Component progress does not silently compose into production readiness.
-
 ```text
 COMPONENT PASS != SYSTEM PASS
 TECHNICAL READINESS != POLITICAL AUTHORIZATION
 CI GREEN != ACCREDITATION
 ```
 
-For the full external boundary, read:
-
-- [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)
+Full boundary: [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md).
 
 ---
 
-## 3. Recommended first-contact package
+## 3. First-contact package
 
-For an initial investor or strategic-partner conversation, use only these four documents:
+For an initial investor or strategic-partner conversation, use these four documents:
 
 1. **This page** — orientation and maturity.
-2. [Rudis Investor Introduction — ES / EN](./Rudis_Investor_Introduction_ES_EN.md) — complete project and investment thesis.
+2. [Investor & Strategic Partner Dossier — EN / ES](./Rudis_Investor_Introduction_ES_EN.md) — complete project and investment thesis, English first and Spanish second.
 3. [Public One-Pager](./Rudis_Meta_Public_OnePager.md) — compact architecture / maturity summary.
 4. [Strategic Partner / Investor Deck Content](./Strategic_Partner_Deck_Content.md) — 8–10 slide narrative blueprint.
 
-Do **not** begin a first conversation with a data room, vulnerability dossier, term sheet or detailed founder-rights negotiation unless the counterparty has already established serious fit.
+Do **not** begin a first conversation with a data room, vulnerability dossier, term sheet or detailed founder-rights negotiation unless serious fit already exists.
+
+Recommended sequence:
+
+```text
+THESIS
+-> PRODUCT
+-> MATURITY
+-> TECHNICAL / STRATEGIC FIT
+-> DILIGENCE
+-> FINANCING
+-> TERMS
+```
 
 ---
 
-## 4. What Rudis is financing
+## 4. What a strategic program may finance
 
-A strategic program may finance some combination of:
+A program may finance some combination of:
 
 - StateOS authority and execution architecture;
 - Rudis Habitat;
+- RAL / high-assurance authority boundary work;
 - reproducibility and independent falsification;
 - restart / recovery / stale-state handling;
 - security hardening;
@@ -86,7 +97,7 @@ A strategic program may finance some combination of:
 - legal, IP and compliance preparation;
 - team and founder operating capacity.
 
-The program should be staged around **evidence**, not feature count.
+Programs should be staged around **evidence**, not feature count.
 
 ```text
 AGREED GATE
@@ -108,11 +119,7 @@ COMPANY GOVERNANCE != RUDIS CONSTITUTIONAL GOVERNANCE
 ACCOUNTABILITY != CAPTURE
 ```
 
-A funded program must also fund the human and institutional capacity required to execute it responsibly.
-
-Detailed financing principles belong in later-stage diligence, not in the opening pitch.
-
-When appropriate, continue with:
+Detailed financing architecture belongs after technical / strategic fit is established:
 
 - [Funding Strategy & Target Ladder 2026](./Funding_Strategy_and_Target_Ladder_2026.md)
 - [Financing Principles & Founder Autonomy](./Financing_Principles_and_Founder_Autonomy.md)
@@ -124,7 +131,7 @@ Any numerical term in these materials is a **negotiation framework**, not an ent
 
 ---
 
-## 6. What a strategic partner may receive
+## 6. What a partner may receive — and what financing does not buy
 
 Depending on contribution, diligence and definitive negotiation, a partner may receive an appropriate combination of:
 
@@ -137,8 +144,7 @@ Depending on contribution, diligence and definitive negotiation, a partner may r
 - independent reproduction / adversarial-testing rights;
 - reference-integration opportunities;
 - research collaboration;
-- narrow, time-limited negotiation preferences;
-- other negotiated commercial rights.
+- narrow, time-limited negotiation preferences.
 
 No partner receives by default:
 
@@ -156,83 +162,72 @@ No partner receives by default:
 
 ## 7. Technical diligence path
 
-When strategic fit exists, technical review should deepen progressively:
-
-1. [RAL Public Architecture Brief](./RAL_Public_Architecture_Brief.md)
-2. [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)
-3. [Sanitized Security Posture](./Sanitized_Security_Posture.md)
-4. [Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
-5. [Restricted Review Protocol](./Restricted_Review_Protocol.md), if deeper review is justified
-6. [NDA Data Room Index](./Meta_NDA_Data_Room_Index.md), where applicable
+When strategic fit exists:
 
 ```text
-TRANSPARENCY != UNRESTRICTED OPERATIONAL DISCLOSURE
+PUBLIC ARCHITECTURE
+-> MATURITY / SECURITY POSTURE
+-> SANITIZED EVIDENCE
+-> NDA IF NEEDED
+-> PURPOSE-BOUND RESTRICTED REVIEW
+-> INDEPENDENT REPRODUCTION / ATTACK
+```
+
+Start with:
+
+- [RAL Public Architecture Brief](./RAL_Public_Architecture_Brief.md)
+- [Sanitized Security Posture](./Sanitized_Security_Posture.md)
+- [Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
+
+For deeper review:
+
+- [Restricted Review Protocol](./Restricted_Review_Protocol.md)
+- [NDA Data Room Index](./Meta_NDA_Data_Room_Index.md)
+
+```text
 NDA != FULL PRIVATE REPOSITORY ACCESS
 ```
 
 ---
 
-## 8. Partner-specific proposals
-
-Partner-specific proposals are **applications of the same general principles**, not separate constitutions.
-
-For example, the Meta materials explore one possible staged strategic program and one possible Pioneer / financing structure. Those numbers and rights are hypotheses for negotiation with that partner; they do not define what every future investor must receive or pay.
+## 8. Product map
 
 ```text
-SAME PRINCIPLES
--> DIFFERENT FACTS
--> DIFFERENT CONTRACT
+PROJECT RUDIS
+├── StateOS
+│   └── RAL / Authority Layer
+└── Rudis Habitat
 ```
 
-Meta-specific entry point:
+- **StateOS** — causal institutional-state and authority architecture.
+- **RAL** — specialized authority boundary for consequential execution.
+- **Rudis Habitat** — habitable persistent institutional expression across multiple legitimate representations.
 
-- [Meta Read First](./Meta_Read_First.md)
+Product navigation: [Product Surface](../products/README.md).
 
 ---
 
 ## 9. Recommended first discussion
 
-The first conversation should answer four questions:
+A useful first meeting is **30–45 minutes** and should answer only:
 
-1. **Is the authority / continuity problem strategically real for this partner?**
-2. **Does Rudis contain a technically interesting approach worth falsifying?**
-3. **What contribution could the partner uniquely provide?**
-4. **Is there a staged diligence path that preserves both accountability and project independence?**
+1. Is the problem strategically relevant?
+2. Is the Rudis architecture differentiated enough to merit diligence?
+3. Are the maturity limits understood?
+4. Which integration / product surface is worth testing?
+5. What evidence would cause the investor or partner to stop?
+6. If the thesis survives, what staged diligence and financing structure makes sense?
 
-A useful sequence is:
-
-```text
-TECHNICAL / STRATEGIC FIT
--> CONTROLLED DILIGENCE
--> CONTRIBUTION DOMAIN
--> PROGRAM SCOPE
--> CAPITAL STRUCTURE
--> DEFINITIVE COMMERCIAL TERMS
-```
-
-Valuation, exclusivity and final economics do not need to be settled in the first meeting.
-
----
-
-## 10. Full external map
-
-For every public investor, technical, financing and restricted-review document, use:
-
-- [External Reading Hub](./README.md)
+The first conversation does not need to settle valuation or final economics.
 
 ---
 
 ## Final principle
 
-> **Rudis is willing to exchange meaningful economic rights for meaningful material contribution. It is not willing to sell constitutional authority by implication.**
-
-And the technical invitation remains deliberately falsifiable:
-
-> **Do not believe that Rudis works. Help determine whether it survives when someone competent tries to break it.**
+> **Rudis is willing to offer meaningful economic and technical rights for meaningful material contribution. It is not willing to sell constitutional authority as a side effect of financing.**
 
 ```text
 CAPITAL -> CAPABILITY
-EVIDENCE -> NEXT GATE
-MATERIAL CONTRIBUTION -> NEGOTIATED RECIPROCITY
+MATERIAL CONTRIBUTION -> BOUNDED RECIPROCITY
 CAPITAL != CAPTURE
 ```
