@@ -20,7 +20,7 @@ Start here:
 
 1. [Investor / Strategic Partner Read First](external/Investor_Read_First.md)
 2. [Investor & Strategic Partner Dossier — EN / ES](external/Rudis_Investor_Introduction_ES_EN.md)
-3. [Public One-Pager](external/Rudis_Meta_Public_OnePager.md)
+3. [Public One-Pager](external/Rudis_Public_OnePager.md)
 4. [Strategic Partner / Investor Deck Content](external/Strategic_Partner_Deck_Content.md)
 
 Then use the [External Reading Hub](external/README.md) for technical diligence, financing architecture, NDA/restricted review and partner-specific tracks.
