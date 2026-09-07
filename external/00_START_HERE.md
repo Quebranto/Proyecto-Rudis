@@ -8,7 +8,7 @@ Start with:
 
 1. [Investor Read First](./Investor_Read_First.md)
 2. [Investor & Strategic Partner Dossier — EN / ES](./Rudis_Investor_Introduction_ES_EN.md)
-3. [Public One-Pager](./Rudis_Meta_Public_OnePager.md)
+3. [Public One-Pager](./Rudis_Public_OnePager.md)
 4. [Strategic Partner / Investor Deck Content](./Strategic_Partner_Deck_Content.md)
 
 For the full external map, continue to [External Reading Hub](./README.md).
@@ -25,7 +25,7 @@ For the full external map, continue to [External Reading Hub](./README.md).
 Do not assume that an NDA means unrestricted repository access. Use:
 
 - [Restricted Review Protocol](./Restricted_Review_Protocol.md)
-- [NDA Data Room Index](./Meta_NDA_Data_Room_Index.md)
+- [NDA Data Room Index](./NDA_Data_Room_Index.md)
 - [IP / License / Provenance Matrix](./IP_License_Provenance_Matrix.md)
 
 ## Current maturity
