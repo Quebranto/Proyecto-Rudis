@@ -1,260 +1,238 @@
 # Project Rudis — Investor / Strategic Partner Read First
 
-This page is the public starting point for investors, strategic partners, research partners and infrastructure partners evaluating Project Rudis.
+This is the preferred **first public entry point** for investors and strategic partners evaluating Project Rudis.
 
-Rudis is developing **StateOS** and **Rudis Habitat**: infrastructure for persistent institutional state across multiple digital systems, clients and agentic interfaces while preserving explicit boundaries between capability, identity, delegation, competence and authority.
+Rudis is developing **StateOS** and **Rudis Habitat**: infrastructure for persistent institutional state across multiple digital systems, clients and agentic interfaces while preserving explicit boundaries between identity, capability, delegation, competence, authority, execution, evidence and continuity.
 
-This page is intentionally **partner-neutral**. It is not written for one company.
+> **A representation of state does not acquire authority over reality merely by claiming to represent it.**
 
----
-
-## 1. What Rudis is
-
-Start with the public repository and product materials:
-
-- Project repository: `https://github.com/Quebranto/Proyecto-Rudis`
-- Rudis Habitat product line: `products/Rudis_Habitat.md`
-- StateOS / world-interface specification: `Quebranto-12 State OS y Interfaz Soberana de Rudis.md`
-
-Core product invariant:
-
-`ONE CAUSAL INSTITUTIONAL STATE -> MANY LEGITIMATE REPRESENTATIONS`
-
-`CLIENT != AUTHORITY`
-
-`CAPABILITY != AUTHORITY`
+This page is intentionally short. It explains **what to read, in what order, and what not to infer**.
 
 ---
 
-## 2. Maturity boundary
+## 1. The investment thesis in one paragraph
 
-Rudis is not presented as production-ready.
+As AI systems, digital institutions, immersive environments and distributed software gain the ability to act, the cost of confusing **technical capability** with **legitimate authority** increases.
 
-Publicly communicable posture remains:
+Rudis investigates a stricter execution model:
+
+```text
+INTENT
+-> IDENTITY / CLAIM
+-> COMPETENCE / AUTHORITY
+-> RULE EVALUATION
+-> MANDATE
+-> EXECUTION
+-> RECEIPT
+-> CONTINUITY
+-> AUDIT
+```
+
+The thesis is not that Rudis is finished. The thesis is that the authority / currentness / continuity problem is becoming strategically important enough to justify serious technical diligence and staged financing.
+
+---
+
+## 2. Current maturity — read this before any commercial discussion
 
 ```text
 PRE-D3 = ACTIVE
 D3 OPEN = NO
-PRODUCTION = NO
+D4 / PRODUCTION = NO
 REAL CUSTOMERS = NO
 REAL MONEY = NO
 ```
 
-Technical work, prototypes, evidence and research do not silently authorize deployment.
+Rudis has a public constitutional / architectural Corpus and a private implementation under active development and adversarial testing.
 
-`TECHNICAL READINESS != POLITICAL AUTHORIZATION`
+Component progress does not silently compose into production readiness.
+
+```text
+COMPONENT PASS != SYSTEM PASS
+TECHNICAL READINESS != POLITICAL AUTHORIZATION
+CI GREEN != ACCREDITATION
+```
+
+For the full external boundary, read:
+
+- [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)
 
 ---
 
-## 3. Financing philosophy
+## 3. Recommended first-contact package
 
-Read:
+For an initial investor or strategic-partner conversation, use only these four documents:
 
-`external/Financing_Principles_and_Founder_Autonomy.md`
+1. **This page** — orientation and maturity.
+2. [Rudis Investor Introduction — ES / EN](./Rudis_Investor_Introduction_ES_EN.md) — complete project and investment thesis.
+3. [Public One-Pager](./Rudis_Meta_Public_OnePager.md) — compact architecture / maturity summary.
+4. [Strategic Partner / Investor Deck Content](./Strategic_Partner_Deck_Content.md) — 8–10 slide narrative blueprint.
 
-and:
+Do **not** begin a first conversation with a data room, vulnerability dossier, term sheet or detailed founder-rights negotiation unless the counterparty has already established serious fit.
 
-`external/Founder_Compensation_and_Continuity_Framework.md`
+---
 
-Core principles:
+## 4. What Rudis is financing
 
-`FUNDING != GOVERNANCE AUTHORITY`
+A strategic program may finance some combination of:
 
-`INVESTMENT != CANON CONTROL`
+- StateOS authority and execution architecture;
+- Rudis Habitat;
+- reproducibility and independent falsification;
+- restart / recovery / stale-state handling;
+- security hardening;
+- multi-client and agent integration;
+- institutional / enterprise integration;
+- research, engineering and productization;
+- legal, IP and compliance preparation;
+- team and founder operating capacity.
 
-`ACCOUNTABILITY != CAPTURE`
-
-`FUNDED PROJECT -> FUNDED LEADERSHIP`
-
-For a fully funded full-time Founder / chief executive / chief architect / strategic leadership role, the current partner-neutral compensation baseline is:
-
-- **USD 240,000 gross annual target**;
-- **USD 180,000 gross annual negotiating floor** where the program is sufficiently capitalized;
-- lower temporary compensation only where objectively justified by runway, legal eligibility or financing size, with explicit review mechanics.
-
-Founder compensation is a structural operating cost of Rudis / Quebranto, not a favor owed by one investor.
-
-Preferred Founder Strategic Reserve for substantial strategic financing:
-
-- **12% target** of committed capital;
-- **10% negotiating floor** unless expressly agreed otherwise;
-- aggregate accounting and reporting;
-- no transaction-by-transaction approval for ordinary lawful use within scope.
-
-Founder salary, Founder personal liquidity and Founder Strategic Reserve are separate mechanisms.
+The program should be staged around **evidence**, not feature count.
 
 ```text
-SALARY != LIQUIDITY != STRATEGIC RESERVE
+AGREED GATE
+-> EVIDENCE PACKAGE
+-> REVIEW
+-> NEXT COMMITMENT
 ```
 
 ---
 
-## 4. General Pioneer economics
+## 5. Financing principles
 
-Read:
-
-`external/General_Pioneer_Economic_Reciprocity_Framework.md`
-
-This is the single quantified default commercial baseline for Pioneer reciprocity.
-
-### Default classes
-
-| Class | Default participation | Max term | Default cap |
-|---|---:|---:|---:|
-| **P-0 — Category-Making / Founding Pioneer** | **5.0% ANCR** | **10 years** | **2.25x ECRV** |
-| **P-1 — Early Material Pioneer** | **3.0%** | **8 years** | **1.75x** |
-| **P-2 — Strategic Material Pioneer** | **1.5%** | **6 years** | **1.50x** |
-| **P-3 — Contributor Pioneer** | **0.25–1.0%** or fixed grant/bounty | **3–5 years** | normally **<=1.25x** if percentage-based |
-
-Aggregate Pioneer participation on any single attributable commercial line:
-
-# <=15% OF ATTRIBUTABLE NET COMMERCIAL RECEIPTS
-
-Pioneer economics arise only through definitive agreement and materialization.
-
-`EARLY MONEY != P-0`
-
-`PROVENANCE -> MATERIALIZATION -> RECIPROCITY`
-
----
-
-## 5. What qualifies as Materialization
-
-Baseline:
+Rudis welcomes capital, infrastructure, research collaboration and strategic distribution without treating investment as constitutional authority.
 
 ```text
-REGISTERED CONTRIBUTION
-+ MATERIAL CAUSAL CONNECTION
-+ REAL PRODUCT / SERVICE / LICENSE / DEPLOYMENT
-+ CASH ACTUALLY RECEIVED
-= MATERIALIZATION
+FUNDING != GOVERNANCE AUTHORITY
+INVESTMENT != CANON CONTROL
+COMPANY GOVERNANCE != RUDIS CONSTITUTIONAL GOVERNANCE
+ACCOUNTABILITY != CAPTURE
 ```
 
-A press release, prototype or investment announcement alone does not create receipt-based Pioneer payments.
+A funded program must also fund the human and institutional capacity required to execute it responsibly.
+
+Detailed financing principles belong in later-stage diligence, not in the opening pitch.
+
+When appropriate, continue with:
+
+- [Funding Strategy & Target Ladder 2026](./Funding_Strategy_and_Target_Ladder_2026.md)
+- [Financing Principles & Founder Autonomy](./Financing_Principles_and_Founder_Autonomy.md)
+- [Capital Structure Options](./Capital_Structure_Options.md)
+- [Founder Compensation & Continuity Framework](./Founder_Compensation_and_Continuity_Framework.md)
+- [Strategic Financing Term Sheet Framework](./Strategic_Financing_Term_Sheet_Framework.md)
+
+Any numerical term in these materials is a **negotiation framework**, not an entitlement, valuation, securities offer or binding commitment unless incorporated into a definitive agreement.
 
 ---
 
-## 6. Equity and Pioneer rights are different
+## 6. What a strategic partner may receive
 
-An investor can hold equity without being a Pioneer.
+Depending on contribution, diligence and definitive negotiation, a partner may receive an appropriate combination of:
 
-A Pioneer can receive bounded reciprocity without receiving equity.
-
-A strategic partner can hold both, but the total economic bargain must be reviewed for double counting.
-
-```text
-EQUITY -> COMPANY ECONOMIC / CORPORATE RIGHTS
-PIONEER RIGHT -> ATTRIBUTABLE MATERIALIZATION RECIPROCITY
-FOUNDER SALARY -> COMPENSATION FOR WORK
-RUDIS CANON -> SEPARATE CONSTITUTIONAL DOMAIN
-```
-
-No financing instrument automatically creates constitutional authority inside Rudis.
-
----
-
-## 7. Capital-structure options
-
-Read:
-
-`external/Capital_Structure_Options.md`
-
-Rudis prefers diversified financing rather than dependence on one patron:
-
-```text
-PUBLIC / QUASI-PUBLIC CAPITAL
-+ STRATEGIC R&D CAPITAL
-+ MATERIAL PLATFORM PARTNERS
-+ LIMITED EQUITY WHEN USEFUL
-+ BOUNDED PIONEER RECIPROCITY
-+ FOUNDER RETAINED RIGHTS
-= FINANCING WITHOUT SINGLE-PARTY CAPTURE
-```
-
-The consolidated operating budget should include Founder compensation where legally eligible and economically sustainable. Where a restricted source cannot fund it, another lawful unrestricted source should cover the non-eligible portion rather than silently assuming unpaid Founder labor.
-
----
-
-## 8. What a strategic partner may receive
-
-Depending on contribution and definitive negotiation, a partner may receive an appropriate combination of:
-
-- equity or quasi-equity in a commercial vehicle;
-- debt/convertible rights;
-- bounded Pioneer participation;
-- permanent provenance recognition;
-- licenses to specifically defined licensable assets;
+- equity, debt or convertible rights in an appropriate commercial vehicle;
+- bounded commercial participation;
+- provenance / Pioneer recognition where earned;
+- specifically defined licenses where rights permit;
 - internal evaluation rights;
 - purpose-bound confidential technical access;
-- technical workshops;
-- independent reproduction/adversarial testing rights;
-- joint research/publication;
-- narrowly scoped ROFN;
-- launch/reference integration preference;
+- independent reproduction / adversarial-testing rights;
+- reference-integration opportunities;
+- research collaboration;
+- narrow, time-limited negotiation preferences;
 - other negotiated commercial rights.
 
 No partner receives by default:
 
 - Canon control;
-- Strategos authority;
-- Assembly control;
+- Strategos or Assembly authority;
 - Red Button control;
-- citizenship/votes;
-- RU policy;
-- Sovereign Fund control;
-- blanket current/future founder IP;
-- perpetual general exclusivity;
+- citizenship or votes;
+- RU policy authority;
 - unrestricted private Forge access;
-- automatic production authorization.
+- blanket current or future founder IP;
+- perpetual general exclusivity;
+- automatic D3 or production authorization.
 
 ---
 
-## 9. Partner-specific proposals
+## 7. Technical diligence path
 
-Partner-specific proposals are implementations of the general framework, not separate constitutions.
+When strategic fit exists, technical review should deepen progressively:
 
-For example, the existing Meta proposal uses a P-0-style 5% / 10-year / 2.25x structure for a hypothetical USD 20M category-making contribution. It also applies the same Founder compensation and continuity framework used for any sufficiently capitalized strategic mission.
+1. [RAL Public Architecture Brief](./RAL_Public_Architecture_Brief.md)
+2. [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)
+3. [Sanitized Security Posture](./Sanitized_Security_Posture.md)
+4. [Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
+5. [Restricted Review Protocol](./Restricted_Review_Protocol.md), if deeper review is justified
+6. [NDA Data Room Index](./Meta_NDA_Data_Room_Index.md), where applicable
 
-That does **not** mean Meta uniquely pays or employs the Founder. Meta would merely be one possible financing source contributing to a consolidated operating mission budget.
-
-Future Qualcomm, Samsung, Google, NVIDIA, Microsoft, Epic, public-funding or other proposals should begin from the same general frameworks and vary only where contribution facts or legal instrument rules justify it.
-
-`SAME PRINCIPLES -> DIFFERENT FACTS -> DIFFERENT CONTRACT`
+```text
+TRANSPARENCY != UNRESTRICTED OPERATIONAL DISCLOSURE
+NDA != FULL PRIVATE REPOSITORY ACCESS
+```
 
 ---
 
-## 10. Recommended first discussion
+## 8. Partner-specific proposals
 
-The first conversation does not need to settle valuation or final economics.
+Partner-specific proposals are **applications of the same general principles**, not separate constitutions.
+
+For example, the Meta materials explore one possible staged strategic program and one possible Pioneer / financing structure. Those numbers and rights are hypotheses for negotiation with that partner; they do not define what every future investor must receive or pay.
+
+```text
+SAME PRINCIPLES
+-> DIFFERENT FACTS
+-> DIFFERENT CONTRACT
+```
+
+Meta-specific entry point:
+
+- [Meta Read First](./Meta_Read_First.md)
+
+---
+
+## 9. Recommended first discussion
+
+The first conversation should answer four questions:
+
+1. **Is the authority / continuity problem strategically real for this partner?**
+2. **Does Rudis contain a technically interesting approach worth falsifying?**
+3. **What contribution could the partner uniquely provide?**
+4. **Is there a staged diligence path that preserves both accountability and project independence?**
 
 A useful sequence is:
 
 ```text
 TECHNICAL / STRATEGIC FIT
+-> CONTROLLED DILIGENCE
 -> CONTRIBUTION DOMAIN
--> MATERIALITY / CAUSALITY
--> CAPITAL / CAPABILITY PACKAGE
--> CONSOLIDATED OPERATING BUDGET
--> FOUNDER + TEAM COMPENSATION
--> CANDIDATE PIONEER CLASS
--> DILIGENCE
--> DEFINITIVE COMMERCIAL STRUCTURE
+-> PROGRAM SCOPE
+-> CAPITAL STRUCTURE
+-> DEFINITIVE COMMERCIAL TERMS
 ```
 
-The objective is to determine whether the partner can materially accelerate a Rudis category without requiring institutional capture or artificially externalizing Founder labor.
+Valuation, exclusivity and final economics do not need to be settled in the first meeting.
+
+---
+
+## 10. Full external map
+
+For every public investor, technical, financing and restricted-review document, use:
+
+- [External Reading Hub](./README.md)
 
 ---
 
 ## Final principle
 
-> Rudis is willing to offer meaningful economic reciprocity for meaningful material contribution. It is not willing to sell constitutional authority as a side effect of financing.
+> **Rudis is willing to exchange meaningful economic rights for meaningful material contribution. It is not willing to sell constitutional authority by implication.**
 
-> A funded Rudis should also fund the leadership work required to operate it.
+And the technical invitation remains deliberately falsifiable:
 
-`CAPITAL -> CAPABILITY`
+> **Do not believe that Rudis works. Help determine whether it survives when someone competent tries to break it.**
 
-`MATERIAL CONTRIBUTION -> BOUNDED RECIPROCITY`
-
-`FUNDED PROJECT -> FUNDED LEADERSHIP`
-
-`CAPITAL != CAPTURE`
+```text
+CAPITAL -> CAPABILITY
+EVIDENCE -> NEXT GATE
+MATERIAL CONTRIBUTION -> NEGOTIATED RECIPROCITY
+CAPITAL != CAPTURE
+```
