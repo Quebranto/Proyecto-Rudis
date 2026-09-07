@@ -1,120 +1,223 @@
 # Rudis — Strategic Partner / Investor Deck Content
 
-This is the content blueprint for an 8–10 slide strategic financing deck. It is not itself a presentation file.
+This is the content blueprint for an **8–10 slide first-contact deck**. It is not itself a presentation file and it is not a securities offer.
+
+Recommended companion documents:
+
+- [Investor / Strategic Partner Read First](./Investor_Read_First.md)
+- [Investor Introduction — ES / EN](./Rudis_Investor_Introduction_ES_EN.md)
+- [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)
+
+The deck should explain the thesis before discussing terms.
+
+---
 
 ## Slide 1 — The problem
 
-**Action-capable AI is crossing from recommendation into execution.**
+**Action-capable software and AI are crossing from recommendation into execution.**
 
 Core risk:
 
-`CAPABILITY != AUTHORITY`
+```text
+CAPABILITY != AUTHORITY
+```
 
-A model can be competent enough to act without being the legitimate authority to authorize the action.
+A model, service or client can be capable of producing an effect without therefore being the legitimate source of authority for that effect.
+
+---
 
 ## Slide 2 — Rudis thesis
 
-> A representation of reality does not acquire authority over reality merely by claiming to represent it.
+> **A representation of state does not acquire authority over reality merely by claiming to represent it.**
 
 Rudis separates:
 
-`IDENTITY -> COMPETENCE -> AUTHORITY -> RULE -> MANDATE -> EXECUTION -> RECEIPT -> AUDIT`
+```text
+IDENTITY
+-> COMPETENCE / AUTHORITY
+-> RULE
+-> MANDATE
+-> EXECUTION
+-> RECEIPT
+-> CONTINUITY
+-> AUDIT
+```
 
-## Slide 3 — Product surface: RAL
+The objective is explicit, inspectable causality rather than implicit trust in a runtime, UI, account or provider.
 
-**Rudis Authority Layer**
+---
 
-A model-agnostic authority boundary between agent intent and consequential execution.
+## Slide 3 — The product stack
+
+### StateOS
+
+Institutional state, authority, mandates, execution, continuity and audit.
+
+### Rudis Authority Layer (RAL)
+
+A focused authority boundary between consequential intent and execution.
 
 ```text
 AGENT / CLIENT
 -> INTENT
 -> RAL / STATEOS
--> AUTHORIZED ACTION
+-> AUTHORIZED EFFECT
 -> VERIFIABLE RECEIPT
 ```
+
+### Rudis Habitat
+
+The habitable product surface: one persistent institutional world expressed through multiple clients without making any client sovereign.
+
+```text
+ONE CAUSAL INSTITUTIONAL STATE
+-> MANY LEGITIMATE REPRESENTATIONS
+```
+
+---
 
 ## Slide 4 — Why now
 
 AI agents, tool use, wearables, persistent worlds and autonomous workflows increase the cost of authority mistakes.
 
-Target domains:
+Candidate domains:
 
 - agent-to-application execution;
 - enterprise agent operations;
 - wearables;
 - immersive / multi-agent environments;
-- high-assurance workflows.
+- institutional / public-sector digital execution;
+- high-assurance workflows;
+- continuity and recovery across providers.
 
-## Slide 5 — What exists
+---
 
-- public constitutional / architectural Corpus;
-- private implementation;
+## Slide 5 — What exists and what does not
+
+Rudis has:
+
+- a public constitutional / architectural Corpus;
+- a private implementation under active development;
 - StateOS and client work;
-- Unreal / immersive integration work;
-- adversarial PRE-D3 campaign;
-- explicit separation of builder evidence and independent accreditation.
+- immersive / Unreal integration work;
+- a PRE-D3 adversarial campaign;
+- explicit builder / reproducer / attacker / accreditor separation;
+- active research into currentness, recovery, continuity, stale state and reconstitution.
 
-Current status must be shown honestly:
+Current public status:
 
-`PRE-D3 = ACTIVE`
+```text
+PRE-D3 = ACTIVE
+D3 OPEN = NO
+D4 / PRODUCTION = NO
+REAL CUSTOMERS = NO
+REAL MONEY = NO
+```
 
-`D3 OPEN = NO`
+The maturity boundary is part of the pitch, not a disclaimer to hide.
 
-`PRODUCTION = NO`
+---
 
 ## Slide 6 — Technical moat / method
 
-Rudis does not rely only on authentication or policy configuration.
+Rudis does not stop at authentication or policy configuration.
 
-It demands causal reconstruction of consequential action:
+It asks whether a consequential effect can be reconstructed causally:
 
-`WHO -> CLAIM -> COMPETENCE -> AUTHORITY -> RULE -> DECISION -> MANDATE -> EFFECT -> CONTINUITY -> AUDIT`
+```text
+WHO
+-> CLAIM
+-> COMPETENCE
+-> CURRENT AUTHORITY
+-> RULE
+-> MANDATE
+-> EFFECT
+-> RECEIPT
+-> CONTINUITY
+-> AUDIT
+```
 
-Security culture:
+Research / security discipline:
 
-`BUILD -> BREAK -> FIX -> REATTACK -> REPRODUCE`
+```text
+BUILD
+-> BREAK
+-> FIX
+-> REATTACK
+-> REPRODUCE
+-> PRESERVE FAILURES
+```
+
+Key distinction:
+
+```text
+INTEGRITY != CURRENTNESS
+RECOVERY != AUTHORITY
+```
+
+---
 
 ## Slide 7 — Strategic partner use cases
 
 1. action-capable AI authority gateway;
-2. wearable intent client;
-3. immersive / Unreal world client;
+2. wearable / spatial intent client;
+3. Rudis Habitat reference environment;
 4. enterprise internal-agent authorization;
-5. open reference architecture for trustworthy agent execution.
+5. continuity / recovery infrastructure;
+6. reference architecture for trustworthy agent execution.
 
-## Slide 8 — Financing proposal
+A partner should be able to select **one demanding reference use case** rather than funding an undefined everything-project.
 
-Initial strategic R&D program:
+---
 
-- Phase I: USD 1.5M — diligence / convergence / independent validation;
-- Phase II: USD 4.5M — controlled D3 laboratory, if separately authorized;
-- Phase III: USD 6M — strategic reference integration;
-- Optional later field program: up to USD 15M, separate decision.
+## Slide 8 — Staged financing hypothesis
 
-`INITIAL PROGRAM = USD 12M`
+Current partner-neutral principle:
+
+```text
+BUY INFORMATION PROGRESSIVELY
+```
+
+Current Meta-specific reference structure, where relevant:
+
+- Phase I: **USD 1.5M** — diligence / convergence / independent validation;
+- Phase II: **USD 4.5M** — controlled D3 laboratory, only if separately authorized;
+- Phase III: **USD 6M** — reference integration;
+- optional later field program: **up to USD 15M**, under a separate agreement.
+
+```text
+INITIAL REFERENCE PROGRAM = USD 12M
+```
+
+These figures are partner-specific negotiation hypotheses, not a universal Rudis valuation or entitlement.
+
+For another partner, scope and economics should follow contribution facts and diligence.
+
+---
 
 ## Slide 9 — Deal principles
 
-Partner receives a fair economic and technical bargain:
+A strategic partner may receive a fair technical and economic bargain:
 
 - milestone reporting;
 - evaluation rights;
 - controlled diligence;
 - reference integration;
-- negotiable commercial rights.
+- specifically negotiated commercial / IP rights;
+- corporate rights where an appropriate vehicle is used.
 
 But:
 
-`FUNDING != CANON CONTROL`
+```text
+FUNDING != CANON CONTROL
+NDA != FULL PRIVATE ACCESS
+INVESTMENT != ALL FUTURE FOUNDER IP
+COMPANY GOVERNANCE != RUDIS CONSTITUTIONAL GOVERNANCE
+```
 
-`NDA != FULL PRIVATE ACCESS`
+Founder / team compensation, strategic reserve, Pioneer reciprocity and capital structure belong in diligence / term discussion — **not as the headline of the first-contact deck**.
 
-`INVESTMENT != ALL FUTURE FOUNDER IP`
-
-Founder Strategic Reserve target: >=10% of each tranche.
-
-Founder compensation / liquidity negotiated separately and transparently.
+---
 
 ## Slide 10 — The ask
 
@@ -124,8 +227,17 @@ Not:
 
 Instead:
 
-> Give us a technical review and try to break the architecture.
+> **Give us a technical review and try to falsify the architecture.**
 
-First requested step:
+Recommended first step:
 
-**30–45 minute technical review -> NDA if warranted -> controlled diligence -> financing discussion.**
+```text
+30–45 MIN TECHNICAL / STRATEGIC REVIEW
+-> NDA IF WARRANTED
+-> CONTROLLED DILIGENCE
+-> PHASE-I / PROGRAM DISCUSSION
+```
+
+The correct outcome may be **GO**, **NARROW**, **RESEARCH FURTHER** or **STOP**.
+
+A credible partner should not need Rudis to pretend uncertainty does not exist.
