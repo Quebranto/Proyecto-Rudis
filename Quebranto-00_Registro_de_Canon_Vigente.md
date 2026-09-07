@@ -1,6 +1,6 @@
 # QUEBRANTO — REGISTRO DE CANON VIGENTE
 
-**Fecha:** 29 de agosto de 2026  
+**Fecha:** 7 de septiembre de 2026  
 **Estado:** Documento de referencia canónica  
 **Naturaleza:** Índice de prevalencia documental. No crea competencias por sí mismo.
 
@@ -34,11 +34,12 @@ Forman el núcleo actual:
 - `Quebranto-23 Régimen Monetario RU y Palacio de Conversión v1.0.md`
 - `Quebranto-24 Regimen Canonico de Reciprocidad de Habitabilidad.md`
 - `Quebranto-25 Regimen de Voluntariado Pionero, Aportaciones y Digestión Competitiva.md`
+- `Quebranto-31 Decision Fundacional - Reconstitucion Catastrofica y Continuidad del Palacio de Unificacion.md`
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad y `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, y `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -95,6 +96,28 @@ Por decisión expresa del Strategos Fundacional de 23 de agosto de 2026:
 - la digestión deberá realizarse por medios jurídicamente válidos y preservar licencias, procedencia, atribución y derechos de terceros.
 
 La decisión se desarrolla en `Quebranto-Decisión Fundacional sobre Autorización de Unificación.md`.
+
+Por decisión fundacional posterior de 7 de septiembre de 2026, desarrollada en `Quebranto-31 Decision Fundacional - Reconstitucion Catastrofica y Continuidad del Palacio de Unificacion.md`, el Palacio de Unificación incorpora expresamente una **misión dual**:
+
+- **unificación exterior:** estudiar, comparar, digerir, simular y auditar posibles integraciones, interoperabilidades, migraciones o convergencias con elementos externos;
+- **reunificación interior:** preservar y ejercer la capacidad institucional de recomponer, reconstruir y reconstituir Rudis tras fragmentación, degradación o catástrofe.
+
+Se consolidan:
+
+- `UNIFICATION = INTEGRATE WHAT MAY JOIN + REUNITE WHAT WAS BROKEN`;
+- `SURVIVING FRAGMENT != TRUSTED FRAGMENT`;
+- `RECOVERED DATA != RECOVERED TRUTH`;
+- `HISTORICAL COPY != CURRENT AUTHORITY`;
+- `RECONSTRUCT RUDIS != RESURRECT OLD AUTHORITY`;
+- `TECHNICAL RECOVERY != POLITICAL SUCCESSION`;
+- `RECONSTRUCTION RESPONSIBILITY != TOTAL CUSTODY`;
+- `CUSTODY != SOVEREIGNTY`;
+- `MISSING EVIDENCE != PERMISSION TO FABRICATE CONTINUITY`;
+- `EMERGENCY != UNLIMITED JURISDICTION`.
+
+El Palacio queda encargado de investigar, diseñar, mantener y probar una **Semilla de Reconstitución de Rudis**, así como de impulsar pruebas D2 de pérdida de repositorio, proveedor, nodo, clave, ledger, copia de Canon, partición, fork/merge, snapshot stale, corrupción parcial, recovery y reconstrucción completa desde semilla.
+
+Estas funciones de preparación, preservación, análisis, simulación y prueba quedan `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 dentro de los límites canónicos. La decisión no concede por sí misma D3/D4 general, soberanía de emergencia, sucesión política ni autoridad para resucitar permisos históricos.
 
 ### Reciprocidad de habitabilidad
 
@@ -249,4 +272,4 @@ Los documentos semilla PGRH-MH conservan valor histórico y técnico en todo lo 
 
 ## XI. INVARIANTE
 
-> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora y digiere, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria.**
+> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora, digiere y preserva la capacidad de reconstituir Rudis desde fragmentos auténticos, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria y deberá poder volver a encontrarse a sí mismo tras la catástrofe.**
