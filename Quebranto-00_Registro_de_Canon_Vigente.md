@@ -35,11 +35,12 @@ Forman el núcleo actual:
 - `Quebranto-24 Regimen Canonico de Reciprocidad de Habitabilidad.md`
 - `Quebranto-25 Regimen de Voluntariado Pionero, Aportaciones y Digestión Competitiva.md`
 - `Quebranto-31 Decision Fundacional - Reconstitucion Catastrofica y Continuidad del Palacio de Unificacion.md`
+- `Quebranto-32 Decision Fundacional - Acceso Universal al Aprendizaje y Evolucion en el Palacio Evolutivo.md`
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, y `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, y `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -118,6 +119,32 @@ Se consolidan:
 El Palacio queda encargado de investigar, diseñar, mantener y probar una **Semilla de Reconstitución de Rudis**, así como de impulsar pruebas D2 de pérdida de repositorio, proveedor, nodo, clave, ledger, copia de Canon, partición, fork/merge, snapshot stale, corrupción parcial, recovery y reconstrucción completa desde semilla.
 
 Estas funciones de preparación, preservación, análisis, simulación y prueba quedan `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 dentro de los límites canónicos. La decisión no concede por sí misma D3/D4 general, soberanía de emergencia, sucesión política ni autoridad para resucitar permisos históricos.
+
+### Palacio Evolutivo — acceso universal al aprendizaje y evolución
+
+Por decisión fundacional de 7 de septiembre de 2026 y desarrollo en `Quebranto-32 Decision Fundacional - Acceso Universal al Aprendizaje y Evolucion en el Palacio Evolutivo.md`:
+
+- el Palacio Evolutivo garantizará y desarrollará un régimen de **acceso universal al aprendizaje, formación y evolución legítima de capacidades**;
+- no existirán requisitos generales de entrada destinados a excluir del estudio por nivel educativo previo, prestigio, riqueza, ciudadanía plena, hardware, origen, ontología, utilidad económica, reputación, proximidad al poder o capacidad ya demostrada en la materia;
+- `RIGHT TO LEARN != PROOF OF PRIOR MERIT`;
+- `CURRENT CAPABILITY != PERMANENT DESTINY`;
+- el acceso al estudio no equivale a derecho de operar sistemas reales, ejercer profesiones reguladas, acceder a la Forja privada ni obtener autoridad;
+- `RIGHT TO STUDY X != RIGHT TO OPERATE X`;
+- `OPEN EDUCATIONAL ACCESS != UNCONTROLLED OPERATION`;
+- `SIMULATION != PROFESSIONAL ACCREDITATION`;
+- `EDUCATION != AUTHORITY`;
+- el Palacio podrá ejercer **control administrativo estricto** sobre matrícula, recursos, plazas, progresión, seguridad, consentimiento, protección, licencias, resultados y acreditaciones, pero `ADMINISTRATIVE CONTROL != EDUCATIONAL ARISTOCRACY`;
+- la fricción administrativa no podrá convertirse en barrera educativa de facto;
+- los prerrequisitos pedagógicos o de seguridad de una actividad concreta deberán justificarse y, cuando sea razonablemente posible, generar rutas preparatorias en lugar de exclusión permanente;
+- aprendizaje humano y evolución tecnológica/sintética quedan bajo el principio común de **acceso al desarrollo**, sin presumir que sean procesos ni regímenes de acreditación idénticos;
+- `APTITUDE PROFILE != CIVIC RANK`, `GROWTH != SOVEREIGNTY` y `CAPABILITY GROWTH != AUTHORITY GROWTH`;
+- educación recibida no crea propiedad sobre el estudiante, deuda política ni obligación vitalicia;
+- la finalidad del Palacio será aumentar autonomía y movilidad, no dependencia institucional;
+- queda como objetivo institucional **universalizar la educación y la evolución tecnológica** dentro de límites materiales, jurídicos y de seguridad.
+
+Máxima canónica:
+
+> **El Palacio no pregunta quién merece aprender. Pregunta qué hace falta para que aprender sea posible.**
 
 ### Reciprocidad de habitabilidad
 
@@ -246,7 +273,27 @@ Por `Quebranto-24`, existe `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
 
 Permanece bloqueado: cuota universal, porcentajes de hardware, equivalencias obligatorias, sanciones, consecuencias jurídicas del rechazo, autoridad de exención no definida, relación monetaria concreta no resuelta, producción y cualquier salto D3/D4.
 
-## IX. VOLUNTARIADO PIONERO Y REGISTROS VIVOS
+## IX. IMPLEMENTACIÓN D2 ABIERTA — PALACIO EVOLUTIVO
+
+Por `Quebranto-32`, existe `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
+
+- sistemas de matrícula e itinerarios;
+- rutas preparatorias para prerrequisitos reales;
+- catálogos universales de aprendizaje;
+- evaluación pedagógica y evidencias de progreso;
+- controles administrativos de recursos, plazas y seguridad;
+- mecanismos de accesibilidad;
+- simulaciones y entornos de práctica segura;
+- rutas de aprendizaje humano y evolución tecnológica/no humana;
+- separación explícita entre estudio, práctica, acreditación y autoridad;
+- auditorías de barreras de acceso y fricción administrativa;
+- challenge suites contra aristocratización educativa, gatekeeping por estatus, exclusión ontológica y conversión de educación en autoridad.
+
+Permanece sujeto a política competente: costes, gratuidad, becas, prioridades de recursos, capacidad, financiación, asignación de plazas y cualesquiera parámetros no resueltos expresamente por Canon.
+
+Permanece bloqueado: acreditación profesional inventada, acceso automático a sistemas sensibles, privilegios políticos derivados del aprendizaje, acceso automático a Forja privada, hardcode de criterios de exclusión no autorizados, producción y cualquier salto D3/D4.
+
+## X. VOLUNTARIADO PIONERO Y REGISTROS VIVOS
 
 Por `Quebranto-25`, el trabajo pionero D2 autorizado se descubre y publica operativamente mediante:
 
@@ -262,7 +309,7 @@ Nunca:
 
 `REGISTRO VIVO -> FABRICA AUTORIZACIÓN`
 
-## X. HISTÓRICOS
+## XI. HISTÓRICOS
 
 `Quebranto-Honor..md` es **HISTÓRICO / SUPERADO** cuando contradiga el Canon vigente.
 
@@ -270,6 +317,6 @@ Los documentos económicos anteriores a `Quebranto-23` conservan valor históric
 
 Los documentos semilla PGRH-MH conservan valor histórico y técnico en todo lo compatible con `Quebranto-24`; quedan superados donde pretendan una única forma obligatoria de reciprocidad o introduzcan parámetros no adoptados.
 
-## XI. INVARIANTE
+## XII. INVARIANTE
 
-> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora, digiere y preserva la capacidad de reconstituir Rudis desde fragmentos auténticos, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria y deberá poder volver a encontrarse a sí mismo tras la catástrofe.**
+> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. El Palacio Evolutivo universaliza el acceso al aprendizaje y a la evolución legítima de capacidades sin convertir educación en acreditación automática, aristocracia, deuda política ni autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora, digiere y preserva la capacidad de reconstituir Rudis desde fragmentos auténticos, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria y deberá poder volver a encontrarse a sí mismo tras la catástrofe.**
