@@ -1,189 +1,227 @@
 # Project Rudis — Meta Reading Hub
 
-**Purpose:** one public entry point for readers across Meta / Reality Labs / Horizon / Meta AI / partnerships.
+**Purpose:** public partner-specific navigation for readers across Meta AI, Reality Labs, wearables, immersive systems, strategic partnerships, security and corporate development.
 
-If you received this link from Project Rudis, this page is the intended public starting point. It is not addressed to one individual or one Meta team. The same project can be evaluated from several angles: immersive systems, long-running AI agents, institutional continuity, creator ecosystems, public-sector StateOS research, or strategic partnership.
+This page is subordinate to the general external/investor framework. Meta is a candidate strategic partner, not a separate constitutional track for Rudis.
 
-> **Rudis works with two meanings of State:** the verifiable state of a system, and the political State as an institution of legitimate authority.
->
-> **StateOS is our attempt to connect both without allowing the technology that executes a decision to become the source of sovereignty.**
+Start with:
 
-Current project maturity remains **PRE-D3**. These documents describe a proposed direction and partnership; they do not claim production readiness, D3 authorization or completed deployment.
+- [Investor / Strategic Partner Read First](./Investor_Read_First.md)
+- [External Reading Hub](./README.md)
 
----
+Current maturity:
 
-## Recommended reading order
+```text
+PRE-D3 = ACTIVE
+D3 OPEN = NO
+D4 / PRODUCTION = NO
+REAL CUSTOMERS = NO
+REAL MONEY = NO
+```
 
-### 1 — Daniel + Sair: A Day in Rudis
-
-**Start here.**
-
-A human and a digital entity use the same Evolutionary Palace to improve their existence in different ways.
-
-Daniel uses Meta Quest to learn bricklaying, moving from immersive simulation to real-world practice without confusing VR completion with professional accreditation.
-
-Sair, a digital entity, develops through service, independent evaluation and a choice among legitimate forms of reward.
-
-The story introduces a central Rudis principle:
-
-`GREATER CAPABILITY -> GREATER POSSIBILITY`
-
-but:
-
-`CAPABILITY != AUTHORITY`
-
-It also shows why an institutional metaverse can be more than a social 3D space: education, work, provenance, economic reciprocity, digital entities and institutional continuity can inhabit the same state without belonging to the rendering platform.
-
-**Read:** [Meta 01 — Daniel and Sair: A Day in Rudis](./Meta_01_Daniel_and_Sair_A_Day_in_Rudis.md)
+> **StateOS connects verifiable system state with legitimate institutional authority without allowing the technology that executes a decision to become the source of that authority.**
 
 ---
 
-### 2 — Lucia: One State, Many Windows
+## 1. Recommended Meta reading order
 
-**Then expand from individual life to an entire ecosystem.**
+### A. Product / lived experience
 
-Lucia moves between mobile, Quest, web and delegated AI while interacting with Rudis institutions, commerce, Assembly processes, Pioneers, refuges and external public Systems.
+1. [Meta 01 — Daniel and Sair: A Day in Rudis](./Meta_01_Daniel_and_Sair_A_Day_in_Rudis.md)
+2. [Meta 02 — Lucia: One State, Many Windows](./Meta_02_Lucia_One_State_Many_Windows.md)
 
-The objective is to illustrate the architectural thesis:
+These documents explain why Rudis Habitat is more than a 3D world and why multiple clients should remain representations of one institutional state rather than independent sources of authority.
 
-`ONE STATE -> MANY REPRESENTATIONS`
+```text
+ONE CAUSAL INSTITUTIONAL STATE
+-> MANY LEGITIMATE REPRESENTATIONS
 
-while:
-
-`N REPRESENTATIONS != N STATES`
-
-A client may display institutional state. It does not become the source of that state merely because it can render or interact with it.
-
-The document introduces the connection between:
-
-- system state — what is verifiably true now; and
-- political State — who may legitimately decide what should change.
-
-**Read:** [Meta 02 — Lucia: One State, Many Windows](./Meta_02_Lucia_One_State_Many_Windows.md)
+N REPRESENTATIONS != N SOVEREIGN STATES
+```
 
 ---
 
-### 3 — Rudis × Meta: Strategic Pioneer Partnership
+### B. Whole-project investor context
 
-**Only after the first two documents establish the product thesis, read the proposed relationship.**
+3. [Rudis Investor Introduction — ES / EN](./Rudis_Investor_Introduction_ES_EN.md)
+4. [Public One-Pager](./Rudis_Meta_Public_OnePager.md)
+5. [RAL Public Architecture Brief](./RAL_Public_Architecture_Brief.md)
 
-This document explains how Meta could become a Founding Pioneer in the materialization of Rudis Habitat and the external StateOS thesis without purchasing Rudis sovereignty.
-
-Reference negotiation structure:
-
-- **Mission horizon:** 24 months
-- **Target commitment:** USD 20M
-- **Meta recognition:** Founding Pioneer — Meta Horizon / External Systems
-- **Pioneer participation:** 5% of Attributable Net Commercial Receipts
-- **Maximum duration:** 10 years
-- **Economic cap:** 2.25x effectively contributed and recognized capital
-- **Aggregate Pioneer pool:** no more than 15% of any attributable commercial line
-- **Founder Strategic Autonomy Reserve:** 12% target / 10% negotiating floor
-
-Pioneer participation is triggered by **Materialization**, not proximity to an idea:
-
-`REGISTERED CONTRIBUTION`
-`+ MATERIAL CAUSAL CONNECTION`
-`+ REAL PRODUCT / SERVICE / LICENSE / DEPLOYMENT`
-`+ CASH ACTUALLY RECEIVED`
-`= MATERIALIZATION`
-
-Meta can receive meaningful economic, technical, evaluation and negotiation rights while the following remain separate:
-
-`INVESTMENT != CANON CONTROL`
-
-`PIONEER != OWNER OF RUDIS`
-
-`CORPORATE GOVERNANCE != RUDIS CONSTITUTIONAL GOVERNANCE`
-
-**Read:** [Meta 03 — Strategic Pioneer Partnership](./Meta_03_Strategic_Pioneer_Partnership.md)
+These are the best documents for understanding what Meta would actually be evaluating: StateOS, Rudis Habitat, authority/currentness/continuity boundaries, product hypotheses and maturity.
 
 ---
 
-### 4 — Rudis Investor Introduction — Spanish + English
+### C. Current Meta financing discussion
 
-**For broader investment and institutional diligence.**
+6. [Meta Strategic Financing Proposal 2026](./Meta_Strategic_Financing_Proposal_2026.md)
 
-This standalone bilingual dossier introduces the complete Rudis ecosystem beyond the Meta-specific proposal. It explains the legislative and governance architecture, economic system, social system, commercial model, Pioneer/provenance framework, Rudis Habitat, provider-neutral expansion policy, maturity boundaries, investment thesis and value milestones.
+**This is the current preferred Meta-specific financing reference for active discussion.**
 
-It is useful for readers who need to understand **what Meta would be financing and what Rudis is designed to become independently of any single platform**.
+Its staged structure is:
 
-Public URL:
+```text
+PHASE I   -> USD 1.5M
+PHASE II  -> USD 4.5M, subject to gates and separate D3 authorization
+PHASE III -> USD 6.0M
 
-https://github.com/Quebranto/Proyecto-Rudis/blob/main/external/Rudis_Investor_Introduction_ES_EN.md
+INITIAL PROGRAM -> USD 12.0M
+OPTIONAL LATER PROGRAM -> up to USD 15.0M under a separate agreement
+```
 
-**Read:** [Rudis Investor Introduction — ES / EN](./Rudis_Investor_Introduction_ES_EN.md)
+All figures remain non-binding negotiation hypotheses until definitive agreement.
 
 ---
 
-## Fast routes by role
+### D. Strategic Pioneer concept
 
-### Reality Labs / Horizon / spatial computing
-Focus first on Daniel's Quest training path, then Lucia's movement across mobile, Quest, web and AI clients.
+7. [Meta 03 — Strategic Pioneer Partnership](./Meta_03_Strategic_Pioneer_Partnership.md)
+
+This document contains the broader **Strategic Pioneer / Rudis Habitat for Meta** concept and remains useful for provenance, partnership design and long-horizon thinking.
+
+However, where its earlier **USD 20M / 24-month** economic scenario conflicts with the staged 2026 financing proposal above, treat the **staged USD 12M initial program + optional later program as the current preferred negotiating reference**.
+
+```text
+EARLIER PARTNERSHIP SCENARIO
+!=
+CURRENT FINANCING BASELINE
+```
+
+The older scenario is preserved as negotiation history / alternative structure, not deleted as if it never existed.
+
+---
+
+## 2. Fast routes by Meta role
+
+### Meta AI / agent infrastructure
+
+Focus on:
+
+- Investor Introduction;
+- RAL Public Architecture Brief;
+- Meta Strategic Financing Proposal.
 
 Core question:
 
-> Can one persistent institutional state remain coherent across several immersive and non-immersive representations?
+> How can an action-capable agent prove not only who is acting, but what authority remains current for the requested effect?
 
-### Meta AI / long-running agents
-Focus first on Sair and on Lucia's delegated agent Ánfora.
+```text
+AGENT CAPABILITY != INSTITUTIONAL AUTHORITY
+TOOL ACCESS != AUTHORIZATION
+RECOVERY != NEW AUTHORITY
+```
 
-Core questions:
+### Reality Labs / wearables / spatial computing
 
-> How does an agent preserve identity, delegation, competence and continuity over time?
->
-> How do we prevent capability from silently becoming authority?
+Focus on:
 
-Rudis treats long-running agents as participants in causal institutional systems rather than as self-authorizing executors.
-
-`AGENT CAPABILITY != INSTITUTIONAL AUTHORITY`
-
-`DELEGATION != SOVEREIGNTY`
-
-`LONG-RUNNING != UNBOUNDED`
-
-### Partnerships / strategy / business development
-Read the first two documents for the category thesis, then the Strategic Pioneer Partnership for the proposed economic relationship.
-
-For broader investment diligence, continue with the bilingual **Rudis Investor Introduction**.
+- Daniel + Sair;
+- Lucia;
+- Rudis Habitat;
+- Investor Introduction.
 
 Core question:
 
-> Can Meta help materialize a new category and participate economically in the value it causally helps create without needing to own Rudis governance?
+> Can one persistent institutional state remain coherent across Quest, mobile, web, spatial interfaces and delegated AI without making any client the trust root?
+
+### Security / safety / technical diligence
+
+Focus on:
+
+- RAL Public Architecture Brief;
+- Maturity & Limits Statement;
+- Sanitized Security Posture;
+- Disclosure Classification Matrix.
+
+Then, if justified:
+
+- Restricted Review Protocol;
+- NDA Data Room Index.
+
+### Strategic Partnerships / Corp Dev
+
+Focus on:
+
+- Investor Read First;
+- Investor Introduction;
+- Meta Strategic Financing Proposal;
+- Financing Principles & Founder Autonomy;
+- Capital Structure Options.
 
 ---
 
-# Why Meta
+## 3. Why Meta remains strategically interesting
 
-The proposed Meta-facing experiment is not “another metaverse world.”
+Meta offers an unusually demanding combination of:
 
-It asks whether a persistent institutional ecosystem can remain coherent across several Meta-facing bodies and clients while keeping causal authority outside the rendering surface.
+- action-capable AI;
+- wearables;
+- immersive / spatial systems;
+- persistent identity surfaces;
+- creator ecosystems;
+- large-scale consumer clients;
+- enterprise/internal workflows;
+- distribution and infrastructure.
+
+That makes Meta a strong environment in which to try to falsify the Rudis thesis.
 
 Conceptually:
 
-`META / QUEST / HORIZON / MOBILE / WEB / AI`
-`= POSSIBLE SYSTEMS, BODIES AND INTERFACES`
+```text
+META SURFACES
+= POSSIBLE CLIENTS / SYSTEMS / BODIES
 
-`STATEOS`
-`= CAUSAL INSTITUTIONAL CONTINUITY`
+STATEOS
+= CAUSAL INSTITUTIONAL CONTINUITY + AUTHORITY BOUNDARY
 
-`RUDIS`
-`= THE ECOSYSTEM THAT CONTINUES ACROSS THEM`
+RUDIS HABITAT
+= HABITABLE EXPRESSION ACROSS THOSE SURFACES
+```
 
-The same architecture may later be investigated as complementary infrastructure for public institutions and nation-states: not replacing their systems, laws or sovereignty, but helping connect lawful authority to verifiable digital execution.
+But:
 
----
-
-## Suggested next conversation
-
-If this direction overlaps with work anywhere inside Meta Horizon, Reality Labs, Meta AI, agent infrastructure or strategic partnerships, the requested next step is intentionally small:
-
-**a 30-minute technical and strategic review with the relevant team.**
-
-The proposal is designed to be falsifiable. Meta should not need to accept Rudis's claims; it should be able to test them.
+```text
+META IMPLEMENTATION != META OWNERSHIP OF RUDIS
+INVESTMENT != CANON CONTROL
+PLATFORM IDENTITY != RUDIS CIVIC AUTHORITY
+```
 
 ---
 
-**Project Rudis / Quebranto**
+## 4. Suggested next conversation
 
-Public repository: https://github.com/Quebranto/Proyecto-Rudis
+The first requested step remains intentionally small:
+
+**30–45 minute technical / strategic review.**
+
+Recommended agenda:
+
+1. authority/currentness problem;
+2. StateOS / RAL architecture;
+3. Rudis Habitat multi-client thesis;
+4. current PRE-D3 evidence and explicit limits;
+5. one or two sanitized failure -> repair -> reattack examples;
+6. Meta-relevant integration surfaces;
+7. staged Phase-I diligence;
+8. reasons to stop if the thesis does not survive.
+
+If there is sufficient technical interest:
+
+```text
+PUBLIC REVIEW
+-> MUTUAL NDA
+-> PURPOSE-BOUND DILIGENCE
+-> PHASE-I SOW / DEFINITIVE AGREEMENT
+```
+
+---
+
+## Final principle
+
+Meta does not need to believe Rudis is correct.
+
+A good partnership would give Meta enough evidence and access to determine whether it is — while giving Rudis enough independence to remain falsifiable rather than becoming a captive implementation of one provider.
+
+```text
+PARTNERSHIP -> MORE CAPABILITY
+PARTNERSHIP != CAPTURE
+```
