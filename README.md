@@ -1,6 +1,9 @@
 # 🏛️ PROJECT RUDIS — STATEOS, RUDIS HABITAT & INSTITUTIONAL INFRASTRUCTURE
 
-**No pedimos que crea que Rudis funciona. Le entregamos una arquitectura diseñada para que pueda ser auditada, contradicha y, cuando sea posible, rota de forma reproducible.**
+**First time here? Start with [00_START_HERE.md](./00_START_HERE.md).**  
+**Investor / strategic partner? Go directly to [Investor Read First](./external/Investor_Read_First.md).**
+
+> **No pedimos que crea que Rudis funciona. Le entregamos una arquitectura diseñada para que pueda ser auditada, contradicha y, cuando sea posible, rota de forma reproducible.**
 
 Rudis es un proyecto experimental de **arquitectura constitucional, sistemas distribuidos e infraestructura institucional** orientado a un problema central:
 
@@ -21,7 +24,7 @@ TECHNICAL EXECUTION != POLITICAL SOVEREIGNTY
 
 ### StateOS
 
-Una arquitectura para mantener una cadena causal explícita entre:
+Arquitectura para mantener una cadena causal explícita entre:
 
 ```text
 IDENTIDAD / CLAIM
@@ -54,7 +57,7 @@ ONE CAUSAL INSTITUTIONAL STATE
 
 ### Rudis Authority Layer (RAL)
 
-Una superficie arquitectónica enfocada en el límite entre intención y ejecución consecuencial:
+Una superficie especializada dentro de StateOS enfocada en el límite entre intención y ejecución consecuencial:
 
 ```text
 AGENT / CLIENT
@@ -65,7 +68,18 @@ AGENT / CLIENT
 -> RECEIPT
 ```
 
-RAL es una vía de producto / integración dentro de la obra más amplia; no sustituye al conjunto de Rudis.
+RAL no sustituye al conjunto de Rudis.
+
+Product map:
+
+```text
+PROJECT RUDIS
+├── StateOS
+│   └── RAL / Authority Layer
+└── Rudis Habitat
+```
+
+See: [Product Surface](./products/README.md).
 
 ---
 
@@ -110,18 +124,16 @@ CI GREEN != ACCREDITATION
 TECHNICAL READINESS != POLITICAL AUTHORIZATION
 ```
 
-Para el límite externo completo:
+External maturity boundary:
 
-- [Maturity & Limits Statement](external/Maturity_and_Limits_Statement.md)
-- [Sanitized Security Posture](external/Sanitized_Security_Posture.md)
+- [Maturity & Limits Statement](./external/Maturity_and_Limits_Statement.md)
+- [Sanitized Security Posture](./external/Sanitized_Security_Posture.md)
 
 ---
 
 ## ⚖️ REGLA DE INGENIERÍA CONSTITUCIONAL
 
 Rudis mantiene una frontera estricta entre norma, competencia, ejecución, auditoría y resolución.
-
-La regla central es:
 
 > **El código ejecuta competencias previamente reconocidas; nunca inventa la ley que le falta.**
 
@@ -142,8 +154,6 @@ ENGINEERING CONVENIENCE -> NEW LAW
 ## 🔄 CONTINUIDAD, RECOVERY Y RECONSTITUCIÓN
 
 Rudis investiga restart, replay, currentness, revocación, continuidad cívica y reconstrucción post-catástrofe.
-
-Principios actuales:
 
 ```text
 RECOVER STATE != RECOVER AUTHORITY
@@ -170,8 +180,6 @@ El Corpus distingue, entre otros, funciones de:
 - resolución de controversias mediante el órgano competente;
 - asesoramiento, memoria y procedencia.
 
-La existencia técnica de un órgano no crea por sí misma competencia política.
-
 ```text
 BUILDING != GOVERNING
 OBSERVATION != JUDGMENT
@@ -179,31 +187,37 @@ ADVICE != DECISION
 MEMORY != CURRENT AUTHORITY
 ```
 
-Para saber qué está vigente, consultar siempre:
+For currentness, consult:
 
-- [Registro de Canon Vigente](Quebranto-00_Registro_de_Canon_Vigente.md)
+- [Registro de Canon Vigente](./Quebranto-00_Registro_de_Canon_Vigente.md)
 
 ---
 
 ## 📚 PUNTOS DE ENTRADA
 
+### Primera visita
+
+- [00 — Start Here](./00_START_HERE.md)
+- [External Reading Hub](./external/README.md)
+
 ### Público general
 
-- [Public One-Pager](external/Rudis_Meta_Public_OnePager.md)
-- [Rudis Habitat](products/Rudis_Habitat.md)
-- [Guía de inicio rápido](Quebranto-Guia%20de%20inicio%20rápido%20en%20el%20ecosistema%20Rudis.md)
+- [Public One-Pager](./external/Rudis_Meta_Public_OnePager.md)
+- [Rudis Habitat](./products/Rudis_Habitat.md)
+- [Guía de inicio rápido](./Quebranto-Guia%20de%20inicio%20rápido%20en%20el%20ecosistema%20Rudis.md)
 
 ### Inversores y socios estratégicos
 
-- [Investor / Strategic Partner Read First](external/Investor_Read_First.md)
-- [Investor Introduction — ES / EN](external/Rudis_Investor_Introduction_ES_EN.md)
-- [External Reading Hub](external/README.md)
+1. [Investor / Strategic Partner Read First](./external/Investor_Read_First.md)
+2. [Investor & Strategic Partner Dossier — EN / ES](./external/Rudis_Investor_Introduction_ES_EN.md)
+3. [Public One-Pager](./external/Rudis_Meta_Public_OnePager.md)
+4. [Strategic Partner / Investor Deck Content](./external/Strategic_Partner_Deck_Content.md)
 
 ### Evaluación técnica
 
-- [RAL Public Architecture Brief](external/RAL_Public_Architecture_Brief.md)
-- [Maturity & Limits Statement](external/Maturity_and_Limits_Statement.md)
-- [Sanitized Security Posture](external/Sanitized_Security_Posture.md)
+- [RAL Public Architecture Brief](./external/RAL_Public_Architecture_Brief.md)
+- [Maturity & Limits Statement](./external/Maturity_and_Limits_Statement.md)
+- [Sanitized Security Posture](./external/Sanitized_Security_Posture.md)
 
 ### Investigación viva
 
@@ -226,21 +240,14 @@ INVESTMENT != CANON CONTROL
 COMPANY GOVERNANCE != RUDIS CONSTITUTIONAL GOVERNANCE
 ```
 
-Materiales de entrada:
+Use the [External Reading Hub](./external/README.md) for the staged financing and diligence path.
 
-- [Investor Read First](external/Investor_Read_First.md)
-- [Funding Strategy & Target Ladder 2026](external/Funding_Strategy_and_Target_Ladder_2026.md)
-- [Financing Principles & Founder Autonomy](external/Financing_Principles_and_Founder_Autonomy.md)
-- [Capital Structure Options](external/Capital_Structure_Options.md)
+Public rights / licensing references:
 
-El código fuente público se distribuye bajo **GNU AGPL-3.0** salvo indicación expresa de otro régimen. La documentación / Corpus tiene régimen separado.
-
-Consultar:
-
-- [LICENSE](LICENSE)
-- [DOCUMENTATION-LICENSE.md](DOCUMENTATION-LICENSE.md)
-- [COMMERCIAL-EXPLOITATION-POLICY.md](COMMERCIAL-EXPLOITATION-POLICY.md)
-- [COPYRIGHT-AND-OWNERSHIP.md](COPYRIGHT-AND-OWNERSHIP.md)
+- [LICENSE](./LICENSE)
+- [DOCUMENTATION-LICENSE.md](./DOCUMENTATION-LICENSE.md)
+- [COMMERCIAL-EXPLOITATION-POLICY.md](./COMMERCIAL-EXPLOITATION-POLICY.md)
+- [COPYRIGHT-AND-OWNERSHIP.md](./COPYRIGHT-AND-OWNERSHIP.md)
 
 ---
 
