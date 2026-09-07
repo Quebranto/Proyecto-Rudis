@@ -62,7 +62,7 @@ For an initial investor or strategic-partner conversation, use these four docume
 
 1. **This page** — orientation and maturity.
 2. [Investor & Strategic Partner Dossier — EN / ES](./Rudis_Investor_Introduction_ES_EN.md) — complete project and investment thesis, English first and Spanish second.
-3. [Public One-Pager](./Rudis_Meta_Public_OnePager.md) — compact architecture / maturity summary.
+3. [Public One-Pager](./Rudis_Public_OnePager.md) — compact architecture / maturity summary.
 4. [Strategic Partner / Investor Deck Content](./Strategic_Partner_Deck_Content.md) — 8–10 slide narrative blueprint.
 
 Do **not** begin a first conversation with a data room, vulnerability dossier, term sheet or detailed founder-rights negotiation unless serious fit already exists.
@@ -182,7 +182,7 @@ Start with:
 For deeper review:
 
 - [Restricted Review Protocol](./Restricted_Review_Protocol.md)
-- [NDA Data Room Index](./Meta_NDA_Data_Room_Index.md)
+- [NDA Data Room Index](./NDA_Data_Room_Index.md)
 
 ```text
 NDA != FULL PRIVATE REPOSITORY ACCESS
