@@ -1,5 +1,8 @@
 # Project Rudis — Investor / Strategic Partner Read First
 
+**Language / Idioma:** **English** · [Español](./Investor_Read_First_ES.md)  
+**First visit? / ¿Primera visita?** [English Guided Tour](../TOUR_EN.md) · [Tour en Español](../TOUR_ES.md)
+
 This is the preferred **first public entry point** for investors and strategic partners evaluating Project Rudis.
 
 For the broader external navigation map, use [External Reading Hub](./README.md). If you entered this directory by browsing files, [00_START_HERE.md](./00_START_HERE.md) provides the shortest orientation.
@@ -231,3 +234,5 @@ CAPITAL -> CAPABILITY
 MATERIAL CONTRIBUTION -> BOUNDED RECIPROCITY
 CAPITAL != CAPTURE
 ```
+
+**Language / Idioma:** **English** · [Español](./Investor_Read_First_ES.md)
