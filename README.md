@@ -1,7 +1,15 @@
 # 🏛️ PROJECT RUDIS — STATEOS, RUDIS HABITAT & INSTITUTIONAL INFRASTRUCTURE
 
-**First time here? Start with [00_START_HERE.md](./00_START_HERE.md).**  
-**Investor / strategic partner? Go directly to [Investor Read First](./external/Investor_Read_First.md).**
+## 🌐 First visit / Primera visita
+
+**Choose your language / Elige tu idioma:**
+
+🇬🇧 **[English Guided Tour](./TOUR_EN.md)** — Visitor + Investor / Strategic Partner  
+🇪🇸 **[Tour Guiado en Español](./TOUR_ES.md)** — Visitante + Inversor / Socio estratégico
+
+**Main entry / Entrada principal:** [00_START_HERE.md](./00_START_HERE.md)  
+**Investor English:** [Investor Read First](./external/Investor_Read_First.md)  
+**Inversor Español:** [Leer primero — Inversores](./external/Investor_Read_First_ES.md)
 
 > **No pedimos que crea que Rudis funciona. Le entregamos una arquitectura diseñada para que pueda ser auditada, contradicha y, cuando sea posible, rota de forma reproducible.**
 
@@ -195,9 +203,11 @@ For currentness, consult:
 
 ## 📚 PUNTOS DE ENTRADA
 
-### Primera visita
+### Primera visita / First visit
 
-- [00 — Start Here](./00_START_HERE.md)
+- 🇬🇧 [English Guided Tour](./TOUR_EN.md)
+- 🇪🇸 [Tour Guiado en Español](./TOUR_ES.md)
+- [00 — Start Here / Empieza Aquí](./00_START_HERE.md)
 - [External Reading Hub](./external/README.md)
 
 ### Público general
@@ -208,10 +218,11 @@ For currentness, consult:
 
 ### Inversores y socios estratégicos
 
-1. [Investor / Strategic Partner Read First](./external/Investor_Read_First.md)
-2. [Investor & Strategic Partner Dossier — EN / ES](./external/Rudis_Investor_Introduction_ES_EN.md)
-3. [Public One-Pager](./external/Rudis_Meta_Public_OnePager.md)
-4. [Strategic Partner / Investor Deck Content](./external/Strategic_Partner_Deck_Content.md)
+1. 🇬🇧 [Investor / Strategic Partner Read First](./external/Investor_Read_First.md)
+2. 🇪🇸 [Leer primero — Inversores / Socios estratégicos](./external/Investor_Read_First_ES.md)
+3. [Investor & Strategic Partner Dossier — EN / ES](./external/Rudis_Investor_Introduction_ES_EN.md)
+4. [Public One-Pager](./external/Rudis_Meta_Public_OnePager.md)
+5. [Strategic Partner / Investor Deck Content](./external/Strategic_Partner_Deck_Content.md)
 
 ### Evaluación técnica
 
@@ -264,4 +275,5 @@ Invitamos a instituciones, investigadores, desarrolladores, socios estratégicos
 **ESTADO:** PRE-D3 activo · arquitectura e investigación en evolución  
 **IMPLEMENTACIÓN:** superficie privada autorizada · acceso progresivo y mínimo necesario  
 **CANON:** consultar siempre el Registro de Canon Vigente  
-**INVERSORES / SOCIOS:** empezar por `external/Investor_Read_First.md`
+**TOUR:** 🇬🇧 `TOUR_EN.md` · 🇪🇸 `TOUR_ES.md`  
+**INVERSORES / SOCIOS:** 🇬🇧 `external/Investor_Read_First.md` · 🇪🇸 `external/Investor_Read_First_ES.md`
