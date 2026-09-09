@@ -5,22 +5,28 @@
 ## 🇬🇧 English
 
 ### 👉 [Start the guided tour in English](./TOUR_EN.md)
+### 🌍 [See the Rudis Experience](./EXPERIENCE_EN.md)
 
 The tour has two clear routes:
 
 - 👁️ **Visitor — 8–10 min**
 - 💼 **Investor / Strategic Partner — 12–15 min**
 
+The Experience page answers a different question: **what should Rudis feel like to use, revisit and inhabit?**
+
 You do **not** need to read the full Corpus to understand Rudis.
 
 ## 🇪🇸 Español
 
 ### 👉 [Comenzar el tour guiado en español](./TOUR_ES.md)
+### 🌍 [Ver la Experiencia Rudis](./EXPERIENCE_ES.md)
 
 El tour tiene dos rutas claramente separadas:
 
 - 👁️ **Visitante — 8–10 min**
 - 💼 **Inversor / Socio estratégico — 12–15 min**
+
+La página de Experiencia responde a otra pregunta: **¿cómo debería sentirse usar, volver a visitar y habitar Rudis?**
 
 **No** necesitas leer todo el Corpus para entender Rudis.
 
@@ -51,17 +57,17 @@ REAL MONEY / DINERO REAL = NO
 
 ## 👁️ Visitor / Visitante
 
-**English:** [Guided Visitor Tour](./TOUR_EN.md#-visitor-tour)  
-**Español:** [Tour para visitantes](./TOUR_ES.md#%EF%B8%8F-tour-para-visitantes)
+**English:** [Guided Visitor Tour](./TOUR_EN.md#-visitor-tour) · [Rudis Experience](./EXPERIENCE_EN.md)  
+**Español:** [Tour para visitantes](./TOUR_ES.md#%EF%B8%8F-tour-para-visitantes) · [Experiencia Rudis](./EXPERIENCE_ES.md)
 
-Understand what Rudis is, what is being built, what makes the architecture different, what is real today and where to continue.
+Understand what Rudis is, what is being built, what makes the architecture different, what is real today — and what a future living Rudis experience should make visible.
 
-Entiende qué es Rudis, qué estamos construyendo, qué diferencia su arquitectura, qué es real hoy y dónde continuar.
+Entiende qué es Rudis, qué estamos construyendo, qué diferencia su arquitectura, qué es real hoy — y qué debería hacer visible una experiencia Rudis viva.
 
 ## 💼 Investor / Strategic Partner — Inversor / Socio estratégico
 
-**English:** [Investor Tour](./TOUR_EN.md#-investor--strategic-partner-tour) · [Investor Read First](./external/Investor_Read_First.md)  
-**Español:** [Tour para inversores](./TOUR_ES.md#-tour-para-inversores--socios-estrat%C3%A9gicos) · [Leer primero — Inversores](./external/Investor_Read_First_ES.md)
+**English:** [Investor Tour](./TOUR_EN.md#-investor--strategic-partner-tour) · [Investor Read First](./external/Investor_Read_First.md) · [Experience](./EXPERIENCE_EN.md#7-the-investor-experience)  
+**Español:** [Tour para inversores](./TOUR_ES.md#-tour-para-inversores--socios-estrat%C3%A9gicos) · [Leer primero — Inversores](./external/Investor_Read_First_ES.md) · [Experiencia](./EXPERIENCE_ES.md#7-la-experiencia-del-inversor)
 
 Full bilingual dossier / Dossier bilingüe completo:  
 [Investor & Strategic Partner Dossier — EN / ES](./external/Rudis_Investor_Introduction_ES_EN.md)
@@ -103,5 +109,5 @@ INVERSIÓN != CONTROL DEL CANON
 
 ## Start now / Empieza ahora
 
-🇬🇧 **[English Tour](./TOUR_EN.md)**  
-🇪🇸 **[Tour en Español](./TOUR_ES.md)**
+🇬🇧 **[English Tour](./TOUR_EN.md)** · **[Rudis Experience](./EXPERIENCE_EN.md)**  
+🇪🇸 **[Tour en Español](./TOUR_ES.md)** · **[Experiencia Rudis](./EXPERIENCE_ES.md)**
