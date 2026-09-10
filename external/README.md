@@ -142,12 +142,15 @@ Legacy Meta-named public documents may remain for backward compatibility. Generi
 
 ### Microsoft
 
-Start from the general investor route above, then continue to the [Microsoft Strategic Investment & R&D Proposal 2026](./Microsoft_Strategic_Investment_Proposal_2026.md).
+Choose language first / Elige primero el idioma:
 
-The Microsoft track is centered on:
+- 🇬🇧 [Microsoft Strategic Investment & R&D Proposal 2026 — English](./Microsoft_Strategic_Investment_Proposal_2026.md)
+- 🇪🇸 [Propuesta Estratégica de Inversión e I+D para Microsoft 2026 — Español](./Microsoft_Strategic_Investment_Proposal_2026_ES.md)
 
-- **Palacio Evolutivo** — universal learning, reskilling and legitimate capability development;
-- **StateOS / RAL** — preserving the boundary between capability, competence, authority and execution;
+The Microsoft track is centered on / La ruta Microsoft se centra en:
+
+- **Palacio Evolutivo** — universal learning, reskilling and legitimate capability development / aprendizaje universal, reconversión y desarrollo legítimo de capacidades;
+- **StateOS / RAL** — preserving the boundary between capability, competence, authority and execution / separación entre capacidad, competencia, autoridad y ejecución;
 - **Microsoft Foundry / agentic systems** — controlled agent capability growth and authority testing;
 - **Microsoft Education / Microsoft 365 / Teams** — practical human learning and mobility scenarios;
 - **GitHub / Copilot** — Pioneer contribution, provenance and high-assurance agentic development;
