@@ -1,41 +1,109 @@
 # 🌐 PROJECT RUDIS — START HERE / EMPIEZA AQUÍ
 
-> **Choose your language first. / Elige primero tu idioma.**
+> **Choose a language. Then choose why you are here. / Elige idioma. Después, elige por qué has venido.**
 
-## 🇬🇧 English
+Rudis is a deep project. This page is deliberately not.
 
-### 👉 [Start the guided tour in English](./TOUR_EN.md)
-### 🌍 [Living Rudis — What it means to enter, participate and return](./LIVING_RUDIS_EN.md)
+Rudis es un proyecto profundo. Esta página, deliberadamente, no lo es.
 
-The tour explains **what Rudis is**. *Living Rudis* answers the next question: **what would it actually mean to enter, learn, build, participate, ask for help, act and come back later?**
+You do **not** need to understand the Corpus, the institutional map or the internal vocabulary before deciding whether the project matters to you.
 
-You do **not** need to read the full Corpus to understand Rudis.
-
-## 🇪🇸 Español
-
-### 👉 [Comenzar el tour guiado en español](./TOUR_ES.md)
-### 🌍 [Vivir Rudis — Qué significa entrar, participar y volver](./VIVIR_RUDIS_ES.md)
-
-El tour explica **qué es Rudis**. *Vivir Rudis* responde a la siguiente pregunta: **¿qué significaría realmente entrar, aprender, construir, participar, pedir ayuda, actuar y volver después?**
-
-**No** necesitas leer todo el Corpus para entender Rudis.
+**No** necesitas comprender el Corpus, el mapa institucional ni el vocabulario interno antes de decidir si el proyecto te interesa.
 
 ---
 
-# Quick orientation / Orientación rápida
+# 🇬🇧 English
 
-Project Rudis is developing **StateOS**, **RAL / Rudis Authority Layer** and **Rudis Habitat** around a central architectural principle:
+## 👁️ I am visiting / I want to understand Rudis
 
-Proyecto Rudis desarrolla **StateOS**, **RAL / Rudis Authority Layer** y **Rudis Habitat** alrededor de un principio arquitectónico central:
+Start here:
+
+1. **[Understand Rudis — Guided Tour](./TOUR_EN.md)** — what problem Rudis addresses, what is being built and what exists today.
+2. **[Living Rudis](./LIVING_RUDIS_EN.md)** — what entering, learning, building, participating and returning should actually feel like.
+3. Stop there unless you want to go deeper. The tour will route you to product, Canon or technical material only if you need it.
+
+**Expected first visit:** about 10–15 minutes.
+
+## 💼 I am evaluating Rudis as an investor or strategic partner
+
+Start here:
+
+1. **[Understand Rudis — Guided Tour](./TOUR_EN.md)** — establish the product and technical thesis first.
+2. **[Investor / Strategic Partner — Read First](./external/Investor_Read_First.md)** — commercial relevance, maturity, evidence, investable work and transaction boundaries.
+3. **[Living Rudis](./LIVING_RUDIS_EN.md#10-an-investor-should-experience-rudis-before-reading-financial-negotiation-material)** — see how the architecture becomes a product people can actually use.
+
+Only after those three should you enter diligence, financing architecture or partner-specific proposals.
+
+**Expected first evaluation:** about 20–30 minutes before deeper diligence.
+
+---
+
+# 🇪🇸 Español
+
+## 👁️ Estoy de visita / quiero entender Rudis
+
+Empieza aquí:
+
+1. **[Entender Rudis — Tour guiado](./TOUR_ES.md)** — qué problema aborda Rudis, qué se está construyendo y qué existe hoy.
+2. **[Vivir Rudis](./VIVIR_RUDIS_ES.md)** — cómo debería sentirse entrar, aprender, construir, participar y volver.
+3. Detente ahí salvo que quieras profundizar. El propio recorrido te llevará a producto, Canon o material técnico sólo cuando lo necesites.
+
+**Primera visita estimada:** unos 10–15 minutos.
+
+## 💼 Estoy evaluando Rudis como inversor o socio estratégico
+
+Empieza aquí:
+
+1. **[Entender Rudis — Tour guiado](./TOUR_ES.md)** — comprende primero la tesis técnica y de producto.
+2. **[Inversor / Socio estratégico — Leer primero](./external/Investor_Read_First_ES.md)** — relevancia comercial, madurez, evidencia, trabajo financiable y fronteras de una operación.
+3. **[Vivir Rudis](./VIVIR_RUDIS_ES.md#10-un-inversor-deber%C3%ADa-experimentar-rudis-antes-de-leer-la-negociaci%C3%B3n-financiera)** — observa cómo la arquitectura puede convertirse en un producto que una persona realmente use.
+
+Sólo después conviene entrar en diligencia, arquitectura financiera o propuestas específicas para socios.
+
+**Primera evaluación estimada:** unos 20–30 minutos antes de una diligencia más profunda.
+
+---
+
+# Rudis in one minute / Rudis en un minuto
+
+Project Rudis is investigating how **humans, AI agents, institutions and software can share persistent institutional state without confusing technical capability with legitimate authority**.
+
+Proyecto Rudis investiga cómo **humanos, agentes de IA, instituciones y software pueden compartir estado institucional persistente sin confundir capacidad técnica con autoridad legítima**.
+
+Imagine an AI agent that knows how to transfer money. Knowing how is not the same as being authorized to do it. Imagine a system restored from yesterday's snapshot. Recovering yesterday's data should not silently restore yesterday's revoked permissions.
+
+Imagina un agente de IA que sabe transferir dinero. Saber hacerlo no equivale a estar autorizado. Imagina un sistema restaurado desde el snapshot de ayer. Recuperar los datos de ayer no debería resucitar silenciosamente permisos que ya fueron revocados.
+
+Rudis tries to make those distinctions executable, inspectable and recoverable.
+
+Rudis intenta hacer esas distinciones ejecutables, inspeccionables y recuperables.
 
 > **A representation of state does not acquire authority over reality merely by claiming to represent it.**  
 > **Una representación del estado no adquiere autoridad sobre la realidad simplemente por afirmar que la representa.**
 
-In ordinary terms: Rudis is trying to make consequential digital actions explain **who asked for them, what authority justified them, what rule applied, what actually happened and how that can later be checked**.
+---
 
-En términos cotidianos: Rudis intenta que una acción digital con consecuencias pueda explicar **quién la pidió, qué autoridad la justificó, qué regla se aplicó, qué ocurrió realmente y cómo puede comprobarse después**.
+# What is being built? / ¿Qué se está construyendo?
 
-Current public maturity / Madurez pública actual:
+**StateOS** is the institutional-state architecture: it connects identity, claims, competence, authority, rules, mandates, effects, receipts and continuity.
+
+**StateOS** es la arquitectura de estado institucional: conecta identidad, claims, competencia, autoridad, reglas, mandatos, efectos, recibos y continuidad.
+
+**RAL — Rudis Authority Layer** focuses on the boundary where an intention is about to become a consequential action.
+
+**RAL — Rudis Authority Layer** se concentra en la frontera donde una intención está a punto de convertirse en una acción con consecuencias.
+
+**Rudis Habitat** is the habitable product direction: the same institutional reality expressed through web, mobile, immersive environments, agents and other legitimate interfaces without letting the interface become sovereign.
+
+**Rudis Habitat** es la dirección de producto habitable: una misma realidad institucional expresada mediante web, móvil, entornos inmersivos, agentes y otras interfaces legítimas sin convertir la interfaz en soberana.
+
+---
+
+# What exists today? / ¿Qué existe hoy?
+
+Rudis is under active **PRE-D3** development and adversarial research. It has a public Corpus, a separate private Forge, executable work, product definitions and public diligence material. It is **not** being presented as a finished production platform.
+
+Rudis está en desarrollo e investigación adversarial **PRE-D3**. Dispone de Corpus público, una Forja privada separada, trabajo ejecutable, definiciones de producto y material público de diligencia. **No** se presenta como plataforma de producción terminada.
 
 ```text
 PRE-D3 = ACTIVE / ACTIVO
@@ -45,83 +113,18 @@ REAL CUSTOMERS / CLIENTES REALES = NO
 REAL MONEY / DINERO REAL = NO
 ```
 
-This means Rudis has architecture, research and PRE-D3 implementation worth examining, but it should not yet be read as a finished production platform.
+These lines are status summaries, not marketing language.
 
-Esto significa que Rudis ya tiene arquitectura, investigación e implementación PRE-D3 dignas de evaluación, pero todavía no debe interpretarse como una plataforma de producción terminada.
-
----
-
-# Choose by role / Elige por función
-
-## 👁️ Visitor / Visitante
-
-**English:** [Guided Visitor Tour](./TOUR_EN.md#-visitor-tour) · [Living Rudis](./LIVING_RUDIS_EN.md)  
-**Español:** [Tour para visitantes](./TOUR_ES.md#%EF%B8%8F-tour-para-visitantes) · [Vivir Rudis](./VIVIR_RUDIS_ES.md)
-
-Start with the tour if you want to understand the project. Continue with *Living Rudis* if you want to understand what the system is trying to make possible for an actual participant.
-
-Empieza por el tour si quieres entender el proyecto. Continúa con *Vivir Rudis* si quieres entender qué intenta hacer posible el sistema para una persona que realmente participa en él.
-
-## 💼 Investor / Strategic Partner — Inversor / Socio estratégico
-
-**English:** [Investor Tour](./TOUR_EN.md#-investor--strategic-partner-tour) · [Investor Read First](./external/Investor_Read_First.md) · [Living Rudis](./LIVING_RUDIS_EN.md#10-an-investor-should-experience-rudis-before-reading-financial-negotiation-material)  
-**Español:** [Tour para inversores](./TOUR_ES.md#-tour-para-inversores--socios-estrat%C3%A9gicos) · [Leer primero — Inversores](./external/Investor_Read_First_ES.md) · [Vivir Rudis](./VIVIR_RUDIS_ES.md#10-un-inversor-deber%C3%ADa-experimentar-rudis-antes-de-leer-la-negociaci%C3%B3n-financiera)
-
-The investor route is designed to move from **problem → product thesis → lived use cases → maturity → evidence → diligence → financing**, rather than beginning with financial terms before the technical thesis is understood.
-
-La ruta del inversor está diseñada para avanzar desde **problema → tesis de producto → casos de uso vividos → madurez → evidencia → diligencia → financiación**, en vez de empezar por términos financieros antes de entender la tesis técnica.
-
-Full bilingual dossier / Dossier bilingüe completo:  
-[Investor & Strategic Partner Dossier — EN / ES](./external/Rudis_Investor_Introduction_ES_EN.md)
-
-## 🧪 Technical evaluator / Evaluador técnico
-
-1. [RAL Public Architecture Brief](./external/RAL_Public_Architecture_Brief.md)
-2. [Maturity & Limits Statement](./external/Maturity_and_Limits_Statement.md)
-3. [Sanitized Security Posture](./external/Sanitized_Security_Posture.md)
-4. [External Reading Hub](./external/README.md)
-
-These documents move from architectural claim to evidence and limits. They are intended for readers who want to test the thesis rather than merely understand the narrative.
-
-Estos documentos avanzan desde la afirmación arquitectónica hacia evidencia y límites. Están pensados para quien quiera poner a prueba la tesis, no sólo comprender la narrativa.
-
-## 🏛️ Constitutional / institutional reader — Lector constitucional / institucional
-
-1. [Registro de Canon Vigente](./Quebranto-00_Registro_de_Canon_Vigente.md)
-2. [StateOS y Interfaz Soberana](./Quebranto-12%20State%20OS%20y%20Interfaz%20Soberana%20de%20Rudis.md)
-3. [Identity & Census v0.1](./Quebranto-16%20Identity%20%26%20Census%20v0.1%20%E2%80%94%20Contrato%20Can%C3%B3nico%20de%20Bootstrap%20y%20Ciudadan%C3%ADa.md)
-
-Do not infer current authority from document age, filename or apparent completeness. Use the Canon Register for currentness.
-
-No infieras autoridad vigente por la antigüedad, nombre o aparente completitud de un documento. Usa el Registro de Canon para determinar vigencia.
+Estas líneas resumen estado; no son lenguaje publicitario.
 
 ---
 
-# Boundaries / Límites
+# Go deeper only when useful / Profundiza sólo cuando te sirva
 
-Rudis uses compact invariants frequently, but they are **summaries of a distinction, not substitutes for explanation**. Four boundaries matter immediately:
+**Product / Producto:** [Product Surface](./products/README.md) · [Rudis Habitat](./products/Rudis_Habitat.md)  
+**Technical evaluation / Evaluación técnica:** [External Reading Hub](./external/README.md#technical-diligence--diligencia-t%C3%A9cnica)  
+**Current Canon / Canon vigente:** [Canon Register](./Quebranto-00_Registro_de_Canon_Vigente.md)  
+**Investor diligence / Diligencia inversora:** [External Reading Hub](./external/README.md)
 
-Rudis utiliza invariantes compactas con frecuencia, pero son **resúmenes de una distinción, no sustitutos de la explicación**. Cuatro fronteras importan desde el principio:
-
-```text
-PUBLIC ARCHITECTURE != PRIVATE FORGE
-ARQUITECTURA PÚBLICA != FORJA PRIVADA
-
-RESEARCH FINDING != LAW
-HALLAZGO DE INVESTIGACIÓN != LEY
-
-TECHNICAL PROGRESS != PRODUCTION READINESS
-PROGRESO TÉCNICO != PREPARACIÓN PARA PRODUCCIÓN
-
-INVESTMENT != CANON CONTROL
-INVERSIÓN != CONTROL DEL CANON
-```
-
-In plain language: public documentation does not expose the whole operational Forge; a research result does not become law merely because it is convincing; technical progress does not make D3 or production automatic; and financing can buy agreed economic or technical rights without purchasing constitutional authority.
-
-En lenguaje normal: la documentación pública no expone toda la Forja operativa; un resultado de investigación no se convierte en ley por ser convincente; el progreso técnico no abre D3 ni producción automáticamente; y una inversión puede comprar derechos económicos o técnicos acordados sin comprar autoridad constitucional.
-
-## Start now / Empieza ahora
-
-🇬🇧 **[English Tour](./TOUR_EN.md)** · **[Living Rudis](./LIVING_RUDIS_EN.md)**  
-🇪🇸 **[Tour en Español](./TOUR_ES.md)** · **[Vivir Rudis](./VIVIR_RUDIS_ES.md)**
+> **The depth of Rudis should remain available without becoming the price of entry.**  
+> **La profundidad de Rudis debe estar disponible sin convertirse en peaje de entrada.**
