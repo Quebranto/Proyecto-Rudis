@@ -1,43 +1,45 @@
-# Project Rudis — Investor / Strategic Partner Read First
+# Project Rudis — Investor / Strategic Partner: Read First
 
-**Language / Idioma:** **English** · [Español](./Investor_Read_First_ES.md)  
-**First visit? / ¿Primera visita?** [English Guided Tour](../TOUR_EN.md) · [Tour en Español](../TOUR_ES.md)
+**Language / Idioma:** **English** · [Español](./Investor_Read_First_ES.md)
 
-This is the preferred **first public entry point** for investors and strategic partners evaluating Project Rudis.
+> **This page does not explain Rudis from zero again. Read the [Guided Tour](../TOUR_EN.md) first. The investor evaluation starts here.**
 
-For the broader external navigation map, use [External Reading Hub](./README.md). If you entered this directory by browsing files, [00_START_HERE.md](./00_START_HERE.md) provides the shortest orientation.
+The question of this page is simple:
 
-Rudis is developing **StateOS** and **Rudis Habitat**: infrastructure for persistent institutional state across multiple digital systems, clients and agentic interfaces while preserving explicit boundaries between identity, capability, delegation, competence, authority, execution, evidence and continuity.
-
-> **A representation of state does not acquire authority over reality merely by claiming to represent it.**
-
-This page explains **what to read, in what order, and what not to infer**.
+> **Is there a technical, product and market thesis interesting enough to justify serious diligence and staged financing?**
 
 ---
 
-## 1. Investment thesis
+# 1. What could be commercially valuable
 
-As AI systems, digital institutions, immersive environments and distributed software gain the ability to act, the cost of confusing **technical capability** with **legitimate authority** increases.
+Rudis is investigating a layer that many systems still treat as fragmented: the relationship between **identity, capability, competence, current authority, applicable rule, mandate, execution, evidence and continuity**.
 
-Rudis investigates a stricter execution model:
+That may matter wherever software or agents produce real effects and it is not enough to know that “the user is authenticated” or that “the model knows how to use the tool.”
 
-```text
-INTENT
--> IDENTITY / CLAIM
--> COMPETENCE / AUTHORITY
--> RULE EVALUATION
--> MANDATE
--> EXECUTION
--> RECEIPT
--> CONTINUITY
--> AUDIT
-```
+Potential value surfaces include:
 
-The thesis is not that Rudis is finished. The thesis is that the authority / currentness / continuity problem is becoming strategically important enough to justify serious technical diligence and staged financing.
+- authority and execution for AI agents;
+- stale-authority, revocation and delegation controls;
+- recovery without accidental resurrection of old permissions;
+- causal receipts and traceability for sensitive actions;
+- persistent institutional infrastructure through StateOS;
+- Rudis Habitat as a multi-client experience of the same institutional state;
+- learning and legitimate capability development through the Evolutionary Palace;
+- AssemblyOS and institutional memory;
+- audit, falsification and high-assurance workflows;
+- enterprise and regulated integration where authority provenance matters.
+
+These are **product and market hypotheses**, not revenue forecasts.
 
 ---
 
-## 2. Current maturity — read before commercial terms
+# 2. Why diligence is justified now
+
+Rudis is no longer only a collection of ideas. It has a public Corpus, architecture, a separate private Forge, PRE-D3 implementation, integration work, adversarial research, tests, product routes and diligence material.
+
+That makes it possible to evaluate something more concrete than a conceptual presentation.
+
+At the same time, the maturity boundary remains explicit:
 
 ```text
 PRE-D3 = ACTIVE
@@ -47,192 +49,158 @@ REAL CUSTOMERS = NO
 REAL MONEY = NO
 ```
 
-Rudis has a public constitutional / architectural Corpus and a private implementation under active development and adversarial testing.
-
-```text
-COMPONENT PASS != SYSTEM PASS
-TECHNICAL READINESS != POLITICAL AUTHORIZATION
-CI GREEN != ACCREDITATION
-```
-
-Full boundary: [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md).
+The investment opportunity is therefore not to buy a finished platform. It is to finance the transition from **differentiated architecture + PRE-D3 evidence** toward integrated demonstrations, independent validation and, only if gates are passed and separately authorized, later stages.
 
 ---
 
-## 3. First-contact package
+# 3. What an investor should want to verify
 
-For an initial investor or strategic-partner conversation, use these four documents:
+It is not enough to ask whether a feature exists. Ask what claim it makes and how that claim could be shown false.
 
-1. **This page** — orientation and maturity.
-2. [Investor & Strategic Partner Dossier — EN / ES](./Rudis_Investor_Introduction_ES_EN.md) — complete project and investment thesis, English first and Spanish second.
-3. [Public One-Pager](./Rudis_Public_OnePager.md) — compact architecture / maturity summary.
-4. [Strategic Partner / Investor Deck Content](./Strategic_Partner_Deck_Content.md) — 8–10 slide narrative blueprint.
+Useful questions include:
 
-Do **not** begin a first conversation with a data room, vulnerability dossier, term sheet or detailed founder-rights negotiation unless serious fit already exists.
+- Can a third party reproduce a candidate without depending on the builder?
+- Does revoked authority fail closed after restart, replay or reconnect?
+- Can an agent capable of using a tool still lack authority to cause the effect?
+- Can an interface represent a decision without being able to invent it?
+- Can recovery preserve legitimate state without resurrecting historical authority?
+- Do receipts allow reviewers to reconstruct why a sensitive action occurred?
+- Do components that pass separately remain safe when composed?
 
-Recommended sequence:
-
-```text
-THESIS
--> PRODUCT
--> MATURITY
--> TECHNICAL / STRATEGIC FIT
--> DILIGENCE
--> FINANCING
--> TERMS
-```
+Rudis treats reproducible failure as useful evidence. Diligence that only confirms the builder would be weak.
 
 ---
 
-## 4. What a strategic program may finance
+# 4. What can be financed
 
-A program may finance some combination of:
+A strategic program may finance work such as:
 
-- StateOS authority and execution architecture;
-- Rudis Habitat;
-- RAL / high-assurance authority boundary work;
-- reproducibility and independent falsification;
-- restart / recovery / stale-state handling;
-- security hardening;
-- multi-client and agent integration;
-- institutional / enterprise integration;
-- research, engineering and productization;
-- legal, IP and compliance preparation;
-- team and founder operating capacity.
+- PRE-D3 convergence and StateOS / RAL integration;
+- Rudis Habitat and multi-client surfaces;
+- agent tool use with authority kept separate from capability;
+- recovery, currentness, replay and idempotency;
+- hardening and challenge suites;
+- independent reproduction and attack;
+- Evolutionary Palace and capability-development systems;
+- AssemblyOS;
+- productization and controlled demonstrations;
+- legal, IP, security, compliance and operational preparation;
+- specialized team capacity.
 
-Programs should be staged around **evidence**, not feature count.
+The recommended approach is to finance against **evidence gates**.
 
-```text
-AGREED GATE
--> EVIDENCE PACKAGE
--> REVIEW
--> NEXT COMMITMENT
-```
+For example, a phase should not close because “recovery was implemented.” It should close because an independent party demonstrated that recovery preserves the expected state and does not resurrect revoked authority under the agreed scenarios.
 
 ---
 
-## 5. Financing principles
+# 5. What investment does not buy
 
-Rudis welcomes capital, infrastructure, research collaboration and strategic distribution without treating investment as constitutional authority.
+Rudis deliberately separates commercial rights from constitutional authority.
 
-```text
-FUNDING != GOVERNANCE AUTHORITY
-INVESTMENT != CANON CONTROL
-COMPANY GOVERNANCE != RUDIS CONSTITUTIONAL GOVERNANCE
-ACCOUNTABILITY != CAPTURE
-```
+A transaction may negotiate equity, debt, licenses, diligence access, evaluation rights, integration work, reporting, specifically defined IP or bounded commercial preferences.
 
-Detailed financing architecture belongs after technical / strategic fit is established:
-
-- [Funding Strategy & Target Ladder 2026](./Funding_Strategy_and_Target_Ladder_2026.md)
-- [Financing Principles & Founder Autonomy](./Financing_Principles_and_Founder_Autonomy.md)
-- [Capital Structure Options](./Capital_Structure_Options.md)
-- [Founder Compensation & Continuity Framework](./Founder_Compensation_and_Continuity_Framework.md)
-- [Strategic Financing Term Sheet Framework](./Strategic_Financing_Term_Sheet_Framework.md)
-
-Any numerical term in these materials is a **negotiation framework**, not an entitlement, valuation, securities offer or binding commitment unless incorporated into a definitive agreement.
-
----
-
-## 6. What a partner may receive — and what financing does not buy
-
-Depending on contribution, diligence and definitive negotiation, a partner may receive an appropriate combination of:
-
-- equity, debt or convertible rights in an appropriate commercial vehicle;
-- bounded commercial participation;
-- provenance / Pioneer recognition where earned;
-- specifically defined licenses where rights permit;
-- internal evaluation rights;
-- purpose-bound confidential technical access;
-- independent reproduction / adversarial-testing rights;
-- reference-integration opportunities;
-- research collaboration;
-- narrow, time-limited negotiation preferences.
-
-No partner receives by default:
+It does not grant by default:
 
 - Canon control;
 - Strategos or Assembly authority;
-- Red Button control;
 - citizenship or votes;
-- RU policy authority;
+- Red Button control;
+- RU or monetary-policy authority;
 - unrestricted private Forge access;
-- blanket current or future founder IP;
+- blanket assignment of all present and future IP;
 - perpetual general exclusivity;
-- automatic D3 or production authorization.
+- automatic D3/D4 or production authorization.
+
+The reason is not rhetorical. If Rudis argues that capability, infrastructure ownership and authority must remain separate, its financing architecture should obey the same principle.
 
 ---
 
-## 7. Technical diligence path
+# 6. What good first diligence looks like
 
-When strategic fit exists:
+A first review should move through this sequence:
 
-```text
-PUBLIC ARCHITECTURE
--> MATURITY / SECURITY POSTURE
--> SANITIZED EVIDENCE
--> NDA IF NEEDED
--> PURPOSE-BOUND RESTRICTED REVIEW
--> INDEPENDENT REPRODUCTION / ATTACK
-```
+**1. Problem and product.** Confirm that the authority/currentness/continuity problem matters to the partner.
 
-Start with:
+**2. Architecture.** Understand what StateOS/RAL adds beyond conventional identity, IAM, policy engines or tool permissions.
 
-- [RAL Public Architecture Brief](./RAL_Public_Architecture_Brief.md)
-- [Sanitized Security Posture](./Sanitized_Security_Posture.md)
-- [Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
+**3. Maturity.** Explicitly accept what is PRE-D3 and what does not yet exist.
 
-For deeper review:
+**4. Evidence.** Review concrete claims, adversarial findings and reproducibility.
 
-- [Restricted Review Protocol](./Restricted_Review_Protocol.md)
-- [NDA Data Room Index](./NDA_Data_Room_Index.md)
+**5. Fit.** Select one or two integration cases valuable enough to justify a funded phase.
 
-```text
-NDA != FULL PRIVATE REPOSITORY ACCESS
-```
+**6. Stop conditions.** Define what results would make it rational to stop investing.
+
+**7. Only then: economics and terms.** Structure capital, IP, commercial rights and corporate governance.
 
 ---
 
-## 8. Product map
+# 7. What to read next
 
-```text
-PROJECT RUDIS
-├── StateOS
-│   └── RAL / Authority Layer
-└── Rudis Habitat
-```
+You do not need to open the entire repository.
 
-- **StateOS** — causal institutional-state and authority architecture.
-- **RAL** — specialized authority boundary for consequential execution.
-- **Rudis Habitat** — habitable persistent institutional expression across multiple legitimate representations.
+## To understand how the architecture becomes an experience
 
-Product navigation: [Product Surface](../products/README.md).
+[Living Rudis](../LIVING_RUDIS_EN.md)
+
+## For a compact project view
+
+[Public One-Pager](./Rudis_Public_OnePager.md)
+
+## For the broader investor thesis
+
+[Investor & Strategic Partner Dossier — EN / ES](./Rudis_Investor_Introduction_ES_EN.md)
+
+## For maturity and security
+
+[Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)  
+[Sanitized Security Posture](./Sanitized_Security_Posture.md)
+
+## For technical diligence
+
+[RAL Public Architecture Brief](./RAL_Public_Architecture_Brief.md)  
+[Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
+
+## For financing and terms
+
+Use the [External Reading Hub](./README.md) only after technical and strategic fit is clear.
 
 ---
 
-## 9. Recommended first discussion
+# 8. Partner-specific proposals
 
-A useful first meeting is **30–45 minutes** and should answer only:
+Rudis already has partner-specific strategic proposals that illustrate how the architecture could map onto concrete ecosystems.
 
-1. Is the problem strategically relevant?
-2. Is the Rudis architecture differentiated enough to merit diligence?
-3. Are the maturity limits understood?
-4. Which integration / product surface is worth testing?
-5. What evidence would cause the investor or partner to stop?
-6. If the thesis survives, what staged diligence and financing structure makes sense?
+- **Microsoft:** Evolutionary Palace, StateOS/RAL, Foundry, GitHub/Copilot, Microsoft 365/Teams and capability growth.
+- **Meta:** agents, wearables, Reality Labs, persistent environments and authority gateway concepts.
 
-The first conversation does not need to settle valuation or final economics.
+These are **integration and negotiation hypotheses**. They do not imply existing interest, endorsement, partnership or investment from those companies.
 
 ---
 
-## Final principle
+# 9. The decision an investor should be able to make after this route
 
-> **Rudis is willing to offer meaningful economic and technical rights for meaningful material contribution. It is not willing to sell constitutional authority as a side effect of financing.**
+After the Tour, this page and an initial evidence review, an investor should be able to choose one of four rational outcomes:
+
+**NO FIT** — the problem is not strategically relevant.
+
+**WATCH** — the thesis is interesting, but a specific maturity or evidence gap remains.
+
+**DILIGENCE** — the project merits deeper, purpose-bound technical review.
+
+**FUND A TEST** — there is a sufficiently concrete case to finance a gated phase with explicit stop conditions.
+
+That is the purpose of the investor experience: **make an informed decision easier, not artificially push the reader toward yes**.
+
+---
+
+# Final principle
+
+> **Rudis does not ask an investor to believe the architecture. If there is fit, it asks them to fund a rigorous attempt to determine whether the architecture deserves to survive.**
+
+And one boundary remains non-negotiable by implication:
 
 ```text
 CAPITAL -> CAPABILITY
-MATERIAL CONTRIBUTION -> BOUNDED RECIPROCITY
-CAPITAL != CAPTURE
+CAPITAL != CONSTITUTIONAL AUTHORITY
 ```
-
-**Language / Idioma:** **English** · [Español](./Investor_Read_First_ES.md)
