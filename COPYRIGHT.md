@@ -1,15 +1,25 @@
-# Titularidad de derechos de autor — Proyecto Rudis
+# Copyright — Proyecto Rudis
 
-**Titular declarado del proyecto:**
+**Titular declarado del material original del proyecto:** José Ángel Moreno Cabezas  
+**Año de referencia:** 2026
 
-**José Ángel Moreno Cabezas**
+Este archivo es un **aviso breve de copyright y titularidad**. No pretende duplicar ni sustituir el régimen patrimonial completo del proyecto.
 
-Este documento identifica al titular de los derechos de autor que correspondan al material original de Proyecto Rudis cuya titularidad le pertenezca, sin perjuicio de los derechos de terceros, de las contribuciones realizadas por otras personas y de cualquier componente que esté sujeto a una licencia independiente.
+Para la referencia principal sobre titularidad, cadena de derechos, contribuciones, materiales de terceros, activos independientes, explotación económica y posibles transferencias futuras, consulte:
 
-El código de Proyecto Rudis se distribuye, salvo indicación expresa en contrario para un componente concreto, bajo **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+- [COPYRIGHT-AND-OWNERSHIP.md](./COPYRIGHT-AND-OWNERSHIP.md)
 
-La titularidad del copyright y la licencia de uso son conceptos distintos: la titularidad corresponde al titular legítimo de los derechos, mientras que la AGPL establece los permisos y condiciones bajo los que se distribuye el software.
+Para las condiciones de uso y distribución aplicables a cada tipo de material, consulte además:
 
-Las contribuciones futuras deberán conservar su correspondiente atribución y quedar sujetas al régimen de titularidad y contribución que se establezca expresamente.
+- [LICENSE](./LICENSE) — software cubierto por AGPL-3.0 cuando corresponda;
+- [DOCUMENTATION-LICENSE.md](./DOCUMENTATION-LICENSE.md) — documentación;
+- [ASSETS-AND-TRADEMARKS.md](./ASSETS-AND-TRADEMARKS.md) — marcas y activos independientes;
+- [COMMERCIAL-LICENSE.md](./COMMERCIAL-LICENSE.md) — derechos comerciales cuando sean aplicables;
+- [CONTRIBUTOR-AGREEMENT.md](./CONTRIBUTOR-AGREEMENT.md) — contribuciones externas cuando corresponda.
 
-Este documento no pretende reclamar derechos sobre obras de terceros ni alterar las condiciones de sus respectivas licencias.
+La publicación en GitHub no implica por sí sola cesión de titularidad ni concede derechos distintos de los expresamente previstos en la licencia o instrumento aplicable.
+
+Los derechos de terceros permanecen sujetos a sus propias licencias y titulares legítimos.
+
+> **COPYRIGHT.md = AVISO BREVE**  
+> **COPYRIGHT-AND-OWNERSHIP.md = REFERENCIA PATRIMONIAL PRINCIPAL**
