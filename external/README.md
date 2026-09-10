@@ -1,81 +1,77 @@
-# Project Rudis — External Reading Hub
+# Project Rudis — External Reading Hub / Centro de lectura externa
 
-This directory is the **public external-facing navigation layer** for Project Rudis.
+This page is the **map after first contact**. It is not the recommended place to learn Rudis from zero.
 
-If you arrived here by browsing the repository rather than through a curated link, start with [00_START_HERE.md](./00_START_HERE.md).
+Esta página es el **mapa después del primer contacto**. No es el lugar recomendado para conocer Rudis desde cero.
 
-> **One project. Different audiences. Progressive disclosure. No contradictory narratives.**
+**First visit / Primera visita:** [START HERE / EMPIEZA AQUÍ](../00_START_HERE.md)
 
-Core boundaries:
-
-```text
-PUBLIC ARCHITECTURE != PRIVATE FORGE
-TECHNICAL PROGRESS != PRODUCTION READINESS
-INVESTMENT != CANON CONTROL
-NDA != UNRESTRICTED ACCESS
-RESEARCH FINDING != LAW
-```
-
-Current public maturity:
-
-```text
-PRE-D3 = ACTIVE
-D3 OPEN = NO
-D4 / PRODUCTION = NO
-REAL CUSTOMERS = NO
-REAL MONEY = NO
-```
+> **One project. Different audiences. Progressive depth. No contradictory narratives.**  
+> **Un proyecto. Públicos distintos. Profundidad progresiva. Sin relatos contradictorios.**
 
 ---
 
-## Investor / strategic partner — recommended path
+# 👁️ Visitor / Visitante
 
-For a first investment or strategic-partner review, read **only these four documents first**:
+If your goal is simply to understand Rudis, do not begin with this directory.
 
-1. [Investor Read First](./Investor_Read_First.md)
-2. [Investor & Strategic Partner Dossier — EN / ES](./Rudis_Investor_Introduction_ES_EN.md)
-3. [Public One-Pager](./Rudis_Public_OnePager.md)
-4. [Strategic Partner / Investor Deck Content](./Strategic_Partner_Deck_Content.md)
+Si sólo quieres entender Rudis, no empieces recorriendo esta carpeta.
 
-Then, if there is real fit, continue through the technical and financing routes below.
+Use this route:
 
-```text
-THESIS
--> PRODUCT
--> MATURITY
--> TECHNICAL / STRATEGIC FIT
--> DILIGENCE
--> FINANCING
--> TERMS
-```
+1. 🇬🇧 [Understand Rudis — Guided Tour](../TOUR_EN.md) · 🇪🇸 [Entender Rudis — Tour guiado](../TOUR_ES.md)
+2. 🇬🇧 [Living Rudis](../LIVING_RUDIS_EN.md) · 🇪🇸 [Vivir Rudis](../VIVIR_RUDIS_ES.md)
+3. [Rudis Habitat](../products/Rudis_Habitat.md) if you want the product direction.
+4. [Public One-Pager](./Rudis_Public_OnePager.md) if you want a compact shareable summary.
 
-Do not begin a first conversation with the data room, vulnerability material, term-sheet language or detailed founder-rights negotiation unless the counterparty has already established serious fit.
+You can stop there. Reading the Corpus is optional unless you want source-level depth.
+
+Puedes detenerte ahí. Leer el Corpus es opcional salvo que quieras profundidad a nivel de fuente.
 
 ---
 
-## General public / product
+# 💼 Investor / Strategic Partner — Inversor / Socio estratégico
 
-1. [Project repository](../README.md)
-2. [Public One-Pager](./Rudis_Public_OnePager.md)
-3. [Product Surface](../products/README.md)
-4. [Rudis Habitat](../products/Rudis_Habitat.md)
+Do not start with financing terms. First establish whether the problem and architecture matter.
+
+No empieces por términos financieros. Primero determina si el problema y la arquitectura importan.
+
+Recommended route:
+
+1. 🇬🇧 [Understand Rudis — Guided Tour](../TOUR_EN.md) · 🇪🇸 [Entender Rudis — Tour guiado](../TOUR_ES.md)
+2. 🇬🇧 [Investor / Strategic Partner — Read First](./Investor_Read_First.md) · 🇪🇸 [Inversor / Socio estratégico — Leer primero](./Investor_Read_First_ES.md)
+3. 🇬🇧 [Living Rudis](../LIVING_RUDIS_EN.md) · 🇪🇸 [Vivir Rudis](../VIVIR_RUDIS_ES.md)
+4. [Investor & Strategic Partner Dossier — EN / ES](./Rudis_Investor_Introduction_ES_EN.md)
 5. [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)
+6. Continue into technical diligence only if there is real fit.
 
-Purpose: understand the thesis, product surface and current maturity without entering financing or restricted diligence.
+The purpose of the first route is to reach a decision such as **NO FIT / WATCH / DILIGENCE / FUND A TEST**, not to force every reader toward a transaction.
+
+El objetivo del primer recorrido es llegar a una decisión como **NO FIT / WATCH / DILIGENCE / FUND A TEST**, no empujar a todo lector hacia una operación.
 
 ---
 
-## Technical diligence
+# 🧪 Technical diligence / Diligencia técnica
 
-For technical evaluators:
+Use this route when you want to test claims rather than understand the narrative.
+
+Usa esta ruta cuando quieras poner a prueba afirmaciones, no simplemente entender el relato.
 
 1. [RAL Public Architecture Brief](./RAL_Public_Architecture_Brief.md)
 2. [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)
 3. [Sanitized Security Posture](./Sanitized_Security_Posture.md)
-4. [Demo Release Checklist](./Demo_Release_Checklist.md)
-5. [Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
+4. [Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
+5. [Demo Release Checklist](./Demo_Release_Checklist.md)
 
-Public technical material describes architecture, invariants, maturity and sanitized evidence. It is not a map of private infrastructure.
+The central diligence questions are:
+
+- What exactly is the claim?
+- What would falsify it?
+- Can someone other than the builder reproduce it?
+- Does it survive composition, restart, stale state and adversarial pressure?
+- What remains unproven?
+
+Public technical material is designed to expose architecture and evidence without exposing unnecessary private operational attack surface.
 
 ```text
 TRANSPARENCY != UNRESTRICTED OPERATIONAL DISCLOSURE
@@ -83,9 +79,34 @@ TRANSPARENCY != UNRESTRICTED OPERATIONAL DISCLOSURE
 
 ---
 
-## Financing architecture
+# 🔐 Restricted review / Revisión restringida
 
-Read these only after project / product fit is understood:
+Deeper access should be driven by a concrete diligence question, not curiosity alone.
+
+El acceso más profundo debe responder a una pregunta concreta de diligencia, no sólo a curiosidad.
+
+When justified:
+
+1. [Restricted Review Protocol](./Restricted_Review_Protocol.md)
+2. [NDA Data Room Index](./NDA_Data_Room_Index.md)
+3. [IP / License / Provenance Matrix](./IP_License_Provenance_Matrix.md)
+4. [Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
+
+```text
+NDA != FULL PRIVATE FORGE ACCESS
+```
+
+An NDA changes confidentiality duties. It does not erase purpose limitation, minimum-necessary access or operational security.
+
+---
+
+# 💰 Financing architecture / Arquitectura financiera
+
+Read this section **after** strategic and technical fit are understood.
+
+Lee esta sección **después** de entender el encaje estratégico y técnico.
+
+Recommended order:
 
 1. [Funding Strategy & Target Ladder 2026](./Funding_Strategy_and_Target_Ladder_2026.md)
 2. [Financing Readiness Checklist](./Financing_Readiness_Checklist.md)
@@ -96,116 +117,84 @@ Read these only after project / product fit is understood:
 7. [Strategic Financing Term Sheet Framework](./Strategic_Financing_Term_Sheet_Framework.md)
 8. [General Pioneer Economic Reciprocity Framework](./General_Pioneer_Economic_Reciprocity_Framework.md)
 
-These documents form a negotiating architecture, not a securities offer or final transaction instrument.
+These documents are negotiating architecture, not a securities offer or binding transaction.
 
-```text
-PROJECT / PRODUCT THESIS
--> MATURITY
--> STRATEGIC FIT
--> FUNDING STRATEGY
--> CAPITAL STRUCTURE
--> FOUNDER / TEAM CONTINUITY
--> TERM SHEET
--> DEFINITIVE AGREEMENTS
-```
+Estos documentos son arquitectura de negociación, no una oferta de valores ni una operación vinculante.
 
 ---
 
-## Restricted / NDA diligence
+# 🤝 Partner-specific tracks / Rutas específicas por socio
 
-When a credible evaluation requires deeper evidence:
+Partner-specific proposals are **examples of strategic fit**, not evidence that the named company has reviewed, endorsed or agreed to work with Rudis.
 
-1. [Restricted Review Protocol](./Restricted_Review_Protocol.md)
-2. [NDA Data Room Index](./NDA_Data_Room_Index.md)
-3. [IP / License / Provenance Matrix](./IP_License_Provenance_Matrix.md)
-4. [Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
+Las propuestas específicas son **ejemplos de encaje estratégico**, no evidencia de que la compañía mencionada haya revisado, respaldado o acordado trabajar con Rudis.
 
-Access remains purpose-bound and minimum-necessary.
+## Microsoft
 
-```text
-NDA != FULL PRIVATE REPOSITORY ACCESS
-```
+- 🇬🇧 [Microsoft Strategic Investment & R&D Proposal 2026](./Microsoft_Strategic_Investment_Proposal_2026.md)
+- 🇪🇸 [Propuesta Estratégica de Inversión e I+D para Microsoft 2026](./Microsoft_Strategic_Investment_Proposal_2026_ES.md)
 
----
+Primary hypothesis: Palacio Evolutivo + StateOS/RAL + Foundry + GitHub/Copilot + Microsoft 365/Teams + legitimate capability growth.
 
-## Partner-specific tracks
+Hipótesis principal: Palacio Evolutivo + StateOS/RAL + Foundry + GitHub/Copilot + Microsoft 365/Teams + crecimiento legítimo de capacidades.
 
-Partner-specific documents implement the general framework; they do not create separate constitutions for Rudis.
+## Meta
 
-### Meta
+Start with [Meta Read First](./Meta_Read_First.md), then follow the partner-specific materials linked there.
 
-Start with [Meta Read First](./Meta_Read_First.md), then use the Meta-specific narrative and financing materials linked there.
-
-The current preferred staged financing reference and any earlier / alternative Meta scenarios must be distinguished explicitly; partner-specific numbers remain negotiation hypotheses unless embodied in definitive agreements.
-
-Legacy Meta-named public documents may remain for backward compatibility. Generic external routes are the default for new visitors.
-
-### Microsoft
-
-Choose language first / Elige primero el idioma:
-
-- 🇬🇧 [Microsoft Strategic Investment & R&D Proposal 2026 — English](./Microsoft_Strategic_Investment_Proposal_2026.md)
-- 🇪🇸 [Propuesta Estratégica de Inversión e I+D para Microsoft 2026 — Español](./Microsoft_Strategic_Investment_Proposal_2026_ES.md)
-
-The Microsoft track is centered on / La ruta Microsoft se centra en:
-
-- **Palacio Evolutivo** — universal learning, reskilling and legitimate capability development / aprendizaje universal, reconversión y desarrollo legítimo de capacidades;
-- **StateOS / RAL** — preserving the boundary between capability, competence, authority and execution / separación entre capacidad, competencia, autoridad y ejecución;
-- **Microsoft Foundry / agentic systems** — controlled agent capability growth and authority testing;
-- **Microsoft Education / Microsoft 365 / Teams** — practical human learning and mobility scenarios;
-- **GitHub / Copilot** — Pioneer contribution, provenance and high-assurance agentic development;
-- **Rudis Habitat / AssemblyOS** — persistent institutional experience and collaboration surfaces.
-
-Indicative financing numbers, Microsoft product mappings and integration examples are **strategic hypotheses for discussion**, not evidence of Microsoft interest, endorsement, investment or partnership.
-
-```text
-MICROSOFT PLATFORM != RUDIS SOVEREIGNTY
-CAPABILITY GROWTH != AUTHORITY GROWTH
-INVESTMENT != CANON CONTROL
-```
+The Meta route explores agentic action, wearables, persistent environments, Reality Labs and authority-layer reference integration.
 
 ---
 
-## Commercial / IP framework
+# ⚖️ Commercial rights, IP and publication / Derechos comerciales, IP y publicación
 
-Repository-level public policies:
+Use these as source documents when the question becomes legal or transactional:
 
+- [Copyright & Ownership](../COPYRIGHT-AND-OWNERSHIP.md)
+- [Copyright notice](../COPYRIGHT.md)
+- [Documentation License](../DOCUMENTATION-LICENSE.md)
 - [Commercial Exploitation Policy](../COMMERCIAL-EXPLOITATION-POLICY.md)
 - [Commercial License](../COMMERCIAL-LICENSE.md)
 - [Assets & Trademarks](../ASSETS-AND-TRADEMARKS.md)
-- [Copyright & Ownership](../COPYRIGHT-AND-OWNERSHIP.md)
-- [Documentation License](../DOCUMENTATION-LICENSE.md)
 - [Security Policy](../SECURITY.md)
 
-Commercial rights must always be limited to rights actually held and expressly granted.
+Commercial rights can only be granted where the project actually holds the relevant rights.
 
-```text
-INTEREST != LICENSE
-FUNDING != IP ASSIGNMENT
-ACCESS != OWNERSHIP
-```
+Los derechos comerciales sólo pueden concederse cuando el proyecto posea realmente los derechos correspondientes.
 
 ---
 
-## Recommended disclosure sequence
+# Current maturity / Madurez actual
+
+Across every route, preserve the same public boundary:
+
+En todas las rutas, conserva la misma frontera pública:
 
 ```text
-PUBLIC ONE-PAGER
--> INVESTOR DOSSIER
--> TECHNICAL / STRATEGIC REVIEW
--> SANITIZED DILIGENCE
--> NDA
--> PURPOSE-BOUND RESTRICTED REVIEW
--> TERM DISCUSSION
--> DEFINITIVE AGREEMENT
+PRE-D3 = ACTIVE / ACTIVO
+D3 OPEN / ABIERTO = NO
+D4 / PRODUCTION / PRODUCCIÓN = NO
+REAL CUSTOMERS / CLIENTES REALES = NO
+REAL MONEY / DINERO REAL = NO
 ```
 
-This sequence is a navigation and disclosure discipline, not a mandatory legal process.
+A partner proposal is not a partnership. A technical PASS is not production readiness. A research finding is not law. Funding is not constitutional authority.
+
+Una propuesta a un socio no es un partnership. Un PASS técnico no es preparación para producción. Un hallazgo de investigación no es ley. La financiación no es autoridad constitucional.
 
 ---
 
-## Final orientation
+# Final orientation / Orientación final
 
-Rudis should be externally understandable without becoming externally capturable.
+The external experience should progressively answer five questions:
 
-> **Make the thesis easy to understand, the limits impossible to miss, the evidence progressively inspectable, and authority impossible to purchase by implication.**
+La experiencia externa debe responder progresivamente cinco preguntas:
+
+1. **Why does Rudis exist? / ¿Por qué existe Rudis?**
+2. **What would using it change? / ¿Qué cambiaría al usarlo?**
+3. **What exists today? / ¿Qué existe hoy?**
+4. **What evidence supports the claims? / ¿Qué evidencia sostiene las afirmaciones?**
+5. **What is the rational next action? / ¿Cuál es la siguiente acción racional?**
+
+> **Make the thesis easy to understand, the product possible to imagine, the limits impossible to miss, and the evidence progressively inspectable.**  
+> **Haz que la tesis sea fácil de entender, el producto fácil de imaginar, los límites imposibles de ignorar y la evidencia progresivamente inspeccionable.**
