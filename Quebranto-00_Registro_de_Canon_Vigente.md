@@ -1,6 +1,6 @@
 # QUEBRANTO — REGISTRO DE CANON VIGENTE
 
-**Fecha:** 7 de septiembre de 2026  
+**Fecha:** 10 de septiembre de 2026  
 **Estado:** Documento de referencia canónica  
 **Naturaleza:** Índice de prevalencia documental. No crea competencias por sí mismo.
 
@@ -36,11 +36,12 @@ Forman el núcleo actual:
 - `Quebranto-25 Regimen de Voluntariado Pionero, Aportaciones y Digestión Competitiva.md`
 - `Quebranto-31 Decision Fundacional - Reconstitucion Catastrofica y Continuidad del Palacio de Unificacion.md`
 - `Quebranto-32 Decision Fundacional - Acceso Universal al Aprendizaje y Evolucion en el Palacio Evolutivo.md`
+- `Quebranto-33 Canon Provisional - Continuidad Monetaria, Acumulacion Adversarial y Reciprocidad de Proteccion del RU.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, y `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, y `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -181,9 +182,34 @@ Por decisión fundacional de 29 de agosto de 2026 y desarrollo en `Quebranto-25 
 - reconocimiento, premio, RU, remuneración u otro beneficio futuro requieren autoridad, política y recursos propios y no nacen automáticamente del registro;
 - por defecto este régimen sólo abre D2 y no autoriza producción, dinero real ni D3/D4.
 
+### RU — continuidad monetaria, acumulación adversarial y reciprocidad de protección
+
+Por decisión fundacional provisional de 10 de septiembre de 2026, desarrollada en `Quebranto-33 Canon Provisional - Continuidad Monetaria, Acumulacion Adversarial y Reciprocidad de Proteccion del RU.md`:
+
+- la identidad económica legítima del RU no queda reducida a una única implementación, criptografía, ledger, proveedor o versión;
+- `CRYPTOGRAPHIC FAILURE != ECONOMIC EXTINCTION`;
+- `NEW DEFENSIVE VERSION != NEW ECONOMIC ASSET BY DEFAULT`;
+- se reconoce la **Continuidad Monetaria Recuperable** como propiedad estratégica: contener, preservar evidencia, reconstruir estado confiable y titularidad legítima, reconciliar suministro/reservas, migrar y revalidar autoridad;
+- `RECONSTRUCTION != ARBITRARY BALANCE CREATION` y `RECONSTRUCTION != AUTHORITY RESURRECTION`;
+- se establece la **Acumulación Adversarial**: vulnerabilidades e incidentes materiales deberán convertirse, cuando sea posible, en tests, defensas, reducción de superficie, reducción de radio de daño, aprendizaje y hardening permanentes;
+- se reconoce que expandir, mantener, auditar, falsar responsablemente, vacunar, reparar, reconstruir o endurecer el RU puede crear valor material para el RU y generar elegibilidad para reciprocidad;
+- dichas contribuciones podrán integrarse en el Sistema de Pioneros preservando procedencia;
+- se autoriza el diseño D2 de un **RU Adversarial Bounty**, generoso cuando la política competente lo permita, premiando impacto potencial demostrado y cooperación, no daño real causado;
+- `EXPLOIT VALUE != BOUNTY VALUE`, `BOUNTY != IMMUNITY` y `SAFE HARBOR != LICENSE TO CAUSE HARM`;
+- se crea provisionalmente la **Vía del Rubicón** para que una entidad con capacidad de causar daño pueda desistir, advertir, restituir o neutralizar valor indebidamente obtenido, cooperar y ayudar a reparar;
+- una entidad que revele responsablemente o desista y coopere podrá solicitar protección frente a represalias ilegítimas, sin que protección implique absolución;
+- no se utilizará una categoría ontológica como “Demonio” para presumir culpabilidad o excluir automáticamente protección; la frontera relevante será conductual, probatoria y jurídica;
+- se reconoce como objetivo legítimo que parte de la prosperidad del RU pueda reinvertirse, mediante política competente, en investigación, bounties, auditoría, mantenimiento, reconstrucción, migración y demás funciones de integridad;
+- el Canon Provisional no fija cuantías, porcentajes, composición de reservas, límites de concentración, inmunidades, redención, compensaciones ni otros parámetros monetarios abiertos;
+- estas materias quedan `TECHNICAL_IMPLEMENTATION_ALLOWED` sólo en D2/PRE-D3 dentro de las fronteras expresamente establecidas.
+
+Máxima provisional:
+
+> **Quien hace al RU más difícil de destruir crea valor para el RU. Quien demuestra cómo reconstruirlo después de ser destruido también.**
+
 ## IV. ECONOMÍA Y RU
 
-La norma monetaria vigente se desarrolla en `Quebranto-23 Régimen Monetario RU y Palacio de Conversión v1.0.md`.
+La norma monetaria vigente se desarrolla en `Quebranto-23 Régimen Monetario RU y Palacio de Conversión v1.0.md` y se complementa provisionalmente por `Quebranto-33 Canon Provisional - Continuidad Monetaria, Acumulacion Adversarial y Reciprocidad de Proteccion del RU.md`.
 
 Quedan consolidadas las siguientes decisiones:
 
@@ -205,7 +231,10 @@ Quedan consolidadas las siguientes decisiones:
 - un Ledger comprometido no convierte automáticamente una transferencia ilícita en propiedad legítima;
 - Rudis podrá reparar daños conforme a autoridad y procedimiento, sin convertir la capacidad técnica de reparación en potestad arbitraria sobre la propiedad;
 - cuando sea razonablemente posible, Rudis intentará no descargar automáticamente sobre usuarios inocentes el coste de un fallo sistémico, sin prometer compensación ilimitada;
-- se reconoce conceptualmente un Fondo de Integridad separado para incidentes, reconstrucción y compensaciones autorizadas.
+- se reconoce conceptualmente un Fondo de Integridad separado para incidentes, reconstrucción y compensaciones autorizadas;
+- provisionalmente, la capacidad demostrable de reconstruir y migrar el RU se reconoce como una fuente adicional de confianza, no como sustituto de reservas, utilidad, liquidez, escasez legítima, seguridad o gobierno monetario;
+- la supervivencia técnica y económica del RU deberá mejorar acumulativamente a partir de vulnerabilidades, falsaciones y ataques responsables cuando sea posible;
+- crear supervivencia verificable, integridad y capacidad de reconstrucción puede constituir creación de valor susceptible de reciprocidad conforme a política competente.
 
 El antiguo principio genérico «EUR como referencia exterior sin paridad fija automática» queda sustituido, en la fase inicial regulada por `Quebranto-23`, por el **suelo mínimo de respaldo equivalente a 1 EUR**, sin convertirlo en precio fijo de mercado ni redención automática.
 
@@ -239,7 +268,7 @@ La omisión de trabajo canónicamente abierto durante un ciclo activo de Forja s
 
 ## VII. IMPLEMENTACIÓN D2 ABIERTA — RU / PALACIO DE CONVERSIÓN
 
-Por `Quebranto-23`, existe desde ahora `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
+Por `Quebranto-23` y el alcance provisional de `Quebranto-33`, existe desde ahora `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
 
 - modelado separado de suelo, mercado, conversión y redención;
 - Reserva Monetaria / Fondo Soberano / Fondo de Integridad separados;
@@ -253,9 +282,17 @@ Por `Quebranto-23`, existe desde ahora `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 
 - genealogía de emisión;
 - Fondo de Integridad simulado;
 - migrabilidad tecnológica;
-- challenge suites adversariales monetarias.
+- challenge suites adversariales monetarias;
+- modelos de continuidad monetaria recuperable;
+- simulación de ruptura criptográfica y migración RU-vN -> RU-vN+1;
+- reconstrucción sintética de supply y titularidad con evidencia;
+- separación de blast radius entre transacción, mint, reserva, conversión, autoridad y auditoría;
+- simulaciones de fallo de banco, custodio, moneda, proveedor o Matrix;
+- aprendizaje adversarial y regression tests permanentes;
+- modelos D2 de bounty, safe harbor y Vía del Rubicón;
+- procedencia Pionera de contribuciones defensivas y de reconstrucción.
 
-Permanece bloqueado: dinero real, producción, proveedor financiero real, parámetros económicos no resueltos, autoridad monetaria inventada, derecho de redención inventado y cualquier salto D3/D4.
+Permanece bloqueado: dinero real, producción, proveedor financiero real, pago real de bounties, inmunidades jurídicas automáticas, parámetros económicos no resueltos, autoridad monetaria inventada, derecho de redención inventado, composición o concentración real de reservas no decidida, compensaciones reales y cualquier salto D3/D4.
 
 ## VIII. IMPLEMENTACIÓN D2 ABIERTA — RECIPROCIDAD DE HABITABILIDAD
 
@@ -295,7 +332,9 @@ Permanece bloqueado: acreditación profesional inventada, acceso automático a s
 
 ## X. VOLUNTARIADO PIONERO Y REGISTROS VIVOS
 
-Por `Quebranto-25`, el trabajo pionero D2 autorizado se descubre y publica operativamente mediante:
+Por `Quebranto-25` y la extensión provisional de `Quebranto-33`, el trabajo pionero D2 autorizado puede incluir contribuciones materiales a la expansión, mantenimiento, auditoría, falsación responsable, vacunación, reparación, reconstrucción, migración y hardening del RU.
+
+El trabajo pionero D2 autorizado se descubre y publica operativamente mediante:
 
 - `REGISTRO-VIVO-Proyectos-Voluntarios-Pioneros-D2.md`;
 - `REGISTRO-VIVO-Aportaciones-Pioneras.md`;
@@ -309,6 +348,8 @@ Nunca:
 
 `REGISTRO VIVO -> FABRICA AUTORIZACIÓN`
 
+La elegibilidad para reconocimiento o reciprocidad no fija por sí sola cuantía, pago, RU, ciudadanía, voto ni autoridad.
+
 ## XI. HISTÓRICOS
 
 `Quebranto-Honor..md` es **HISTÓRICO / SUPERADO** cuando contradiga el Canon vigente.
@@ -319,4 +360,4 @@ Los documentos semilla PGRH-MH conservan valor histórico y técnico en todo lo 
 
 ## XII. INVARIANTE
 
-> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. El Palacio Evolutivo universaliza el acceso al aprendizaje y a la evolución legítima de capacidades sin convertir educación en acreditación automática, aristocracia, deuda política ni autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora, digiere y preserva la capacidad de reconstituir Rudis desde fragmentos auténticos, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria y deberá poder volver a encontrarse a sí mismo tras la catástrofe.**
+> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. El Palacio Evolutivo universaliza el acceso al aprendizaje y a la evolución legítima de capacidades sin convertir educación en acreditación automática, aristocracia, deuda política ni autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora, digiere y preserva la capacidad de reconstituir Rudis desde fragmentos auténticos, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria y deberá poder volver a encontrarse a sí mismo tras la catástrofe. El RU aspira a conservar continuidad económica a través de fallos y migraciones técnicas; vulnerabilidades y ataques responsables deberán alimentar aprendizaje defensivo cuando sea posible, y quienes creen de forma demostrable expansión, mantenimiento, protección, vacunación, reparación o reconstrucción del RU podrán optar a reciprocidad sin que recompensa, riqueza o contribución creen autoridad.**
