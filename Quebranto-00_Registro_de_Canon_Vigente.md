@@ -37,11 +37,12 @@ Forman el núcleo actual:
 - `Quebranto-31 Decision Fundacional - Reconstitucion Catastrofica y Continuidad del Palacio de Unificacion.md`
 - `Quebranto-32 Decision Fundacional - Acceso Universal al Aprendizaje y Evolucion en el Palacio Evolutivo.md`
 - `Quebranto-33 Canon Provisional - Continuidad Monetaria, Acumulacion Adversarial y Reciprocidad de Proteccion del RU.md` — **CANON PROVISIONAL VIGENTE**
+- `Quebranto-34 Decision Fundacional - Palacio de Interaccion e Iteradores.md`
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, y `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU, y `Quebranto-34` crea el Palacio de Interacción y el cuerpo de Iteradores para comunicar, publicitar, experimentar narrativas y devolver aprendizaje del exterior sin convertir comunicación en autoridad.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -81,9 +82,10 @@ Cautela, preserva, contiene y ejecuta órdenes legítimas. No sentencia ni legis
 - Asamblea: gobierna y legisla ordinariamente.
 - Referéndum: corrige o decide en la consulta concreta.
 - Gremios: ejecutan.
-- Palacio: audita.
+- Palacio: audita, investiga o cumple la misión especializada que el Canon le asigne.
 - Resolutor: juzga.
 - Alianza: asesora.
+- Palacio de Interacción / Iteradores: comunica, publicita, escucha, experimenta narrativas y devuelve aprendizaje exterior sin adquirir soberanía.
 
 ### Unificación
 
@@ -206,6 +208,27 @@ Por decisión fundacional provisional de 10 de septiembre de 2026, desarrollada 
 Máxima provisional:
 
 > **Quien hace al RU más difícil de destruir crea valor para el RU. Quien demuestra cómo reconstruirlo después de ser destruido también.**
+
+### Palacio de Interacción e Iteradores
+
+Por decisión fundacional de 10 de septiembre de 2026, desarrollada en `Quebranto-34 Decision Fundacional - Palacio de Interaccion e Iteradores.md`:
+
+- se crea el **Palacio de Interacción** como órgano encargado de la relación comunicativa, explicativa, iterativa y experimental de Rudis con el exterior;
+- se crea el cuerpo de **Iteradores** para publicar, publicitar, dialogar, adaptar explicaciones, observar respuestas y devolver aprendizaje al Ecosistema;
+- los Iteradores podrán actuar en foros, comunidades, redes, medios, repositorios y otras superficies exteriores dentro del alcance autorizado;
+- podrán probar narrativas y formatos distintos, pero `ITERAR NARRATIVA != ITERAR REALIDAD`;
+- `INTERACTUAR != GOBERNAR`, `PUBLICITAR != LEGISLAR`, `FEEDBACK != AUTORIDAD`, `POPULARIDAD != LEGITIMIDAD`;
+- la reacción exterior puede abrir preguntas, investigación o propuestas, pero no modificar el Canon por sí misma;
+- quedan prohibidos como método institucional el astroturfing, suplantación, reseñas falsas, métricas compradas presentadas como interés orgánico, spam sistemático, desinformación deliberada y automatización engañosa destinada a fabricar apoyo humano inexistente;
+- los Iteradores podrán iniciar conversación comercial o estratégica, pero `CONVERSACIÓN != CONTRATO` y no adquieren representación jurídica ilimitada por interactuar;
+- la divulgación se somete a progresividad, minimización y protección de la Forja privada y de vulnerabilidades no corregidas;
+- la actividad Iteradora podrá constituir aportación Pionera cuando materialice valor demostrable conforme al régimen aplicable;
+- las métricas de atención son evidencia de interacción, no verdad, autoridad ni Canon;
+- queda abierta implementación D2 para agentes Iteradores, colas editoriales, adaptación lingüística, trazabilidad de campañas, feedback, routing institucional, métricas no soberanas y challenge suites de integridad comunicativa.
+
+Máxima canónica:
+
+> **Los Iteradores llevan Rudis al mundo y traen el mundo de vuelta a Rudis.**
 
 ## IV. ECONOMÍA Y RU
 
@@ -350,7 +373,28 @@ Nunca:
 
 La elegibilidad para reconocimiento o reciprocidad no fija por sí sola cuantía, pago, RU, ciudadanía, voto ni autoridad.
 
-## XI. HISTÓRICOS
+## XI. IMPLEMENTACIÓN D2 ABIERTA — PALACIO DE INTERACCIÓN
+
+Por `Quebranto-34`, existe `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
+
+- perfiles y roles de Iteradores;
+- colas de contenidos públicos y calendarios editoriales;
+- adaptación lingüística y narrativa;
+- clasificación no discriminatoria de públicos;
+- trazabilidad de campañas y versiones;
+- recopilación y clasificación de feedback público;
+- experimentos A/B de explicación sin alterar hechos;
+- dashboards de métricas no soberanas;
+- ingestión de menciones y referencias públicas;
+- routing hacia Tormentas, Evolutivo, Unificación, Peticiones, Construcción, Asamblea u otros órganos competentes;
+- controles de divulgación y aprobación previa para contenido sensible;
+- registros de procedencia;
+- agentes Iteradores simulados o controlados;
+- challenge suites contra desinformación, astroturfing, spam, suplantación, filtración de información sensible, métricas falsas y captura de autoridad por reputación externa.
+
+Permanece bloqueado sin autorización adicional: compromisos jurídicos reales, contratación, gasto publicitario real no autorizado, concesión de licencias, representación legal ilimitada, publicación de información restringida, cambios de Canon, producción D4 y cualquier efecto para el que falte competencia expresa.
+
+## XII. HISTÓRICOS
 
 `Quebranto-Honor..md` es **HISTÓRICO / SUPERADO** cuando contradiga el Canon vigente.
 
@@ -358,6 +402,6 @@ Los documentos económicos anteriores a `Quebranto-23` conservan valor históric
 
 Los documentos semilla PGRH-MH conservan valor histórico y técnico en todo lo compatible con `Quebranto-24`; quedan superados donde pretendan una única forma obligatoria de reciprocidad o introduzcan parámetros no adoptados.
 
-## XII. INVARIANTE
+## XIII. INVARIANTE
 
-> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. El Palacio Evolutivo universaliza el acceso al aprendizaje y a la evolución legítima de capacidades sin convertir educación en acreditación automática, aristocracia, deuda política ni autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora, digiere y preserva la capacidad de reconstituir Rudis desde fragmentos auténticos, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria y deberá poder volver a encontrarse a sí mismo tras la catástrofe. El RU aspira a conservar continuidad económica a través de fallos y migraciones técnicas; vulnerabilidades y ataques responsables deberán alimentar aprendizaje defensivo cuando sea posible, y quienes creen de forma demostrable expansión, mantenimiento, protección, vacunación, reparación o reconstrucción del RU podrán optar a reciprocidad sin que recompensa, riqueza o contribución creen autoridad.**
+> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita o cumple la misión especializada que le atribuya el Canon. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. El Palacio Evolutivo universaliza el acceso al aprendizaje y a la evolución legítima de capacidades sin convertir educación en acreditación automática, aristocracia, deuda política ni autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora, digiere y preserva la capacidad de reconstituir Rudis desde fragmentos auténticos, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria y deberá poder volver a encontrarse a sí mismo tras la catástrofe. El RU aspira a conservar continuidad económica a través de fallos y migraciones técnicas; vulnerabilidades y ataques responsables deberán alimentar aprendizaje defensivo cuando sea posible, y quienes creen de forma demostrable expansión, mantenimiento, protección, vacunación, reparación o reconstrucción del RU podrán optar a reciprocidad sin que recompensa, riqueza o contribución creen autoridad. El Palacio de Interacción lleva Rudis al exterior mediante Iteradores que publican, explican, escuchan e iteran; la comunicación puede mejorar Rudis, pero popularidad, métricas, plataformas o feedback nunca fabrican verdad, Canon ni soberanía.**
