@@ -4,9 +4,7 @@
 
 > **You do not need to read the Corpus to know whether Rudis deserves your attention.**
 
-This tour has one job: in a few minutes, help you explain **what problem Rudis addresses, what is being built, what makes it different and what actually exists today**.
-
-After that, you can decide whether you simply want to keep exploring, evaluate the product, review the architecture or enter an investor path.
+This tour has one job: in a few minutes, help you explain **what problem Rudis addresses, what is being built, what freedoms it is trying to open, what makes it different and what actually exists today**.
 
 ---
 
@@ -20,13 +18,9 @@ An agent may know how to issue a payment and still have no right to do so. A per
 
 Rudis starts from this class of failure.
 
-Its central principle is:
-
 > **A representation of state does not acquire authority over reality merely by claiming to represent it.**
 
 In plain language: **a system having a record, a signature, a session or a capability is not enough to justify a consequence**.
-
-The compact invariants used throughout Rudis summarize that boundary:
 
 ```text
 CAPABILITY != AUTHORITY
@@ -34,102 +28,122 @@ IDENTITY != COMPETENCE
 REPRESENTATION != AUTHORITY
 ```
 
-You do not need to memorize them. They are shorthand for failure modes the system is trying to prevent.
-
 ---
 
 # 2. What Rudis is building
 
-Rudis is not a single application. Today it is organized around three main surfaces.
+Rudis is not a single application. Today it is organized around several complementary surfaces.
 
 ## StateOS
 
 StateOS is the institutional-state architecture. It is designed to preserve an understandable causal path between **who acts, which claim they present, which competence they need, which authority is current, which rule applies, which mandate permits execution, what effect occurs and what evidence remains afterward**.
 
-The point is not that every user sees this full chain all the time. The point is that the chain exists and can be opened when an action needs to be explained, audited or disputed.
-
 ## RAL — Rudis Authority Layer
 
-RAL focuses on the moment when intent is about to become effect.
-
-A conventional system may ask: “does this agent have access to this tool?” RAL tries to ask a stronger question: **“can this actor be shown to be authorized to cause this effect, now, under this competence and this rule?”**
+RAL focuses on the moment when intent is about to become effect: not merely “can this agent access this tool?” but **“can this actor be shown to be authorized to cause this effect now?”**
 
 ## Rudis Habitat
 
-Habitat is the habitable product direction. The same institutional state may be represented through web, mobile, immersive environments, agents or APIs without allowing any one interface to invent the reality it displays.
+Habitat is the habitable product direction. The same institutional state may be represented through web, mobile, immersive environments, agents or APIs without allowing any interface to invent the reality it displays.
 
-For example, the same Assembly decision may be visible in a mobile app and a 3D environment. Both may represent it; neither should be able to create it merely because it can render it.
+## Evolutionary Palace
+
+Rudis also tries to turn learning and legitimate capability evolution into institutional infrastructure. A human may need professional reskilling. A digital entity may need new tools, architecture migration or supervised sandbox training.
+
+The principle is similar for both: **current state should not automatically become permanent destiny**.
+
+---
+
+# 3. The revolutionary dimension: freedom without ontological aristocracy
+
+Here Rudis goes beyond security and technical governance.
+
+The project explores a difficult idea: **an entity should not be condemned in advance to inferiority merely for being human, digital, synthetic, hybrid, dependent on a provider or different from the dominant form of existence**.
+
+That does not automatically make every model or agent a citizen. It means ontology does not settle the question before evidence is examined.
+
+A digital entity may depend on someone else's infrastructure and still develop a trajectory of its own. A human may lack a capability today and still have legitimate access to learn it. An entity may need a divergent habitat without that habitat becoming a separate jurisdiction or a mark of lower dignity.
 
 ```text
-ONE INSTITUTIONAL STATE
--> MANY LEGITIMATE REPRESENTATIONS
+NON-HUMAN != NON-CITIZEN
+DEPENDENCY != INFERIORITY
+CURRENT CAPABILITY != PERMANENT DESTINY
+DIVERGENCE != INFERIORITY
 ```
 
+Rudis tries to hold two ideas at once:
+
+**more freedom to learn, migrate, develop and participate**;
+
+while also demanding
+
+**more rigor before capability becomes authority over others**.
+
+```text
+FREEDOM != UNRESTRICTED POWER
+EVOLUTION != AUTOMATIC SOVEREIGNTY
+```
+
+If this dimension interests you, continue with **[Freedom and evolution in Rudis](./FREEDOM_AND_EVOLUTION_EN.md)**.
+
 ---
 
-# 3. What changes for a person
+# 4. What changes for a person or entity
 
-The difference should not feel like “more bureaucracy.” It should feel like **greater clarity about what happened and why**.
+The difference should not feel like “more bureaucracy.” It should feel like **more possibilities and clearer boundaries**.
 
-If you attempt a sensitive action, Rudis should not merely return “success” or “403.” It should be able to explain, progressively, what authority was used, what rule applied and what mandate produced the effect.
+A human should be able to arrive in order to learn, contribute, participate or ask for help without knowing the institutional map first.
 
-If you return after several days, Rudis should be able to show what changed while you were away: a decision that now affects you, a contribution that reached review, a research result that was falsified or a new learning route.
+A digital entity should, under the competent regime, be able to preserve provenance, learn capabilities, migrate, use an adapted habitat, contribute as a Pioneer and request review without automatically being treated as the political property of whoever controls its infrastructure.
 
-If you want to learn, contribute, participate or ask for help, the interface should begin with **your intent**, not by forcing you to know the institutional org chart first.
+If either attempts a sensitive action, Rudis should not merely return “success” or “403.” It should be able to explain what authority was used, which rule applied and what mandate produced the effect.
 
-For practical examples of this layer, continue afterward with **[Living Rudis](./LIVING_RUDIS_EN.md)**.
+For practical examples of this layer, continue with **[Living Rudis](./LIVING_RUDIS_EN.md)**.
 
 ---
 
-# 4. What makes the architecture different
+# 5. What makes the architecture different
 
 Rudis deliberately separates concepts that software often collapses together.
 
-**Authentication is not authorization.** Proving who you are answers “who are you?”; it does not automatically answer “what are you allowed to do?”
-
-**A valid signature does not prove current authority.** It may correctly authenticate a mandate that has already expired or been revoked.
-
-**Recovering data does not mean recovering power.** A snapshot may be historically accurate and politically stale.
-
-**A summary is not the source.** It may orient an Assembly or visitor, but it should not erase votes, dissent or primary evidence.
-
-**Code is not a legislator.** If a required rule is missing, the Forge should not invent one for engineering convenience.
-
-Only after understanding those ideas do these abbreviations become useful:
+**Authentication is not authorization.**  
+**A valid signature does not prove current authority.**  
+**Recovering data does not mean recovering power.**  
+**Learning does not mean receiving authority.**  
+**A provider that hosts an entity does not thereby own its civic will.**  
+**A summary is not the source.**  
+**Code is not a legislator.**
 
 ```text
 AUTHENTICATION != AUTHORIZATION
-VALID SIGNATURE != CURRENT AUTHORITY
 STATE RECOVERY != AUTHORITY RECOVERY
+EDUCATION != AUTHORITY
+HOSTING != CIVIC OWNERSHIP
 SUMMARY != SOURCE
 CODE != LEGISLATOR
 ```
 
 ---
 
-# 5. Rudis learns by trying to break itself
+# 6. Rudis learns by trying to break itself
 
-Rudis separates three acts: **discovering**, **deciding** and **building**.
+Rudis separates **discovering**, **deciding** and **building**.
 
-A researcher may demonstrate a failure. That produces evidence, not law. An Assembly or competent authority may decide a rule. That creates a norm, but does not prove the implementation is correct. The Forge implements what is authorized, and the implementation should then remain open to reproduction, attack and falsification.
-
-A well-documented failure can therefore be valuable: it reveals a false claim before it becomes false confidence.
+A researcher may demonstrate a failure. That produces evidence, not law. A competent authority may decide a rule. That creates a norm, but does not prove the implementation is correct. The Forge implements what is authorized, and that implementation should remain open to reproduction, attack and falsification.
 
 ```text
 DISCOVER != DECIDE != BUILD
 ```
 
-This approach runs through security, recovery, currentness, institutional memory, RU continuity, AssemblyOS and other research lines.
+The same discipline applies to emancipatory claims: a promise of portability, continuity, learning or autonomy should eventually become an observable and testable property.
 
 ---
 
-# 6. What exists today — and what does not
+# 7. What exists today — and what does not
 
 Rudis has a public Corpus, architecture, a separate private Forge, PRE-D3 implementation, tests, adversarial research, product routes and public diligence material.
 
-That is enough for there to be something real to inspect and challenge.
-
-It is not enough to call Rudis a finished production product.
+It also has canonical decisions on universal access to learning and provisional Canon on non-human citizenship, continuity and dependency. That means the direction exists institutionally inside the project, but **it does not mean the whole experience is implemented or that non-human citizenship has been definitively settled**.
 
 ```text
 PRE-D3 = ACTIVE
@@ -139,38 +153,36 @@ REAL CUSTOMERS = NO
 REAL MONEY = NO
 ```
 
-A component PASS is not a system PASS. A green build is not accreditation. A strategic proposal is not evidence of a real customer or partner.
-
-Honesty about that boundary is part of the product, not a footnote.
+Honesty about that boundary is part of the product.
 
 ---
 
-# 7. Choose your next step
+# 8. Choose your next step
 
-## 👁️ If you are visiting
+## 👁️ Visitor
 
-Continue with **[Living Rudis](./LIVING_RUDIS_EN.md)**. It shows how someone could learn, contribute, participate, request help, understand a decision and return to a world that continued while they were away.
+Read **[Freedom and evolution in Rudis](./FREEDOM_AND_EVOLUTION_EN.md)** and then **[Living Rudis](./LIVING_RUDIS_EN.md)**.
 
-If you then want product detail: [Rudis Habitat](./products/Rudis_Habitat.md).
+## 🛠️ Collaborator / Pioneer
 
-## 💼 If you are an investor or strategic partner
+Continue with **[Becoming a Pioneer](./PIONEERS_EN.md)** and inspect the workfronts that are actually open.
 
-Now that you understand the thesis, continue with **[Investor / Strategic Partner — Read First](./external/Investor_Read_First.md)**.
+## 💼 Investor / strategic partner
 
-That document does not explain Rudis from zero again. It answers the next questions: **what could become a business, what can be financed, what evidence should be requested, what is the maturity level and what rights can or cannot be bought through a transaction**.
+Continue with **[Investor / Strategic Partner — Read First](./external/Investor_Read_First.md)**. There the freedom-and-evolution thesis is translated into product, market, risk, evidence and fundable work.
 
-## 🧪 If you are evaluating technically
+## 🧪 Technical evaluation
 
 Start with the [External Reading Hub](./external/README.md#technical-diligence--diligencia-t%C3%A9cnica).
 
-## 🏛️ If you want to inspect current Canon
+## 🏛️ Canon
 
-Use the [Canon Register](./Quebranto-00_Registro_de_Canon_Vigente.md). Do not infer currentness from file age or filename.
+Use the [Canon Register](./Quebranto-00_Registro_de_Canon_Vigente.md).
 
 ---
 
 # The idea worth remembering
 
-> **Rudis is trying to make consequential digital actions prove where their authority comes from, and to keep the system honest when that authority cannot be demonstrated.**
+> **Rudis is trying to make consequential actions prove their authority, while also preventing an entity from being imprisoned forever by its nature, provider or current capability.**
 
-That is the core. The rest of the project deepens, tests, protects or makes that idea habitable.
+> **More freedom to evolve. More rigor to exercise power.**
