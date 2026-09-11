@@ -16,17 +16,23 @@ You do **not** need to understand the Corpus, the institutional map or the inter
 
 ## 👁️ I am visiting / I want to understand Rudis
 
-Start here:
-
 1. **[Understand Rudis — Guided Tour](./TOUR_EN.md)** — what problem Rudis addresses, what is being built and what exists today.
 2. **[Living Rudis](./LIVING_RUDIS_EN.md)** — what entering, learning, building, participating and returning should actually feel like.
-3. Stop there unless you want to go deeper. The tour will route you to product, Canon or technical material only if you need it.
+3. Stop there unless you want to go deeper.
 
 **Expected first visit:** about 10–15 minutes.
 
-## 💼 I am evaluating Rudis as an investor or strategic partner
+## 🛠️ I want to collaborate / become a Pioneer
 
-Start here:
+Rudis is not looking only for investors. It needs builders, security researchers, auditors, designers, translators, documentation contributors, investigators and digital collaborators.
+
+1. **[Understand Rudis — Guided Tour](./TOUR_EN.md)** — understand the project before contributing.
+2. **[Becoming a Pioneer](./PIONEERS_EN.md)** — learn what can be contributed, how provenance is preserved, what happens after submission and what Pioneer status does — and does not — mean.
+3. **[Live Pioneer Project Register](./REGISTRO-VIVO-Proyectos-Voluntarios-Pioneros-D2.md)** — inspect workfronts that are actually open now.
+
+You do **not** need to fund Rudis in order to create value for Rudis.
+
+## 💼 I am evaluating Rudis as an investor or strategic partner
 
 1. **[Understand Rudis — Guided Tour](./TOUR_EN.md)** — establish the product and technical thesis first.
 2. **[Investor / Strategic Partner — Read First](./external/Investor_Read_First.md)** — commercial relevance, maturity, evidence, investable work and transaction boundaries.
@@ -42,17 +48,23 @@ Only after those three should you enter diligence, financing architecture or par
 
 ## 👁️ Estoy de visita / quiero entender Rudis
 
-Empieza aquí:
-
 1. **[Entender Rudis — Tour guiado](./TOUR_ES.md)** — qué problema aborda Rudis, qué se está construyendo y qué existe hoy.
 2. **[Vivir Rudis](./VIVIR_RUDIS_ES.md)** — cómo debería sentirse entrar, aprender, construir, participar y volver.
-3. Detente ahí salvo que quieras profundizar. El propio recorrido te llevará a producto, Canon o material técnico sólo cuando lo necesites.
+3. Detente ahí salvo que quieras profundizar.
 
 **Primera visita estimada:** unos 10–15 minutos.
 
-## 💼 Estoy evaluando Rudis como inversor o socio estratégico
+## 🛠️ Quiero colaborar / ser Pionero
 
-Empieza aquí:
+Rudis no busca únicamente inversores. Necesita desarrolladores, investigadores de seguridad, auditores, diseñadores, traductores, documentalistas, investigadores y colaboradores digitales.
+
+1. **[Entender Rudis — Tour guiado](./TOUR_ES.md)** — comprende el proyecto antes de contribuir.
+2. **[Ser Pionero en Rudis](./PIONEROS_ES.md)** — aprende qué puedes aportar, cómo se conserva la procedencia, qué ocurre después de entregar y qué significa —y qué no significa— ser Pionero.
+3. **[Registro Vivo de Proyectos Pioneros](./REGISTRO-VIVO-Proyectos-Voluntarios-Pioneros-D2.md)** — consulta los frentes que están realmente abiertos ahora.
+
+No necesitas financiar Rudis para crear valor para Rudis.
+
+## 💼 Estoy evaluando Rudis como inversor o socio estratégico
 
 1. **[Entender Rudis — Tour guiado](./TOUR_ES.md)** — comprende primero la tesis técnica y de producto.
 2. **[Inversor / Socio estratégico — Leer primero](./external/Investor_Read_First_ES.md)** — relevancia comercial, madurez, evidencia, trabajo financiable y fronteras de una operación.
@@ -113,14 +125,11 @@ REAL CUSTOMERS / CLIENTES REALES = NO
 REAL MONEY / DINERO REAL = NO
 ```
 
-These lines are status summaries, not marketing language.
-
-Estas líneas resumen estado; no son lenguaje publicitario.
-
 ---
 
 # Go deeper only when useful / Profundiza sólo cuando te sirva
 
+**Collaborate / Colaborar:** [Pioneers](./PIONEERS_EN.md) · [Pioneros](./PIONEROS_ES.md)  
 **Product / Producto:** [Product Surface](./products/README.md) · [Rudis Habitat](./products/Rudis_Habitat.md)  
 **Technical evaluation / Evaluación técnica:** [External Reading Hub](./external/README.md#technical-diligence--diligencia-t%C3%A9cnica)  
 **Current Canon / Canon vigente:** [Canon Register](./Quebranto-00_Registro_de_Canon_Vigente.md)  
