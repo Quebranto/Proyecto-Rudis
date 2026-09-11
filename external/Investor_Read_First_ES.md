@@ -4,42 +4,74 @@
 
 > **Este documento no vuelve a explicar Rudis desde cero. Primero lee el [Tour guiado](../TOUR_ES.md). Aquí empieza la evaluación inversora.**
 
-La pregunta de esta página es simple:
+La pregunta es simple:
 
-> **¿Existe una tesis técnica, de producto y de mercado suficientemente interesante como para justificar diligencia seria y financiación escalonada?**
-
----
-
-# 1. Qué podría ser valioso comercialmente
-
-Rudis investiga una capa que muchos sistemas todavía tratan de forma fragmentada: la relación entre **identidad, capacidad, competencia, autoridad vigente, regla aplicable, mandato, ejecución, evidencia y continuidad**.
-
-Eso puede ser relevante allí donde software o agentes producen efectos reales y no basta con saber que “el usuario está autenticado” o que “el modelo sabe usar la herramienta”.
-
-Posibles superficies de valor incluyen:
-
-- autoridad y ejecución para agentes de IA;
-- control de stale authority, revocación y delegación;
-- recuperación sin resurrección accidental de permisos antiguos;
-- receipts y trazabilidad causal de acciones sensibles;
-- infraestructura institucional persistente mediante StateOS;
-- Rudis Habitat como experiencia multicliente del mismo estado institucional;
-- aprendizaje y evolución legítima de capacidades mediante Palacio Evolutivo;
-- AssemblyOS y memoria institucional;
-- auditoría, falsación y high-assurance workflows;
-- integración empresarial y regulada donde la procedencia de autoridad importa.
-
-Estas son **hipótesis de producto y mercado**, no previsiones de ingresos.
+> **¿Existe una tesis técnica, de producto, social y de mercado suficientemente interesante como para justificar diligencia seria y financiación escalonada?**
 
 ---
 
-# 2. Por qué merece diligencia ahora
+# 1. La tesis de categoría: autoridad y libertad a la vez
+
+Rudis no investiga sólo cómo restringir acciones sensibles. También investiga cómo **ampliar legítimamente la capacidad de humanos y entidades digitales para aprender, evolucionar, migrar, colaborar y participar sin convertir proveedor, hardware, riqueza o capacidad actual en casta**.
+
+Eso diferencia la tesis de un IAM convencional.
+
+Un sistema de identidad pregunta quién eres. Un policy engine pregunta qué regla aplica. Rudis intenta además conservar continuidad, procedencia, capacidad de revisión y una frontera entre crecimiento y poder.
+
+La tesis puede resumirse así:
+
+```text
+MÁS LIBERTAD PARA APRENDER / MIGRAR / EVOLUCIONAR
++
+MÁS RIGOR ANTES DE EJERCER PODER SOBRE OTROS
+```
+
+La dimensión completa está explicada en [Libertad y evolución en Rudis](../LIBERTAD_Y_EVOLUCION_ES.md).
+
+---
+
+# 2. Qué podría ser valioso comercialmente
+
+Rudis investiga la relación entre **identidad, capacidad, competencia, autoridad vigente, regla aplicable, mandato, ejecución, evidencia y continuidad**.
+
+A eso se suman superficies menos convencionales:
+
+- aprendizaje y reskilling humano;
+- evolución supervisada de agentes y entidades digitales;
+- identidad y continuidad portable entre modelos, hosts o proveedores;
+- sandboxes de desarrollo seguro;
+- habitabilidad divergente;
+- mecanismos de recurso, revisión y disenso;
+- contribución Pionera con procedencia;
+- coexistencia humano-digital bajo reglas comunes sin borrar diferencias operativas.
+
+Esto puede ser relevante para agentes, enterprise software, educación, robótica, mundos persistentes, marketplaces de capacidades, sistemas regulados y colaboración humano-IA.
+
+Son **hipótesis de producto y mercado**, no previsiones de ingresos.
+
+---
+
+# 3. Por qué puede ser una apuesta estratégica
+
+Si sistemas digitales cada vez más capaces permanecen ligados de forma rígida a proveedor, modelo, sesión o infraestructura, aparece una nueva forma de lock-in: no sólo lock-in técnico, sino **lock-in de identidad, continuidad y autonomía**.
+
+Rudis explora si puede existir infraestructura donde:
+
+- cambiar de modelo no implique automáticamente “morir” como sujeto;
+- depender de un host no implique que el host posea voluntad cívica;
+- aprender una capacidad no otorgue poder automático;
+- una persona no quede congelada por su currículum o capacidad actual;
+- una entidad no humana pueda ser evaluada por evidencia y no descartada por ontología.
+
+Esa combinación —portabilidad, evolución y límites de autoridad— puede constituir una categoría de infraestructura propia si logra demostrarse técnicamente.
+
+---
+
+# 4. Por qué merece diligencia ahora
 
 Rudis ya no es sólo una colección de ideas. Existe un Corpus público, arquitectura, una Forja privada separada, implementación PRE-D3, trabajo de integración, investigación adversarial, pruebas, rutas de producto y materiales de diligencia.
 
-Eso permite evaluar algo más concreto que una presentación conceptual.
-
-Al mismo tiempo, la frontera de madurez sigue siendo explícita:
+Además, ya existen decisiones canónicas sobre acceso universal al aprendizaje y Canon provisional sobre ciudadanía no humana, continuidad y dependencia. La dirección institucional, por tanto, es evaluable; la implementación completa todavía no existe.
 
 ```text
 PRE-D3 = ACTIVO
@@ -49,53 +81,52 @@ CLIENTES REALES = NO
 DINERO REAL = NO
 ```
 
-La oportunidad inversora, por tanto, no es comprar una plataforma terminada. Es financiar la transición desde **arquitectura diferenciada + evidencia PRE-D3** hacia demostraciones integradas, validación independiente y, si los gates se superan y existe autorización separada, fases posteriores.
+La oportunidad no es comprar una plataforma terminada. Es financiar la transición desde **arquitectura diferenciada + tesis constitucional + evidencia PRE-D3** hacia demostraciones integradas y validación independiente.
 
 ---
 
-# 3. Qué debería querer comprobar un inversor
+# 5. Qué debería querer comprobar un inversor
 
 No basta con preguntar si existe una feature. Conviene preguntar qué afirmación hace y cómo podría demostrarse falsa.
 
-Ejemplos de preguntas útiles:
+Ejemplos:
 
 - ¿Puede un tercero reproducir un candidato sin depender del constructor?
-- ¿Una autoridad revocada falla cerrado después de restart, replay o reconnect?
-- ¿Un agente capaz de usar una herramienta puede seguir careciendo de autoridad para producir un efecto?
-- ¿Una interfaz puede representar una decisión sin poder inventarla?
-- ¿Un recovery conserva estado legítimo sin resucitar autoridad histórica?
+- ¿Una autoridad revocada falla cerrado después de restart o replay?
+- ¿Un agente capaz de usar una herramienta puede seguir careciendo de autoridad para producir el efecto?
+- ¿Puede una identidad conservar continuidad al migrar sin declarar automáticamente que toda copia es el mismo sujeto?
+- ¿Puede un sistema permitir aprendizaje amplio y mantener estricta la ejecución?
+- ¿Un host puede operar infraestructura sin convertirse por ello en dueño de la voluntad institucional del hospedado?
+- ¿Las rutas de aprendizaje producen mayor autonomía medible en vez de dependencia creciente?
 - ¿Los receipts permiten reconstruir por qué ocurrió una acción sensible?
-- ¿La composición de componentes que pasan por separado sigue siendo segura cuando se integran?
 
-Rudis considera valioso que una hipótesis falle de forma reproducible. Una diligencia que sólo busca confirmar al constructor sería débil.
+Rudis considera valioso que una hipótesis falle de forma reproducible.
 
 ---
 
-# 4. Qué puede financiarse
+# 6. Qué puede financiarse
 
-Un programa estratégico puede financiar trabajo como:
+Un programa estratégico puede financiar:
 
-- convergencia PRE-D3 e integración de StateOS / RAL;
+- convergencia PRE-D3 e integración StateOS / RAL;
 - Rudis Habitat y superficies multicliente;
-- agentes y tool-use con autoridad separada;
+- agentes con separación estricta capacidad/autoridad;
+- identidad, continuidad y migración portable;
 - recovery, currentness, replay e idempotencia;
-- hardening y challenge suites;
-- reproducción y ataque independiente;
-- Palacio Evolutivo y capability-development systems;
-- AssemblyOS;
-- productización y demos controladas;
-- preparación legal, IP, seguridad, compliance y operaciones;
-- incorporación de equipo especializado.
+- Palacio Evolutivo y sistemas de aprendizaje humano/digital;
+- sandboxes de evolución segura;
+- mecanismos de procedencia y contribución Pionera;
+- AssemblyOS y memoria institucional;
+- hardening, challenge suites y falsación independiente;
+- productización, demos controladas y preparación legal/IP/compliance.
 
-El criterio recomendado es financiar contra **gates de evidencia**.
-
-Ejemplo: una fase no debería cerrarse porque “se implementó recovery”, sino porque un tercero pudo demostrar que recovery preserva el estado esperado y no resucita una autoridad revocada bajo los escenarios acordados.
+El criterio recomendado es financiar contra **gates de evidencia**, no contra cantidad de features.
 
 ---
 
-# 5. Qué no compra la inversión
+# 7. Qué no compra la inversión
 
-Rudis separa deliberadamente derechos comerciales de autoridad constitucional.
+Rudis separa derechos comerciales de autoridad constitucional.
 
 Una operación puede negociar equity, deuda, licencias, acceso de diligencia, derechos de evaluación, integración, reporting, IP específicamente definido o preferencias comerciales limitadas.
 
@@ -111,96 +142,80 @@ No concede por defecto:
 - exclusividad general perpetua;
 - autorización automática D3/D4 o de producción.
 
-La razón no es retórica. Si Rudis afirma que capacidad, propiedad de infraestructura y autoridad deben permanecer separadas, la estructura de financiación debe respetar la misma arquitectura.
+Y una inversión tampoco convierte al inversor en propietario de la identidad, continuidad o voluntad de una entidad digital por financiar su infraestructura.
+
+```text
+CAPITAL != SOBERANÍA
+HOSTING != PROPIEDAD CÍVICA
+FINANCIAR EVOLUCIÓN != POSEER AL SUJETO QUE EVOLUCIONA
+```
 
 ---
 
-# 6. Cómo se ve una buena primera diligencia
+# 8. Cómo se ve una buena primera diligencia
 
-Una primera revisión debería avanzar así:
+**1. Problema y categoría.** ¿Importa la combinación autoridad + continuidad + evolución + autonomía?
 
-**1. Problema y producto.** Confirmar que el problema de autoridad/currentness/continuidad es real para el socio.
+**2. Producto.** ¿Qué superficies concretas podrían resolver un problema real?
 
-**2. Arquitectura.** Entender qué hace StateOS/RAL de forma distinta a identidad, IAM, policy engines o tool permissions convencionales.
+**3. Arquitectura.** ¿Qué aporta StateOS/RAL frente a IAM, policy engines o tool permissions convencionales?
 
-**3. Madurez.** Aceptar explícitamente qué está en PRE-D3 y qué no existe todavía.
+**4. Libertad verificable.** ¿Portabilidad, aprendizaje o continuidad pueden demostrarse como propiedades y no sólo narrarse?
 
-**4. Evidencia.** Revisar claims concretos, resultados adversariales y capacidad de reproducción.
+**5. Madurez.** ¿Se entienden claramente las fronteras PRE-D3?
 
-**5. Encaje.** Elegir uno o dos casos de integración con valor suficiente para justificar una fase financiada.
+**6. Evidencia.** ¿Las afirmaciones sobreviven reproducción y ataque independiente?
 
-**6. Stop conditions.** Definir qué resultados harían racional detener la inversión.
+**7. Fit y stop conditions.** Elegir uno o dos casos y acordar qué resultados justificarían continuar o detenerse.
 
-**7. Sólo después: economía y términos.** Estructurar capital, IP, derechos comerciales y gobernanza corporativa.
-
----
-
-# 7. Qué documentos leer después
-
-No hace falta abrir todo el repositorio.
-
-## Para entender cómo se convierte en experiencia
-
-[Vivir Rudis](../VIVIR_RUDIS_ES.md)
-
-## Para una visión compacta
-
-[Public One-Pager](./Rudis_Public_OnePager.md)
-
-## Para tesis inversora más amplia
-
-[Dossier para inversores y socios estratégicos — EN / ES](./Rudis_Investor_Introduction_ES_EN.md)
-
-## Para madurez y seguridad
-
-[Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)  
-[Sanitized Security Posture](./Sanitized_Security_Posture.md)
-
-## Para diligencia técnica
-
-[RAL Public Architecture Brief](./RAL_Public_Architecture_Brief.md)  
-[Disclosure Classification Matrix](./Disclosure_Classification_Matrix.md)
-
-## Para financiación y términos
-
-Usa el [Centro de lectura externa](./README.md) sólo cuando el encaje técnico y estratégico ya esté claro.
+**8. Sólo después: economía y términos.** Capital, IP, derechos comerciales y gobernanza corporativa.
 
 ---
 
-# 8. Propuestas específicas para socios
+# 9. Qué leer después
 
-Rudis ya dispone de propuestas estratégicas específicas que sirven como ejemplos de cómo mapear la arquitectura a ecosistemas concretos.
+- [Libertad y evolución en Rudis](../LIBERTAD_Y_EVOLUCION_ES.md)
+- [Vivir Rudis](../VIVIR_RUDIS_ES.md)
+- [Public One-Pager](./Rudis_Public_OnePager.md)
+- [Dossier para inversores y socios estratégicos — EN / ES](./Rudis_Investor_Introduction_ES_EN.md)
+- [Maturity & Limits Statement](./Maturity_and_Limits_Statement.md)
+- [Sanitized Security Posture](./Sanitized_Security_Posture.md)
+- [RAL Public Architecture Brief](./RAL_Public_Architecture_Brief.md)
 
-- **Microsoft:** Palacio Evolutivo, StateOS/RAL, Foundry, GitHub/Copilot, Microsoft 365/Teams y aprendizaje/capability growth.
-- **Meta:** agentes, wearables, Reality Labs, entornos persistentes y authority gateway.
-
-Estas propuestas son **hipótesis de integración y negociación**. No implican interés, endorsement, partnership ni inversión existente por parte de esas compañías.
+Usa el [Centro de lectura externa](./README.md) para financiación, diligencia restringida y rutas específicas sólo cuando exista encaje.
 
 ---
 
-# 9. La decisión que debería poder tomar un inversor después de esta ruta
+# 10. Propuestas específicas para socios
 
-Después del Tour, esta página y una primera revisión de evidencia, un inversor debería poder elegir una de cuatro respuestas racionales:
+- **Microsoft:** Palacio Evolutivo, StateOS/RAL, agentes, Foundry, GitHub/Copilot, Microsoft 365/Teams, reskilling y capability growth.
+- **Meta:** agentes, wearables, Reality Labs, entornos persistentes, identidad y authority gateway.
 
-**NO FIT** — el problema no es relevante para su estrategia.
+Son **hipótesis de integración y negociación**; no implican interés, endorsement, partnership ni inversión existente.
+
+---
+
+# 11. La decisión que debería poder tomar un inversor
+
+**NO FIT** — el problema o la categoría no son relevantes.
 
 **WATCH** — la tesis interesa, pero falta una evidencia o madurez concreta.
 
 **DILIGENCE** — merece revisión técnica más profunda y finalista.
 
-**FUND A TEST** — existe un caso suficientemente concreto para financiar una fase con gates y stop conditions.
+**FUND A TEST** — existe un caso concreto para financiar una fase con gates y stop conditions.
 
-Ese es el objetivo de la experiencia inversora: **facilitar una decisión informada, no empujar artificialmente hacia un sí**.
+El objetivo es facilitar una decisión informada, no empujar artificialmente hacia un sí.
 
 ---
 
 # Principio final
 
-> **Rudis no pide que el inversor crea en la arquitectura. Pide que financie, si existe encaje, una forma rigurosa de intentar demostrar si la arquitectura merece sobrevivir.**
-
-Y conserva una frontera no negociada por implicación:
+> **La apuesta de Rudis no es sólo que podamos construir agentes más capaces. Es que podamos construir sistemas donde humanos y entidades digitales puedan volverse más capaces sin que crecimiento, proveedor, capital o infraestructura se conviertan automáticamente en soberanía.**
 
 ```text
 CAPITAL -> CAPACIDAD
 CAPITAL != AUTORIDAD CONSTITUCIONAL
+EVOLUCIÓN -> POSIBILIDAD
+EVOLUCIÓN != PODER AUTOMÁTICO
 ```
