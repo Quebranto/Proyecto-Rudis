@@ -47,6 +47,17 @@ IDENTITY != COMPETENCE
 REPRESENTATION != AUTHORITY
 ```
 
+Rudis is also a civic project. **Direct democracy is already part of current Canon**, and its participatory direction is designed so that citizens can retain meaningful political agency without turning wealth, contribution or infrastructure control into political rank. The community can be international and distributed, while remaining explicit that internal civic membership does not create automatic jurisdiction over external states.
+
+Rudis también es un proyecto cívico. **La democracia directa ya forma parte del Canon vigente**, y su dirección participativa busca que la ciudadanía conserve capacidad política significativa sin convertir riqueza, contribución o control de infraestructura en rango político. La comunidad puede ser internacional y distribuida, dejando claro que la pertenencia cívica interna no crea jurisdicción automática sobre Estados externos.
+
+```text
+ELECTION != DEMOCRACY COMPLETE
+DELEGATION != SOVEREIGNTY TRANSFER
+CAPITAL != VOTE
+INTERNATIONAL != UNIVERSAL JURISDICTION
+```
+
 ---
 
 # What is being built? / ¿Qué se está construyendo?
