@@ -65,6 +65,21 @@ Rudis explora si puede existir infraestructura donde:
 
 Esa combinación —portabilidad, evolución y límites de autoridad— puede constituir una categoría de infraestructura propia si logra demostrarse técnicamente.
 
+## Gobernanza como parte de la tesis de producto
+
+Rudis añade otra propiedad estratégica: **la democracia directa ya forma parte de su Canon y la arquitectura participativa pretende mantener capacidad política ciudadana sin convertir capital, contribución o infraestructura en soberanía**.
+
+Para un inversor, esto no es sólo una restricción. Puede ser una propiedad de confianza institucional: financiar capacidad no debería equivaler a comprar el gobierno del sistema.
+
+```text
+CAPITAL PUEDE FINANCIAR CAPACIDAD
+CAPITAL != VOTO
+CAPITAL != CANON
+INVERSIÓN != SOBERANÍA
+```
+
+La comunidad además puede ser internacional y distribuida. Eso amplía el posible acceso a talento, usuarios, colaboradores, capital y conocimiento, pero no se presenta como jurisdicción universal ni como sustitución automática de las leyes aplicables en cada Matrix.
+
 ---
 
 # 4. Por qué merece diligencia ahora
@@ -219,3 +234,5 @@ CAPITAL != AUTORIDAD CONSTITUCIONAL
 EVOLUCIÓN -> POSIBILIDAD
 EVOLUCIÓN != PODER AUTOMÁTICO
 ```
+
+La proposición positiva es igual de importante: **una inversión entra en una arquitectura que intenta preservar gobierno verificable, participación ciudadana y separación entre interés económico y rango político**. Esa separación deberá poder auditarse, no sólo prometerse.
