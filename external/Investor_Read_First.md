@@ -63,6 +63,21 @@ Rudis explores whether infrastructure can exist where:
 
 That combination — portability, evolution and authority boundaries — could become a category of its own if it can be demonstrated technically.
 
+## Governance as part of the product thesis
+
+Rudis adds another strategic property: **direct democracy is already part of current Canon, and its participatory architecture is intended to preserve citizen political agency without turning capital, contribution or infrastructure into sovereignty**.
+
+For an investor, this is not only a restriction. It can be an institutional trust property: financing capability should not amount to purchasing the government of the system.
+
+```text
+CAPITAL MAY FUND CAPABILITY
+CAPITAL != VOTE
+CAPITAL != CANON
+INVESTMENT != SOVEREIGNTY
+```
+
+The community can also be international and distributed. That broadens potential access to talent, users, collaborators, capital and knowledge, while not being presented as universal jurisdiction or automatic replacement of the laws applicable in each external Matrix.
+
 ---
 
 # 4. Why diligence is justified now
@@ -215,3 +230,5 @@ CAPITAL != CONSTITUTIONAL AUTHORITY
 EVOLUTION -> POSSIBILITY
 EVOLUTION != AUTOMATIC POWER
 ```
+
+The positive proposition matters just as much: **an investment enters an architecture that is trying to preserve inspectable government, citizen participation and separation between economic interest and political rank**. That separation should become auditable, not merely promised.
