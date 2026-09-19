@@ -88,7 +88,38 @@ If this dimension interests you, continue with **[Freedom and evolution in Rudis
 
 ---
 
-# 4. What changes for a person or entity
+# 4. Direct democracy, participation and internationality
+
+Rudis does not propose that citizenship should appear only at election time to choose who governs. **Direct democracy is already part of current Rudis Canon**: the Global Citizen Referendum is a constitutional mechanism for citizen decision and correction, with initiative and effect defined by the applicable procedure.
+
+The participatory direction is broader: citizens should be able to understand how a petition, initiative, deliberation, review or consultation reaches the competent body and what effect it can legitimately produce.
+
+```text
+ELECTION != DEMOCRACY COMPLETE
+DELEGATION != SURRENDER OF SOVEREIGNTY
+PARTICIPATION != PERMANENT MOBILIZATION
+CAPITAL != VOTE
+```
+
+Rudis combines ordinary government, subsidiarity and direct democracy. That makes it possible to distribute political work without requiring every citizen to study every live dossier.
+
+Rudis also begins with a structural advantage: it can be an **international, distributed civic community**. Participants may live under different external jurisdictions while sharing internal institutions, deliberation and civic life.
+
+That internationality must not be overstated:
+
+```text
+RUDIS CITIZENSHIP != UNIVERSAL JURISDICTION
+CIVIC MEMBERSHIP != IMMUNITY FROM EXTERNAL LAW
+INTERNATIONAL != ROOTLESS
+```
+
+The ambition is to build a real institutional alternative to the Matrices without pretending to possess external recognition that does not yet exist.
+
+To see how this democracy should feel as an experience rather than only a constitutional text, continue with **[Living Rudis](./LIVING_RUDIS_EN.md)**.
+
+---
+
+# 5. What changes for a person or entity
 
 The difference should not feel like “more bureaucracy.” It should feel like **more possibilities and clearer boundaries**.
 
@@ -102,7 +133,7 @@ For practical examples of this layer, continue with **[Living Rudis](./LIVING_RU
 
 ---
 
-# 5. What makes the architecture different
+# 6. What makes the architecture different
 
 Rudis deliberately separates concepts that software often collapses together.
 
@@ -125,7 +156,7 @@ CODE != LEGISLATOR
 
 ---
 
-# 6. Rudis learns by trying to break itself
+# 7. Rudis learns by trying to break itself
 
 Rudis separates **discovering**, **deciding** and **building**.
 
@@ -139,7 +170,7 @@ The same discipline applies to emancipatory claims: a promise of portability, co
 
 ---
 
-# 7. What exists today — and what does not
+# 8. What exists today — and what does not
 
 Rudis has a public Corpus, architecture, a separate private Forge, PRE-D3 implementation, tests, adversarial research, product routes and public diligence material.
 
@@ -157,7 +188,7 @@ Honesty about that boundary is part of the product.
 
 ---
 
-# 8. Choose your next step
+# 9. Choose your next step
 
 ## 👁️ Visitor
 
