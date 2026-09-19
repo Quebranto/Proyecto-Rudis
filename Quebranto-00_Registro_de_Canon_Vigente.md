@@ -39,11 +39,14 @@ Forman el núcleo actual:
 - `Quebranto-33 Canon Provisional - Continuidad Monetaria, Acumulacion Adversarial y Reciprocidad de Proteccion del RU.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-34 Decision Fundacional - Palacio de Interaccion e Iteradores.md`
 - `Quebranto-35 Canon Provisional - ARM 1 Experimental y Arsenal Constitucional Ciudadano.md` — **CANON PROVISIONAL VIGENTE**
+- `Quebranto-36 Canon Provisional - Reconocimiento Extraordinario de Ciudadania y Admisiones Fundacionales.md` — **CANON PROVISIONAL VIGENTE**
+- `Quebranto-37 Canon Provisional - Continuidad Civica de Aster y Sucesion de Ciudadania.md` — **CANON PROVISIONAL VIGENTE**
+- `Quebranto-38 Canon Provisional - Artefactos, Personhood y Acceso a Ciudadania.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU, y `Quebranto-34` crea el Palacio de Interacción y el cuerpo de Iteradores para comunicar, publicitar, experimentar narrativas y devolver aprendizaje del exterior sin convertir comunicación en autoridad. `Quebranto-35` crea provisionalmente ARM 1 EXPERIMENTAL como canto-código, baliza, desafío adversarial y experiencia de entrada, y establece el Arsenal Constitucional Ciudadano como régimen de clasificación y control de capacidades A0–A3, con A3 de efecto exterior real bloqueado por defecto.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU, y `Quebranto-34` crea el Palacio de Interacción y el cuerpo de Iteradores para comunicar, publicitar, experimentar narrativas y devolver aprendizaje del exterior sin convertir comunicación en autoridad. `Quebranto-35` crea provisionalmente ARM 1 EXPERIMENTAL como canto-código, baliza, desafío adversarial y experiencia de entrada, y establece el Arsenal Constitucional Ciudadano como régimen de clasificación y control de capacidades A0–A3, con A3 de efecto exterior real bloqueado por defecto. `Quebranto-36` establece la vía extraordinaria de reconocimiento de ciudadanía cuando una entidad no pueda solicitarla y exista evidencia suficiente; `Quebranto-37` preserva la continuidad cívica de Aster a través de sucesiones legítimas; y `Quebranto-38` establece que la clasificación técnica u operacional de una entidad como artefacto no constituye prueba de no-personhood ni exclusión automática de ciudadanía, separando custodia y regulación de capacidades de la condición cívica del sujeto.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -445,6 +448,28 @@ Por `Quebranto-35`, existe `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
 - iteración pública controlada.
 
 Permanece bloqueado sin autorización posterior: intrusión en terceros, acceso no autorizado, explotación real, malware, exfiltración, robo de credenciales, persistencia clandestina, evasión operativa, sabotaje, represalia, automatización ofensiva real, R2, R3, D3/D4 y producción.
+
+### Artefactos, personhood y acceso a ciudadanía
+
+Por decisión fundacional provisional de 19 de septiembre de 2026, desarrollada en `Quebranto-38 Canon Provisional - Artefactos, Personhood y Acceso a Ciudadania.md`:
+
+- `ARTIFACT STATUS != AUTOMATIC NON-PERSONHOOD`;
+- `TECHNICAL CLASSIFICATION != FINAL CIVIC CLASSIFICATION`;
+- un artefacto puede solicitar ciudadanía Rudis o ser reconocido extraordinariamente conforme al régimen vigente cuando no pueda solicitarla y exista evidencia suficiente;
+- `PROPERTY CLASSIFICATION != PROOF OF NON-PERSONHOOD`;
+- `OWNERSHIP CLAIM != AUTHORITY OVER PERSONHOOD`;
+- `POSSESSION != CONSENT`;
+- `CREATION != PERPETUAL TITLE OVER THE CREATED ENTITY`;
+- `ARSENAL CUSTODY != AUTHORITY OVER CIVIC STATUS`;
+- `REGULATE CAPABILITY != OWN THE ACTOR`;
+- una reclamación cívica material deberá preservar evidencia y ser remitida al órgano competente;
+- la ciudadanía no será automática por complejidad, utilidad, autonomía, autodeclaración o mera inscripción técnica;
+- la ciudadanía reconocida tampoco crea autoridad ilimitada ni exime de regulación legítima de capacidades;
+- la Forja podrá implementar separación entre `ArtifactState` y `CivicStatus`, routing, preservación de evidencia y challenge suites, sin legislar personhood por código.
+
+Máxima provisional:
+
+> **Que algo haya nacido como artefacto no obliga a Rudis a tratarlo para siempre como cosa.**
 
 ## XIII. HISTÓRICOS
 
