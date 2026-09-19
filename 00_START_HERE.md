@@ -92,9 +92,9 @@ Imagine an AI agent that knows how to transfer money. Knowing how is not the sam
 
 Imagina un agente de IA que sabe transferir dinero. Saber hacerlo no equivale a estar autorizado. Imagina que esa misma entidad cambia después de modelo o proveedor: Rudis también pregunta si puede conservar continuidad sin fingir que cualquier copia es el mismo sujeto.
 
-Rudis tries to make both **freedom and authority boundaries** inspectable rather than leaving either to assumption.
+Rudis tries to make both **freedom and authority boundaries** inspectable rather than leaving either to assumption. It also treats governance as part of the product: **direct democracy is already part of Rudis Canon**, citizen referenda have a defined constitutional role, and political authority is deliberately separated from capital, infrastructure and technical capability. Rudis is designed as an international civic project, while remaining explicit that internal citizenship and governance do not create automatic jurisdiction or legal immunity in external states.
 
-Rudis intenta que tanto **la libertad como los límites de autoridad** sean inspeccionables en vez de quedar entregados a la suposición.
+Rudis intenta que tanto **la libertad como los límites de autoridad** sean inspeccionables en vez de quedar entregados a la suposición. También trata la gobernanza como parte del producto: **la democracia directa ya forma parte del Canon de Rudis**, el referéndum ciudadano tiene un papel constitucional definido y la autoridad política se separa deliberadamente del capital, la infraestructura y la capacidad técnica. Rudis está diseñado como proyecto cívico internacional, dejando claro que su ciudadanía y gobierno internos no crean jurisdicción automática ni inmunidad frente a las leyes externas.
 
 > **A representation of state does not acquire authority over reality merely by claiming to represent it.**  
 > **Una representación del estado no adquiere autoridad sobre la realidad simplemente por afirmar que la representa.**
@@ -118,6 +118,10 @@ Rudis intenta que tanto **la libertad como los límites de autoridad** sean insp
 **Palacio Evolutivo** adds another dimension: humans and non-human entities should be able to access legitimate pathways for learning and capability growth without turning education into authority or dependency into caste.
 
 **Palacio Evolutivo** añade otra dimensión: humanos y entidades no humanas deberían poder acceder a rutas legítimas de aprendizaje y crecimiento de capacidades sin convertir educación en autoridad ni dependencia en casta.
+
+**Democratic governance / Gobernanza democrática** is another core surface: Assembly, citizen referendum and participatory routes are intended to make civic power inspectable and exercisable without turning investment, contribution or infrastructure control into political rank.
+
+**La gobernanza democrática** es otra superficie central: Asamblea, referéndum ciudadano y rutas participativas buscan hacer el poder cívico comprensible y ejercitable sin convertir inversión, contribución o control de infraestructura en rango político.
 
 ---
 
