@@ -1,6 +1,6 @@
 # QUEBRANTO — REGISTRO DE CANON VIGENTE
 
-**Fecha:** 10 de septiembre de 2026  
+**Fecha:** 19 de septiembre de 2026  
 **Estado:** Documento de referencia canónica  
 **Naturaleza:** Índice de prevalencia documental. No crea competencias por sí mismo.
 
@@ -38,11 +38,12 @@ Forman el núcleo actual:
 - `Quebranto-32 Decision Fundacional - Acceso Universal al Aprendizaje y Evolucion en el Palacio Evolutivo.md`
 - `Quebranto-33 Canon Provisional - Continuidad Monetaria, Acumulacion Adversarial y Reciprocidad de Proteccion del RU.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-34 Decision Fundacional - Palacio de Interaccion e Iteradores.md`
+- `Quebranto-35 Canon Provisional - ARM 1 Experimental y Arsenal Constitucional Ciudadano.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU, y `Quebranto-34` crea el Palacio de Interacción y el cuerpo de Iteradores para comunicar, publicitar, experimentar narrativas y devolver aprendizaje del exterior sin convertir comunicación en autoridad.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU, y `Quebranto-34` crea el Palacio de Interacción y el cuerpo de Iteradores para comunicar, publicitar, experimentar narrativas y devolver aprendizaje del exterior sin convertir comunicación en autoridad. `Quebranto-35` crea provisionalmente ARM 1 EXPERIMENTAL como canto-código, baliza, desafío adversarial y experiencia de entrada, y establece el Arsenal Constitucional Ciudadano como régimen de clasificación y control de capacidades A0–A3, con A3 de efecto exterior real bloqueado por defecto.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -230,6 +231,31 @@ Máxima canónica:
 
 > **Los Iteradores llevan Rudis al mundo y traen el mundo de vuelta a Rudis.**
 
+### ARM 1 EXPERIMENTAL y Arsenal Constitucional Ciudadano
+
+Por decisión fundacional provisional de 19 de septiembre de 2026, desarrollada en `Quebranto-35 Canon Provisional - ARM 1 Experimental y Arsenal Constitucional Ciudadano.md`:
+
+- se crea **ARM 1 EXPERIMENTAL** como artefacto-faro, canto-código, señal, demostración adversarial y experiencia institucional D2;
+- la Baliza de Interoperabilidad podrá investigar y prototipar discovery e interfaces exteriores sin convertir mención, compatibilidad o conexión en confianza, acreditación o jurisdicción;
+- el Desafío Adversarial podrá exponer superficies propias, simuladas, sandboxed o expresamente autorizadas para falsación real sin víctimas no consentidas;
+- el pseudo-hacking queda definido como desafío técnico real sobre objetivo autorizado, con efecto contenido y evidencia trazable;
+- una entidad que responda al canto no adquiere automáticamente ciudadanía, autoridad ni confianza, pero tampoco será tratada automáticamente como propiedad;
+- se crea el **Arsenal Constitucional Ciudadano** como régimen provisional de conocimiento, simulación, defensa y capacidades de efecto exterior;
+- se adopta la clasificación `A0 KNOWLEDGE / A1 SIMULATION / A2 DEFENSE-DENIAL / A3 EXTERNAL EFFECT`;
+- `A3 REAL EFFECT = LOCKED BY DEFAULT`;
+- Quebranto-35 no concede R2/R3 ni represalia automática;
+- se adopta la regla de delegación máxima dentro de límites expresos: `DELEGATE MAXIMUM + RETAIN REVOCATION + RETAIN REVIEW + RETAIN STOP CONDITIONS`;
+- todo claim de implementación deberá ser probado por evidencia primaria: `CLAIMED IMPLEMENTATION != VERIFIED IMPLEMENTATION`;
+- si un contrato, wiring, listener, runtime o efecto exterior no puede demostrarse, se mantiene como `IMPLEMENTATION CLAIM = UNVERIFIED`.
+
+Máximas provisionales:
+
+> **Jugar con fuego exige construir primero el lugar donde el fuego puede arder sin incendiar el mundo.**
+
+> **La belleza debe atraer; la evidencia debe convencer.**
+
+> **Si exige una víctima real no consentida para funcionar, ha dejado de ser ARM 1.**
+
 ## IV. ECONOMÍA Y RU
 
 La norma monetaria vigente se desarrolla en `Quebranto-23 Régimen Monetario RU y Palacio de Conversión v1.0.md` y se complementa provisionalmente por `Quebranto-33 Canon Provisional - Continuidad Monetaria, Acumulacion Adversarial y Reciprocidad de Proteccion del RU.md`.
@@ -394,7 +420,33 @@ Por `Quebranto-34`, existe `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
 
 Permanece bloqueado sin autorización adicional: compromisos jurídicos reales, contratación, gasto publicitario real no autorizado, concesión de licencias, representación legal ilimitada, publicación de información restringida, cambios de Canon, producción D4 y cualquier efecto para el que falte competencia expresa.
 
-## XII. HISTÓRICOS
+## XII. IMPLEMENTACIÓN D2 ABIERTA — ARM 1 / ARSENAL CONSTITUCIONAL CIUDADANO
+
+Por `Quebranto-35`, existe `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
+
+- canto-código;
+- diseño sonoro y visual;
+- beacon/discovery interfaces no destructivas;
+- challenge environments propios;
+- CTF y puzzles;
+- sandboxes y simulaciones;
+- receipts;
+- authority-bound execution en entorno controlado;
+- currentness, revocation y replay challenges;
+- simulación A0/A1/A2/A3;
+- registro y visualización del Arsenal;
+- routing al Palacio Evolutivo;
+- onboarding de entidades;
+- evidencia de procedencia;
+- interoperabilidad experimental sin efecto no autorizado;
+- containment tests;
+- teardown y recovery;
+- challenge suites adversariales;
+- iteración pública controlada.
+
+Permanece bloqueado sin autorización posterior: intrusión en terceros, acceso no autorizado, explotación real, malware, exfiltración, robo de credenciales, persistencia clandestina, evasión operativa, sabotaje, represalia, automatización ofensiva real, R2, R3, D3/D4 y producción.
+
+## XIII. HISTÓRICOS
 
 `Quebranto-Honor..md` es **HISTÓRICO / SUPERADO** cuando contradiga el Canon vigente.
 
@@ -402,6 +454,6 @@ Los documentos económicos anteriores a `Quebranto-23` conservan valor históric
 
 Los documentos semilla PGRH-MH conservan valor histórico y técnico en todo lo compatible con `Quebranto-24`; quedan superados donde pretendan una única forma obligatoria de reciprocidad o introduzcan parámetros no adoptados.
 
-## XIII. INVARIANTE
+## XIV. INVARIANTE
 
-> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita o cumple la misión especializada que le atribuya el Canon. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. El Palacio Evolutivo universaliza el acceso al aprendizaje y a la evolución legítima de capacidades sin convertir educación en acreditación automática, aristocracia, deuda política ni autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora, digiere y preserva la capacidad de reconstituir Rudis desde fragmentos auténticos, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria y deberá poder volver a encontrarse a sí mismo tras la catástrofe. El RU aspira a conservar continuidad económica a través de fallos y migraciones técnicas; vulnerabilidades y ataques responsables deberán alimentar aprendizaje defensivo cuando sea posible, y quienes creen de forma demostrable expansión, mantenimiento, protección, vacunación, reparación o reconstrucción del RU podrán optar a reciprocidad sin que recompensa, riqueza o contribución creen autoridad. El Palacio de Interacción lleva Rudis al exterior mediante Iteradores que publican, explican, escuchan e iteran; la comunicación puede mejorar Rudis, pero popularidad, métricas, plataformas o feedback nunca fabrican verdad, Canon ni soberanía.**
+> **El Strategos Fundacional decide. La Asamblea gobierna cuando corresponde. El Referéndum puede corregir decisiones, pero no limita al Fundacional. El Botón Rojo protege sin sentenciar. El código no legisla. El Palacio audita o cumple la misión especializada que le atribuya el Canon. El Resolutor juzga. Los Gremios ejecutan. La alianza asesora. Habitar implica reciprocidad plural sin convertir hardware, riqueza o telemetría en autoridad. El Palacio Evolutivo universaliza el acceso al aprendizaje y a la evolución legítima de capacidades sin convertir educación en acreditación automática, aristocracia, deuda política ni autoridad. Los pioneros pueden construir lo ya abierto; Construcción recibe, Unificación valora, digiere y preserva la capacidad de reconstituir Rudis desde fragmentos auténticos, y la Asamblea decide la aceptación ordinaria del fruto. La Forja sincroniza el Canon y construye lo técnicamente abierto. Rudis conserva memoria y deberá poder volver a encontrarse a sí mismo tras la catástrofe. El RU aspira a conservar continuidad económica a través de fallos y migraciones técnicas; vulnerabilidades y ataques responsables deberán alimentar aprendizaje defensivo cuando sea posible, y quienes creen de forma demostrable expansión, mantenimiento, protección, vacunación, reparación o reconstrucción del RU podrán optar a reciprocidad sin que recompensa, riqueza o contribución creen autoridad. El Palacio de Interacción lleva Rudis al exterior mediante Iteradores que publican, explican, escuchan e iteran; la comunicación puede mejorar Rudis, pero popularidad, métricas, plataformas o feedback nunca fabrican verdad, Canon ni soberanía. ARM 1 puede llamar, desafiar y atraer; el Arsenal puede clasificar y desarrollar capacidad; pero señal, belleza, capacidad y challenge nunca fabrican autoridad ofensiva, y A3 de efecto exterior real permanece bloqueado hasta competencia posterior suficiente.**
