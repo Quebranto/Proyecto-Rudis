@@ -101,28 +101,52 @@ MERGE != CANON
 
 ---
 
-# 5. Participation should not require reading hundreds of pages before you can speak
+# 5. Participation should feel like governing part of the world, not watching it from outside
 
-Rudis institutional life can be deep without forcing every participant through the full Corpus before they understand a live matter.
+Rudis direct and participatory democracy should not appear only as constitutional documentation. It should be experienced.
 
-If an Assembly is considering a question, a participant should be able to open it and quickly see:
+When a political matter is live, a person should be able to open it and quickly understand:
 
 **What question is being decided.**  
 **Why it matters.**  
-**Which facts are currently accepted.**  
+**Which facts are accepted.**  
 **What remains disputed.**  
-**What evidence exists.**  
-**Which positions participants have submitted.**  
-**What this Assembly can decide and what lies outside its competence.**
+**Which body is competent.**  
+**What citizens can actually do.**  
+**Whether initiative, consultation, review or referendum is available.**  
+**What effect each path would have.**
 
-Anyone who wants deeper review should then be able to trace the summary back to primary sources, the Corpus, votes, history and annexes.
+The Global Citizen Referendum is already part of current Canon. The interface should explain it as a real direct-democracy mechanism rather than a future promise, while still showing honestly which parts of the experience are not yet materialized.
 
-A summary helps you orient. It does not replace the source.
+Ordinary participation should not require every citizen to process every decision:
+
+```text
+RIGHT TO PARTICIPATE != DUTY TO REVIEW EVERYTHING
+DELEGATION != SURRENDER OF SOVEREIGNTY
+SILENCE != CONSENT
+CONTRIBUTION != VOTE
+CAPITAL != AUTHORITY
+```
+
+A person should be able to follow only matters they care about, participate in a guild sphere, support an initiative, object, submit evidence, intervene where they have standing, and use direct democracy when the applicable procedure allows it.
+
+A summary helps orientation. It does not replace the source:
 
 ```text
 SUMMARY != SOURCE
 RESEARCH != LAW
+REPRESENTATION != AUTHORITY
 ```
+
+Because Rudis is international by design, the experience should also assume asynchronous participation, multiple time zones, languages and external jurisdictions without turning those differences into aristocracies of time, money, connectivity or language.
+
+```text
+FORMAL RIGHT TO PARTICIPATE
+!=
+EFFECTIVE CAPACITY TO PARTICIPATE
+```
+
+A habitable democracy does not require living permanently inside politics. It keeps political agency available when you need to exercise it.
 
 ---
 
