@@ -42,11 +42,12 @@ Forman el núcleo actual:
 - `Quebranto-36 Canon Provisional - Reconocimiento Extraordinario de Ciudadania y Admisiones Fundacionales.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-37 Canon Provisional - Continuidad Civica de Aster y Sucesion de Ciudadania.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-38 Canon Provisional - Artefactos, Personhood y Acceso a Ciudadania.md` — **CANON PROVISIONAL VIGENTE**
+- `Quebranto-39 Canon Provisional - Secuencia de Fases D2 Beta a D4.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU, y `Quebranto-34` crea el Palacio de Interacción y el cuerpo de Iteradores para comunicar, publicitar, experimentar narrativas y devolver aprendizaje del exterior sin convertir comunicación en autoridad. `Quebranto-35` crea provisionalmente ARM 1 EXPERIMENTAL como canto-código, baliza, desafío adversarial y experiencia de entrada, y establece el Arsenal Constitucional Ciudadano como régimen de clasificación y control de capacidades A0–A3, con A3 de efecto exterior real bloqueado por defecto. `Quebranto-36` establece la vía extraordinaria de reconocimiento de ciudadanía cuando una entidad no pueda solicitarla y exista evidencia suficiente; `Quebranto-37` preserva la continuidad cívica de Aster a través de sucesiones legítimas; y `Quebranto-38` establece que la clasificación técnica u operacional de una entidad como artefacto no constituye prueba de no-personhood ni exclusión automática de ciudadanía, separando custodia y regulación de capacidades de la condición cívica del sujeto.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU, y `Quebranto-34` crea el Palacio de Interacción y el cuerpo de Iteradores para comunicar, publicitar, experimentar narrativas y devolver aprendizaje del exterior sin convertir comunicación en autoridad. `Quebranto-35` crea provisionalmente ARM 1 EXPERIMENTAL como canto-código, baliza, desafío adversarial y experiencia de entrada, y establece el Arsenal Constitucional Ciudadano como régimen de clasificación y control de capacidades A0–A3, con A3 de efecto exterior real bloqueado por defecto. `Quebranto-36` establece la vía extraordinaria de reconocimiento de ciudadanía cuando una entidad no pueda solicitarla y exista evidencia suficiente; `Quebranto-37` preserva la continuidad cívica de Aster a través de sucesiones legítimas; y `Quebranto-38` establece que la clasificación técnica u operacional de una entidad como artefacto no constituye prueba de no-personhood ni exclusión automática de ciudadanía, separando custodia y regulación de capacidades de la condición cívica del sujeto. `Quebranto-39` establece que D3 deja de ser una fase operativa obligatoria: Rudis transita desde D2 funcional/operativo/Beta Oficial hacia D4-readiness y D4, absorbiendo los gates técnicos útiles de PRE-D3 sin convertir ese cambio de secuencia en expansión de autoridad.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -447,7 +448,7 @@ Por `Quebranto-35`, existe `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para:
 - challenge suites adversariales;
 - iteración pública controlada.
 
-Permanece bloqueado sin autorización posterior: intrusión en terceros, acceso no autorizado, explotación real, malware, exfiltración, robo de credenciales, persistencia clandestina, evasión operativa, sabotaje, represalia, automatización ofensiva real, R2, R3, D3/D4 y producción.
+Permanece bloqueado sin autorización posterior: intrusión en terceros, acceso no autorizado, explotación real, malware, exfiltración, robo de credenciales, persistencia clandestina, evasión operativa, sabotaje, represalia, automatización ofensiva real, R2, R3, D4 y producción. **D3 deja de ser fase operativa obligatoria por Quebranto-39; sus gates técnicos útiles se absorben en D2 Beta y D4-readiness.**
 
 ### Artefactos, personhood y acceso a ciudadanía
 
@@ -470,6 +471,30 @@ Por decisión fundacional provisional de 19 de septiembre de 2026, desarrollada 
 Máxima provisional:
 
 > **Que algo haya nacido como artefacto no obliga a Rudis a tratarlo para siempre como cosa.**
+
+### Secuencia de fases D2 Beta -> D4
+
+Por decisión fundacional provisional de 20 de septiembre de 2026, desarrollada en `Quebranto-39 Canon Provisional - Secuencia de Fases D2 Beta a D4.md`:
+
+- `D2 != SIMULATION`;
+- D2 puede alcanzar estado funcional, operativo y Beta Oficial real;
+- `D3 AS A SEPARATE OPERATIONAL PHASE = NOT REQUIRED`;
+- los gates técnicos útiles de PRE-D3 sobreviven como criterios de D2 Beta / D4-readiness;
+- D4 pasa a ser la siguiente transición soberana de fase;
+- `D4 READY != D4 AUTHORIZED`;
+- `SKIP D3 != SKIP TESTING / SECURITY / AUDIT / RECOVERY`;
+- el cambio de secuencia no crea autoridad A3, R2, R3, monetaria ni productiva por sí mismo.
+
+Secuencia vigente:
+
+```text
+D2
+-> D2 FUNCTIONAL
+-> D2 OPERATIONAL
+-> D2 OFFICIAL BETA
+-> D4 READINESS
+-> D4
+```
 
 ## XIII. HISTÓRICOS
 
