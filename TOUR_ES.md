@@ -90,7 +90,38 @@ Si esta dimensión te interesa, continúa por **[Libertad y evolución en Rudis]
 
 ---
 
-# 4. Qué cambia para una persona o entidad
+# 4. Democracia directa, participación e internacionalidad
+
+Rudis no propone que la ciudadanía aparezca sólo cada cierto tiempo para elegir quién gobierna. **La democracia directa ya forma parte de su Canon vigente**: el Referéndum Ciudadano Global es un mecanismo constitucional de decisión y corrección ciudadana, con iniciativa y efecto definidos por el procedimiento aplicable.
+
+La dirección participativa es más amplia: la ciudadanía debería poder comprender cómo una petición, una iniciativa, una deliberación, una revisión o una consulta llega al órgano competente y qué efecto puede producir.
+
+```text
+ELECCIÓN != DEMOCRACIA COMPLETA
+DELEGACIÓN != ENTREGA DE SOBERANÍA
+PARTICIPACIÓN != MOVILIZACIÓN PERMANENTE
+CAPITAL != VOTO
+```
+
+Rudis combina gobierno ordinario, subsidiariedad y democracia directa. Eso permite distribuir trabajo político sin exigir que cada ciudadano estudie cada expediente.
+
+También nace con una ventaja estructural: puede ser una **comunidad cívica internacional y distribuida**. Sus participantes pueden vivir bajo distintas jurisdicciones externas y seguir compartiendo instituciones internas, deliberación y vida cívica común.
+
+Esa internacionalidad no debe exagerarse:
+
+```text
+CIUDADANÍA RUDIS != JURISDICCIÓN UNIVERSAL
+PERTENENCIA CÍVICA != INMUNIDAD FRENTE A LEY EXTERNA
+INTERNACIONAL != SIN RAÍCES
+```
+
+La ambición es construir una alternativa institucional real a las Matrixs sin fingir reconocimiento exterior que todavía no exista.
+
+Para ver cómo esta democracia debería sentirse como experiencia y no sólo como texto constitucional, continúa por **[Vivir Rudis](./VIVIR_RUDIS_ES.md)**.
+
+---
+
+# 5. Qué cambia para una persona o entidad
 
 La diferencia no debería sentirse como “más burocracia”. Debería sentirse como **más posibilidades y más claridad sobre los límites**.
 
@@ -104,7 +135,7 @@ Para ver cómo se convertiría esto en experiencia cotidiana, continúa por **[V
 
 ---
 
-# 5. Qué hace distinta a la arquitectura
+# 6. Qué hace distinta a la arquitectura
 
 Rudis insiste en separar cosas que suelen confundirse.
 
@@ -127,7 +158,7 @@ CÓDIGO != LEGISLADOR
 
 ---
 
-# 6. Rudis aprende intentando romperse
+# 7. Rudis aprende intentando romperse
 
 Rudis separa **descubrir**, **decidir** y **construir**.
 
@@ -141,7 +172,7 @@ La misma disciplina se aplica a las afirmaciones emancipadoras: una promesa de p
 
 ---
 
-# 7. Qué existe hoy y qué no
+# 8. Qué existe hoy y qué no
 
 Rudis tiene Corpus público, arquitectura, una Forja privada separada, implementación PRE-D3, pruebas, investigación adversarial, rutas de producto y materiales de diligencia.
 
@@ -159,7 +190,7 @@ La honestidad sobre esa frontera forma parte del producto.
 
 ---
 
-# 8. Elige tu siguiente paso
+# 9. Elige tu siguiente paso
 
 ## 👁️ Visitante
 
