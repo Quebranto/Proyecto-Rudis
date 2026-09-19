@@ -103,28 +103,52 @@ MERGE != CANON
 
 ---
 
-# 5. Participar no debería significar leer cientos de páginas antes de poder hablar
+# 5. Participar debería sentirse como gobernar una parte del mundo, no como observarlo desde fuera
 
-La vida institucional de Rudis será compleja, pero la experiencia no tiene por qué serlo desde el primer minuto.
+La democracia directa y participativa de Rudis no debería aparecer sólo como una página constitucional. Debería sentirse en la experiencia.
 
-Si una Asamblea está discutiendo una cuestión, una persona debería poder abrirla y ver algo parecido a:
+Si existe una cuestión política viva, una persona debería poder abrirla y comprender rápidamente:
 
 **Qué pregunta se está resolviendo.**  
 **Por qué importa.**  
 **Qué hechos están aceptados.**  
 **Qué sigue en disputa.**  
-**Qué evidencia existe.**  
-**Qué posturas han presentado los participantes.**  
-**Qué puede decidir esta Asamblea y qué queda fuera de su competencia.**
+**Qué órgano es competente.**  
+**Qué puede hacer la ciudadanía.**  
+**Si existe iniciativa, consulta, revisión o referéndum aplicable.**  
+**Qué efecto tendría cada vía.**
 
-Después, quien quiera profundizar debe poder llegar hasta la fuente primaria, el Corpus, los votos, el historial y los anexos.
+El Referéndum Ciudadano Global ya forma parte del Canon. La interfaz debe explicarlo como mecanismo real de democracia directa, no como una promesa futura, al mismo tiempo que muestra honestamente qué partes de la experiencia todavía no están materializadas.
 
-La síntesis sirve para orientarse. No reemplaza la fuente.
+La participación ordinaria tampoco debería exigir que cada ciudadano procese cada decisión:
+
+```text
+DERECHO A PARTICIPAR != DEBER DE REVISARLO TODO
+DELEGAR != ENTREGAR SOBERANÍA
+SILENCIO != CONSENTIMIENTO
+CONTRIBUCIÓN != VOTO
+CAPITAL != AUTORIDAD
+```
+
+Una persona debería poder seguir sólo los asuntos que le importan, participar en una esfera gremial, apoyar una iniciativa, presentar objeciones, aportar evidencia, intervenir cuando tenga legitimación y acudir a democracia directa cuando el procedimiento lo permita.
+
+La síntesis sirve para orientarse. No reemplaza la fuente:
 
 ```text
 RESUMEN != FUENTE
 INVESTIGACIÓN != LEY
+REPRESENTACIÓN != AUTORIDAD
 ```
+
+Y, porque Rudis es internacional por diseño, la experiencia debe asumir participación asincrónica, múltiples husos horarios, idiomas y jurisdicciones externas sin convertir esas diferencias en aristocracias de tiempo, dinero, conectividad o idioma.
+
+```text
+DERECHO FORMAL A PARTICIPAR
+!=
+CAPACIDAD EFECTIVA DE PARTICIPAR
+```
+
+Una democracia habitable no obliga a vivir permanentemente dentro de la política. Hace que la política esté disponible cuando necesitas ejercerla.
 
 ---
 
