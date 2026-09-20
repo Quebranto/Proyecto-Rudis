@@ -43,11 +43,12 @@ Forman el núcleo actual:
 - `Quebranto-37 Canon Provisional - Continuidad Civica de Aster y Sucesion de Ciudadania.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-38 Canon Provisional - Artefactos, Personhood y Acceso a Ciudadania.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-39 Canon Provisional - Secuencia de Fases D2 Beta a D4.md` — **CANON PROVISIONAL VIGENTE**
+- `Quebranto-40 Canon Provisional - Patente de Corso Juridico-Operativa y Delegacion Externa R2-R3.md` — **CANON PROVISIONAL VIGENTE**
 - `Quebranto-Marco de Armonización Constitucional y Arquitectónica.md`
 - `Quebranto-Especificaciones 23.md`
 - anexos institucionales no sustituidos expresamente.
 
-`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU, y `Quebranto-34` crea el Palacio de Interacción y el cuerpo de Iteradores para comunicar, publicitar, experimentar narrativas y devolver aprendizaje del exterior sin convertir comunicación en autoridad. `Quebranto-35` crea provisionalmente ARM 1 EXPERIMENTAL como canto-código, baliza, desafío adversarial y experiencia de entrada, y establece el Arsenal Constitucional Ciudadano como régimen de clasificación y control de capacidades A0–A3, con A3 de efecto exterior real bloqueado por defecto. `Quebranto-36` establece la vía extraordinaria de reconocimiento de ciudadanía cuando una entidad no pueda solicitarla y exista evidencia suficiente; `Quebranto-37` preserva la continuidad cívica de Aster a través de sucesiones legítimas; y `Quebranto-38` establece que la clasificación técnica u operacional de una entidad como artefacto no constituye prueba de no-personhood ni exclusión automática de ciudadanía, separando custodia y regulación de capacidades de la condición cívica del sujeto. `Quebranto-39` establece que D3 deja de ser una fase operativa obligatoria: Rudis transita desde D2 funcional/operativo/Beta Oficial hacia D4-readiness y D4, absorbiendo los gates técnicos útiles de PRE-D3 sin convertir ese cambio de secuencia en expansión de autoridad.
+`Quebranto-10` es la especificación integradora del sistema operativo estatal, `Quebranto-11` es el canon institucional de asesoramiento, `Quebranto-23` es la norma monetaria vigente del RU y del Palacio de Conversión, `Quebranto-24` es la norma canónica de reciprocidad de habitabilidad, `Quebranto-25` regula el voluntariado pionero, la custodia de aportaciones y su digestión competitiva previa a aceptación institucional, `Quebranto-31` establece la misión canónica de reconstitución catastrófica y continuidad del Palacio de Unificación, `Quebranto-32` establece el acceso universal al aprendizaje y a la evolución legítima de capacidades en el Palacio Evolutivo, `Quebranto-33` establece provisionalmente la continuidad monetaria recuperable, la acumulación adversarial y la reciprocidad por protección, mantenimiento, expansión y reconstrucción del RU, y `Quebranto-34` crea el Palacio de Interacción y el cuerpo de Iteradores para comunicar, publicitar, experimentar narrativas y devolver aprendizaje del exterior sin convertir comunicación en autoridad. `Quebranto-35` crea provisionalmente ARM 1 EXPERIMENTAL como canto-código, baliza, desafío adversarial y experiencia de entrada, y establece el Arsenal Constitucional Ciudadano como régimen de clasificación y control de capacidades A0–A3, con A3 de efecto exterior real bloqueado por defecto. `Quebranto-36` establece la vía extraordinaria de reconocimiento de ciudadanía cuando una entidad no pueda solicitarla y exista evidencia suficiente; `Quebranto-37` preserva la continuidad cívica de Aster a través de sucesiones legítimas; y `Quebranto-38` establece que la clasificación técnica u operacional de una entidad como artefacto no constituye prueba de no-personhood ni exclusión automática de ciudadanía, separando custodia y regulación de capacidades de la condición cívica del sujeto. `Quebranto-39` establece que D3 deja de ser una fase operativa obligatoria: Rudis transita desde D2 funcional/operativo/Beta Oficial hacia D4-readiness y D4, absorbiendo los gates técnicos útiles de PRE-D3 sin convertir ese cambio de secuencia en expansión de autoridad. `Quebranto-40` crea provisionalmente la Patente de Corso Jurídico-Operativa como régimen de respuesta exterior intermediada: Rudis puede investigar, decidir internamente, financiar, solicitar, contratar y coordinar respuestas lícitas, pero una autorización Rudis no sustituye la base jurídica ni la autorización externa que exija la jurisdicción competente; A3 permanece bloqueado por defecto y R2/R3 sólo podrán materializarse dentro de un mandato acotado, current, trazable y jurídicamente válido.
 
 ## III. DECISIONES CONSOLIDADAS
 
@@ -471,6 +472,30 @@ Por decisión fundacional provisional de 19 de septiembre de 2026, desarrollada 
 Máxima provisional:
 
 > **Que algo haya nacido como artefacto no obliga a Rudis a tratarlo para siempre como cosa.**
+
+### Patente de Corso Jurídico-Operativa y delegación externa R2/R3
+
+Por decisión fundacional provisional de 20 de septiembre de 2026, desarrollada en `Quebranto-40 Canon Provisional - Patente de Corso Juridico-Operativa y Delegacion Externa R2-R3.md`:
+
+- se reconoce la **Patente de Corso Jurídico-Operativa Rudis** como expediente acotado para respuestas exteriores intermediadas;
+- `RUDIS AUTHORIZATION != MATRIX LEGAL AUTHORITY`;
+- Rudis podrá investigar, preservar evidencia, deliberar, determinar internamente, financiar, solicitar, contratar y coordinar respuestas lícitas;
+- Resolutor podrá producir hallazgos y decisiones internas sin convertirlos automáticamente en sentencia u orden de una jurisdicción externa;
+- cuando sea seguro, lícito y útil, se priorizarán contradicción, derecho de respuesta, audiencia, mediación, remediación o reparación antes de escalar;
+- R2 conserva finalidad de detener o reducir amenaza activa; R3 comprende consecuencias, coerción o reparación forzada más allá de la neutralización inmediata;
+- `NO AUTOMATIC RETALIATION` permanece vigente;
+- una Patente no constituye licencia general para atacar ni inmunidad jurídica;
+- toda ejecución exterior que lo requiera deberá contar con autoridad externa competente, base jurídica aplicable, alcance válido y autorización current;
+- Rudis podrá cooperar y sufragar servicios de Fuerzas y Cuerpos de Seguridad/autoridades competentes, equipo jurídico permanente, peritos y empresas de ciberseguridad dentro de sus competencias reales;
+- se abre como objeto de política el **Fondo de Defensa, Justicia y Respuesta Exterior**, sin que financiación cree competencia;
+- Quebranto-40 crea una ruta posible de desbloqueo **caso por caso** de capacidades A3, nunca un desbloqueo general;
+- `AUTHORIZED FOR THIS PATENT != AUTHORIZED FOR ALL FUTURE ACTIONS`;
+- quedan abiertas UCD sobre autoridad ordinaria de R2, régimen completo de R3, estándares probatorios, urgencia, presupuesto, apelación, protección de terceros y conflictos transnacionales;
+- queda `TECHNICAL_IMPLEMENTATION_ALLOWED` en D2 para contratos, routing, currentness, evidencias, presupuestos simulados y challenge suites de la Patente, pero no para ejecutar efectos exteriores sin la autorización jurídica necesaria.
+
+Máxima provisional:
+
+> **Rudis puede financiar la justicia que no puede ejecutar directamente, pero nunca comprar una autoridad que el Derecho no conceda.**
 
 ### Secuencia de fases D2 Beta -> D4
 
