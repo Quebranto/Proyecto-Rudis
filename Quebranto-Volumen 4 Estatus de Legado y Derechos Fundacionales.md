@@ -307,3 +307,250 @@ El Capítulo IV queda blindado. Tiene la sensibilidad para premiar al pionero y 
 1.  El Ecosistema Rudis consagra la transición progresiva desde la autoridad fundacional hacia la gobernanza por legitimidad política.
 
 2.  Quienes asuman funciones de dirección en las fases fundacionales del Ecosistema ejercerán la autoridad formal únicamente en virtud del respaldo, la confianza pública y los mecanismos de elección validados por las Asambleas correspondientes.
+
+
+---
+
+# CAPÍTULO V — RÉGIMEN DE CONTINUIDAD PATRIMONIAL DEL FUNDADOR
+
+**Estado:** CANON  
+**Autoridad de promulgación:** Fundador  
+**Materia:** participación económica del Fundador y continuidad familiar
+
+## Artículo 34. Derecho económico del Fundador
+
+1. Se reconoce al Fundador un derecho económico equivalente al **5 % de los beneficios distribuibles del Ecosistema Rudis**.
+2. El 95 % restante queda fuera del alcance de este régimen.
+3. La definición contable y jurídica de `BENEFICIOS DISTRIBUIBLES` deberá materializarse mediante los instrumentos económicos correspondientes y no podrá manipularse con el propósito de vaciar materialmente este derecho.
+
+```text
+FOUNDER ECONOMIC SHARE = 5%
+
+ECONOMIC BENEFIT
+!= POLITICAL AUTHORITY
+!= GOVERNANCE POWER
+!= SOVEREIGNTY
+```
+
+## Artículo 35. Fondo de Continuidad Familiar
+
+Mientras viva el Fundador, el 5 % le corresponde íntegramente. Tras su fallecimiento, el derecho económico continuará como **Fondo de Continuidad Familiar**, manteniendo el mismo límite total del 5 %.
+
+```text
+FOUNDER SHARE
+-> FAMILY CONTINUITY POOL
+
+FAMILY CONTINUITY POOL = 5%
+
+MORE DESCENDANTS
+!= GREATER RUDIS OBLIGATION
+```
+
+Crece el número de beneficiarios; no crece el porcentaje debido por Rudis.
+
+## Artículo 36. Sucesión por estirpes y representación
+
+1. La sucesión económica se realizará **por estirpes y mediante representación**.
+2. Cada hijo del Fundador constituye una rama originaria. Las ramas originarias reciben partes iguales del Fondo.
+3. Fallecido el titular de una rama, su participación pasa a sus descendientes y se divide nuevamente, por ramas, en partes iguales.
+4. El crecimiento, reducción o subdivisión de una rama no altera las participaciones de las restantes.
+
+```text
+PARENT SHARE
+-> CHILD BRANCHES EQUALLY
+
+DEATH
+-> REPRESENTATION BY DESCENDANTS
+
+NEW GENERATION
+!= RECALCULATION OF OTHER BRANCHES
+```
+
+## Artículo 37. Igualdad sucesoria
+
+No existirá primogenitura. Ningún descendiente tendrá prioridad económica por sexo, orden de nacimiento, apellido, residencia, profesión, riqueza ni participación institucional en Rudis.
+
+La filiación jurídicamente reconocida determinará la pertenencia familiar conforme al Derecho aplicable. La implementación no inventará reglas de filiación, adopción, reproducción asistida ni otras materias reservadas al ordenamiento competente.
+
+## Artículo 38. Cónyuges y parejas
+
+El matrimonio o relación de pareja con un descendiente no crea por sí mismo una nueva estirpe del Fondo. Esta regla no podrá emplearse para desconocer derechos hereditarios, matrimoniales, patrimoniales u otros derechos imperativos reconocidos por la legislación aplicable.
+
+## Artículo 39. Extinción de rama y ausencia total de descendencia
+
+1. Si una rama queda sin descendencia elegible, su participación retorna al tronco inmediatamente anterior y se redistribuye entre las restantes ramas de dicho tronco.
+2. Si desaparece completamente toda descendencia elegible del Fundador, termina la sucesión familiar.
+3. El destino ulterior del 5 % requerirá disposición canónica y jurídicamente válida específica.
+
+```text
+NO DESCENDANTS
+-> FAMILY SUCCESSION ENDS
+
+FINAL DESTINATION
+= UNRESOLVED_CONSTITUTIONAL_DEPENDENCY
+```
+
+Ningún administrador, órgano o implementación podrá inventar beneficiario.
+
+## Artículo 40. Personas sin capacidad jurídica de administración
+
+La imposibilidad jurídica de administrar personalmente una participación no extingue el derecho económico subyacente. Su administración se realizará mediante los mecanismos válidos de la jurisdicción competente.
+
+```text
+INABILITY TO ADMINISTER
+!= LOSS OF BENEFICIAL INTEREST
+
+CUSTODY
+!= OWNERSHIP
+```
+
+## Artículo 41. Prohibición de captura
+
+Ningún miembro de la familia podrá apropiarse mediante mecanismos internos de Rudis de la participación de otra rama. Ningún cargo institucional permitirá alterar unilateralmente el árbol económico y ningún administrador podrá modificar discrecionalmente las fracciones sucesorias.
+
+Las controversias sobre identidad, filiación, fallecimiento, capacidad, herencia o titularidad corresponderán a la autoridad jurídicamente competente.
+
+```text
+ADMINISTRATION != OWNERSHIP
+RUDIS RECORD != LEGAL REALITY
+MAJORITY != AUTHORITY TO CONFISCATE
+```
+
+## Artículo 42. Registro de Continuidad Familiar
+
+Rudis mantendrá un Registro de Continuidad Familiar que preserve, como mínimo:
+
+```text
+PERSON
+PARENT BRANCH
+LEGAL BASIS
+BRANCH FRACTION
+EFFECTIVE DATE
+STATUS
+PROVENANCE
+LAST VERIFICATION
+DISPUTE STATUS
+```
+
+El Registro será evidencia administrativa interna, no creador autónomo de parentesco.
+
+Ante conflicto:
+
+```text
+REGISTRY CONFLICT
+-> FREEZE DISPUTED DISTRIBUTION
+-> PRESERVE FUNDS
+-> VERIFY
+-> COMPETENT AUTHORITY
+-> CORRECT REGISTRY
+```
+
+La parte no controvertida continuará distribuyéndose cuando sea jurídica y técnicamente separable.
+
+## Artículo 43. Protección frente a mayorías familiares
+
+Los derechos económicos de una rama no dependerán del voto de las demás. Las decisiones colectivas podrán administrar asuntos comunes, pero no eliminar ni apropiarse de derechos económicos protegidos mediante mayoría simple.
+
+```text
+51% OF FAMILY
+!= AUTHORITY TO CONFISCATE 49%
+```
+
+## Artículo 44. Invariantes contables
+
+Toda distribución deberá ser matemáticamente reconstruible y auditable.
+
+```text
+SUM(ACTIVE BRANCH SHARES)
+= 100% FAMILY CONTINUITY POOL
+
+FAMILY CONTINUITY POOL
+= 5% RUDIS DISTRIBUTABLE PROFITS
+```
+
+Impuestos, reservas, retenciones y obligaciones jurídicas se registrarán separadamente y con trazabilidad.
+
+## Artículo 45. Muralla entre patrimonio y soberanía
+
+La descendencia puede transmitir el derecho económico protegido. **No transmite autoridad sobre Rudis.**
+
+```text
+DESCENT
+-> MAY TRANSMIT ECONOMIC ENTITLEMENT
+
+DESCENT
+-X-> POLITICAL AUTHORITY
+DESCENT
+-X-> INSTITUTIONAL OFFICE
+DESCENT
+-X-> ADDITIONAL VOTES
+DESCENT
+-X-> SOVEREIGN STATUS
+DESCENT
+-X-> COMMAND AUTHORITY
+```
+
+La familia del Fundador tendrá continuidad patrimonial, no condición de dinastía gobernante.
+
+## Artículo 46. Anti-vaciamiento
+
+No podrá utilizarse una modificación administrativa, societaria, contable o terminológica para mantener formalmente el 5 % mientras se elimina deliberadamente su sustancia económica.
+
+```text
+FORMAL 5%
++ DELIBERATE ECONOMIC NULLIFICATION
+!= COMPLIANCE
+```
+
+Cualquier modificación legítima de la base económica deberá ser general, trazable y justificable independientemente de su efecto sobre el Fondo Familiar.
+
+## Artículo 47. Regla de interpretación
+
+Ante ambigüedad se preservarán el límite del 5 %, la igualdad entre ramas, la representación, la trazabilidad, los derechos consolidados, la separación entre riqueza y autoridad y la compatibilidad jurídica exterior.
+
+```text
+DESCENT -X-> AUTHORITY
+ADMINISTRATION -X-> OWNERSHIP
+REPETITION -X-> LEGAL VALIDITY
+CODE -X-> INVENTED FAMILY LAW
+
+LEGAL AMBIGUITY
+-> UNRESOLVED_CONSTITUTIONAL_DEPENDENCY
+```
+
+## Artículo 48. Materialización jurídica
+
+Este Canon determina el resultado constitucional que Rudis debe preservar. No declara por sí mismo haber creado un testamento, pacto sucesorio, trust, fundación, sociedad, derecho real, título hereditario ni otro instrumento reconocido por una jurisdicción exterior.
+
+```text
+RUDIS CANON
+!= AUTOMATIC MATRIX LEGAL EFFECT
+
+CANON
+<-> APPLICABLE LAW
+<-> LEGAL INSTRUMENT
+<-> IMPLEMENTATION
+<-> EVIDENCE
+```
+
+La materialización deberá realizarse mediante instrumentos válidos conforme a las jurisdicciones aplicables.
+
+## Artículo 49. Invariante de continuidad
+
+**Cada rama originaria comienza en igualdad. Cada generación puede representar a la anterior. Ninguna rama aumenta su derecho sobre las demás por tener más descendientes. La riqueza hereditaria no produce autoridad hereditaria.**
+
+---
+
+## Cláusula de promulgación
+
+Por decisión expresa del Fundador, el presente Capítulo tiene estado de **CANON**.
+
+```text
+STATUS: CANON
+FOUNDER ECONOMIC SHARE: 5%
+SUCCESSION: PER STIRPES + REPRESENTATION
+ECONOMIC CONTINUITY: YES
+HEREDITARY POLITICAL AUTHORITY: NO
+EXTERNAL LEGAL IMPLEMENTATION: REQUIRED
+CODE MAY INVENT MISSING SUCCESSION LAW: NO
+```
