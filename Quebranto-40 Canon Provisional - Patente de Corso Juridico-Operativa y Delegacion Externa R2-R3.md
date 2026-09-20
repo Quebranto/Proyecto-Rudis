@@ -410,7 +410,7 @@ Toda autorización será:
 
 ---
 
-## XI. ARSENAL Y A3
+## XI. ARSENAL, A3 Y ARTEFACTOS DE AUTORIZACIÓN ESTATAL
 
 Quebranto-35 mantiene:
 
@@ -419,6 +419,55 @@ A3 REAL EFFECT = LOCKED BY DEFAULT
 ```
 
 Quebranto-40 crea una posible **ruta de desbloqueo jurídico-operativo**, no un desbloqueo general.
+
+El Arsenal Constitucional Ciudadano podrá **custodiar, registrar, versionar y conservar** artefactos cuya utilización material exterior quede reservada a supuestos de autorización estatal o de otra autoridad externa competente.
+
+Estos artefactos tendrán una clase mínima de disponibilidad:
+
+```text
+STATE_AUTHORIZATION_REQUIRED
+```
+
+y deberán representarse de forma inequívoca como:
+
+```text
+POSSESSED / CUSTODIED
+!=
+AVAILABLE FOR ORDINARY USE
+```
+
+```text
+AVAILABLE TO RUDIS ENTITIES
+ONLY IF
+NEED + CURRENT RUDIS AUTHORITY + VALID EXTERNAL AUTHORIZATION + SCOPE
+```
+
+La mera existencia del artefacto dentro del Arsenal no autoriza su uso.
+
+```text
+ARSENAL POSSESSION
+!=
+EXECUTION PERMISSION
+```
+
+Cuando exista necesidad legítima y se obtenga la autorización externa requerida, una entidad Rudis expresamente designada podrá recibir acceso acotado al artefacto bajo la Patente correspondiente.
+
+La habilitación deberá quedar ligada como mínimo a:
+
+- artefacto exacto;
+- versión exacta;
+- entidad o ejecutor autorizado;
+- finalidad;
+- incidente o expediente;
+- jurisdicción;
+- autoridad externa habilitante;
+- alcance;
+- entorno;
+- duración;
+- condiciones de cese;
+- revocación;
+- supervisión;
+- receipt y revisión posterior.
 
 ```text
 A3 CAPABILITY
@@ -443,6 +492,24 @@ POSSESSING CAPABILITY
 !=
 POSSESSING CURRENT AUTHORITY
 ```
+
+```text
+NEED
+!=
+SELF-AUTHORIZATION
+```
+
+```text
+STATE BLESSING
+MUST RESOLVE TO
+VERIFIABLE CURRENT AUTHORITY
+```
+
+El Arsenal deberá poder denegar acceso cuando la autorización sea inexistente, ambigua, stale, revocada, excedida o no aplicable al artefacto o entorno concreto.
+
+La custodia de estos artefactos existe para que Rudis no tenga que improvisar capacidad bajo emergencia, sin convertir preparación en permiso.
+
+> **Preparar una capacidad no es activarla. Custodiarla no es concederla. La necesidad abre la pregunta; la autoridad válida abre el acceso.**
 
 ---
 
