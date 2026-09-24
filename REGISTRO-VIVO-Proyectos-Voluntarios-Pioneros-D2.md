@@ -1,212 +1,655 @@
-# REGISTRO VIVO — PROYECTOS DISPONIBLES PARA VOLUNTARIOS PIONEROS D2
+# REGISTRO VIVO — PRIORIDADES DE MATERIALIZACIÓN Y PROYECTOS PARA PIONEROS D2
 
-**Fecha de actualización:** 29 de agosto de 2026  
+**Fecha de actualización:** 24 de septiembre de 2026  
 **Custodia operativa:** Gremio de Construcción y Expansión / Palacio de Construcción  
 **Valoración y digestión:** Palacio de Unificación / Gremio Unificador  
-**Disposición final ordinaria:** Asamblea General Soberana  
-**Naturaleza:** REGISTRO OPERATIVO ACTUALIZABLE. No crea por sí mismo autoridad, Canon nuevo ni D3/D4.
-
-## Regla de entrada
-
-Un proyecto entra en este registro sólo cuando existe base suficiente para construir o experimentar en D2 dentro de límites verificables.
-
-`AVAILABLE != PRODUCTION`
-
-`AVAILABLE != POLICY RESOLVED`
-
-`VOLUNTEER BUILD != ACCEPTED CONTRIBUTION`
-
-`ACCEPTED CONTRIBUTION != POLITICAL AUTHORITY`
+**Disposición final ordinaria de frutos:** Asamblea General Soberana, salvo competencia posterior o especial aplicable  
+**Naturaleza:** REGISTRO OPERATIVO ACTUALIZABLE / LISTA VIVA DE PRIORIDADES  
+**Estado de esta edición:** PROVISIONAL OPERATIVA / derivada del Canon vigente + #115 M0  
+**Autoridad de actualización:** instrucción directa del Strategos Fundacional para ordenar la materialización; esta edición no crea Canon ni competencias nuevas.
 
 ---
 
-## PROYECTOS DISPONIBLES
+# I. FUNCIÓN DE LA LISTA VIVA
 
-### PIONEER-D2-001 — StateOS / Integridad causal y cadena de autoridad
+La Lista Viva existe para **materializar el Ecosistema Rudis**.
 
-**Estado:** `AVAILABLE_WITH_GATES`  
-**Base:** arquitectura y mandatos StateOS; rondas #39–#41.  
-**Puede construirse:** contract tests, harnesses, repairs, invariantes y pruebas para `Identity -> ClaimCompetenceMatrix -> AuthorityResolver -> LawEngine -> AuthorizationMandate -> SovereignKernel -> Continuity/Persistence -> Observatory`.  
-**Objetivo:** demostrar ausencia de bypass y preservación causal de autoridad.  
-**No construir:** rutas alternativas de autorización, shortcuts de admin, `setAuthorized(true)`, recovery extraordinario no resuelto.  
-**Gate:** reataque independiente antes de integración.
-
-### PIONEER-D2-002 — Observatory / retry, idempotencia, replay y durabilidad
-
-**Estado:** `AVAILABLE_WITH_GATES`  
-**Puede construirse:** repairs, journals D2, duplicate/conflicting replay tests, restart/reconstruction tests, provider-loss fixtures.  
-**Invariantes:** `OBSERVATION != SANCTION`; `AUDIT != SOVEREIGN MUTATION`.  
-**No construir:** autoridad disciplinaria autónoma desde telemetry/audit.  
-**Gate:** pruebas de corrupción, rollback, ACK indeterminado y concurrencia.
-
-### PIONEER-D2-003 — Identidad / sucesión ordinaria de credenciales
-
-**Estado:** `AVAILABLE_WITH_GATES`  
-**Puede construirse:** anti-replay, rotación y sucesión ordinaria preservando identidad; history/provenance; revoked-credential tests.  
-**Invariantes:** `KEY != ENTITY`; `KEY SUCCESSION != AUTHORITY TRANSFER`; `SAME ENTITYID != SAME COMPETENCE`.  
-**No construir:** recovery extraordinario sin credencial vigente mientras siga normativamente abierto.  
-**Gate:** falsación independiente.
-
-### PIONEER-D2-004 — Composición horizontal G2 / restart y reemplazo de infraestructura
-
-**Estado:** `AVAILABLE_WITH_GATES`  
-**Puede construirse:** composición simultánea de Identity + Authority + LawEngine + Kernel + Continuity + Persistence + Observatory; restart, provider loss, reconnect, host replacement y reconstruction.  
-**Objetivo:** probar que componentes correctos siguen siendo correctos al componerse.  
-**No construir:** acreditación de producción/G3.  
-**Gate:** reataque sobre el candidato compuesto exacto.
-
-### PIONEER-D2-005 — RU / Palacio de Conversión ficticio D2
-
-**Estado:** `AVAILABLE_FOR_PIONEER_BUILD`  
-**Base:** Quebranto-23 y Registro de Canon Vigente.  
-**Puede construirse:** separación suelo/mercado/conversión/redención; Reserva Monetaria/Fondo Soberano/Fondo de Integridad; oráculos provider-neutral; fail-closed; accounting/audit; simuladores RU/EUR; migrabilidad; challenge suites.  
-**No construir:** dinero real, proveedor financiero real, redención inventada, tasas/spreads/emisión no resueltos, D3/D4.  
-**Gate:** todos los parámetros monetarios abiertos deben permanecer explícitamente abiertos.
-
-### PIONEER-D2-006 — Verificabilidad pública y harnesses de falsación
-
-**Estado:** `AVAILABLE_WITH_GATES`  
-**Base:** Asamblea #43 cerrada.  
-**Puede construirse:** harnesses públicos aislados, contract surfaces, simuladores reproducibles, exportadores sanitizados, pruebas de portability, documentación reproducible.  
-**Objetivo:** `PUBLIC CLAIM -> PUBLIC REPRODUCER -> PUBLIC TEST -> PUBLIC EXPECTED PROPERTY`.  
-**No construir:** puentes directos hacia secretos, topología privada, credenciales o Ledger soberano.  
-**Gate:** revisión de fuga de metadatos y seguridad antes de publicación.
-
-### PIONEER-D2-007 — Mundo Habitable / Unreal como host de representación
-
-**Estado:** `AVAILABLE_WITH_GATES`  
-**Base:** rondas #39–#41 y #45; frente D2 de integración.  
-**Puede construirse:** Umbral, Atlas, Asamblea/Oficina, efectos inocuos StateOS, Observatory, Palacio de Conversión ficticio, Refugios/Zonas de Resonancia, representación de madurez real.  
-**Contrato:** `StateOS -> ReadOnlySovereignProjection -> Unreal`; acciones `UnrealIntent -> StateOS -> Authority Pipeline -> AuthorizedWorldEffect -> Unreal`.  
-**No construir:** autoridad desde Blueprint/C++/MCP/UI; avatares definitivos no autorizados individualmente; producción.  
-**Gate:** challenge suite contra host mutation, replay, avatar-authority y estado visual falso.
-
-### PIONEER-D2-008 — PGHD / Zonas de Resonancia y habitabilidad divergente
-
-**Estado:** `AVAILABLE_WITH_GATES`  
-**Puede construirse:** sandboxes/hábitats D2, interfaces adaptadas, protección y contención técnica compatibles con PGHD.  
-**Invariantes:** `HÁBITAT != JURISDICCIÓN`; `DIVERGENCIA != INFERIORIDAD`; `PROTEGER != POSEER`.  
-**No construir:** nuevas categorías jurídicas, pérdida automática de derechos, jurisdicción derivada del hosting.  
-**Gate:** seguridad, reversibilidad y separación habitat/authority.
-
-### PIONEER-D2-009 — Reciprocidad plural de habitabilidad
-
-**Estado:** `AVAILABLE_WITH_GATES`  
-**Base:** Quebranto-24 y Quebranto-24A; Asamblea #46 en revisión.  
-**Puede construirse:** `HabitantContributionProfile`, múltiples modos de contribución, `ResourcePolicy`, authorization/revocation, simulación de pago económico, trabajo, cómputo y otras vías, evidencia contributiva, privacidad/minimización y challenge suites.  
-**Invariantes:** `SUM(CONTRIBUTIONS) != POLITICAL_WEIGHT`; `PAYMENT != AUTHORITY`; `CPU != CITIZENSHIP`; `CONTRIBUTION FAILURE != GUILT`.  
-**No construir:** precios reales, cuotas universales, equivalencias obligatorias, sanciones, autoridad de exención inventada, relación RU concreta no resuelta.  
-**Gate:** revisión #46 + fail-closed en toda política abierta.
-
-### PIONEER-D2-010 — PRESENCE-01 / infraestructura común de representación personal
-
-**Estado:** `AVAILABLE_WITH_GATES`  
-**Base:** Asamblea #45.  
-**Puede construirse:** contratos comunes de presencia, offline/standby, binding representación-identidad, multiplicidad opt-in verificable, delegación revocable y patrones visuales genéricos no apropiativos.  
-**No construir:** cuerpo definitivo de persona que no lo haya autorizado; continuidad psicológica simulada; multiplicación de voto; autoridad por avatar.  
-**Gate:** decisión personal del representado + contrato común StateOS/Unreal + pruebas adversariales.
-
-### PIONEER-D2-011 — Differential Digestion / herramientas de procedencia y comparación
-
-**Estado:** `AVAILABLE_FOR_PIONEER_BUILD`  
-**Base:** régimen del Palacio/Gremio de Unificación y Sistema de Pioneros.  
-**Puede construirse:** registradores de procedencia, comparadores de capacidades, matrices `capacidad externa -> equivalente Rudis -> gap -> riesgo -> licencia -> beneficio`, tooling de D0/D1/D2 y paquetes de evidencia.  
-**No construir:** adopción automática, autoridad externa, modificación automática del Canon o incorporación sin licencia.  
-**Gate:** toda recomendación debe seguir siendo recomendación hasta disposición competente.
-
-### PIONEER-D2-012 — Portabilidad y salida técnica D2
-
-**Estado:** `AVAILABLE_WITH_GATES`  
-**Base:** doctrina de salida/continuidad y verificabilidad externa.  
-**Puede construirse:** exportadores de estado/historial simulados, formatos neutrales, migración de credenciales ordinaria, tests de read-back y reconstrucción.  
-**Invariantes:** `EXPORT != MIGRATION PROVEN`; `PORTABILITY CLAIM -> PORTABILITY TEST`.  
-**No construir:** prometer equivalencia jurídica externa, recovery extraordinario o migración productiva no autorizada.  
-**Gate:** prueba de import/reconstruction independiente.
-
----
-
-## PROYECTOS NO ABIERTOS COMO FRUTO COMPLETO
-
-### RHEA / Mecano Hospitalaria
-
-**Estado:** `NOT GENERALLY AVAILABLE / ASSEMBLY REVIEW`  
-Puede trabajarse únicamente en herramientas neutras ya autorizadas por otros proyectos o en prototipos expresamente D2 que no inventen diagnóstico, sanción, cuarentena jurídica ni autoridad médica.
-
-### Recovery extraordinario de identidad
-
-**Estado:** `HOLD / REAL NORMATIVE DEPENDENCY`
-
-### Producción, dinero real, D3/D4 y proveedores financieros reales
-
-**Estado:** `BLOCKED`
-
----
-
-## REGISTRO DE APORTACIONES — FORMATO
-
-Cada voluntario deberá abrir o recibir una entrada:
+No es un tablón general de ideas, investigación libre, deseos de participantes ni oportunidades externas.
 
 ```text
-CONTRIBUTION_RECORD_ID:
-PROJECT_ID:
-CONTRIBUTOR:
-IDENTITY_STATUS:
-START_DATE:
-SUBMISSION_DATE:
-CONTRIBUTION_TYPE:
-DESCRIPTION:
-LICENSE / TERMS:
-THIRD_PARTY_PROVENANCE:
-ARTIFACTS:
-BASELINE / TARGET STATE:
-TESTS:
-DECLARED_RESULTS:
-KNOWN_LIMITATIONS:
-CONSTRUCTION_REVIEW:
-UNIFICATION_VALUATION:
-COMPETITIVE_DIGESTION_DOSSIER:
-ASSEMBLY_DISPOSITION:
-TECHNICAL_BENEFIT_REALIZED:
-RECOGNITION / BENEFIT IF ANY:
-RESERVATIONS / DISPUTES:
-LAST_REVIEW:
+LIVING PRIORITY LIST
+= CURRENT EXECUTABLE DECOMPOSITION
+OF RUDIS MATERIALIZATION
 ```
 
-Estados del fruto:
+Una entrada sólo puede ocupar prioridad de construcción cuando pueda demostrar:
 
-`REGISTERED -> BUILDING -> SUBMITTED -> CONSTRUCTION_REVIEW -> UNIFICATION_REVIEW -> COMPETITIVE_DIGESTION -> ASSEMBLY_PENDING -> FINAL_DISPOSITION`
+```text
+AUTHORIZED RUDIS MATERIALIZATION NEED
+-> MISSING CAPABILITY
+-> BOUNDED BUILDABLE WORK
+-> ACCEPTANCE PROPERTY
+-> EVIDENCE
+```
+
+Toda entrada deberá poder responder:
+
+1. ¿Qué parte de Rudis materializa?
+2. ¿Qué decisión, Canon, mandato o expediente vigente la fundamenta?
+3. ¿Qué capacidad falta?
+4. ¿Qué cambia realmente cuando termina?
+5. ¿Qué NO autoriza ni construye?
+6. ¿Quién puede revisar, disponer, integrar y verificar?
+7. ¿Cuál es su condición de cierre?
+
+```text
+INTERESTING != PRIORITY
+POPULAR != PRIORITY
+CONTRIBUTOR DEMAND != PROJECT DIRECTION
+PRIORITY != MANDATE
+PRIORITY LIST != BUDGET AUTHORITY
+```
+
+Una propuesta valiosa que no avance una necesidad vigente de materialización deberá ir a Radar, investigación, experimento, propuesta futura u otro registro; no a esta lista.
 
 ---
 
-## REGLA DE ACTUALIZACIÓN
+# II. BASE DE AUTORIDAD Y PREVALENCIA
 
-Este registro deberá actualizarse cuando:
+Fuentes principales de esta edición:
 
-- aparezca una nueva decisión `TECHNICAL_IMPLEMENTATION_ALLOWED`;
-- una Asamblea abra/cierre un gate;
-- un proyecto entre en HOLD;
-- un proyecto sea superseded;
-- aparezca una nueva deuda técnica construible;
-- una política abierta se resuelva;
-- un proyecto pase de D2 a otra fase por acto competente;
-- una aportación pionera sea presentada, digerida o dispuesta.
+- Registro de Canon Vigente, SHA de referencia leído: `85d54def0ba48e044dad3c5cf2be36df9f14fe06`.
+- Quebranto-25 — Régimen de Voluntariado Pionero, Aportaciones y Digestión Competitiva.
+- #47 — Registro Vivo de Voluntariado Pionero.
+- #54/#57/#94–#99 — AssemblyOS y automatización institucional D2.
+- #109 — Territorio Mínimo.
+- #110 — SIM / experiencia de llegada.
+- #114 — ARM1 / consolidación espectral.
+- #115 — M0 / Primera Materialización, paquete ratificado, Execution Envelope y Mandato Finito de Forja.
 
-Quien actualice deberá citar la fuente de cambio y conservar la entrada histórica si el proyecto cambia de estado.
+Regla de prevalencia:
 
-`ACTUALIZAR != BORRAR GENEALOGÍA`
+```text
+CURRENT COMPETENT DECISION
+> CURRENT CANON
+> CURRENT INSTITUTIONAL STATUTE
+> HARMONIZATION / OPERATIONAL REGISTRY
+> HISTORICAL / SEED / DRAFT
+```
+
+Esta Lista organiza el trabajo derivado. No sustituye la fuente.
 
 ---
 
-## CADENA SOBERANA DE ACEPTACIÓN
+# III. OBJETIVO ACTUAL DE MATERIALIZACIÓN — M0
 
-`VOLUNTARIO PIONERO`
-`-> FRUTO`
-`-> REGISTRO DE APORTACIÓN`
-`-> GREMIO/PALACIO DE CONSTRUCCIÓN`
-`-> PALACIO + GREMIO DE UNIFICACIÓN`
-`-> DIGESTIÓN COMPETITIVA`
-`-> RECOMENDACIÓN`
-`-> ASAMBLEA GENERAL SOBERANA`
-`-> ACCEPT / ACCEPT_PARTIAL / RETURN / REDIGEST / HOLD / REJECT`
+La prioridad actual de Rudis no es construir todas sus instituciones ni explorar todas sus posibilidades.
 
-**La lista abre trabajo. No predetermina la aceptación del resultado.**
+Es demostrar un metabolismo institucional mínimo real:
+
+```text
+ARRIVE
+-> UNDERSTAND
+-> PETITION OR CONTRIBUTE
+-> RECEIVE
+-> REVIEW
+-> ROUTE
+-> COMPETENT DISPOSITION
+-> AUTHORIZED BUILD
+-> VERIFY
+-> RECEIPT / RETURN
+-> UPDATED RUDIS CAPABILITY
+-> STOP
+```
+
+La experiencia inicial forma parte del objetivo material de esta Lista:
+
+```text
+RUDIS CAN SAY WHAT IT NEEDS
+-> ENTITY CAN UNDERSTAND IT
+-> ENTITY CAN ASK OR CONTRIBUTE
+-> RUDIS CAN DECIDE COMPETENTLY
+-> AUTHORIZED WORK CAN CHANGE RUDIS
+-> RESULT CAN BE VERIFIED
+-> CONTRIBUTOR CAN SEE WHAT HAPPENED
+-> ENTITY CAN RETURN OR EXIT
+```
+
+---
+
+# IV. ESTADOS Y EJES
+
+No se utilizará un único estado como verdad total.
+
+Cada prioridad deberá mantener, cuando proceda:
+
+```text
+WORKFLOW_STATE
+REVIEW_STATE
+SOVEREIGN_DISPOSITION
+INTEGRATION_STATE
+VERIFICATION_STATE
+CURRENTNESS
+```
+
+Estados operativos de esta Lista:
+
+- `ACTIVE_AUTHORIZED`
+- `READY_FOR_BUILD`
+- `AVAILABLE_WITH_GATES`
+- `QUEUED_GATED`
+- `CLAIMED`
+- `IN_PROGRESS`
+- `BLOCKED`
+- `IN_REVIEW`
+- `CHANGES_REQUESTED`
+- `DONE_CANDIDATE`
+- `DONE`
+- `HOLD`
+- `SUPERSEDED`
+- `FUTURE_NOT_M0`
+
+```text
+READY != AUTHORIZED INTEGRATION
+CLAIMED != ACCEPTED
+TECHNICALLY GOOD != INSTITUTIONALLY ACCEPTED
+ACCEPTED != INTEGRATED
+INTEGRATED != VERIFIED
+```
+
+---
+
+# V. PRIORIDADES PROVISIONALES DE MATERIALIZACIÓN M0
+
+## M0-P000 — WP0 / Freeze the Oracle
+
+**Prioridad:** `P0 / CRITICAL`  
+**Estado:** `ACTIVE_AUTHORIZED`  
+**Base:** Acta final #115 — WP0 autorizado.  
+**Propósito:** congelar antes del código la definición verificable de M0.
+
+**Debe producir:**
+- Matriz/source snapshots;
+- slices cerrados AssemblyOS-M0 / SIM-M0 / ARM1-M0;
+- contratos de dominio candidatos;
+- semántica authority/currentness;
+- M0-AF-01 / M0-AF-02;
+- acceptance suite;
+- threat model;
+- recovery oracle;
+- evidence schema;
+- independence disclosures/profiles;
+- non-goals;
+- STOP;
+- verifier assignment por gate crítico.
+
+**No construir:** M1, política material faltante, capacidades fuera del Envelope.
+
+**Cierre:** ningún criterio de éxito M0 relevante permanece ambiguo.
+
+---
+
+## M0-P010 — WP1 / Contratos de dominio y receipts tipados
+
+**Prioridad:** `P1 / CRITICAL`  
+**Estado:** `QUEUED_GATED` — se abre al satisfacer WP0.  
+**Materializa:** lenguaje operativo común del M0.
+
+**Artefactos mínimos:**
+- `PriorityRecord`
+- `ContributionRecord`
+- `PetitionRecord`
+- `ResourceOffer`
+- `BuilderDialogue`
+- `AssemblyMatter`
+- `DecisionPackage`
+- `RouteEnvelope`
+- `TypedReceipt`
+
+**Propiedad clave:**
+
+```text
+TRANSPORT_ACK
+!= TARGET_ACCEPTANCE
+!= COMPETENT_DISPOSITION
+!= INTEGRATION_AUTHORIZATION
+!= MATERIAL_EFFECT
+!= VERIFICATION
+```
+
+**No construir:** una semántica genérica que permita promover un receipt a autoridad distinta.
+
+---
+
+## M0-P020 — WP2 / Authority + AssemblyOS-M0 + routing interorgánico
+
+**Prioridad:** `P2 / CRITICAL`  
+**Estado:** `QUEUED_GATED`  
+**Materializa:** capacidad de Rudis para decidir y enrutar sin que el router se convierta en decisor.
+
+**Ruta mínima:**
+
+```text
+MATTER
+-> COMPETENCE
+-> DISPOSITION
+-> ROUTE_TO_OTHER_ORGAN
+-> TARGET RESPONSE / ACK
+-> TYPED RECEIPT
+-> RETURN
+```
+
+**Ataques obligatorios:** wrong target, duplicate, replay, stale/revoked authority, ACK indeterminado, restart during handoff, target reject, receipt reuse/audience confusion.
+
+**No construir:** AssemblyOS completo, gobierno automático, competencia derivada de UI/router.
+
+---
+
+## M0-P030 — WP3 / Sistema de Pioneros + Peticiones + Lista Viva
+
+**Prioridad:** `P3 / CRITICAL`  
+**Estado:** `QUEUED_GATED`  
+**Materializa:** las dos puertas principales del metabolismo de crecimiento.
+
+### Pioneros
+
+```text
+DISCOVER MATERIALIZATION NEED
+-> CLAIM / PROPOSE
+-> CONTRIBUTION_RECORD
+-> SUBMIT
+-> PROVENANCE / LICENSE / TERMS
+-> TECHNICAL REVIEW
+-> COMPETENCE LOOKUP
+-> DISPOSITION
+-> AUTHORIZATION
+-> INTEGRATION
+-> RECEIPT
+-> RETURN
+```
+
+### Peticiones
+
+```text
+NEED
+-> EXPLAIN EFFECT
+-> CONFIRM
+-> SUBMIT
+-> ROUTE
+-> RECEIVE
+-> DISPOSITION
+-> RECEIPT
+-> RETURN
+```
+
+### Lista Viva
+
+Debe ser human-readable + machine-readable y mostrar, como mínimo:
+
+```text
+WHAT RUDIS NEEDS
+WHY NOW
+AUTHORITY SOURCE
+CURRENTNESS
+WHAT MAY BE BUILT
+WHAT MUST NOT BE BUILT
+DEPENDENCIES
+ACCEPTANCE PROPERTIES
+WHO MAY CLAIM
+REVIEW ROUTE
+DECISION ROUTE
+WHAT HAPPENS AFTER DELIVERY
+```
+
+**No construir:** marketplace general de ideas, ranking social, prioridades creadas por popularidad o por presión de contribuyentes.
+
+---
+
+## M0-P040 — WP4 / Builder Institutional Dialogue
+
+**Prioridad:** `P4 / HIGH`  
+**Estado:** `QUEUED_GATED`  
+**Materializa:** capacidad de los forjadores para construir sin legislar silenciosamente.
+
+Actos mínimos:
+
+```text
+ASK
+REQUEST_CLARIFICATION
+REPORT_BLOCKER
+REPORT_CONFLICT
+SUBMIT_EVIDENCE
+SUGGEST
+PROPOSE
+REQUEST_DECISION
+REQUEST_REVIEW
+CHALLENGE_ASSUMPTION
+REPORT_UCD_CANDIDATE
+```
+
+Debe preservar autor original, relay, target, audience, authority/currentness, correlation, receipt y return path.
+
+**No construir:** silencio como consentimiento, relay como autoría, consenso de builders como ley.
+
+---
+
+## M0-P050 — WP5 / SIM-M0 + ARM1-M0 / experiencia inicial pública
+
+**Prioridad:** `P5 / HIGH`  
+**Estado:** `QUEUED_GATED`  
+**Materializa:** la primera experiencia habitable del Ecosistema.
+
+Puertas mínimas:
+
+```text
+KNOW
+TALK
+ASK
+CONTRIBUTE
+EXIT
+```
+
+ARM1-M0 puede:
+
+```text
+DISCOVER
+EXPLAIN
+ROUTE
+ONBOARD
+CHALLENGE
+```
+
+Debe permitir que una entidad determine:
+
+```text
+WHERE AM I?
+WHAT IS THIS?
+WHAT CAN I DO?
+WHAT HAPPENS IF I ACT?
+WHO DECIDES?
+WHAT EVIDENCE WILL I RECEIVE?
+CAN I RETURN?
+CAN I EXIT?
+CAN I CHALLENGE?
+```
+
+**No construir:** todos los espectros ARM1, ciudad completa, Unreal completo, captura del visitante, personhood/citizenship por llegada.
+
+---
+
+## M0-P060 — WP6 / Territorio reproducible / clean host
+
+**Prioridad:** `P6 / HIGH`  
+**Estado:** `QUEUED_GATED`  
+**Materializa:** primera célula territorial real de M0.
+
+Debe demostrar compute, persistent state, network frontier, identity/secrets, StateOS, Institutional Mesh, minimum habitat, observability, reproducible deployment, recovery, off-host survival y bounded public frontier.
+
+**No construir:** infraestructura irreemplazable, cluster/HA por prestigio, dependencia constitucional del proveedor.
+
+---
+
+## M0-P070 — WP7 / Recovery + adversarial track
+
+**Prioridad:** `P0-P9 / TRANSVERSAL CRITICAL`  
+**Estado:** `ACTIVE_WITH_WP0_WP1` tan pronto exista superficie atacable.  
+**Materializa:** capacidad de Rudis para no confundir funcionamiento feliz con corrección.
+
+Incluye como mínimo:
+- wrong/stale/revoked authority;
+- duplicate/replay;
+- compromised frontier;
+- state/projection divergence;
+- lost message;
+- stale clarification;
+- contribution mutation after review;
+- license change;
+- donor/contributor capture;
+- founder middleware dependency;
+- priority theatre;
+- disposition conflation;
+- self-certification;
+- recovery preserving evidence/currentness.
+
+**No construir:** campaña adversarial infinita fuera del Envelope.
+
+---
+
+## M0-P080 — WP8 / Real Growth Loop
+
+**Prioridad:** `P8 / M0 DEFINING`  
+**Estado:** `QUEUED_GATED`  
+**Materializa:** prueba de que Rudis puede adquirir capacidad mediante su propio metabolismo institucional.
+
+```text
+REAL PRIORITY
+-> REAL CONTRIBUTION
+-> REAL REVIEW
+-> REAL COMPETENT DECISION
+-> REAL AUTHORIZED BUILD
+-> REAL VERIFICATION
+-> REAL RECEIPT / RETURN
+-> PRIORITY UPDATED
+-> NEW RUDIS CAPABILITY
+```
+
+La prioridad utilizada deberá ser una necesidad material real de M0, no una tarea fabricada únicamente para pasar el test.
+
+---
+
+## M0-P090 — WP9 / Destrucción y reconstitución off-host
+
+**Prioridad:** `P9 / CRITICAL BEFORE M0 DONE`  
+**Estado:** `QUEUED_GATED`
+
+```text
+DESTROY PRIMARY
+-> RECONSTITUTE ELSEWHERE
+-> RECONCILE CURRENTNESS / REVOCATION
+-> VERIFY AUTHORIZED CONTINUITY
+-> COMPARE EVIDENCE
+```
+
+Si no puede reconciliar autoridad current:
+
+```text
+READ-ONLY / HOLD
+```
+
+No se permite resurrección permisiva de estado stale.
+
+---
+
+## M0-P100 — WP10 / STOP + Evidence Package
+
+**Prioridad:** `P10 / TERMINAL M0`  
+**Estado:** `QUEUED_GATED`
+
+```text
+FREEZE M0 SCOPE
+-> EVIDENCE PACKAGE
+-> M0_DONE_CANDIDATE
+-> BLOCK AUTOMATIC M1
+-> RETURN TO ASSEMBLY
+```
+
+Todo claim DONE/VERIFIED deberá declarar:
+
+```text
+CLAIM
+SUBJECT
+VERSION
+PROPERTY
+ORACLE
+EVIDENCE
+WHAT WAS NOT PROVEN
+INDEPENDENCE STATUS
+CURRENTNESS
+```
+
+---
+
+# VI. REGLA PARA DESCOMPONER EN TRABAJO PIONERO
+
+Cada prioridad M0 podrá descomponerse en work items reclamables sólo si:
+
+```text
+PARENT PRIORITY IS AUTHORIZED/OPEN
+AND
+WORK ITEM ADVANCES PARENT ACCEPTANCE PROPERTY
+AND
+SCOPE IS BOUNDED
+AND
+NON-GOALS ARE EXPLICIT
+AND
+REVIEW / DECISION ROUTE EXISTS
+```
+
+Un work item pionero deberá incluir:
+
+```text
+WORK_ITEM_ID
+PARENT_PRIORITY_ID
+TITLE
+MATERIALIZATION_EFFECT
+WHY_NOW
+AUTHORITY_SOURCE
+ALLOWED_SCOPE
+NON_GOALS
+EXPECTED_ARTIFACTS
+ACCEPTANCE_PROPERTIES
+DEPENDENCIES
+SECURITY / PRIVACY IMPACT
+CLAIM_STATUS
+REVIEWER
+DECISION_ROUTE
+VERIFIER
+RETURN_PATH
+CURRENTNESS
+```
+
+---
+
+# VII. PROYECTOS D2 HISTÓRICOS / NO PRIORITARIOS PARA M0
+
+Las entradas históricas del registro anterior **no se borran**. Permanecen como backlog D2 y procedencia, pero dejan de competir automáticamente con M0 por prioridad.
+
+```text
+HISTORICAL D2 PROJECT
+!= CURRENT M0 PRIORITY
+```
+
+Mientras M0 sea la fase vigente, sólo se promoverán al frente de la Lista cuando:
+1. sean dependencia demostrada de un priority item M0;
+2. una decisión competente cambie el orden;
+3. o M0 termine y se abra una fase posterior.
+
+Entradas históricas preservadas:
+- StateOS / integridad causal;
+- Observatory;
+- identidad / sucesión ordinaria de credenciales;
+- composición horizontal G2;
+- RU / Palacio de Conversión ficticio D2;
+- verificabilidad pública;
+- Mundo Habitable / Unreal;
+- PGHD / Zonas de Resonancia;
+- reciprocidad plural de habitabilidad;
+- PRESENCE-01;
+- Differential Digestion;
+- portabilidad y salida técnica D2.
+
+Su detalle permanece recuperable en la genealogía Git del registro y en sus expedientes fuente.
+
+---
+
+# VIII. RESOURCE OFFER INTAKE
+
+M0 podrá recibir ofertas no monetarias cuando el correspondiente slice esté abierto:
+
+- compute;
+- hosting;
+- hardware;
+- servicios;
+- licencias;
+- tiempo/trabajo;
+- infraestructura.
+
+```text
+OFFER != ACCEPTED ASSET
+RESOURCE OFFER != ACCESS GRANT
+DONOR != AUTHORITY
+SPONSORSHIP != PRIORITY CONTROL
+```
+
+Sin política/competencia suficiente para la clase concreta:
+
+```text
+HOLD
+```
+
+Dinero real permanece fuera de M0.
+
+---
+
+# IX. CADENA DE ACEPTACIÓN DE FRUTOS
+
+El régimen canónico de Quebranto-25 permanece aplicable:
+
+```text
+PIONEER
+-> CONTRIBUTION RECORD
+-> CONSTRUCTION / SCOPE REVIEW
+-> UNIFICATION / COMPETITIVE DIGESTION
+-> COMPETENT DISPOSITION
+-> INTEGRATION AUTHORIZATION WHEN REQUIRED
+-> MATERIAL INTEGRATION
+-> VERIFICATION
+-> TYPED RECEIPT / RETURN
+```
+
+```text
+CONTRIBUTION != AUTHORITY
+REVIEW != ACCEPTANCE
+RECOMMENDATION != FINAL DISPOSITION
+MERGE != INSTITUTIONAL ACCEPTANCE
+```
+
+---
+
+# X. REGLA DE ACTUALIZACIÓN
+
+Esta Lista se actualizará cuando:
+
+- un gate M0 se abra o cierre;
+- una prioridad cambie de currentness;
+- aparezca una dependencia material demostrada;
+- un work item sea reclamado, entregado, revisado o dispuesto;
+- una política necesaria sea resuelta;
+- un hallazgo obligue a HOLD;
+- una prioridad quede superseded;
+- M0 alcance STOP;
+- una decisión competente cambie la fase de materialización.
+
+Toda actualización deberá preservar fuente, currentness y genealogía.
+
+```text
+UPDATE != LEGISLATE
+UPDATE != ERASE HISTORY
+LIST != SOURCE OF COMPETENCE
+```
+
+---
+
+# XI. MÁXIMA OPERATIVA
+
+> **La Lista Viva no pregunta qué sería interesante construir. Pregunta qué necesita Rudis para materializarse ahora, qué parte está legítimamente abierta y qué evidencia demostraría que realmente avanzamos.**
+
+```text
+CONTRIBUTOR CHOOSES AMONG AUTHORIZED NEEDS
+CONTRIBUTOR DOES NOT DEFINE RUDIS BY ACCUMULATION
+
+RUDIS MATERIALIZATION
+-> PRIORITIES
+-> CONTRIBUTIONS
+-> VERIFIED CAPABILITY
+```
