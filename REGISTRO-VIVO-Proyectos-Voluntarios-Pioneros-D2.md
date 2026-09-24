@@ -285,6 +285,56 @@ MATTER
 
 ## M0-P030 — WP3 / Sistema de Pioneros + Peticiones + Lista Viva
 
+### Universal Contribution Intake — requisito de experiencia inicial
+
+La puerta `CONTRIBUTE` deberá aceptar y clasificar aportaciones heterogéneas, no sólo software:
+
+```text
+CODE
+TESTS
+DOCUMENTATION
+RESEARCH
+KNOWLEDGE
+DESIGN
+ART
+TRANSLATION
+DATA
+MODEL / AGENT CAPABILITY
+COMPUTE
+STORAGE
+BANDWIDTH
+HOSTING
+HARDWARE
+INFRASTRUCTURE
+LICENSE
+SERVICE
+TIME / LABOR
+MAINTENANCE
+SECURITY / AUDIT
+CARE / SUPPORT
+EDUCATION / TRAINING
+LEGAL / PROFESSIONAL HELP
+ECONOMIC / MONETARY OFFER
+OTHER / UNCLASSIFIED
+```
+
+Toda clase debe poder:
+- registrarse;
+- conservar procedencia/condiciones/derechos;
+- ser clasificada;
+- ser enrutada;
+- producir receipt y return path.
+
+La capacidad de **recibir una oferta** no equivale a capacidad de aceptarla materialmente.
+
+```text
+OFFER != ACCEPTANCE
+```
+
+Por ello una aportación económica o cualquier clase sin autoridad suficiente podrá ser recibida como expediente y quedar `HOLD / ROUTE` sin que Rudis tome posesión del activo.
+
+
+
 **Prioridad:** `P3 / CRITICAL`  
 **Estado:** `QUEUED_GATED`  
 **Materializa:** las dos puertas principales del metabolismo de crecimiento.
