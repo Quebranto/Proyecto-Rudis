@@ -81,6 +81,44 @@ Esta Lista organiza el trabajo derivado. No sustituye la fuente.
 
 ---
 
+# II-B. FRENTE DE EJECUCIÓN ACTUAL
+
+**Forja activa:** #116 — `FORJA M0-A / Célula local, red, AssemblyOS y expansión acotada`
+
+**Dirección operativa del Strategos:**
+
+```text
+FIRST DESIGN TARGET = LOCAL PC
+PRIMARY GOALS = NETWORK + AUTOMATION + BOUNDED AUTONOMOUS EXPANSION + ASSEMBLY AUTOMATION
+```
+
+La máquina local funciona como laboratorio y primer sustrato de diseño/prueba:
+
+```text
+LOCAL PC = FIRST LAB
+LOCAL PC != PERMANENT HOMELAND
+```
+
+El frente #116 descompone el trabajo actual en:
+
+```text
+F0 PROFILE LOCAL PC
+F1 LOCAL SERVICE NETWORK
+F2 AUTOMATION FOUNDATION
+F3 ASSEMBLYOS-M0 AUTOMATION
+F4 BUILDER DIALOGUE
+F5 EXPANSION ENVELOPE + CONTROLLER
+F6 MULTI-NODE / REPLACEMENT TEST
+F7 SIM + ARM1 + PIONEERS/PETITIONS
+F8 REAL GROWTH LOOP
+F9 OFF-HOST RECONSTITUTION
+F10 STOP / EVIDENCE / ASSEMBLY REVIEW
+```
+
+Este orden no elimina los WP M0 ratificados: los convierte en frente ejecutable local y mantiene sus gates.
+
+---
+
 # III. OBJETIVO ACTUAL DE MATERIALIZACIÓN — M0
 
 La prioridad actual de Rudis no es construir todas sus instituciones ni explorar todas sus posibilidades.
