@@ -1,0 +1,33 @@
+name: Security Integrity D2
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: security-integrity-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  offline-security-gates:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout exact head without retained credentials
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Unit and adversarial tests
+        run: python3 -m unittest discover -s security-tools -p 'test_*.py' -v
+      - name: Current publication-boundary gate
+        run: python3 security-tools/redacted_history_scan.py --mode current --public-boundary
+      - name: Historical residue inventory (redacted, non-blocking)
+        run: python3 security-tools/redacted_history_scan.py --mode history --public-boundary --report-only
+      - name: Repository policy gate
+        run: python3 security-tools/repository_policy_gate.py .
+
