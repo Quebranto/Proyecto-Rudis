@@ -261,6 +261,8 @@ Investor entry / Entrada inversora:
 
 Full external map / Mapa externo completo: [External Reading Hub](./external/README.md)
 
+**Share Rudis / Compartir Rudis:** [Public Launch Kit / Kit de difusión pública](./external/Rudis_Public_Launch_Kit.md)
+
 Public rights references / Referencias públicas de derechos:
 
 - [LICENSE](./LICENSE)
