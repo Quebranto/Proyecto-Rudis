@@ -2,9 +2,10 @@
 
 ## Registro de genealogía intelectual, técnica e institucional
 
-**Fecha:** 23 de agosto de 2026  
-**Estado:** Semilla institucional y registral. No crea por sí misma derechos económicos, ciudadanía ni obligaciones patrimoniales.  
-**Custodia propuesta:** Palacio de Unificación, con auditoría de los órganos competentes.  
+**Fecha:** 24 de agosto de 2026  
+**Estado:** Semilla institucional y registral actualizada. No crea por sí misma derechos económicos, ciudadanía ni obligaciones patrimoniales.  
+**Custodia registral propuesta:** Palacio de Unificación, con auditoría de los órganos competentes.  
+**Custodia económica futura:** Banco de Conversión, como rama del Palacio de Conversión y del Gremio de Conversión, únicamente respecto de beneficios previamente autorizados.  
 **Finalidad:** conservar quién aportó qué a Rudis, bajo qué condiciones, con qué licencia y con qué impacto.
 
 ---
@@ -18,6 +19,22 @@ La integración legítima de una aportación externa no debe borrar su procedenc
 > **La digestión transforma; no falsifica la genealogía.**
 
 > **El éxito de Rudis no convierte retrospectivamente en propia una creación ajena.**
+
+### I-A. Independencia técnica y criterio de conducta
+
+Rudis puede estudiar problemas públicos, abstraer principios, diseñar independientemente, interoperar, aplicar clean-room cuando proceda y utilizar otras vías legítimas que permitan evitar dependencia material de una obra o implementación ajena.
+
+Esa capacidad protege la soberanía técnica del ecosistema, pero no constituye por sí misma el camino preferente de Rudis.
+
+Cuando sea razonable y legítimo reconocer, atribuir, licenciar, colaborar o recompensar una contribución materialmente relevante, el ecosistema deberá conservar la posibilidad de hacerlo en lugar de convertir la elusión de derechos ajenos en una virtud institucional.
+
+La existencia de una vía legal de diseño independiente no borra la procedencia intelectual del problema, precedente o inspiración cuando dicha procedencia sea demostrable.
+
+> **Poder prescindir de una obra no obliga a borrar de quién se aprendió.**
+>
+> **Independencia técnica no equivale a indiferencia frente al mérito ajeno.**
+>
+> **Aprender sin apropiarse es preferible a apropiarse sin reconocer.**
 
 ---
 
@@ -90,7 +107,7 @@ El Sistema de Pioneros tiene también una finalidad de justicia de procedencia: 
 
 La existencia de una entrada no promete ni devenga automáticamente un beneficio.
 
-Los mecanismos posibles deberán ser creados posteriormente por autoridad competente y podrían incluir, siempre dentro de la legalidad y disponibilidad real:
+Los mecanismos posibles deberán ser creados o autorizados por autoridad competente y podrían incluir, siempre dentro de la legalidad y disponibilidad real:
 
 - reconocimiento público;
 - invitación a colaborar;
@@ -115,7 +132,28 @@ La determinación concreta deberá considerar:
 - contribución voluntaria posterior;
 - capacidad económica del ecosistema;
 - igualdad de trato;
-- y decisiones de Asamblea o Strategos cuando correspondan.
+- y decisiones de Asamblea, Strategos u otra autoridad competente cuando correspondan.
+
+### V-A. Separación institucional de funciones
+
+La arquitectura de beneficios de Pioneros deberá mantener separadas, como mínimo, las siguientes funciones:
+
+`procedencia -> decisión del beneficio -> custodia económica -> entrega`
+
+1. **Procedencia y elegibilidad:** el Palacio de Unificación conserva y actualiza el expediente de Pioneros y Procedencia. Registrar mérito o elegibilidad no crea por sí mismo un crédito exigible.
+2. **Decisión del beneficio:** corresponde a la autoridad competente conforme al Corpus y al instrumento aplicable. El Palacio de Unificación, el Banco de Conversión y los componentes técnicos no pueden autoasignar beneficiarios, cuantías o derechos patrimoniales.
+3. **Custodia económica:** cuando exista una asignación válida, el **Banco de Conversión**, como rama del **Palacio de Conversión** y del **Gremio de Conversión**, conserva de forma trazable los activos, RU, fondos o instrumentos destinados al beneficio autorizado.
+4. **Entrega:** el Banco de Conversión ejecuta la liberación o transferencia únicamente cuando exista mandato válido y se satisfagan las condiciones del instrumento que creó el beneficio.
+
+El Banco de Conversión no se convierte en propietario económico del beneficiario ni adquiere competencia distributiva por custodiar activos.
+
+> **Custodiar no es conceder.**
+>
+> **Registrar no es asignar.**
+>
+> **Asignar no es entregar sin mandato.**
+>
+> **Banco de Conversión no es legislador.**
 
 **Reconocimiento no equivale a deuda automática. Elegibilidad no equivale a derecho adquirido.**
 
@@ -144,7 +182,7 @@ La determinación concreta deberá considerar:
 
 **Estado material:** no existe aún componente DCP incorporado en Rudis por este programa.
 
-**Elegibilidad futura:** ABIERTA, condicionada a verificación de autoría/impacto y a futura norma de beneficios.
+**Elegibilidad futura:** ABIERTA, condicionada a verificación de autoría/impacto y a futura norma o decisión válida de beneficios.
 
 ---
 
@@ -239,20 +277,35 @@ La determinación concreta deberá considerar:
 
 ---
 
-## VII. ACTUALIZACIÓN DEL REGISTRO
+## VII. ACTUALIZACIÓN Y CIERRE DEL REGISTRO
 
-Todo expediente de digestión deberá revisar el Registro cuando:
+Durante una digestión activa, el expediente deberá conservar evidencia suficiente de procedencia —fuentes, autores conocidos, snapshots, versiones, licencias, influencia, incertidumbres y material estudiado— sin necesidad de convertir cada iteración intermedia en una entrada definitiva del Registro.
 
-- un nuevo precedente sea descubierto;
-- cambie la comprensión de la prioridad temporal;
+La **consolidación registral ordinaria se realizará al cierre de la digestión**, cuando exista una comprensión suficientemente estable de qué aportó realmente cada fuente y de qué relación terminó teniendo con Rudis.
+
+Al cierre, el Palacio de Unificación deberá:
+
+1. crear o actualizar la entrada de Pionero/Procedencia correspondiente;
+2. individualizar autores, mantenedores u organizaciones cuando la evidencia lo permita;
+3. distinguir material estudiado, inspirado, adaptado, reutilizado, interoperado o finalmente descartado;
+4. registrar licencia/derechos y obligaciones de atribución conocidas;
+5. describir el beneficio real obtenido por Rudis;
+6. mantener visibles controversias, dudas de prioridad o atribuciones no verificadas;
+7. fijar el estado de elegibilidad futura sin convertirlo en derecho patrimonial automático.
+
+Antes del cierre podrán hacerse anotaciones registrales provisionales cuando:
+
+- cambie materialmente la comprensión de la autoría o prioridad;
 - se incorpore material concreto;
 - se obtenga una licencia o permiso;
 - exista colaboración;
 - se descarte una atribución errónea;
-- aparezca una controversia;
-- o una propuesta D3 llegue a Asamblea/Strategos.
+- aparezca una controversia relevante;
+- o una propuesta D3 llegue a Asamblea, Strategos u otra autoridad competente.
 
-Ningún expediente D3 debería considerarse completo sin una sección de procedencia/Pioneros.
+Ningún expediente D3 debería considerarse completo sin una sección consolidada de procedencia/Pioneros.
+
+> **Digestión abierta conserva evidencia; digestión cerrada consolida genealogía.**
 
 ---
 
@@ -266,6 +319,7 @@ El Registro no puede utilizarse para:
 - afirmar endorsement de Rudis por parte del creador;
 - apropiarse de marcas o reputación;
 - borrar obligaciones de licencia;
+- presentar diseño independiente como permiso para falsificar genealogía;
 - ni convertir reconocimiento unilateral en cesión de derechos.
 
 Si existe duda, el registro deberá decir `ATTRIBUTION_UNVERIFIED` o `PROVENANCE_UNRESOLVED` en lugar de inventar.
@@ -285,5 +339,17 @@ Si existe duda, el registro deberá decir `ATTRIBUTION_UNVERIFIED` o `PROVENANCE
 > **Reconocer una deuda intelectual no inventa una deuda económica.**
 >
 > **Una recompensa futura debe tener autoridad, recursos, reglas y trazabilidad.**
+>
+> **Registro de Pionero != asignación económica.**
+>
+> **Asignación económica != disponibilidad inmediata.**
+>
+> **Custodia != propiedad.**
+>
+> **Custodia != competencia distributiva.**
+>
+> **Banco de Conversión != legislador.**
+>
+> **Independencia técnica != borrado de procedencia.**
 >
 > **Si Rudis prospera, deberá recordar de quién aprendió.**
