@@ -1,0 +1,37 @@
+{
+  "currency": "FICTIONAL_UNITS",
+  "years": 5,
+  "discount_rate": 0.1,
+  "scenarios": [
+    {
+      "name": "sin_inversion",
+      "capital_cost": 0,
+      "annual_fixed_cost": 100,
+      "annual_maintenance": 0,
+      "annual_extra_gross_margin": 150,
+      "annual_outage_loss": 100,
+      "annual_replacement": 0,
+      "annual_debt_service": 0
+    },
+    {
+      "name": "energia_distribuida",
+      "capital_cost": 1000,
+      "annual_fixed_cost": 100,
+      "annual_maintenance": 80,
+      "annual_extra_gross_margin": 600,
+      "annual_outage_loss": 10,
+      "annual_replacement": 20,
+      "annual_debt_service": 180
+    },
+    {
+      "name": "inversion_sobredimensionada",
+      "capital_cost": 4000,
+      "annual_fixed_cost": 200,
+      "annual_maintenance": 250,
+      "annual_extra_gross_margin": 500,
+      "annual_outage_loss": 0,
+      "annual_replacement": 150,
+      "annual_debt_service": 900
+    }
+  ]
+}
