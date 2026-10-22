@@ -1,0 +1,4 @@
+date,category,income,expense,note
+2026-01-01,agriculture,25.00,0.00,synthetic sale
+2026-01-02,agriculture,0.00,7.50,synthetic transport
+2026-01-03,repairs,15.00,0.00,synthetic service
