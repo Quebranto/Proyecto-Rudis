@@ -16,7 +16,7 @@ Rudis investiga cómo separar capacidad técnica, representación y autoridad le
 
 ## 🛠️ Colaborador o pionero
 1. [Tour guiado](./TOUR_ES.md)
-2. [Cómo ser pionero](./PIONEERS_ES.md)
+2. [Información para pioneros (EN)](./PIONEERS_EN.md)
 3. [Registro vivo de proyectos](./REGISTRO-VIVO-Proyectos-Voluntarios-Pioneros-D2.md)
 
 ## 🧪 Evaluación técnica
