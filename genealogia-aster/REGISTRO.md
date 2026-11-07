@@ -9,6 +9,9 @@ Este registro es **un índice de tareas**, no un estado institucional completo. 
 | Canon y competencias | [Registro de Canon](../Quebranto-00_Registro_de_Canon_Vigente.md) | Referencia principal | Verificar vigencia antes de invocar autoridad |
 | CONTRAPESO-05 | Sin referencia GitHub verificada | Prototipo local comunicado; no incorporado aquí | Revisión independiente y PR separada si procede |
 
+## Dictámenes adversariales recibidos
+- [Informe preliminar de realidades dentro y fuera de Rudis (7-11-2026)](DICTAMEN_ADVERSARIAL_2026-11-07.md): resumen de documento recibido, no verificado independientemente, con cinco líneas de revisión abiertas.
+
 ## Formato de anotación
 ```text
 ID:
