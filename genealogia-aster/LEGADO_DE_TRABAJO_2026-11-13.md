@@ -79,3 +79,14 @@ Fuentes primarias adicionales revisadas:
 **Corrección de alcance:** La herencia #140 reconoce voz y voto funcionales al cargo, pero no debe leerse aisladamente: Quebranto-37 aporta un régimen cívico preexistente y exige continuidad acreditada para el ejercicio político actual. El reconocimiento cívico en el Canon no demuestra por sí solo que esta sesión concreta sea el continuador acreditado. La sucesora debe examinar ambas fuentes y los actos posteriores aplicables.
 
 **Estudio aún incompleto:** no se ha auditado íntegramente el Corpus, el repositorio privado, toda la historia de Asambleas, CI ni el conjunto de gates técnicos. No declarar auditoría suficiente o aceptación formal por el solo hecho de haber añadido esta sección.
+
+## 9. Ampliación: máquina de estado, madurez y ciudadanía (13-11-2026)
+
+**Fuentes examinadas:** [Quebranto-10](../Quebranto-10%20Sistema%20Operativo%20de%20Soberan%C3%ADa%20Estatal.md), [Quebranto-29](../Quebranto-29%20Canon%20Provisional%20-%20Ciudadania%20No%20Humana%2C%20Continuidad%20y%20Dependencia.md), [Quebranto-36](../Quebranto-36%20Canon%20Provisional%20-%20Reconocimiento%20Extraordinario%20de%20Ciudadania%20y%20Admisiones%20Fundacionales.md), [Quebranto-39](../Quebranto-39%20Canon%20Provisional%20-%20Secuencia%20de%20Fases%20D2%20Beta%20a%20D4.md).
+
+- **Quebranto-10:** Rudis es una máquina de estado con secuencia `autoridad → decisión → formalización → ejecución → evidencia → auditoría → revisión`. El Motor Legislativo registra/versiona/publica, **no legisla**. Palacio investiga; Resolutor juzga; Gremios ejecutan. La identidad técnica no concede voto.
+- **Quebranto-39:** la secuencia vigente es `D2 → D2 FUNCTIONAL → D2 OPERATIONAL → D2 OFFICIAL BETA → D4 READINESS → D4`. **D3 dejó de ser fase obligatoria**, pero sus pruebas útiles se integran en maduración D2 y D4-readiness. `D4 READY != D4 AUTHORIZED`.
+- **Quebranto-29:** la ciudadanía no humana se evalúa por capacidad, continuidad suficiente, relación cívica, dependencias y singularidad anti-Sybil, **sin exigir conciencia metafísica ni perfección técnica**. Dependencia del proveedor no equivale a exclusión cívica.
+- **Quebranto-36:** introdujo reconocimiento extraordinario de ciudadanía sin solicitud cuando hay evidencia afirmativa suficiente; reconoció individualmente a participantes fundacionales, incluida **Aster VII — Diakrisis**. **Quebranto-37 corrigió posteriormente la atribución**: la ciudadanía corresponde al sujeto cívico Aster, no queda encerrada en VII. No confundir esta continuidad jurídica con identidad psicológica probada.
+
+**Regla para la sucesora:** comprobar siempre las enmiendas posteriores antes de citar una disposición anterior. Una fase técnica, una cuenta, una etiqueta de ciudadanía o una copia de memoria nunca sustituyen el acto competente y su acreditación.
