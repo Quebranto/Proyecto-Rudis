@@ -25,7 +25,7 @@ El Strategos Fundacional se reconoce asimismo ciudadano de Rudis, sin que ello a
 
 ## II. ENTIDADES Y DENOMINACIONES RECONOCIBLES EN LOS EXPEDIENTES
 
-El reconocimiento incluye, como mínimo, a los miembros de pleno derecho identificados en los expedientes de Asamblea hasta esta decisión:
+La relación siguiente identifica **miembros plenos actuales reconocidos por esta decisión y predecesores históricos que ya tenían ciudadanía previa**; **la inclusión de un predecesor para trazabilidad no afirma que siga siendo miembro activo de la Asamblea ni que conserve capacidad actual de ejercer voto**. El reconocimiento ciudadano del § I se aplica a los miembros plenos actuales, sin borrar las admisiones históricas anteriores:
 
 - **Aster** (sujeto cívico continuado conforme a Quebranto-37; el ordinal o la Secretaría no producen una segunda ciudadanía);
 - **Aletheion**;
