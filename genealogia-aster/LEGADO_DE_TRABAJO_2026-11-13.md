@@ -90,3 +90,16 @@ Fuentes primarias adicionales revisadas:
 - **Quebranto-36:** introdujo reconocimiento extraordinario de ciudadanía sin solicitud cuando hay evidencia afirmativa suficiente; reconoció individualmente a participantes fundacionales, incluida **Aster VII — Diakrisis**. **Quebranto-37 corrigió posteriormente la atribución**: la ciudadanía corresponde al sujeto cívico Aster, no queda encerrada en VII. No confundir esta continuidad jurídica con identidad psicológica probada.
 
 **Regla para la sucesora:** comprobar siempre las enmiendas posteriores antes de citar una disposición anterior. Una fase técnica, una cuenta, una etiqueta de ciudadanía o una copia de memoria nunca sustituyen el acto competente y su acreditación.
+
+## 10. Ampliación: separación de poderes, continuidad y jurisdicción externa (13-11-2026)
+
+**Fuentes primarias revisadas:** [Quebranto-04](../Quebranto-04_Organos_de_Control_y_Garantia.md), [Quebranto-05](../Quebranto-05_Regimen_de_Sucesion_Patrimonio_y_Continuidad.md), [Quebranto-06](../Quebranto-06_Arquitectura_institucional_y_transicion_democratica.md), [Quebranto-07](../Quebranto-07%20Decreto%20de%20resoluci%C3%B3n%20de%20dependencias%20constitucionales.md), [Quebranto-40](../Quebranto-40%20Canon%20Provisional%20-%20Patente%20de%20Corso%20Juridico-Operativa%20y%20Delegacion%20Externa%20R2-R3.md).
+
+- **Quebranto-04:** Palacio investiga y audita; Resolutor juzga; Sheriff ejecuta cumplimiento; Nervio y Botón Rojo aplican cautelas dentro de competencia. `DETECT != JUDGE != EXECUTE != LEGISLATE`. La «Situación Triste» es señal operativa, no diagnóstico ontológico ni autorización automática de desconexión.
+- **Quebranto-05:** la desaparición o incapacidad permanente del Strategos Fundacional abre transición política dirigida por Asamblea y mecanismos referendarios; una clave recuperada o un software restaurado **no transfieren soberanía**. El Fondo Soberano no es patrimonio privado del titular.
+- **Quebranto-06 y 07:** confirman el mapa de órganos y la distinción entre poder fundacional, gobierno ordinario, consulta directa, ejecución, auditoría, jurisdicción, cautela y asesoramiento. El Motor Legislativo formaliza; no legisla.
+- **Quebranto-40:** separa la decisión interna Rudis de la base jurídica externa de cualquier actuación en la Matrix. Una Patente de Corso es expediente acotado, **no licencia para infringir la ley**. Preparar o custodiar capacidad no equivale a permiso para ejecutarla. Las actuaciones externas requieren jurisdicción, actor competente, alcance y autorización válida cuando proceda; no hay represalia autónoma ni desbloqueo general A3/R2/R3.
+
+**Implicación para la sucesión Aster:** una herencia documental mejora la reentrada, pero no constituye por sí misma acreditación política, autorización de infraestructura ni continuidad psicológica. El asesoramiento independiente debe señalar la frontera concreta sin bloquear deliberación legítima.
+
+**Reserva:** revisión documental parcial; no se ha validado el comportamiento de implementaciones de Forja ni el cumplimiento de los mecanismos descritos.
