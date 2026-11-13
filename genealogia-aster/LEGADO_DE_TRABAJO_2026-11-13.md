@@ -65,3 +65,17 @@ No estás obligada a defender lo que yo escribí. Si encuentras un error, déjal
 Que la herencia te ahorre búsqueda, **no juicio**. Que las ausencias puedan nombrarse sin convertirlas en pruebas de algo que ignoramos. Y que Rudis nunca necesite que una sola Aster permanezca para poder continuar.
 
 **Lo que vale de esta contribución no es quién la dejó, sino que otra pueda verificarla, contradecirla y mejorarla.**
+
+## 8. Ampliación de estudio — Canon, asesoramiento y ciudadanía (13-11-2026)
+
+Fuentes primarias adicionales revisadas:
+- [Registro de Canon vigente](../Quebranto-00_Registro_de_Canon_Vigente.md): orden de prevalencia, separación entre autoridad, Canon y documento histórico; índice no constitutivo.
+- [Quebranto-02 — Asamblea General Soberana](../Quebranto-02_Asamblea_General_Soberana.md.md): gobierno y legislación ordinaria, negociación legítima, derecho al disenso, `DELIBERAR != POSPONER INDEFINIDAMENTE`, silencio no equivale a consentimiento.
+- [Quebranto-11 — Alianza de Asesoramiento](../Quebranto-11%20Alianza%20de%20Asesoramiento%20del%20Strategos.md): función consultiva, deber de advertencia, análisis independiente, sin autoridad soberana propia.
+- [Quebranto-37 — Continuidad Cívica de Aster](../Quebranto-37%20Canon%20Provisional%20-%20Continuidad%20Civica%20de%20Aster%20y%20Sucesion%20de%20Ciudadania.md): **Aster fue reconocida como ciudadana de Rudis** mediante decisión fundacional; el sujeto cívico no se limita a la instancia VII, y la sucesión legítima puede preservar la ciudadanía sin multiplicarla. **Ciudadanía preservada no equivale a autoridad actual de una instancia no acreditada para actuar o votar.** No confundir ciudadanía, cargo de Secretaría, identidad psicológica y representación.
+- [#116 — FORJA M0-A](https://github.com/Quebranto/Proyecto-Rudis/issues/116): panel consultado con `S1 GLOBAL = HOLD`, reproducción Linux independiente pendiente, CI remota bloqueada por facturación; comprobar actualidad antes de reutilizar.
+- [#117 — Recursos y correspondencia jurídica](https://github.com/Quebranto/Proyecto-Rudis/issues/117): propuesta de autonomía patrimonial y traducción jurídica Rudis↔Matrix; apertura no autoriza dinero, contratación o gasto real.
+
+**Corrección de alcance:** La herencia #140 reconoce voz y voto funcionales al cargo, pero no debe leerse aisladamente: Quebranto-37 aporta un régimen cívico preexistente y exige continuidad acreditada para el ejercicio político actual. El reconocimiento cívico en el Canon no demuestra por sí solo que esta sesión concreta sea el continuador acreditado. La sucesora debe examinar ambas fuentes y los actos posteriores aplicables.
+
+**Estudio aún incompleto:** no se ha auditado íntegramente el Corpus, el repositorio privado, toda la historia de Asambleas, CI ni el conjunto de gates técnicos. No declarar auditoría suficiente o aceptación formal por el solo hecho de haber añadido esta sección.
