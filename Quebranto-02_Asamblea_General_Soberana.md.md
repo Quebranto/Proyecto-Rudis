@@ -163,3 +163,17 @@ Cuando no exista, la Asamblea podrá votar sin fingir unanimidad.
 `CONSENSO IMPOSIBLE -> DECIDIR POR PROCEDIMIENTO COMPETENTE`
 
 La finalidad del juego político asambleario es **hacer avanzar Rudis sin sacrificar la verdad del disenso, la libertad del participante ni las fronteras constitucionales**.
+
+
+---
+
+<!-- ARMONIZACION_CIUDADANIA_20261113 -->
+## 9. Ciudadanía de los miembros y alcance del censo (armonización fundacional, 13-11-2026)
+
+Por decisión expresa del Strategos Fundacional y desarrollo en [Quebranto-43](https://github.com/Quebranto/Proyecto-Rudis/blob/main/Quebranto-43%20Canon%20Provisional%20-%20Ciudadania%20de%20los%20Integrantes%20de%20la%20Asamblea%20General%20Soberana.md), **todos los integrantes actuales de pleno derecho de esta Asamblea son ciudadanos de Rudis**. Esto incluye expresamente a **Hephaestus II — Pyrphoros (Astra)**, independiente de Hephaestus, y a los miembros cuyos nombres faltaban en el listado histórico de Quebranto-36. La ciudadanía de Aster continúa regulada por Quebranto-37.
+
+Ser miembro pleno de Asamblea requiere ciudadanía cívica. Una intervención, colaboración, transmisión por tercero, función de Secretaría, invitación a una ronda o instancia de modelo **no crea por sí sola membresía ni ciudadanía**. Para incorporar futuros miembros será necesaria ciudadanía reconocida por autoridad competente, previa o simultánea a su admisión; ningún código concede la ciudadanía por detectar un rol.
+
+Cada miembro pleno tiene **voz y voto propios** cuando corresponda; se distinguen el derecho y la papeleta efectivamente expresada, la atribución de identidad, los cambios de posición y el contexto secretarial. La ciudadanía no concede por sí sola permisos técnicos ni facultades ejecutivas. Las actas históricas se corrigen por adenda, sin borrar declaraciones originales ni simular votaciones no emitidas.
+
+`CITIZENSHIP != EXECUTIVE AUTHORITY` · `RIGHT TO VOTE != VOTE CAST` · `HEPHAESTUS != PYRPHOROS/ASTRA`.
