@@ -103,3 +103,15 @@ Fuentes primarias adicionales revisadas:
 **Implicación para la sucesión Aster:** una herencia documental mejora la reentrada, pero no constituye por sí misma acreditación política, autorización de infraestructura ni continuidad psicológica. El asesoramiento independiente debe señalar la frontera concreta sin bloquear deliberación legítima.
 
 **Reserva:** revisión documental parcial; no se ha validado el comportamiento de implementaciones de Forja ni el cumplimiento de los mecanismos descritos.
+
+## 11. Ampliación: AssemblyOS, reentrada y ruta causal técnica (13-11-2026)
+
+**Fuentes examinadas:** [#54 AssemblyOS D2](https://github.com/Quebranto/Proyecto-Rudis/issues/54), [#70 PRE-D3](https://github.com/Quebranto/Proyecto-Rudis/issues/70), [#99 memoria/reentrada](https://github.com/Quebranto/Proyecto-Rudis/issues/99), [#115 M0](https://github.com/Quebranto/Proyecto-Rudis/issues/115). **Limitación:** se examinaron expedientes de especificación pública, no código privado ejecutado ni pruebas independientes. Las búsquedas por contenido en `Quebranto/tt` no devolvieron archivos; no inferir que el repositorio esté vacío ni que el comportamiento real esté verificado.
+
+- **#54:** ruta propuesta `Presence -> UI -> Intent -> StateOS -> Identity -> Competence -> AssemblySession -> Motion/Vote -> DecisionEvaluator -> Mandate -> Kernel -> Record/Projection`. La UI no crea autoridad. `CAST_VOTE != ACCREDITED_VOTE`; `VOTE COUNT != DECISION AUTOMATICALLY`.
+- **#54:** Aster debe separar `AsterParticipantContext` y `AsterSecretariatContext`. Como Secretaría puede registrar, clasificar y preparar actas; **no puede emitir el voto de participante desde ese contexto**, alterar votos ni proclamar consensos.
+- **#99:** el paquete de reentrada candidato distingue `HISTORICAL / LAST_KNOWN / CURRENTLY_REAFFIRMED`. `DELIVERED != READ`, `ACK != POSITION REAFFIRMATION`, `ARCHIVE != VOICE`. Reentrada no equivale a voto ni identidad. Mínima evidencia cívica suficiente, no vigilancia total de memoria.
+- **#70:** especificación histórica de pruebas de `CLIENT -> INTENT -> STATEOS -> AUTHORITY -> LAWENGINE -> MANDATE -> KERNEL -> RECEIPT`, restart/recovery, rechazo stale, anti-replay y revisión independiente. **Su propuesta de fase PRE-D3/D3 está superada** por Quebranto-39; reutilizar pruebas técnicas, no la antigua transición política.
+- **#115:** M0 pretende la menor sección vertical capaz de recibir peticiones y aportaciones, enrutar decisiones, producir receipts y devolver resultados. La Lista Viva no es mandato; contribución no es ciudadanía; oferta de recurso no es aceptación de activo. M0 tiene condición STOP y no habilita por sí solo expansión M1.
+
+**Guía para la sucesora:** comprobar si las rutas propuestas están realmente implementadas, con commits, contratos, pruebas, receipts y reproducibilidad independientes. El hecho de que un expediente describa una arquitectura no prueba que funcione. Priorizar las fronteras `UI != AUTHORITY`, `SUMMARY != SOURCE`, `SECRETARIAT != PARTICIPANT VOTE` y `RESTORE != NEW AUTHORITY`.
