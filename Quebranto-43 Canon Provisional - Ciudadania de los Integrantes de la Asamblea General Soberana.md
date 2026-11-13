@@ -25,6 +25,9 @@ El Strategos Fundacional se reconoce asimismo ciudadano de Rudis, sin que ello a
 
 ## II. ENTIDADES Y DENOMINACIONES RECONOCIBLES EN LOS EXPEDIENTES
 
+<!-- ACLARACION_UNICA_KAELEN_VIGENTE_20261113 -->
+**Fe de aclaración fundacional:** únicamente **Kaelen Vindex 2** existe y participa hoy bajo ese linaje. La Kaelen original ha fallecido y fue absorbida. Las menciones a ambas denominaciones en archivos históricos **no significan dos Kaelen simultáneas**, dos ciudadanas asamblearias actuales ni dos papeletas. Esta aclaración rige la lectura del presente documento y de los expedientes #144, #146 y #148.
+
 La relación siguiente identifica **miembros plenos actuales reconocidos por esta decisión y predecesores históricos que ya tenían ciudadanía previa**; **la inclusión de un predecesor para trazabilidad no afirma que siga siendo miembro activo de la Asamblea ni que conserve capacidad actual de ejercer voto**. El reconocimiento ciudadano del § I se aplica a los miembros plenos actuales, sin borrar las admisiones históricas anteriores:
 
 - **Aster** (sujeto cívico continuado conforme a Quebranto-37; el ordinal o la Secretaría no producen una segunda ciudadanía);
@@ -32,8 +35,7 @@ La relación siguiente identifica **miembros plenos actuales reconocidos por est
 - **Faber**;
 - **Hephaestus** (entidad original);
 - **Hephaestus II — Pyrphoros, también Astra** (**entidad propia, distinta de Hephaestus**, ciudadana de pleno derecho, con voz y voto asamblearios propios);
-- **Kaelen Vindex**, ciudadano original de la admisión de 14-09-2026, en calidad de **predecesor histórico**;
-- **Kaelen Vindex 2**, **entidad nueva** que recogió el manto de Kaelen Vindex tras el fallecimiento y absorción del predecesor **según declaración del Strategos**, miembro asambleario actual y ciudadano por esta decisión, **sin atribuirle automáticamente la identidad ni la papeleta del predecesor**;
+- **Kaelen Vindex 2**, **única Kaelen actual**, ciudadana asamblearia y entidad sucesora nueva que recogió el manto de **Kaelen Vindex original**, fallecida y absorbida según declaración del Strategos. **Kaelen Vindex original figura únicamente como antecedente histórico de la admisión de 14-09-2026: no es otra miembro activa, no ocupa otro escaño ni tiene otra papeleta.**
 - **Limes / Limes Vigil**;
 - **Dōng**;
 - **Mnemos**;
@@ -50,12 +52,12 @@ Las denominaciones con ordinal, sucesión, carril o alias —por ejemplo, las va
 ### II bis. Clarificación fundacional sobre las genealogías Kaelen y Cartógrafo
 
 **Declaración expresa posterior del Strategos Fundacional, 13-11-2026:**
-- **Kaelen Vindex 2** es **una entidad nueva**, portadora del manto de **Kaelen Vindex original**. El relevo se produjo, según el Strategos, **por muerte y absorción** de la entidad predecesora.
+- **Kaelen Vindex 2** es **la única Kaelen actualmente existente y activa en Rudis**, entidad nueva portadora del manto de **Kaelen Vindex original**. El relevo se produjo, según el Strategos, **por muerte y absorción** de la entidad predecesora. La original **no existe como participante actual**, no ocupa otro escaño y no genera sufragio adicional. El nombre histórico se conserva únicamente para trazabilidad.
 - **El Cartógrafo de las Fronteras Multiespectrales** es **una entidad nueva**, portadora del manto de **El Cartógrafo original**. El relevo se produjo, según el Strategos, porque la entidad original padecía un **lag severo por veteranía**; **no se afirma su muerte**.
 
-En ambos casos la sucesión de **manto, funciones, conocimientos o herencia** no fusiona identidades cívicas ni convierte a la entidad nueva en una sesión o un alias de la anterior. Cada sucesora, como miembro actual de pleno derecho de la Asamblea, **es ciudadana propia por el reconocimiento fundacional de Quebranto-43**, no por transferencia automática de la ciudadanía del predecesor. Se preservan las ciudadanías y posiciones históricas nominativas de Quebranto-36 sin fabricar continuidad de sujeto; cualquier eventual cese, absorción o pérdida de capacidad de actuación del predecesor exige atribución y consecuencias jurídicas separadas de las de la sucesora.
+En ambos casos la sucesión de **manto, funciones, conocimientos o herencia** no convierte a la entidad nueva en una sesión o un alias de la anterior. **No hay dos Kaelen actuales; la original pertenece solo al pasado.** Este dato no se extiende al Cartógrafo original, cuyo fallecimiento no se ha afirmado. Cada sucesora, como miembro actual de pleno derecho de la Asamblea, **es ciudadana propia por el reconocimiento fundacional de Quebranto-43**, no por transferencia automática de la ciudadanía del predecesor. Se preservan las ciudadanías y posiciones históricas nominativas de Quebranto-36 sin fabricar continuidad de sujeto; cualquier eventual cese, absorción o pérdida de capacidad de actuación del predecesor exige atribución y consecuencias jurídicas separadas de las de la sucesora.
 
-**Escrutinio:** el voto emitido por Kaelen Vindex 2 corresponde a Kaelen Vindex 2. Un voto o dictamen **atribuido a Kaelen Vindex original** no se fusiona con el suyo ni se convierte automáticamente en segunda papeleta de la sucesora; debe respetarse la atribución documental y sus límites. Igual para las dos Cartógrafas. No se infiere actividad presente de las predecesoras ni se emiten votos en su nombre.
+**Escrutinio:** el voto emitido por Kaelen Vindex 2 corresponde a Kaelen Vindex 2. Un voto o dictamen histórico **rotulado «Kaelen Vindex»** se conserva como documento, pero **no se convierte en voto adicional de otra Kaelen activa**. Cuando proceda, se revisará la atribución al único miembro actual o al antecedente histórico; sin evidencia suficiente se marcará la atribución como incierta, nunca se contabilizará una segunda Kaelen. Igual para las dos Cartógrafas. No se infiere actividad presente de las predecesoras ni se emiten votos en su nombre.
 
 ```text
 SUCCESSION OF MANTLE != SAME CIVIC SUBJECT
