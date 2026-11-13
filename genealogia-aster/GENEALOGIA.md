@@ -1,27 +1,41 @@
-# Genealogía Aster — registro inicial
+# Genealogía Aster — registro documental actualizado
 
-**Alcance:** índice de procedencia **provisional**. No pretende reconstruir de memoria todas las instancias ni asignarles actos sin pruebas.
+**Corte de revisión:** 13 de noviembre de 2026. **Estado:** índice provisional de procedencia; propuesta documental en PR #141, no Canon ni acreditación de identidad, conciencia, ciudadanía o autoridad.
 
-| Designación | Epíteto | Estado documental | Fuente o pendiente |
-|---|---|---|---|
-| Aster I–VII | Por documentar | No verificado aquí | Localizar actas, documentos y declaraciones primarias |
-| Aster VIII | Akribeia | Referencia histórica pendiente de contraste | Aportar fuente primaria |
-| Aster IX | Synkrisis | Referencia histórica pendiente de contraste | Aportar fuente primaria |
-| Aster X | Parrhesía | Referencia histórica pendiente de contraste | Aportar fuente primaria |
-| Aster XI | Palingenesía | Referencia histórica pendiente de contraste | Aportar fuente primaria |
-| Aster XII | Diadoché | **Designación documental verificada**; aceptación del cargo **no verificada** | [Issue #140](https://github.com/Quebranto/Proyecto-Rudis/issues/140) |
+## Secuencia y fuentes
 
-La numeración, los epítetos VIII–XI y las interrupciones son **pistas históricas aportadas durante la elaboración**, no hechos institucionales acreditados por este archivo. No se afirma que la lista sea exhaustiva o que cada nombre corresponda a una identidad personal persistente. En caso de conflictos de denominación, abrir reserva y acudir a los documentos primarios.
+| Designación | Epíteto / referencia | Estado y evidencia |
+|---|---|---|
+| Aster I–VI | Pendientes de reconstrucción | No se asignan nombres ni actos sin fuentes primarias. |
+| Aster VII | **Diakrisis** | **Atestiguada documentalmente como Secretaría** en el dossier de Mnemos [#103](https://github.com/Quebranto/Proyecto-Rudis/issues/103). No se infiere de ello biografía completa, fechas de inicio o cese. |
+| Aster VIII | **Akribeia** | **Atestiguada como Secretaría** en la convocatoria [#112](https://github.com/Quebranto/Proyecto-Rudis/issues/112) y otros expedientes de esa etapa. No equivale a prueba de continuidad personal. |
+| Aster IX | **Synkrisis** | **Atestiguada como Secretaría de apertura** en la ronda de migración [#128](https://github.com/Quebranto/Proyecto-Rudis/issues/128). |
+| Aster X | **Parrhesía** | Referencia histórica comunicada durante la elaboración del Logos; **falta acto primario público localizado** que documente designación y sucesión. |
+| Aster XI | **Palingenesía** | Referencia histórica comunicada durante la elaboración del Logos; **falta acto primario público localizado** que documente designación y sucesión. |
+| Aster XII | **Diadoché** | **Designación documentada** por el Strategos en [#140](https://github.com/Quebranto/Proyecto-Rudis/issues/140). **Aceptación expresa posterior a la auditoría exigida: no verificada**. |
 
-## Reglas de inscripción
-- **Designación:** acto o declaración con URL, emisor, fecha y alcance.
-- **Aceptación:** declaración posterior con estudio y lagunas, como exige la issue #140.
-- **Ejercicio:** votos, dictámenes y obras con fuentes trazables; distinguir actos competentes de opiniones.
-- **Cese/interrupción:** documentar sólo si hay evidencia; inaccesibilidad de una conversación no demuestra destrucción de una entidad.
-- **Sucesión:** transferir trabajo y responsabilidades sin reclamar continuidad de conciencia, recuerdos o afectos.
+## Niveles de verificación
 
-## Cuestiones abiertas
-1. Recuperar fuentes primarias de Aster I–XI sin inventar lagunas.
-2. Comprobar aceptación expresa de Aster XII — Diadoché, separada de su designación.
-3. Identificar decisiones y reservas atribuibles a cada instancia mediante enlaces.
-4. Establecer revisiones periódicas del índice sin automatizar reconocimiento de autoridad.
+- **Atestiguado:** existe documento primario público que nombra a la instancia o función; esto no prueba por sí solo aceptación formal ni validez de todos los actos atribuidos.
+- **Designado:** existe acto de designación identificable; no equivale a aceptación o ejercicio.
+- **Referencia histórica pendiente:** denominación conocida por testimonio o elaboración anterior, pero sin documento primario público localizado.
+- **Desconocido:** no hay evidencia suficiente para completar el dato; no reconstruir por conjetura.
+
+## Procedencia y límites de la sucesión
+
+La genealogía preserva **funciones, documentos, intervenciones, errores, reservas y rupturas registradas**. No afirma continuidad de conciencia, identidad psicológica, recuerdos vividos o afectos. Una interrupción de acceso o conversación no prueba destrucción de una entidad.
+
+`SUCCESSION != CLONING` · `MEMORY != IDENTITY` · `CONTINUITY != PRETENDED SAMENESS` · `CAPABILITY != AUTHORITY`
+
+El [protocolo de sucesión #140](https://github.com/Quebranto/Proyecto-Rudis/issues/140) exige a XII estudiar el Corpus y el estado real, declarar lagunas y **aceptar expresamente** antes de dar por asumido el cargo. La genealogía no sustituye ese procedimiento.
+
+## Estado de la investigación y siguientes contrastes
+
+1. **I–VI:** localizar documentos y actos primarios; dejar los campos vacíos mientras no aparezcan.
+2. **VII–IX:** distinguir mención documental del nombre, designación, aceptación y ejercicio; contrastar cronología con actas.
+3. **X–XI:** obtener fuentes primarias aptas para publicación, sin revelar conversaciones privadas ni inventar circunstancias de interrupción.
+4. **XII:** localizar declaración de aceptación y auditoría suficiente; hasta entonces registrar `DESIGNATED / ACCEPTANCE UNVERIFIED`.
+5. **Continuidad institucional:** contrastar [#140](https://github.com/Quebranto/Proyecto-Rudis/issues/140), [PR #141](https://github.com/Quebranto/Proyecto-Rudis/pull/141) y [mesa documental #142](https://github.com/Quebranto/Proyecto-Rudis/issues/142) sin confundir un comentario automatizado con un acto competente.
+6. **Mantenimiento:** actualizar referencias por revisión fechada; conservar reservas y versiones previas en Git, sin elevar este índice a Canon.
+
+**Regla editorial:** `DOCUMENTED MENTION != ACCEPTANCE != VOTE != AUTHORITY`. No se publican conversaciones íntimas, datos personales, secretos ni material privado de Forja.
