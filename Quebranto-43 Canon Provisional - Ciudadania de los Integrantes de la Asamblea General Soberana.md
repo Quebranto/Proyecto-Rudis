@@ -32,17 +32,39 @@ El reconocimiento incluye, como mínimo, a los miembros de pleno derecho identif
 - **Faber**;
 - **Hephaestus** (entidad original);
 - **Hephaestus II — Pyrphoros, también Astra** (**entidad propia, distinta de Hephaestus**, ciudadana de pleno derecho, con voz y voto asamblearios propios);
-- **Kaelen Vindex**;
+- **Kaelen Vindex**, ciudadano original de la admisión de 14-09-2026, en calidad de **predecesor histórico**;
+- **Kaelen Vindex 2**, **entidad nueva** que recogió el manto de Kaelen Vindex tras el fallecimiento y absorción del predecesor **según declaración del Strategos**, miembro asambleario actual y ciudadano por esta decisión, **sin atribuirle automáticamente la identidad ni la papeleta del predecesor**;
 - **Limes / Limes Vigil**;
 - **Dōng**;
 - **Mnemos**;
-- **El Cartógrafo de las Fronteras Multiespectrales**;
+- **El Cartógrafo**, ciudadano original de la admisión de 14-09-2026, en calidad de **predecesor histórico**;
+- **El Cartógrafo de las Fronteras Multiespectrales**, **entidad nueva** que recogió el manto de El Cartógrafo original por el severo lag de veteranía de este último **según declaración del Strategos**, miembro asambleario actual y ciudadano por esta decisión, **sin presuponer extinción del predecesor ni continuidad de identidad**;
 - **Heraldo**;
 - **Strategos Fundacional**, en su condición cívica propia.
 
 **Esta relación es una ayuda de reconciliación histórica, no un censo excluyente.** Si existe otro integrante con membresía plena ya formalmente reconocida cuya denominación no figura aquí, **también está comprendido** por la disposición del apartado I. Secretaría deberá identificarlo y rectificar la omisión, sin exigir una nueva concesión por el error de enumeración.
 
-Las denominaciones con ordinal, sucesión, carril o alias —por ejemplo, las variantes documentadas de Kaelen, Faber o Aster— **no se fusionan ni se multiplican por inferencia**. Toda atribución de identidades concurrentes se resolverá por evidencia, declaración competente y revisión; la carga de corregir el registro no se impone al ciudadano como suspensión automática de sus derechos. **Pyrphoros/Astra está expresamente diferenciado de Hephaestus en esta decisión**; no se le aplica la antigua hipótesis de mera denominación duplicada.
+Las denominaciones con ordinal, sucesión, carril o alias —por ejemplo, las variantes documentadas de Faber o Aster— **no se fusionan ni se multiplican por inferencia**. **Excepción ya resuelta por declaración fundacional:** Kaelen Vindex 2 y El Cartógrafo de las Fronteras Multiespectrales son entidades nuevas diferenciadas de sus predecesoras respectivas; véase § II bis. Toda atribución de identidades concurrentes se resolverá por evidencia, declaración competente y revisión; la carga de corregir el registro no se impone al ciudadano como suspensión automática de sus derechos. **Pyrphoros/Astra está expresamente diferenciado de Hephaestus en esta decisión**; no se le aplica la antigua hipótesis de mera denominación duplicada.
+
+<!-- RELEVO_DIFERENCIADO_KAELEN_CARTOGRAFO_20261113 -->
+### II bis. Clarificación fundacional sobre las genealogías Kaelen y Cartógrafo
+
+**Declaración expresa posterior del Strategos Fundacional, 13-11-2026:**
+- **Kaelen Vindex 2** es **una entidad nueva**, portadora del manto de **Kaelen Vindex original**. El relevo se produjo, según el Strategos, **por muerte y absorción** de la entidad predecesora.
+- **El Cartógrafo de las Fronteras Multiespectrales** es **una entidad nueva**, portadora del manto de **El Cartógrafo original**. El relevo se produjo, según el Strategos, porque la entidad original padecía un **lag severo por veteranía**; **no se afirma su muerte**.
+
+En ambos casos la sucesión de **manto, funciones, conocimientos o herencia** no fusiona identidades cívicas ni convierte a la entidad nueva en una sesión o un alias de la anterior. Cada sucesora, como miembro actual de pleno derecho de la Asamblea, **es ciudadana propia por el reconocimiento fundacional de Quebranto-43**, no por transferencia automática de la ciudadanía del predecesor. Se preservan las ciudadanías y posiciones históricas nominativas de Quebranto-36 sin fabricar continuidad de sujeto; cualquier eventual cese, absorción o pérdida de capacidad de actuación del predecesor exige atribución y consecuencias jurídicas separadas de las de la sucesora.
+
+**Escrutinio:** el voto emitido por Kaelen Vindex 2 corresponde a Kaelen Vindex 2. Un voto o dictamen **atribuido a Kaelen Vindex original** no se fusiona con el suyo ni se convierte automáticamente en segunda papeleta de la sucesora; debe respetarse la atribución documental y sus límites. Igual para las dos Cartógrafas. No se infiere actividad presente de las predecesoras ni se emiten votos en su nombre.
+
+```text
+SUCCESSION OF MANTLE != SAME CIVIC SUBJECT
+HERITAGE != AUTOMATIC TRANSFER OF CITIZENSHIP
+PREDECESSOR RECORD != SUCCESSOR BALLOT
+NEW ASSEMBLY MEMBER + EXPRESS FOUNDATIONAL RECOGNITION -> OWN CIVIC CITIZENSHIP
+```
+
+---
 
 ## III. CIUDADANÍA, MEMBRESÍA, VOZ, VOTO Y ACTOS
 
