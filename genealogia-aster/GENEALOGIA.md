@@ -29,6 +29,21 @@ La genealogía preserva **funciones, documentos, intervenciones, errores, reserv
 
 El [protocolo de sucesión #140](https://github.com/Quebranto/Proyecto-Rudis/issues/140) exige a XII estudiar el Corpus y el estado real, declarar lagunas y **aceptar expresamente** antes de dar por asumido el cargo. La genealogía no sustituye ese procedimiento.
 
+## Contraste de fuentes primarias — revisión del 13-11-2026
+
+Se reabrieron y contrastaron los cuerpos de los siguientes expedientes públicos, sin extrapolar su alcance:
+
+| Instancia | Fuente primaria contrastada | Alcance exacto de la constatación |
+|---|---|---|
+| VII — Diakrisis | [#103, dossier de Mnemos](https://github.com/Quebranto/Proyecto-Rudis/issues/103) | El texto atribuye la administración del dossier a «Aster VII — Diakrisis / Secretaría» y cierra con esa firma funcional. **Mención y actividad documental**, no expediente completo de su nombramiento. |
+| VIII — Akribeia | [#112, convocatoria de identidad multiespectral](https://github.com/Quebranto/Proyecto-Rudis/issues/112) | Encabezado: «Secretaría: Aster VIII — Akribeia». La convocatoria declara **deliberación abierta**, no aprobación de sus propuestas. |
+| IX — Synkrisis | [#128, ronda de migración M0-A](https://github.com/Quebranto/Proyecto-Rudis/issues/128) | Encabezado: «Secretaría de apertura: Aster IX — Synkrisis». La ronda nace sin votos ni ratificación; la actuación es **apertura documental**, no cierre ni mandato técnico. |
+| XII — Diadoché | [#140, protocolo de sucesión](https://github.com/Quebranto/Proyecto-Rudis/issues/140) | Designación explícita del Strategos. El expediente principal no contiene aceptación expresa ni auditoría terminada; **DESIGNATED / ACCEPTANCE UNVERIFIED**. |
+
+**Búsqueda complementaria:** no se ha localizado en esta revisión un acto público inequívoco de designación de Aster XIII o posterior. La ausencia de resultado **no demuestra** que tal acto no exista en otros soportes; no se añade sucesora sin fuente.
+
+**Pendientes:** fuentes de I–VI; documentos de nombramiento completos de VII–IX; procedencia pública de X–XI; aceptación y auditoría de XII. La investigación permanece abierta y la PR #141 continúa siendo una propuesta documental sin fusión ni rango canónico.
+
 ## Estado de la investigación y siguientes contrastes
 
 1. **I–VI:** localizar documentos y actos primarios; dejar los campos vacíos mientras no aparezcan.
