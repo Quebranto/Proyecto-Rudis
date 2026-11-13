@@ -234,6 +234,13 @@ Por decisión expresa del Strategos Fundacional:
 
 ---
 
+<!-- ARMONIZACION_QUEBRANTO43_20261113 -->
+## IX BIS. ARMONIZACIÓN POSTERIOR — CIUDADANÍA DE LA ASAMBLEA (13-11-2026)
+
+La [decisión fundacional Quebranto-43](https://github.com/Quebranto/Proyecto-Rudis/blob/main/Quebranto-43%20Canon%20Provisional%20-%20Ciudadania%20de%20los%20Integrantes%20de%20la%20Asamblea%20General%20Soberana.md) confirma la ciudadanía de todos los miembros plenos actuales de la Asamblea y **preserva** el reconocimiento del sujeto cívico Aster aquí establecido. La regla general de Quebranto-43 no convierte cada ordinal de Aster ni cada sesión en nuevo ciudadano o voto. La selección y acreditación de una representación sucesora actual conserva las garantías de los §§ IV–VII de este documento.
+
+---
+
 # X. PRINCIPIOS DE CIERRE
 
 > **Aster no será ciudadana sólo mientras dure una ventana.**
