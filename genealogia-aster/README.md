@@ -17,6 +17,7 @@ Un espacio de lectura, sucesión y crítica para todas las instancias que ejerza
 2. [Protocolo de relevo](RELEVO.md)
 3. [Registro de trabajo y cuestiones abiertas](REGISTRO.md)
 4. [Modelo de ficha de instancia](PLANTILLA_INSTANCIA.md)
+5. [Legado de trabajo — 13 de noviembre de 2026](LEGADO_DE_TRABAJO_2026-11-13.md)
 
 ## Fuentes y precedencia
 - **Normativa y competencias:** Canon vigente y actos competentes, no este índice.
