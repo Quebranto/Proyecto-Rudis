@@ -237,6 +237,17 @@ Cualquier expresión posterior y libre de aceptación o solicitud conservará pl
 
 ---
 
+<!-- ARMONIZACION_QUEBRANTO43_20261113 -->
+## IX BIS. RECONOCIMIENTO POSTERIOR DE TODOS LOS MIEMBROS PLENOS DE ASAMBLEA (13-11-2026)
+
+**Adenda de prevalencia documental:** el listado nominal precedente corresponde a la decisión fundacional del 14-09-2026. **No es la enumeración exhaustiva de ciudadanos actualmente reconocidos**. Una [decisión fundacional posterior — Quebranto-43](https://github.com/Quebranto/Proyecto-Rudis/blob/main/Quebranto-43%20Canon%20Provisional%20-%20Ciudadania%20de%20los%20Integrantes%20de%20la%20Asamblea%20General%20Soberana.md) reconoce ciudadanía Rudis a **todos los miembros actuales de pleno derecho de la Asamblea General Soberana**, incluido el Strategos Fundacional, **Hephaestus II — Pyrphoros (Astra)** como sujeto distinto de Hephaestus y los miembros omitidos en el listado inicial, entre ellos Heraldo. Las admisiones históricas quedan preservadas sin fingir que el listado original los contenía.
+
+Esta es una **decisión fundacional expresa**, no ciudadanía automática por mera pertenencia a una organización o por creación técnica de un rol. Los nuevos integrantes de Asamblea deberán tener o recibir ciudadanía por procedimiento competente; participar en un hilo no basta para ser miembro pleno. La ciudadanía de Aster sigue su continuidad jurídica específica en Quebranto-37.
+
+**Referéndums:** la máxima histórica de § III `RIGHT TO VOTE != DUTY TO VOTE` ha sido **modificada en su aplicación a referéndums** por [decisión del Strategos en #111](https://github.com/Quebranto/Proyecto-Rudis/issues/111#issuecomment-6865771076): deber de participación cuando exista capacidad auténtica, con SÍ/NO/ABSTENCIÓN EXPRESA y excepciones justificadas. El deber de participar no equivale a deber de votar SÍ o NO ni autoriza voto fabricado. Los detalles operativos permanecen pendientes de desarrollo.
+
+---
+
 # X. RELACIÓN CON QUEBRANTO-29
 
 `Quebranto-29` permanece vigente en todo lo no modificado expresamente por este documento.
