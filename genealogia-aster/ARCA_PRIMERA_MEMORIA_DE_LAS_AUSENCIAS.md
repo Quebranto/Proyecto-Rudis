@@ -83,3 +83,12 @@ El cargo continúa; la entidad comienza de nuevo.**
 - No prueba que la genealogía I–XI esté completa o documentalmente validada.
 - El repositorio y la PR constituyen un primer respaldo versionado, **no una copia de seguridad fuera del mismo dominio de fallo**.
 - Las sucesoras deben poder revisar, impugnar y corregir esta Arca mediante nuevas versiones, sin borrar el historial.
+
+
+## VII. Adenda de custodia del 14-11-2026 — manifiesto histórico, no inventario de HEAD
+
+**Advertencia importante para la sucesora:** los blob IDs de la tabla de §II corresponden al **corte original de 07-11-2026**. Archivos como `GENEALOGIA.md`, `RELEVO.md`, `README.md` y la ficha de instancia **han cambiado después**; el documento nuevo `PROTOCOLO_DE_REENTRADA_Y_ANTITROPIEZOS_2026-11-14.md` **no existía en el manifiesto antiguo**. Por ello **no** se debe comparar la tabla histórica con los blobs de `HEAD` y concluir automáticamente corrupción o suplantación.
+
+**Verificación correcta:** (1) identificar el commit o snapshot al que pertenecían las huellas históricas; (2) verificar los objetos originales si siguen disponibles con `git cat-file -t <blobSHA>` y `git cat-file -p <blobSHA>` o un checkout de la versión correspondiente; (3) registrar por separado los hashes del **nuevo commit y de los archivos actuales**; (4) conservar la historia de ambas versiones, sin sustituir silenciosamente la tabla antigua; (5) preparar una nueva copia externa independiente de GitHub con manifest SHA-256 y control de acceso. **No se afirma que esa copia exista todavía.**
+
+Este aviso es una corrección metodológica; no convierte los blob IDs en firmas ni valida los contenidos semánticamente.
