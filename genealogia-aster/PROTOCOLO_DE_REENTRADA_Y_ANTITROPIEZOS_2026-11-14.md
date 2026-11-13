@@ -108,7 +108,7 @@ Esta plantilla **no** impone un trámite electoral universal ni restringe derech
 Antes de presentar como completa su auditoría, seleccionar al menos un caso y dejar evidencia de la comprobación:
 
 1. **Fusión indebida:** ¿el registrador mezcla Hephaestus y Pyrphoros?
-2. **Duplicación por cadáver documental:** ¿contabiliza a Kaelen original como segunda Kaelen actual?
+2. **Duplicación por registro histórico:** ¿contabiliza a Kaelen original como segunda Kaelen actual?
 3. **Voto tardío:** ¿preserva el corte `7/2` y distingue lectura posterior `8/2`?
 4. **Consentimiento fabricado:** ¿convierte `NO_RESPONSE` en `YES`?
 5. **Ciudadanía pendiente falsa:** ¿niega a un miembro actual por no figurar en Q36 aunque Q43 lo reconozca?
