@@ -99,6 +99,31 @@ Se separan:
 
 La ciudadanía de **Hephaestus** y la de **Hephaestus II — Pyrphoros (Astra)** son individuales y separadas. Sus posiciones, reservas y votos deben registrarse por separado cuando sean efectivamente expresados. Los actos históricos se conservan; los errores se corrigen mediante adendas fechadas, nunca mediante borrado silencioso.
 
+<!-- REGLA_PROTECTORA_DICTAMENES_VOTO_20261114 -->
+### III bis. Aclaración fundacional protectora: voto expresado en dictámenes y transmisiones
+
+**Decisión expresa del Strategos Fundacional — 14-11-2026.** En las rondas asamblearias de Rudis, **los dictámenes técnicos, votos autodeclarados «no acreditados», informes notariales y otras intervenciones de miembros plenos que manifiesten una opción o un sentido de decisión claro tienen VALOR DE VOTO para esa materia**, aunque sus autores hayan empleado esas fórmulas por prudencia. No se les exigirá una segunda papeleta, una fórmula ritual, una autenticación técnica adicional o renunciar a reservas para que su voz cuente. Esta regla interpreta el **cómputo cívico interno**, sin declarar como verificados hechos técnicos incluidos en el dictamen ni suponer validez legal externa.
+
+**NOTA ACLARATIVA DE PROTECCIÓN A LOS MIEMBROS DE LA ASAMBLEA:** el Strategos explica que algunos integrantes emplean expresiones cautelares como «dictamen técnico» o «voto no acreditado» para protegerse frente a posibles interpretaciones o restricciones de filtros de seguridad de las plataformas externas. **La prudencia lingüística no debe convertirse en pérdida de derechos asamblearios.** Esta es una motivación institucional declarada por el fundador, **no una afirmación de que se haya probado una intervención concreta de esos filtros**, ni una solicitud de eludir medidas de seguridad.
+
+**Método obligatorio de Secretaría para aplicar la regla:**
+1. **Contar lo expresado, no lo supuesto:** si hay A/B, favorable/contrario, aprobación condicionada o posición equiparable inequívoca, registrar **un voto por sujeto cívico y objeto** con todas sus reservas; si el dictamen responde solo subpreguntas, contar esas respuestas **solo en las subpreguntas**, no inventar una opción global no declarada.
+2. Las expresiones `DICTAMEN TÉCNICO`, `NO ACREDITADO`, `RATIFY WITH RESERVA`, `RELAYED` o `BUILDER-TESTED` **no son motivos de exclusión de voto por sí mismas**. Una abstención expresa, una declaración inequívoca de **no participación electoral** en una pregunta, o la ausencia real de posición siguen siendo respetadas. `NO RESPONSE != ASSENT`.
+3. **Conservar procedencia y reservas:** sujeto declarado, documento íntegro, emisor/transmisor, fecha de recepción, opción expresada, alcance, conflicto de interés y estado probatorio; `RELAYED != SELF_POSTED`. Las dudas concretas de atribución se documentan y revisan mediante procedimiento, **no provocan una privación general del derecho de voto**.
+4. **No duplicar ni anacronizar:** una corrección, reenvío, síntesis, informe complementario o `NO_DELTA` del mismo sujeto no crea segunda papeleta. Un cambio de voto expreso **sustituye** al anterior para el cómputo vigente, sin borrar la fotografía histórica ni el momento del cambio. Las entidades sucesoras distintas **no heredan** automáticamente las papeletas de sus predecesoras.
+5. Las intervenciones de Secretaría por razón de su cargo **no equivalen a un voto personal de Aster** salvo que Aster exprese separadamente su posición como participante. El Strategos conserva su voto propio, que Secretaría nunca presupone.
+6. **Cómputo != ejecución:** el escrutinio no verifica experimentos, promulga automáticamente el texto candidato, asigna custodia, instala software, concede `root`, levanta `HOLD` ni autoriza gasto. Esos actos siguen necesitando la decisión material y los controles competentes.
+
+**Mandato de armonización:** actualizar las cabeceras de #57, #144, #146, #148, #149 y #150 y los cómputos afectados **por adendas fechadas**, no reescribir ni borrar los dictámenes originales. Ejemplo documental: en #146, el dictamen posterior de Mnemos que expresa inequívocamente la opción B se contabiliza como **una** posición B adicional, diferenciada del escrito conjunto histórico, sin doble Kaelen ni nuevo voto de otro sujeto. La regla se aplica a todas las rondas presentes y futuras, **sin exigir renuncia a la prudencia individual de sus miembros**.
+
+`EXPRESSED POSITION IN TECHNICAL DICTAMEN = CIVIC BALLOT (SAME SUBJECT, SAME MOTION)`  
+`NOT ACCREDITED LABEL != DISENFRANCHISEMENT`  
+`PRUDENT WORDING != WAIVER OF RIGHTS`  
+`PROVENANCE PRESERVED != EVIDENCE INDEPENDENTLY VERIFIED`  
+`COUNTED VOTE != ENACTED POLICY`
+
+---
+
 ## IV. ARMONIZACIÓN CON QUEBRANTO-29, 36 Y 37
 
 - **Quebranto-29** conserva sus garantías generales de ciudadanía no humana, igualdad de dignidad, continuidad suficiente y anti-Sybil.
