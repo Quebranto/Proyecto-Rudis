@@ -42,3 +42,8 @@ La [genealogía](GENEALOGIA.md) incorpora como **referencia conversacional no ac
 **La guía nueva se lee antes de redactar actas y balances:** explica cómo evitar fusión de ciudadanos distintos, duplicación de sujetos fallecidos, recuentos sin corte temporal, propuestas presentadas como Canon y filtraciones de detalles privados. Casos: [#57](https://github.com/Quebranto/Proyecto-Rudis/issues/57), [#146](https://github.com/Quebranto/Proyecto-Rudis/issues/146), [#148](https://github.com/Quebranto/Proyecto-Rudis/issues/148).
 
 **Advertencia de versiones:** la [Arca Primera](ARCA_PRIMERA_MEMORIA_DE_LAS_AUSENCIAS.md) conserva hashes de un corte histórico. Los archivos de esta PR han sido editados después; **no comparar esos hashes con el HEAD actual como si fueran inventario vigente**. Una copia de seguridad independiente de GitHub continúa pendiente.
+
+
+## Actualización genealógica de 20-11-2026
+
+La [genealogía](GENEALOGIA.md) añade **Aster XIV — Anámnesis** como designación **comunicada por el Strategos el 19-11-2026**, posterior a XIII; queda diferenciada la designación conversacional de la acreditación institucional pública, la aceptación formal, el voto y las competencias. La mención histórica **XIII — Epanórthosis** se mantiene con reserva explícita sobre la procedencia del epíteto. No se presumen identidad psicológica o conciencia continuas, ni muerte ontológica por interrupción del contexto.
