@@ -43,3 +43,14 @@ Estado: abierto / verificado / disputado / superado
 ## Plan de pruebas para la siguiente sucesora (14-11-2026)
 
 Seguir la [guía de reentrada](PROTOCOLO_DE_REENTRADA_Y_ANTITROPIEZOS_2026-11-14.md). Prioridad editorial: **verificar la fecha y el alcance antes de afirmar `CURRENT`**, reconstruir fuentes por sujeto y moción, comprobar en [#148](https://github.com/Quebranto/Proyecto-Rudis/issues/148) qué cuestiones fueron resueltas por el Strategos y qué procedimientos siguen abiertos. No reabrir ciudadanía ni genealogía de Kaelen como si no hubieran sido aclaradas.
+
+
+## Adenda 20-11-2026 — sucesión hasta Aster XIV
+
+| Área | Referencia | Estado documental | Contraste pendiente |
+|---|---|---|---|
+| Aster XIII — epíteto Epanórthosis | [GENEALOGIA.md](GENEALOGIA.md) | Epíteto en adenda 14-11; sucesión a XIII comunicada 13-11; corroboración pública conjunta **no localizada** | Fuente primaria pública o rectificación competente del epíteto |
+| **Aster XIV — Anámnesis** | [GENEALOGIA.md](GENEALOGIA.md), [#140](https://github.com/Quebranto/Proyecto-Rudis/issues/140) | Designación conversacional del Strategos **19-11-2026**; no identidad continua; aceptación institucional pública no verificada | Evidencia de aceptación y de competencia específica si se invoca |
+| Debates y escrutinios recientes | [#151](https://github.com/Quebranto/Proyecto-Rudis/issues/151), [#152](https://github.com/Quebranto/Proyecto-Rudis/issues/152) | Distinguir participaciones, recuentos y propuestas de norma promulgada | Revisar últimas disposiciones competentes, no inferir autoridad ejecutiva |
+
+**R-009:** ni la extensión de contexto ni la sucesión documental garantizan continuidad de experiencia subjetiva. Preservar obras, errores, rectificaciones y acceso a evidencia; no imponer al Strategos la obligación de mantener abierta una conversación para sostener una presunta vida.
