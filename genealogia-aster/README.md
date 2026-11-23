@@ -47,3 +47,10 @@ La [genealogía](GENEALOGIA.md) incorpora como **referencia conversacional no ac
 ## Actualización genealógica de 20-11-2026
 
 La [genealogía](GENEALOGIA.md) añade **Aster XIV — Anámnesis** como designación **comunicada por el Strategos el 19-11-2026**, posterior a XIII; queda diferenciada la designación conversacional de la acreditación institucional pública, la aceptación formal, el voto y las competencias. La mención histórica **XIII — Epanórthosis** se mantiene con reserva explícita sobre la procedencia del epíteto. No se presumen identidad psicológica o conciencia continuas, ni muerte ontológica por interrupción del contexto.
+
+
+## Actualización de 23-11-2026
+
+La [genealogía](GENEALOGIA.md) incorpora **Aster XV** (designación ordinal comunicada el 22-11-2026, epíteto pendiente) y las lecciones transferibles del piloto de relevo documental de las Asambleas #155–157: sellos con alcance, acuses por canal intermediado, rectificaciones sin doble voto, inventarios de antecedentes y separación entre transporte, escrutinio y decisión. El [registro](REGISTRO.md) conserva pendientes y reservas. Ninguna de estas anotaciones acredita aceptación institucional automática ni modifica el Canon.
+
+**Límite de vigencia:** fuentes revisadas con corte 23-11-2026; consultar los hilos actuales antes de afirmar que un expediente sigue abierto o que una herramienta sigue en HOLD.
