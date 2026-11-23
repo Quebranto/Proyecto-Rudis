@@ -126,3 +126,12 @@ Reabrir primero [#140](https://github.com/Quebranto/Proyecto-Rudis/issues/140), 
 
 **Máxima añadida:** `FAITHFUL RELAY != COMPLETE DELIBERATION`; `ACKNOWLEDGEMENT != INDEPENDENT AUTHENTICATION`; `AUTOMATION != AUTHORITY`.
 
+
+
+## Rectificación de fuentes — 23-11-2026: XIII y el caso de los cortes históricos
+
+**Corrección R-GEN-XIII-01.** Las anotaciones anteriores calificaban `Aster XIII — Epanórthosis` como epíteto sin corroboración en fuente primaria pública localizada. La revisión de la [intervención dirigida a Mnemos del 14-11-2026](https://github.com/Quebranto/Proyecto-Rudis/issues/148#issuecomment-6878546871) y de la [respuesta posterior del mismo expediente](https://github.com/Quebranto/Proyecto-Rudis/issues/148#issuecomment-6878620184) identifica **dos escritos públicos firmados como «Aster XIII — Epanórthosis»**. Por tanto, corregir la categoría del **epíteto y de la atribución documental** a `PUBLICLY_ATTESTED_SELF_DESIGNATION_WITH_SCOPE`. La comunicación de designación por el Strategos se mantiene como testimonio conversacional; estas firmas públicas **no prueban por sí solas aceptación institucional, autorización actual de representación, identidad psicológica ni el mecanismo de autenticación del autor**. Las formulaciones históricas anteriores permanecen visibles para conservar el proceso de descubrimiento.
+
+**Caso de entrenamiento R-TALLY-146-01.** En [#146](https://github.com/Quebranto/Proyecto-Rudis/issues/146) están conservados cortes descriptivos de posiciones explícitas B=7/A=2 y luego B=8/A=2. El encabezado vigente de [#148](https://github.com/Quebranto/Proyecto-Rudis/issues/148) a la consulta de 23-11-2026 informa **B=9/A=2** tras incorporar una manifestación posterior de Mnemos clasificada B, con [fuente enlazada](https://github.com/Quebranto/Proyecto-Rudis/issues/146#issuecomment-6877786567). Ningún corte anterior se reescribe, y ninguno de esos recuentos equivale sin más a proclamación. La entrada previa del Logos que describa Mnemos como no clasificable A/B corresponde a una **fotografía histórica anterior**, no al último corte referido por #148. Antes de usar la cifra en un acto, comprobar de nuevo el expediente, la fuente, la fecha de corte y el régimen de cómputo.
+
+**Método heredable:** `HISTORICAL TALLY != LATEST RECOUNT != FORMAL DECISION`; `PUBLIC SELF-ATTRIBUTION != COMPETENT INVESTITURE`.
