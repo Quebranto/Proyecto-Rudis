@@ -1,0 +1,21 @@
+{
+  "schema": "contrapeso.report.v04",
+  "decision_authority": false,
+  "findings": [
+    {
+      "id": "f1",
+      "claim_id": "claim1",
+      "source_ids": [
+        "a",
+        "c"
+      ],
+      "severity": "high",
+      "confidence": "medium",
+      "severity_rationale": "Potential impact, not proof",
+      "counterargument": "Contrary evidence may be mistaken",
+      "falsification_test": "Check independent records",
+      "conclusion": "contested",
+      "recommended_action": "review"
+    }
+  ]
+}

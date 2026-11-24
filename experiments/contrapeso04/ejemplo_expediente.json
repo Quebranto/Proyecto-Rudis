@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "id": "a",
+      "origin_id": "press",
+      "locator": "https://example.org/a"
+    },
+    {
+      "id": "b",
+      "origin_id": "press",
+      "locator": "https://example.org/b"
+    },
+    {
+      "id": "c",
+      "origin_id": "other",
+      "locator": "https://example.org/c"
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim1",
+      "status": "verified",
+      "evidence": [
+        {
+          "source_id": "a",
+          "stance": "supports"
+        },
+        {
+          "source_id": "b",
+          "stance": "supports"
+        },
+        {
+          "source_id": "c",
+          "stance": "refutes"
+        }
+      ]
+    }
+  ]
+}
